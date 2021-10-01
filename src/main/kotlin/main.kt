@@ -14,8 +14,10 @@ fun main(args: Array<String>) {
     val parentLvl = System.console().readLine().toInt()
 
     val results = mutableListOf<File>()
-
     Algorithms.searchFiles(searchIn, name, results)
+    println("results = $results")
     val map = Algorithms.groupByParent(results, parentLvl)
+    println("map = $map")
     map.forEach { t, u -> u.forEach { FileUtils.copy(it, File(copyTo, t.name)) } }
+    println("done")
 }
