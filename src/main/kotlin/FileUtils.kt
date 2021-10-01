@@ -6,6 +6,7 @@ object FileUtils {
         targetDir.mkdirs()
         val newFile = File(targetDir.absolutePath, namePrefix.orEmpty() + file.name)
         newFile.createNewFile()
+        println("$file copy to $newFile")
         file.copyTo(newFile, true)
     }
 }
