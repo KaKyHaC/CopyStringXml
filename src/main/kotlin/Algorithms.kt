@@ -8,4 +8,16 @@ object Algorithms {
             searchFiles(it, name, resultList)
         }
     }
+
+    fun getParent(file: File, level: Int): File {
+        var tmp = file
+        for (i in 0..level) tmp = tmp.parentFile
+        return tmp
+    }
+
+    fun groupByParent(files: List<File>, parentLevel: Int): Map<File, List<File>> {
+        return files.map { getParent(it, parentLevel) to it }
+            .groupBy { it.first }
+            .mapValues { it.value.map { it.second } }
+    }
 }
