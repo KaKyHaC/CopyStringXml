@@ -4,9 +4,9 @@ import java.io.File
 fun main(args: Array<String>) {
     println("args = ${args.toList()}")
     println("gather - 1,  broadcastStringsLocalizations - 2")
-    when(System.console().readLine().toIntOrNull()) {
+    when (readLine()?.toIntOrNull()) {
         1 -> modeGather()
-        2 ->  modeBroadcastStringsLocalizations()
+        2 -> modeBroadcastStringsLocalizations()
         else -> Unit
     }
 }
@@ -14,9 +14,9 @@ fun main(args: Array<String>) {
 fun modeBroadcastStringsLocalizations() {
     try {
         println("copyFrom")
-        val originFile = File(System.console().readLine())
+        val originFile = File(readLine())
         println("copyTo")
-        val copyTo = File(System.console().readLine())
+        val copyTo = File(readLine())
         println("start")
 
         val stringFiles = mutableListOf<File>()
@@ -32,13 +32,13 @@ fun modeBroadcastStringsLocalizations() {
 fun modeGather() {
     try {
         println("searchIn")
-        val searchIn = File(System.console().readLine())
+        val searchIn = File(readLine())
         println("name")
-        val name = System.console().readLine()
+        val name = readLine().orEmpty()
         println("copyTo")
-        val copyTo = System.console().readLine()
+        val copyTo = readLine()
         println("parentLvl ")
-        val parentLvl = System.console().readLine().toInt()
+        val parentLvl = readLine().orEmpty().toInt()
 
         val results = mutableListOf<File>()
         Algorithms.searchFiles(searchIn, name, results)
