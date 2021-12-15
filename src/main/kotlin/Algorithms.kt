@@ -20,4 +20,10 @@ object Algorithms {
             .groupBy { it.first }
             .mapValues { it.value.map { it.second } }
     }
+
+    fun groupByParentName(files: List<File>, parentLevel: Int): Map<String, List<File>> {
+        return files.map { getParent(it, parentLevel) to it }
+            .groupBy { it.first.name }
+            .mapValues { it.value.map { it.second } }
+    }
 }
