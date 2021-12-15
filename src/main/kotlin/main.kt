@@ -22,7 +22,7 @@ fun modeBroadcastStringsLocalizations() {
         val stringFiles = mutableListOf<File>()
         Algorithms.searchFiles(originFile, ".xml", stringFiles)
         val mapModuleStrings = Algorithms.groupByParentName(stringFiles, 0)
-
+        val tmp = mapModuleStrings.mapValues { it.value.forEach { Utils.stringLocalizationKey(it.name) } }
         println("done")
     } catch (e: Exception) {
         println("error = $e")
