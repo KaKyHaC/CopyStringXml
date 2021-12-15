@@ -25,7 +25,7 @@ fun modeBroadcastStringsLocalizations() {
         mapModuleStrings.forEach {
             it.value.forEach { stringFile ->
                 val localizationKey = Utils.stringLocalizationKey(stringFile.name)
-                val newDir = "${copyTo.absolutePath}/${it.key}/src/res/values$localizationKey/"
+                val newDir = "${copyTo.absolutePath}/${it.key}/src/main/res/values$localizationKey/"
                 FileUtils.copy(stringFile, File(newDir), null, "strings.xml")
             }
         }
