@@ -2,9 +2,16 @@ import java.io.Console
 import java.io.File
 
 fun main(args: Array<String>) {
-    try {
-        println("args = ${args.toList()}")
+    println("args = ${args.toList()}")
+    println("gather - 1, broadcast - 2")
+    when(System.console().readLine().toIntOrNull()) {
+        1 -> modeGather()
+        else -> Unit
+    }
+}
 
+fun modeGather() {
+    try {
         println("searchIn")
         val searchIn = File(System.console().readLine())
         println("name")
