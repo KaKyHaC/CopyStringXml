@@ -1,5 +1,5 @@
 object Utils {
 
     fun stringLocalizationKey(fullName: String): String =
-        fullName.substringAfter("string").substringBeforeLast(".xml").toLowerCase().replace("_", "-")
+        fullName.substringAfter("strings").substringBeforeLast(".xml").toLowerCase().replace("_", "-")
 }
