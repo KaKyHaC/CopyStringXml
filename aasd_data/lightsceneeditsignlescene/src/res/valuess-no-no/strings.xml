@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">Rediger lysscener</string>
+  <string name="lightEditSingleScene_set_scene_options">STILL SCENEALTERNATIVER</string>
+  <string name="lightEditSingleScene_delete_scene">Slett denne scenen</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">Er du sikker på at du vil slette denne scenen?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">Slett</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">AVBRYT</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">Beklager, denne scenen kan ikke slettes</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">OK</string>
+  <string name="lightEditSingleScene_dismiss">Avvis</string>
+  <string name="lightEditSingleScene_cannot_edit">Beklager, denne scenens navn og ikon kan ikke redigeres</string>
+</resources>

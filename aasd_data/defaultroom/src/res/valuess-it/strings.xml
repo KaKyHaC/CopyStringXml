@@ -1,0 +1,7 @@
+<resources>
+  <string name="defaultRoom_chooseDefaultRoom">SCEGLI LA CAMERA PREDEFINITA</string>
+  <string name="defaultRoom_category">SCEGLI LA CAMERA PREDEFINITA</string>
+  <string name="defaultRoom_emptyList">Non ci sono stanze configurate. Non ci sono stanze in questa lista.</string>
+  <string name="defaultRoom_save">Salva</string>
+  <string name="defaultroom_homeConfiguration">Configurazione della Home</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Himmennysaika</string>
+  <string name="sceneFadeTime_header">set lighting fade time</string>
+</resources>

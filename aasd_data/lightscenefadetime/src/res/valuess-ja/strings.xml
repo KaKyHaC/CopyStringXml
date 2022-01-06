@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">フェード時間</string>
+  <string name="sceneFadeTime_header">照明のフェードタイムを設定する</string>
+</resources>

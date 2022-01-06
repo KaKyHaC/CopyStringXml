@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">色彩調諧</string>
+  <string name="dmxroomselection_controlsTitle">控制</string>
+  <string name="dmxcolortuning_description">定義此房間的基線設置。使用基線設置，可以為可調的燈具定義所需的顏色和溫度。\n\n 提供有強度滑塊和開關，幫助您識別顏色。它們不會保存在基線設置中。   </string>
+</resources>

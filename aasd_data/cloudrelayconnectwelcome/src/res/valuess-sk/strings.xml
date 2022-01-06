@@ -1,0 +1,17 @@
+<resources>
+  <string name="cloudrelayconenctwelcome_welcome">Vitajte</string>
+  <string name="cloudrelayconenctwelcome_claim_my_home">Prihlásiť moju domácnosť</string>
+  <string name="cloudrelayconenctwelcome_claim_enabled_disclaimer">
+Pokračujte v prihlasovaní sa do systému Crestron Home a začnite používať naše najbezpečnejšie vzdialené pripojenie.</string>
+  <string name="cloudrelayconenctwelcome_claim_disabled_disclaimer">Ak chcete prihlásiť systém Crestron Home, musíte byť v rovnakej lokálnej sieti ako váš systém Crestron Home.</string>
+  <string name="cloudrelayconenctwelcome_not_now">Teraz nie</string>
+  <string name="cloudrelayconenctwelcome_warning_ok">OK</string>
+  <string name="cloudrelayconenctwelcome_warning_subtitle">	
+Na fungovanie tejto funkcie je potrebná novšia verzia firmvéru systému Crestron Home.\n\n Kontaktujte svojho predajcu systému Crestron a požiadajte ho o inštaláciu tohto nového firmvéru do vášho procesora Crestron Home.</string>
+  <string name="cloudrelayconenctwelcome_warning_title">Je potrebná aktualizácia operačného systému Crestron Home OS</string>
+  <string name="cloudrelayconenctwelcome_sign_out_user">Naozaj sa chcete odhlásiť?</string>
+  <string name="cloudrelayconenctwelcome_user_signed_out">
+Ste odhlásený</string>
+  <string name="cloudrelayconenctwelcome_no">Nie</string>
+  <string name="cloudrelayconenctwelcome_yes">Áno</string>
+</resources>

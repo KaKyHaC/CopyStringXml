@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Phoenix</string>
+  <string name="app_home">Koti</string>
+  <string name="app_rooms">Huoneet</string>
+  <string name="app_more">Lisää</string>
+  <string name="app_home_is_busy">Your home is busy, please standby</string>
+</resources>

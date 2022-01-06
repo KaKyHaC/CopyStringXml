@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">最愛</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ 新增最愛頻道</string>
+  <string name="tvpresetedit_favoritesTitle">%s 最愛</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">最愛</string>
+  <string name="tvpresetedit_moreItem_renameGroup">重新命名</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">刪除群組</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">您確定要刪除此群組嗎？</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">刪除</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">取消</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">確定</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">抱歉，最後的群組不能刪除。</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">此群組已被刪除。</string>
+</resources>

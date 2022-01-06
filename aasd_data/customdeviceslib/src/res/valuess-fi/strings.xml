@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">Main layout %s has been removed.</string>
+  <string name="customdevice_controlNotAvailable">CONTROL NOT AVAILABLE</string>
+  <string name="customdevice_emptyAlertTitle">Information is not available.</string>
+  <string name="customdevice_emptyLayoutError">No layout with id %s.</string>
+  <string name="customdevice_emptyMediaLayoutError">No layout defined for source with owner id %d.</string>
+  <string name="customdevice_emptyAlertError">No layout with id %s.</string>
+  <string name="customdevice_alertError">Error occurred on opening alert with id %s.</string>
+  <string name="customdevice_layoutError">Error occurred on opening layout with id %s.</string>
+  <string name="customdevice_emptySelectionList">No items to show for %s.</string>
+  <string name="customdevice_setValueGenericError">Something went wrong. The value cannot be changed.</string>
+  <string name="customdevice_setValueError">The value could not be changed. %s</string>
+  <string name="customdevice_runCommandGenericError">Something went wrong. The command cannot be performed.</string>
+  <string name="customdevice_runCommandError">The command could not be performed. %s</string>
+  <string name="customdevice_thermostat_setpoint">SET TO</string>
+  <string name="customdevice_thermostat_heatSetpoint">HEAT TO</string>
+  <string name="customdevice_thermostat_coolSetpoint">COOL TO</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">Navigation field is misconfigured.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">Please use external app or device for controlling.</string>
+  <string name="customdevice_mediaEmptyScreen_title">No control available.</string>
+</resources>

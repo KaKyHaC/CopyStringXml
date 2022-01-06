@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">Világítási jelenetek szerkesztése</string>
+  <string name="lightSceneEdit_scenesCategory">Témák</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">Az adott jelenet nem lett törölve.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">Az adott jelenet nem szerkeszthető.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">OK</string>
+</resources>

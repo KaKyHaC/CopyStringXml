@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">Vezérlők</string>
+  <string name="circadianLights_saveButtonText">Aktuális beállítások mentése huszonnégy órás ciklusként</string>
+</resources>

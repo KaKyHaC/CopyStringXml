@@ -1,0 +1,5 @@
+<resources>
+  <string name="account_selection_account_select">Selectați contul</string>
+  <string name="account_selection_add_account">Doriți să adăugați un alt cont?</string>
+  <string name="account_selection_go_provider_account">Accesați pagina de configurare a contului furnizorului</string>
+</resources>

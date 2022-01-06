@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayconnecthome_edit_home">Redigera hem</string>
+  <string name="couldrelayconnecthome_edit_details">Redigera detaljer om ditt Crestron Hem.</string>
+  <string name="cloudrelayconnecthome_home_settings">INSTÄLLNINGAR FÖR HEM</string>
+  <string name="cloudrelayconnecthome_friendlyNameOrLocation">Vänligt namn/plats</string>
+  <string name="cloudrelayconnecthome_password">Lösenord till Användargränssnitt</string>
+  <string name="cloudrelayconnecthome_localConnectionSettings">INSTÄLLNINGAR FÖR LOKAL ANSLUTNING</string>
+  <string name="cloudrelayconnecthome_ipAddressOrHostName">IP-adress/värdnamn</string>
+  <string name="cloudrelayconnecthome_continue">Fortsätt</string>
+</resources>

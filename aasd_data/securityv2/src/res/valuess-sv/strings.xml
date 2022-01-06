@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_v2_actions_header_text">Åtgärder</string>
+  <string name="security_v2_toolbarTitle">Säkerhet</string>
+  <string name="security_v2_panicActionsTitle">ÅTGÄRDER</string>
+  <string name="security_v2_panicActionsSubtitle">Tryck och håll ned i 1 sekund för att utlösa varje åtgärd</string>
+  <string name="security_v2_navigationButtonsTitle">NAVIGERINGSKNAPPAR</string>
+  <string name="security_v2_selectNavigationButton">Välj</string>
+  <string name="security_v2_keypadTitle">KNAPPSATS</string>
+  <string name="security_v2_keypadSubtitle">Mata in den fyrsiffriga koden och en siffra motsvarande den åtgärd du vill utföra</string>
+  <string name="security_v2_displayTextTitle">PEKSKÄRMSTEXT</string>
+</resources>

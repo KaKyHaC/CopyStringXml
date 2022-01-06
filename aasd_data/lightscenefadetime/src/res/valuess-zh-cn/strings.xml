@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">渐变时间</string>
+  <string name="sceneFadeTime_header">选择照明渐变时间</string>
+</resources>

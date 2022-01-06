@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">Összes helyiség</string>
+  <string name="roomslib_favorite_rooms">Kedvencek</string>
+  <string name="roomslib_other_rooms">Egyéb helyiségek</string>
+  <string name="ok_text">OK</string>
+  <string name="renameroom_voice">Ahhoz, hogy a hangszolgáltatása megérthesse az új helyiség nevét, kérjük, kérje meg, hogy újra fedezze fel az Ön eszközeit</string>
+  <string name="duplicate_name">Ismétlődő név</string>
+  <string name="invalid_name">Érvénytelen név</string>
+  <string name="unknown_error">Ismeretlen hiba</string>
+  <string name="read_only">Csak olvasható</string>
+  <string name="renameRoom">Helyiség átnevezése</string>
+  <string name="roomslib_do_not_disturb_toast_on">A Ne zavarjanak mód be van kapcsolva.</string>
+  <string name="roomslib_do_not_disturb_toast_off">A Ne zavarjanak mód ki van kapcsolva.</string>
+  <string name="roomslib_this_room">Ez a helyiség</string>
+  <string name="roomslib_selectRoom_colorTuning">Színhangolás</string>
+  <string name="roomslib_selectRoom_circadianLighting">Huszonnégy órás világítás</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">Соединение установлено</string>
+  <string name="connectivitybar_disconnectedStatus">Подключение к дому...</string>
+</resources>

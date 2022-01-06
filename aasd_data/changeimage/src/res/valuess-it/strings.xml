@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Sposta e scala</string>
+  <string name="changeimage_cellularWarning">Quando non è conneesso tramite la wifi, le foto potrebbero scaricarsi più a lungo.</string>
+  <string name="changeimage_cancel">Annulla</string>
+  <string name="changeimage_choose">Scegli</string>
+</resources>

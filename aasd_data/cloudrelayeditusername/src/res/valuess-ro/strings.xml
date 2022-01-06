@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">Editați numele</string>
+  <string name="cloudrelayeditusername_subtitle">Conectare la distanță în cloud</string>
+  <string name="cloudrelayeditusername_accountLabel">Cont</string>
+  <string name="cloudrelayeditusername_editNameLabel">nume</string>
+  <string name="cloudrelayeditusername_done">Terminat</string>
+</resources>

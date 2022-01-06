@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">Account</string>
+  <string name="naxaccountdetail_edit_name">Modifica il nome</string>
+  <string name="naxaccountdetail_signIn">Accedi</string>
+  <string name="naxaccountdetail_remove">Rimuovere</string>
+  <string name="naxaccountdetail_remove_yes">Si, rimuovi</string>
+  <string name="naxaccountdetail_removeAccount_warning">Questo account %s non sarà accessibile tramite il Home della Crestron. \n\n Vuoi continuare?</string>
+</resources>

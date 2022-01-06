@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">创建新场景</string>
+  <string name="sceneslib_edit">编辑</string>
+  <string name="sceneslib_reorder">记录器</string>
+  <string name="sceneslib_max_scenes_reached">已经达到此房间中的场景的最大数量。点击\"Edit\"以更改或删除现有场景。</string>
+  <string name="sceneslib_unsaved_scene_message">您有未保存的场景。保存此场景？</string>
+  <string name="sceneslib_progress_lost_message">您是否想退出本画面并丢失您的进度？</string>
+  <string name="sceneslib_generic_scene_name">我的场景%d</string>
+  <string name="sceneslib_unexpected_error_message">发生意外错误。场景无法保存。</string>
+  <string name="sceneslib_success_message">成功创建场景。</string>
+  <string name="sceneslib_update_success_message">成功更新场景。</string>
+  <string name="sceneslib_error_invalid_name">指定的场景名称无效。无法保存场景。</string>
+  <string name="sceneslib_error_duplicate_name">指定的场景名称已经在使用中。无法保存场景。</string>
+  <string name="sceneslib_error_name_too_long">指定的场景名称过长。无法保存场景。</string>
+  <string name="sceneslib_error_invalid_chars_in_name">指定的场景名称含有无效字符。无法保存场景。</string>
+  <string name="sceneslib_error_read_only">指定的场景不可编辑。无法保存场景。</string>
+  <string name="sceneslib_error_cannot_delete">发生意外错误。无法删除场景。</string>
+  <string name="sceneslib_error_cannot_delete_built_in">此场景为系统提供的场景，无法删除。</string>
+  <string name="sceneslib_error_cannot_delete_in_use">有人员正在系统中其他地方通过编程正在使用此场景，其无法被删除。</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">此场景为系统提供的场景。在房间含有任何灯具时无法删除此场景。</string>
+  <string name="sceneslib_error_max_scene_count_reached">已经达到此房间中的场景的最大数量。无法保存新的场景。</string>
+  <string name="sceneslib_error_invalid_ramp_time">选择的渐变时间无效。无法保存场景。</string>
+</resources>

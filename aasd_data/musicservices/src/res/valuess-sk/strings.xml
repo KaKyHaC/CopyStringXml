@@ -1,0 +1,9 @@
+<resources>
+  <string name="music_service_name">Služby v oblasti hudby</string>
+  <string name="music_service_add_more">PRIDAŤ VIAC</string>
+  <plurals name="music_service_status_account">
+    <item quantity="one">%d account</item>
+    <item quantity="other">%d accounts</item>
+  </plurals>
+  <string name="music_service_no_music">Nie sú k dispozícii žiadne hudobné služby.</string>
+</resources>

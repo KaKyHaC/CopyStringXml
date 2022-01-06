@@ -1,0 +1,15 @@
+<resources>
+  <string name="cloudrelayconenctwelcome_welcome">Tervetuloa</string>
+  <string name="cloudrelayconenctwelcome_claim_my_home">Lunasta kotini</string>
+  <string name="cloudrelayconenctwelcome_claim_enabled_disclaimer">Jatka seuraavaksi Crestron Home -kotisi lunastamista ja ala käyttämään parhaiten suojattua ja turvallisinta etäyhteyttämme.</string>
+  <string name="cloudrelayconenctwelcome_claim_disabled_disclaimer">To claim your Crestron Home system you need to be on the same local network as is your Crestron Home system.</string>
+  <string name="cloudrelayconenctwelcome_not_now">Ei nyt</string>
+  <string name="cloudrelayconenctwelcome_warning_ok">OK</string>
+  <string name="cloudrelayconenctwelcome_warning_subtitle">A newer version of Crestron Home firmware is required for this feature to work.\n\n
+                                Please contact your Crestron dealer to have them install this new firmware onto your Crestron Home processor.</string>
+  <string name="cloudrelayconenctwelcome_warning_title">Crestron Home -käyttöjärjestelmäpäivitystä vaaditaan</string>
+  <string name="cloudrelayconenctwelcome_sign_out_user">Haluatko varmasti kirjautua ulos?</string>
+  <string name="cloudrelayconenctwelcome_user_signed_out">You are signed out</string>
+  <string name="cloudrelayconenctwelcome_no">Ei käytössä</string>
+  <string name="cloudrelayconenctwelcome_yes">Käytössä</string>
+</resources>

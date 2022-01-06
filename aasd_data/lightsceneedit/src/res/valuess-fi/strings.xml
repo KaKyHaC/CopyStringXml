@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">Edit lighting scenes</string>
+  <string name="lightSceneEdit_scenesCategory">Profiilit</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">The specified scene is not deleted.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">The specified scene is not editable.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">OK</string>
+</resources>

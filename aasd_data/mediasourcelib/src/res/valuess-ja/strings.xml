@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediasource_play">再生</string>
+  <string name="mediasource_pause">一時停止</string>
+  <string name="mediasource_playPause">一時停止を再生</string>
+  <string name="mediasource_rewind">巻き戻し</string>
+  <string name="mediasource_fastForward">早送り</string>
+  <string name="mediasource_stop">停止</string>
+  <string name="mediasource_previousTrack">
+前のトラック</string>
+  <string name="mediasource_nextTrack">次のトラック
+</string>
+  <string name="mediasource_userFeedbackPositive">ユーザーフィードバックポジティブ
+</string>
+  <string name="mediasource_userFeedbackNegative">ユーザーフィードバックネガティブ
+</string>
+  <string name="mediasource_advance">
+前進</string>
+  <string name="mediasource_replay">
+リプレイ</string>
+  <string name="mediasource_toggleRepeat">トグルリピート
+</string>
+  <string name="mediasource_toggleShuffle">トグルシャッフル</string>
+  <string name="mediasource_toggleSlowMotion">スローモーションを切り替えます
+</string>
+  <string name="mediasource_onDemand">オンデマンド</string>
+  <string name="mediasource_previousDisc">
+前のディスク</string>
+  <string name="mediasource_nextDisc">次のディスク</string>
+  <string name="mediasource_eject">取り出す</string>
+  <string name="mediasource_toggleRecord">トグルレコード
+</string>
+  <string name="mediasource_recordingMenu">録音メニュー
+</string>
+  <string name="mediasource_live">ライブ</string>
+  <string name="mediasource_channelUp">
+チャンネルアップ</string>
+  <string name="mediasource_channelDown">チャンネルダウン
+</string>
+  <string name="mediasource_setChannel">
+チャンネルを設定</string>
+  <string name="mediasource_lastChannel">最後のチャンネル
+</string>
+  <string name="mediasource_nextFavorite">次のお気に入り
+</string>
+  <string name="mediasource_toggleFavorite">お気に入りを切り替える
+</string>
+  <string name="mediasource_addFavorite">お気に入りを追加
+</string>
+  <string name="mediasource_removeFavorite">お気に入りを削除
+</string>
+  <string name="mediasource_menu">メニュー</string>
+  <string name="mediasource_exit">終了</string>
+  <string name="mediasource_back">戻る</string>
+  <string name="mediasource_up">上</string>
+  <string name="mediasource_down">下</string>
+  <string name="mediasource_left">左</string>
+  <string name="mediasource_right">右</string>
+  <string name="mediasource_select">選択</string>
+  <string name="mediasource_pageUp">ページアップ</string>
+  <string name="mediasource_pageDown">ページダウン
+</string>
+  <string name="mediasource_guide">ガイド</string>
+  <string name="mediasource_info">情報</string>
+  <string name="mediasource_red">赤い</string>
+  <string name="mediasource_yellow">黄い</string>
+  <string name="mediasource_green">緑い</string>
+  <string name="mediasource_blue">青い</string>
+  <string name="mediasource_letterA">
+文字A</string>
+  <string name="mediasource_letterB">
+文字B</string>
+  <string name="mediasource_letterC">
+文字C</string>
+  <string name="mediasource_letterD">
+文字D</string>
+  <string name="mediasource_settings">設定</string>
+  <string name="mediasource_home">ホーム</string>
+  <string name="mediasource_topMenu">トップメニュー</string>
+  <string name="mediasource_popupMenu">ポップアップメニュー
+</string>
+  <string name="mediasource_digitZero">桁０</string>
+  <string name="mediasource_digitOne">桁１</string>
+  <string name="mediasource_digitTwo">桁２</string>
+  <string name="mediasource_digitThree">桁３</string>
+  <string name="mediasource_digitFour">桁４</string>
+  <string name="mediasource_digitFive">桁５</string>
+  <string name="mediasource_digitSix">桁６</string>
+  <string name="mediasource_digitSeven">桁７</string>
+  <string name="mediasource_digitEight">桁８</string>
+  <string name="mediasource_digitNine">桁９</string>
+  <string name="mediasource_asterisk">アスタリスク
+</string>
+  <string name="mediasource_hyphen">ハイフン</string>
+  <string name="mediasource_period">期間</string>
+  <string name="mediasource_pound">ポンド
+</string>
+  <string name="mediasource_enter">入る</string>
+  <string name="mediasource_clear">クリア</string>
+  <string name="mediasource_backspace">バックスペース</string>
+  <string name="mediasource_nextTunerPreset">
+次のチューナープリセット</string>
+  <string name="mediasource_previousTunerPreset">以前のチューナープリセット</string>
+  <string name="mediasource_cycleTunerBand">
+サイクルチューナーバンド
+</string>
+  <string name="mediasource_cycleTunerMode">
+サイクルチューナーモード</string>
+  <string name="mediasource_tunerBandAm">チューナーバンドアム
+</string>
+  <string name="mediasource_tunerBandFm">チューナーバンドFm</string>
+  <string name="mediasource_tunerBandFmTwo">チューナーバンドFm2</string>
+  <string name="mediasource_tunerBandThree">チューナーバンドFm3
+</string>
+  <string name="mediasource_tunerModeAutoManual">チューナーモード自動マニュアル
+</string>
+  <string name="mediasource_tunerSearchDown">チューナーサーチダウン
+</string>
+  <string name="mediasource_tunerSearchUp">チューナー検索</string>
+  <string name="mediasource_tunerToggleScanDown">チューナートグルスキャンダウン</string>
+  <string name="mediasource_tunerToggleScanUp">チューナートグルスキャンアップ
+</string>
+  <string name="mediasource_tunerTuneUp">チューナーチューンアップ
+</string>
+  <string name="mediasource_tunerTuneDown">チューナーチューンダウン
+</string>
+  <string name="mediasource_sendVoiceData">音声データを送信する
+</string>
+  <string name="mediasource_sendVoiceStreamFormat">
+音声ストリーム形式を送信する
+</string>
+  <string name="mediasource_voiceInput">音声入力
+</string>
+  <string name="mediasource_playerState">
+プレイヤーの状態
+</string>
+  <string name="mediasource_playerPosition">プレイヤーの位置
+</string>
+  <string name="mediasource_playbackSpeed">再生速度
+</string>
+  <string name="mediasource_nowPlaying">
+再生中
+</string>
+</resources>

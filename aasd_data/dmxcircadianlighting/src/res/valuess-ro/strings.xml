@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">Comenzi</string>
+  <string name="circadianLights_saveButtonText">Salvați setările actuale ca ciclu circadian</string>
+</resources>

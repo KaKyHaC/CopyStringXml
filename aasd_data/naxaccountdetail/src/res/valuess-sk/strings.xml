@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">KONTO</string>
+  <string name="naxaccountdetail_edit_name">Upraviť názov</string>
+  <string name="naxaccountdetail_signIn">Prihlásiť sa</string>
+  <string name="naxaccountdetail_remove">Odstrániť</string>
+  <string name="naxaccountdetail_remove_yes">Áno, odstrániť</string>
+  <string name="naxaccountdetail_removeAccount_warning">Toto konto %s už pre systém Crestron Home nebude prístupné.\n\n Chcete pokračovať?</string>
+</resources>

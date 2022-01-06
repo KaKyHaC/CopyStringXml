@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">שנה שם לקבוצה</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">בטל</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">הגדר שם מחדש</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">הכפל שם</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">שם שגוי</string>
+  <string name="tvpresetsrenamegroup_unknownError">פעולה נכשלה</string>
+</resources>

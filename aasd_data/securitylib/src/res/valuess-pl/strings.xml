@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Zabezpieczenia</string>
+  <string name="securitylib_securitySystem">System zabezpieczeń</string>
+  <string name="securitylib_securitySystemWithName">System ochrony %s</string>
+  <string name="securitylib_alarm_alarm">Alarm</string>
+  <string name="securitylib_alarm_fire">Pożar</string>
+  <string name="securitylib_alarm_burglary">Włamanie</string>
+  <string name="securitylib_alarm_medical">Medyczny</string>
+  <string name="securitylib_alarm_tamper">Sabotaż</string>
+  <string name="securitylib_arming_armedStay">Uzbrojone do pobytu</string>
+  <string name="securitylib_arming_exitDelayActive">Opóźnienie wyjścia aktywne</string>
+  <string name="securitylib_arming_disarmed">Rozbrojono</string>
+  <string name="securitylib_arming_ready">Gotowy</string>
+  <string name="securitylib_arming_armedAway">Uzbrojone do wyjścia</string>
+  <string name="securitylib_arming_notReady">Niegotowy</string>
+  <string name="securitylib_arming_entryDelayActive">Opóźnienie wejścia aktywne</string>
+  <string name="securitylib_arming_armedStayInstant">Uzbrojony pobyt natychmiast</string>
+  <string name="securitylib_arming_armedAwayInstant">Uzbrojone wyjście natychmiast</string>
+  <string name="securitylib_arming_armedBypass">Uzbrojone obejście</string>
+  <string name="securitylib_arming_armedBypassInstant">Uzbrojone obejście natychmiast</string>
+</resources>

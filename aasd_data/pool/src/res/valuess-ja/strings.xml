@@ -1,0 +1,13 @@
+<resources>
+  <string name="pool_scenes">シーン</string>
+  <string name="pool_setTo">に設定する　</string>
+  <string name="pool_controls">コントロール　</string>
+  <string name="pool_off">オフ　</string>
+  <string name="pool_low">低</string>
+  <string name="pool_med">
+低い</string>
+  <string name="pool_high">高</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">
+コントロールは利用できません。</string>
+</resources>

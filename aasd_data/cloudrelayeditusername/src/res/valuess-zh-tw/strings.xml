@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">編輯名稱</string>
+  <string name="cloudrelayeditusername_subtitle">遠程雲端鏈接</string>
+  <string name="cloudrelayeditusername_accountLabel">帳戶</string>
+  <string name="cloudrelayeditusername_editNameLabel">名稱</string>
+  <string name="cloudrelayeditusername_done">完成</string>
+</resources>

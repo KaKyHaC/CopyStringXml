@@ -1,0 +1,4 @@
+<resources>
+  <string name="addMoreLights_title">Lisää valoja</string>
+  <string name="addMoreLights_subtitle">%s scene</string>
+</resources>

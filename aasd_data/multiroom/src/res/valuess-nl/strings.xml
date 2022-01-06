@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">Er is een eenpersoonskamer geselecteerd</string>
+  <string name="multiroom_singleRoomDescription">U kunt in meerdere kamers in uw huis naar dezelfde muziek luisteren.</string>
+  <string name="multiroom_playInMultipleRooms">Speel in meerdere kamers</string>
+  <string name="multiroom_manageRoomsAndGroups">Kamers en groepen beheren</string>
+  <string name="multiroom_sourceNotPlaying">Bron speelt niet af</string>
+</resources>

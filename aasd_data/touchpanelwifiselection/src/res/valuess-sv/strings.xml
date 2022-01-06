@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Wi-Fi Val bakåtgärd</string>
+  <string name="touchpanelWifiSelection_title">Val av Wi-Fi</string>
+  <string name="touchpanelWifiSelection_Discovering">Upptäcker</string>
+  <string name="touchpanelWifiSelection_tryAgain">Försök igen</string>
+  <string name="touchpanelWifiSelection_titleFound">Anslut till Wi-Fi-åtkomstpunkt</string>
+  <string name="touchpanelWifiSelection_subtitleFound">Välj åtkomstpunkt</string>
+  <string name="touchpanelWifiSelection_titleNotFound">Ingen Wi-Fi-åtkomstpunkt</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">Inga Wi-Fi-åtkomstpunkter hittades. Kontrollera din nätverksanslutning och försök igen.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">Söker efter Wi-Fi-åtkomstpunkter</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">Vänta tills sökningen är slutförd</string>
+</resources>

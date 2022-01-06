@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">Scena</string>
+  <string name="pool_setTo">IMPOSTA SU</string>
+  <string name="pool_controls">Comandi</string>
+  <string name="pool_off">SPENTO</string>
+  <string name="pool_low">Basso</string>
+  <string name="pool_med">Media</string>
+  <string name="pool_high">Alta</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">Non sono disponibili controlli.</string>
+</resources>

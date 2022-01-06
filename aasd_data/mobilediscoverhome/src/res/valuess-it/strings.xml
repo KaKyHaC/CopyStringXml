@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mobilediscoverhome_downloadSgMessage">Si prega di scaricare l'applicazione Smart Graphics per controllare questo Home</string>
+  <string name="mobilediscoverhome_cancel">Annulla</string>
+  <string name="mobilediscoverhome_downloadApp">Scarica l'applicazione</string>
+</resources>

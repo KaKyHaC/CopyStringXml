@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s klíma</string>
+  <string name="climatelib_noActiveThermostats_upperCase">NINCS AKTÍV TERMOSZTÁT</string>
+  <string name="climatelib_noActiveThermostats">Nincs aktív termosztát</string>
+  <string name="climatelib_status_multiple_running">több termosztát fut egyszerre</string>
+  <string name="climatelib_status_heating_to_temperature">Fűtés erre: %s</string>
+  <string name="climatelib_status_cooling_to_temperature">Hűtés erre: %s</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%dºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">HŰTÉS ERRE:%.1fº, H.C. BE(56%%)</string>
+  <string name="climatelib_thermostat_status_increasing">FŰTÉS ERRE:%.1fº, H.C. BE(56%%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">H.C. BE (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H. BE (%s)</string>
+  <string name="climatelib_thermostat_state_offline">Offline</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">HŰTÉS BEÁLLÍTÁSA</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">FŰTÉS BEÁLLÍTÁSA</string>
+  <string name="climatelib_thermostat_setpoint_single">BEÁLLÍTÁSI CÉLÉRTÉK</string>
+  <string name="climatelib_set_point">BEÁLLÍTÁSI CÉLÉRTÉK</string>
+  <string name="climatelib_heat_set_point">FŰTÉS ERRE:</string>
+  <string name="climatelib_cool_set_point">HŰTÉS ERRE:</string>
+  <string name="climatelib_single_set_point">EGYSZERES AUTO.</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">HŰTÉS ERRE: %s</string>
+  <string name="climatelib_thermostat_heatTo">FŰTÉS ERRE: %s</string>
+  <string name="climatelib_thermostat_setTo">BEÁLLÍTÁS ERRE: %s</string>
+  <string name="climatelib_state_off">Ki</string>
+  <string name="climatelib_state_on">Be</string>
+  <string name="climatelib_thermostatMode_heat">Fűtés</string>
+  <string name="climatelib_thermostatMode_cool">Hűtés</string>
+  <string name="climatelib_thermostatMode_single_auto">Egyszeres auto.</string>
+  <string name="climatelib_thermostatMode_dual_auto">Kétszeres auto.</string>
+  <string name="climatelib_thermostatMode_aux_heat">Kiegészítő fűtés</string>
+  <string name="climatelib_thermostatMode_autoMode">AUTOMATIKUS MÓD</string>
+  <string name="climatelib_thermostatMode_dualMode">KETTŐS MÓD</string>
+  <string name="climatelib_thermostatFan_auto">Automatikus</string>
+  <string name="climatelib_thermostatFan_low">Alacsony</string>
+  <string name="climatelib_thermostatFan_medium">Közepes</string>
+  <string name="climatelib_thermostatFan_high">Magas</string>
+  <string name="climatelib_thermostatFan_circulate">Keringetés</string>
+  <string name="climatelib_thermostatFan_circulateLow">Alacsony keringetés</string>
+  <string name="climatelib_thermostatFan_circulateMedium">Közepes keringetés</string>
+  <string name="climatelib_thermostatFan_none">Nincs</string>
+  <string name="climatelib_thermostatSchedule_noEvents">Nincs esemény</string>
+  <string name="climatelib_thermostatSchedule_hold">Tartás</string>
+  <string name="climatelib_thermostatSchedule_running">Fut</string>
+  <string name="climatelib_thermostatSchedule_run">Futtat</string>
+  <string name="climatelib_thermostatSchedule_override">Ideiglenes</string>
+  <string name="climatelib_thermostatSchedule_next">KÖVETKEZŐ %1$s -%2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">Tartás</string>
+  <string name="climatelib_labelMode">MÓD</string>
+  <string name="climatelib_labelFan">VENTILÁTOR</string>
+  <string name="climatelib_labelSchedule">ÜTEMEZÉS</string>
+  <string name="climatelib_noScheduleEvents">Nem létezik ütemezési esemény. Szeretne most létrehozni ütemezési eseményeket?</string>
+  <string name="climatelib_popupCancel">Mégse</string>
+  <string name="climatelib_popupCreate">Létrehozás</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">KLÍMA ÜTEMEZÉS</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">Ütemezett események</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">Helytelen jelszó</string>
+  <string name="climatelib_climateSchedules_weekdays">HÉTKÖZNAPOK</string>
+  <string name="climatelib_climateSchedules_weekend">HÉTVÉGE</string>
+  <string name="climatelib_climateSchedules_everyday">MINDEN NAP</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s,%2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">Nincs ütemezett esemény</string>
+  <string name="climatelib_climateSchedules_mon">HÉ</string>
+  <string name="climatelib_climateSchedules_tue">KE</string>
+  <string name="climatelib_climateSchedules_wed">SZE</string>
+  <string name="climatelib_climateSchedules_thu">CS</string>
+  <string name="climatelib_climateSchedules_fri">PÉ</string>
+  <string name="climatelib_climateSchedules_sat">SZO</string>
+  <string name="climatelib_climateSchedules_sun">VAS</string>
+  <string name="climatelib_climate">Klíma</string>
+</resources>

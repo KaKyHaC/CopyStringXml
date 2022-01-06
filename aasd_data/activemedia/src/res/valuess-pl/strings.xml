@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">Wyłącz wszystkie multimedia</string>
+  <string name="activemedia_activeMedia">Aktywne multimedia (%d)</string>
+  <string name="activemedia_audio">DŹWIĘK</string>
+  <string name="activemedia_video">WIDEO</string>
+  <string name="activemedia_multiple_displays">Wiele wyświetlaczy</string>
+  <string name="activemedia_left_display">Lewy wyświetlacz</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">Czy na pewno chcesz wyłączyć cały dom?</string>
+</resources>

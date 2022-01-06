@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">門鎖</string>
+  <string name="doors_scenes">場景</string>
+  <string name="doors_controls">控制</string>
+  <string name="doors_lock_all">全部鎖定</string>
+  <string name="doors_unlock_all">全部解鎖</string>
+</resources>

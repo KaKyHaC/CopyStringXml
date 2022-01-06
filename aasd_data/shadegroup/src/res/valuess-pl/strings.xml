@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">Rolety</string>
+  <string name="shadegroup_batteryOk">Bateria naładowana</string>
+  <string name="shadegroup_batteryLow">Słaba bateria</string>
+</resources>

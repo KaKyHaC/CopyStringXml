@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">Modifier les scénarios d'éclairage</string>
+  <string name="lightSceneEdit_scenesCategory">Scénarios</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">Le scénario spécifié n'a pas été supprimé.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">Le scénario spécifié n'est pas modifiable.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">OK</string>
+</resources>

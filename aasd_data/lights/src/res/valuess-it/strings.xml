@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">Scenari</string>
+  <string name="lights_controlsTitle">Comandi</string>
+  <string name="lights_controlsMasterControl">TUTTE LE LUCI </string>
+  <string name="create_new_scene">Crea una nuova scena</string>
+  <string name="lights_noScenesInfo">Questa stanza non sembra avere nessuna scena di luce.</string>
+</resources>

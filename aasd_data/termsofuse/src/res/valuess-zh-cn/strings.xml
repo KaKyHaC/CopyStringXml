@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">欢迎来到您的房间</string>
+  <string name="termsofuse_subtitle_one">在Crestron，您的隐私对我们来说非常重要。请审核在以下提供的链接下的Crestron的隐私声明，以查看我们可能收集的信息的类型。如果您想更改您系统的隐私设置，以启用或禁用信息收集，请联系您的授权Crestron经销商或Crestron服务提供商或通过%s联系Crestron Electronics, Inc。</string>
+  <string name="termsofuse_subtitle_two">要继续发现房间，请同意以下条款：</string>
+  <string name="termsofuse_agreeAndContinue">同意&amp;继续</string>
+  <string name="termsofuse_termsOfUse">移动应用使用条款</string>
+  <string name="termsofuse_privacyStatement">隐私声明</string>
+  <string name="termsofuse_supportEmail">联系 Crestron Electronics, Inc</string>
+  <string name="termsofuse_agreementStatement">我同意Crestron的%s和%s。</string>
+</resources>

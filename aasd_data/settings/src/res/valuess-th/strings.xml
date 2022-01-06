@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">หมดเวลาแถบเครื่องมือเสมือน</string>
+  <string name="settings_hardkey_wakes_lcd">Hardkey Wakes LCD</string>
+  <string name="settings_master_volume">ระดับเสียงหลัก</string>
+  <string name="settings_hardkey_behavior">พฤติกรรมการใช้ปุ่มแถบขึ้น/ลง</string>
+  <string name="settings_hardkey_no_function">ไม่มีฟังก์ชัน</string>
+  <string name="settings_hardkey_lights">แสง (ห้อง เพิ่มขึ้น/ลดลง)</string>
+  <string name="settings_hardkey_shades">ที่บังแดด (ห้อง เพิ่มขึ้น/ลดลง)</string>
+  <string name="settings_hardkey_media">มีเดีย (ห้อง เพิ่มเสียง/ลดเสียง)</string>
+  <string name="settings_advanced_settings_toolbar">การตั้งค่าขั้นสูง</string>
+</resources>

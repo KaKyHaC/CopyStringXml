@@ -1,0 +1,5 @@
+<resources>
+  <string name="landing_screen_discover_home">Etsi koti</string>
+  <string name="landing_screen_add_manually">Lisää manuaalisesti</string>
+  <string name="landing_screen_waps_selection_button_title">Connect to Wi-Fi access point</string>
+</resources>

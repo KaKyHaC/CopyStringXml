@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Enter your user name</string>
+  <string name="providersignin_enter_password">Enter your password</string>
+  <string name="providersignin_description">Please sign in to your %s account to add this subscription.</string>
+  <string name="providersignin_user_name">Käyttäjänimi</string>
+  <string name="providersignin_password">Salasana</string>
+  <string name="providersignin_title">Kirjaudu sisään</string>
+  <string name="providersignin_save_user">Saving User...</string>
+  <string name="providersignin_account_added">Account added.</string>
+  <string name="providersignin_login_failed">Login failed.</string>
+</resources>

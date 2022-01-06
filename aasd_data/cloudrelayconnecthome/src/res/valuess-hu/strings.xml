@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayconnecthome_edit_home">Otthon szerkesztése</string>
+  <string name="couldrelayconnecthome_edit_details">A Crestron Home részleteinek szerkesztése.</string>
+  <string name="cloudrelayconnecthome_home_settings">OTTHON BEÁLLÍTÁSAI</string>
+  <string name="cloudrelayconnecthome_friendlyNameOrLocation">Egyszerű név/hely</string>
+  <string name="cloudrelayconnecthome_password">Felhasználói felület jelszava</string>
+  <string name="cloudrelayconnecthome_localConnectionSettings">HELYI KAPCSOLAT BEÁLLÍTÁSAI</string>
+  <string name="cloudrelayconnecthome_ipAddressOrHostName">IP-cím/állomásnév</string>
+  <string name="cloudrelayconnecthome_continue">Folytatás</string>
+</resources>

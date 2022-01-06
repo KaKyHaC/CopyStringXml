@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">Naam bewerken</string>
+  <string name="cloudrelayeditusername_subtitle">Externe cloudverbinding</string>
+  <string name="cloudrelayeditusername_accountLabel">Account</string>
+  <string name="cloudrelayeditusername_editNameLabel">Naam</string>
+  <string name="cloudrelayeditusername_done">Klaar</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">マイホーム　</string>
+  <string name="homeswitcher_addHome">追加　</string>
+  <string name="homeswitcher_online_status">この家は接続され準備ができています。タップしてお入りください。　</string>
+  <string name="homeswitcher_online_remote_status">タップしてはいる。　</string>
+  <string name="homeswitcher_offline_status">この家はタップしてはいる.\nがオフラインです。　</string>
+  <string name="homeswitcher_offline">オフライン </string>
+</resources>

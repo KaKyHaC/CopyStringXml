@@ -1,0 +1,4 @@
+<resources>
+  <string name="dmxroomselection_room_select">部屋の選択</string>
+  <string name="source_selection_room_not_available">部屋は利用できません。</string>
+</resources>

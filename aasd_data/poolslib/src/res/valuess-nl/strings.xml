@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="poolslib_poolTile_title">Zwembaden</string>
+  <string name="poolslib_spaTile_title">Spa</string>
+  <string name="poolslib_unknownTile_title">Onbekend</string>
+  <string name="poolslib_poolCurrentTemperature">%s is %sº</string>
+  <string name="poolslib_status_heatingToTemperature">Verwarmen tot %s%s</string>
+  <string name="poolslib_setToTemperature">INSTELLEN OP %s%s</string>
+  <string name="poolslib_outdoorTemperature">Buitentemperatuur</string>
+  <string name="poolslib_celsiusUnit">C</string>
+  <string name="poolslib_fahrenheitUnit">F</string>
+  <string name="poolslib_currentTemperatureText">%sº</string>
+  <string name="poolslib_percentageUnit">%</string>
+  <string name="poolslib_milliVoltsUnit">mV</string>
+  <string name="poolslib_partsPerMillionUnit">ppm</string>
+  <string name="poolslib_gramsPerLiterUnit">g/L</string>
+  <string name="poolslib_millisecondsUnit">Mevrouw</string>
+  <string name="poolslib_pHUnit">pH</string>
+  <string name="poolslib_unCategorizedTabTitle">Overig</string>
+  <plurals name="poolslib_hoursUnit">
+    <item quantity="one">hour</item>
+    <item quantity="other">hours</item>
+  </plurals>
+  <plurals name="poolslib_minutesUnit">
+    <item quantity="one">minute</item>
+    <item quantity="other">minutes</item>
+  </plurals>
+  <plurals name="poolslib_secondsUnit">
+    <item quantity="one">second</item>
+    <item quantity="other">seconds</item>
+  </plurals>
+  <plurals name="poolslib_yearsUnit">
+    <item quantity="one">year</item>
+    <item quantity="other">years</item>
+  </plurals>
+  <plurals name="poolslib_monthsUnit">
+    <item quantity="one">month</item>
+    <item quantity="other">months</item>
+  </plurals>
+  <plurals name="poolslib_daysUnit">
+    <item quantity="one">day</item>
+    <item quantity="other">days</item>
+  </plurals>
+  <string name="poolslib_formatWithUnit">%s %s</string>
+  <string name="poolslib_formatWithUnitWithoutSpace">%s%s</string>
+  <string name="poolslib_valueNoInfo">-</string>
+</resources>

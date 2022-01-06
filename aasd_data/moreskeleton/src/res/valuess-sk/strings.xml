@@ -1,0 +1,12 @@
+<resources>
+  <string name="more_crestron">Crestron</string>
+  <string name="more_help">Pomocník</string>
+  <string name="more_help_webview">Pomocník</string>
+  <string name="more_legal_terms">
+Právne ustanovenia</string>
+  <string name="more_privacy_information">Informácie o ochrane osobných údajov</string>
+  <string name="more_feedback">Spätná väzba</string>
+  <string name="more_version">Verzia - %s</string>
+  <string name="more_changeColorMode">Zmena farebného režimu</string>
+  <string name="more_developer_options">Možnosti pre vývojárov</string>
+</resources>

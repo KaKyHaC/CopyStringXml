@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">Απενεργοποιήστε όλα τα πολυμέσα</string>
+  <string name="activemedia_activeMedia">Ενεργά πολυμέσα (%d)</string>
+  <string name="activemedia_audio">ΗΧΟΣ</string>
+  <string name="activemedia_video">ΒΙΝΤΕΟ</string>
+  <string name="activemedia_multiple_displays">Πολλές συσκευές προβολής</string>
+  <string name="activemedia_left_display">Αριστερή οθόνη</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">Είστε βέβαιοι ότι θέλετε να απενεργοποιήσετε ολόκληρο το σπίτι;</string>
+</resources>

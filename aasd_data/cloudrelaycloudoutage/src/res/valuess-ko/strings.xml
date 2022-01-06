@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">클라우드 연결이 중단되었습니다…</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">현재 홈 컨트롤을 로드할 수 없습니다. 클라우드 연결이 일시적으로 중단되더라도 로컬 WAP에 있는 한 로컬에서 연결할 수 있습니다.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">로컬 연결을 시도해 보세요</string>
+</resources>

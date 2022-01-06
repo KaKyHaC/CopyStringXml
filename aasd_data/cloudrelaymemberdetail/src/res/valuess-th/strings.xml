@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">มอบหมายบทบาทให้ผู้ใช้</string>
+  <string name="cloudrelaymemberdetail_user">ผู้ใช้</string>
+  <string name="cloudrelaymemberdetail_owner">เจ้าของ</string>
+  <string name="cloudrelaymemberdetail_remove_user">ลบผู้ใช้</string>
+  <string name="cloudrelaymemberdetail_house_access">เข้าบ้าน</string>
+  <string name="cloudrelaymemberdetail_enable_access">ให้สิทธิ์เข้าถึง</string>
+  <string name="cloudrelaymemberdetail_remove">เอาออก</string>
+  <string name="cloudrelaymemberdetail_cancel">ยกเลิก</string>
+  <string name="cloudrelaymemberdetail_remove_warning">แน่ใจหรือว่าต้องการลบผู้ใช้นี้</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">Объединить с %s</string>
+  <string name="managegroups_ungroupAll">Разгруппировать все</string>
+  <string name="managegroups_ungroupRoom">Разгруппировать %s</string>
+  <string name="managegroups_mergeSelected">Объединить выбранное в группу</string>
+</resources>

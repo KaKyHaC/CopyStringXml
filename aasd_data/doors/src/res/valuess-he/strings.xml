@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">מנעולי דלתות</string>
+  <string name="doors_scenes">סצנות</string>
+  <string name="doors_controls">פקדים</string>
+  <string name="doors_lock_all">נעל הכול</string>
+  <string name="doors_unlock_all">שחרר נעילה של הכול</string>
+</resources>

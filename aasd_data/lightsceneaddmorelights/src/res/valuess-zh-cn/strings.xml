@@ -1,0 +1,4 @@
+<resources>
+  <string name="addMoreLights_title">添加更多照明灯</string>
+  <string name="addMoreLights_subtitle">%s场景</string>
+</resources>

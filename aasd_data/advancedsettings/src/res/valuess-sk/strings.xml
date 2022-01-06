@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">ZOBRAZIŤ OVLÁDACIE PRVKY</string>
+  <string name="advancedSettings_roomVisibilityControl_label">ZOBRAZIŤ MIESTNOSTI</string>
+  <string name="advancedSettings_settings_home_access_label">Prístup do domu</string>
+  <string name="advancedSettings_settings_cameras_label">Kamery</string>
+  <string name="advancedSettings_settings_security_label">Bezpečnosť</string>
+  <string name="advancedSettings_back_description">nastavenia tlačidla späť</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">ZVUKOVÉ PRERUŠENIA A ZVONENIA</string>
+  <string name="advancedSettings_settings_events_sound_label">Udalosti a zvuky</string>
+  <string name="advancedSettings_settings_change_theme_label">DISPLEJ</string>
+  <string name="advancedSettings_settings_change_theme_title">Zmeniť motív</string>
+  <string name="advancedSettings_toolbar">Rozšírené nastavenia</string>
+  <string name="advancedSettings_showDoNotSiasturb">Zobrazenie funkcie Nerušiť</string>
+  <string name="advancedSettings_colorTuning_label">Nastavovanie farieb</string>
+  <string name="advancedSettings_tunableLighting_label">Nastaviteľné osvetlenie</string>
+  <string name="advancedSettings_circadianSettings_label">Nastavenie cirkadiánneho času</string>
+</resources>

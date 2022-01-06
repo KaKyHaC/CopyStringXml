@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Färgjustering</string>
+  <string name="dmxroomselection_controlsTitle">KONTROLLER</string>
+  <string name="dmxcolortuning_description">Definiera utgångsinställningar för det här rummet. Med utgångsinställningar kommer du att definiera önskad färg och temperatur för dina justerbara armaturer.\n\nIntensitetsreglage och växlar tillhandahålls för att hjälpa dig visualisera färgen. Dessa sparas inte i utgångsinställningarna.</string>
+</resources>

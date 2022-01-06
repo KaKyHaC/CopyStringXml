@@ -1,0 +1,11 @@
+<resources>
+  <string name="security_toolbarTitle">Bezpečnosť</string>
+  <string name="security_panicActionsTitle">AKCIE</string>
+  <string name="security_panicActionsSubtitle">Stlačením a podržaním na 1 sekundu spustíte každú akciu</string>
+  <string name="security_navigationButtonsTitle">NAVIGAČNÉ TLAČIDLÁ</string>
+  <string name="security_selectNavigationButton">Vybrať</string>
+  <string name="security_keypadTitle">KLÁVESNICA</string>
+  <string name="security_keypadSubtitle">	
+Zadajte štvormiestny kód a číslicu zodpovedajúcu akcii, ktorú chcete vykonať.</string>
+  <string name="security_displayTextTitle">TEXT DISPLEJA</string>
+</resources>

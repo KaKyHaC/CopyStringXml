@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">הזז ומדוד</string>
+  <string name="changeimage_cellularWarning">כאשר לא מחובר דרך Wi-Fi העלאות תמונות עשויות להימשך זמן רב יותר.</string>
+  <string name="changeimage_cancel">בטל</string>
+  <string name="changeimage_choose">בחר</string>
+</resources>

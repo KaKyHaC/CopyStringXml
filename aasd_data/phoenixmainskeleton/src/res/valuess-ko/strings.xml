@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Phoenix</string>
+  <string name="app_home">홈</string>
+  <string name="app_rooms">룸</string>
+  <string name="app_more">자세히</string>
+  <string name="app_home_is_busy">폼이 사용중입니다. 대기해 주십시오</string>
+</resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">Diagnostice de asistență</string>
+  <string name="diagnostics_loggingTitle">Activați trimiterea diagnosticelor</string>
+  <string name="diagnostics_loggingDescription">Vă rugăm să nu\ activați trimiterea diagnosticelor decât dacă Departamentul de Asistență Tehnică Crestron vă recomadă acest lucru.</string>
+  <string name="diagnostics_submitDiagnostics">Trimiteți diagnostice de asistență</string>
+  <string name="diagnostics_submitMessage">
+Compania Crestron vă recomandă trimiterea diagnosticelor doar atunci când lucrați cu dearul dvs. Crestron sau la solicitarea de Departamentului de Asistență pentru Clienți Crestron.\n\n După ce apăsați pe butonul „Trimiteți” veți avea posibilitatea de a selecta modalitatea de distribuire a fișierului. Urmați instrucțiunile dealerului dvs. Crestron sau ale Departamentului de Asistență pentru Clienți Crestron, pentru expedierea acestui fișier.
+</string>
+  <string name="diagnostics_submit">Trimitere</string>
+</resources>

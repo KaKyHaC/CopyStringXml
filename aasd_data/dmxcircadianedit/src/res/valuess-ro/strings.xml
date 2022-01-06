@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">Editați ciclul circadian</string>
+  <string name="circadianEdit_description">Luminile electrice pot fi utilizate în diferite moduri de protejare a sănătății umane prin minimizarea efectelor lor asupra ritmului circadian uman.</string>
+  <string name="circadianEdit_transitionsCategory">editați punctele de tranziție ale luminilor</string>
+  <string name="circadianEdit_previewTransitionButton_start">Previzualizare tranziție circadiană</string>
+  <string name="circadianEdit_previewTransitionButton_end">Finalizarea previzualizării tranziției circadiene</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">Dimineaţă</string>
+  <string name="circadianEdit_dayTransition">Zi</string>
+  <string name="circadianEdit_eveningTransition">Seară</string>
+  <string name="circadianEdit_nightTransition">Noapte</string>
+  <string name="circadianEdit_minTime">00:00</string>
+  <string name="circadianEdit_maxTime">11:59 </string>
+</resources>

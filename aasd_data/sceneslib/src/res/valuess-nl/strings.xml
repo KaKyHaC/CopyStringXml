@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Maak nieuw</string>
+  <string name="sceneslib_edit">Bewerken</string>
+  <string name="sceneslib_reorder">Opnieuw ordenen</string>
+  <string name="sceneslib_max_scenes_reached">Het maximum aantal scènes in deze ruimte is bereikt. Tik op \"Bewerken\" om bestaande scènes te wijzigen of te verwijderen.</string>
+  <string name="sceneslib_unsaved_scene_message">Je hebt een niet-opgeslagen scène. Deze scène opslaan?</string>
+  <string name="sceneslib_progress_lost_message">Weet je zeker dat je dit scherm wilt verlaten en je voortgang wilt verliezen?</string>
+  <string name="sceneslib_generic_scene_name">Mijn scène %d</string>
+  <string name="sceneslib_unexpected_error_message">Er is een onverwachte fout opgetreden. De scène kon niet worden opgeslagen.</string>
+  <string name="sceneslib_success_message">De scène is gemaakt.</string>
+  <string name="sceneslib_update_success_message">De scène is bijgewerkt.</string>
+  <string name="sceneslib_error_invalid_name">De opgegeven scènenaam is ongeldig. De scène kon niet worden opgeslagen.</string>
+  <string name="sceneslib_error_duplicate_name">De opgegeven scènenaam is al in gebruik. De scène kon niet worden opgeslagen.</string>
+  <string name="sceneslib_error_name_too_long">De opgegeven scènenaam is te lang. De scène kon niet worden opgeslagen.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">De opgegeven scènenaam bevat ongeldige tekens. De scène kon niet worden opgeslagen.</string>
+  <string name="sceneslib_error_read_only">De opgegeven scène kan niet worden bewerkt. De scène kon niet worden opgeslagen.</string>
+  <string name="sceneslib_error_cannot_delete">Er is een onverwachte fout opgetreden. De scène kan niet worden verwijderd.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Dit is een door het systeem geleverde scène en kan niet worden verwijderd.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Deze scène wordt gebruikt door elders in het systeem te programmeren. Het kan niet worden verwijderd.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">Dit is een door het systeem geleverde scène. Het kan niet worden verwijderd als de kamer licht bevat.</string>
+  <string name="sceneslib_error_max_scene_count_reached">Het maximale aantal scènes in deze ruimte is bereikt. De nieuwe scène kan niet worden opgeslagen.</string>
+  <string name="sceneslib_error_invalid_ramp_time">De geselecteerde fade-tijd is ongeldig. De scène kon niet worden opgeslagen.</string>
+</resources>

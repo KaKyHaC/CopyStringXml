@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">Stel de uitschakeltimer in voor alle actieve media in deze kamer.</string>
+  <string name="sleeptimer_disabledMsg">DE TIJD INSTELLEN</string>
+  <string name="sleeptimer_enabledMsg">%s WORDT UITGESCHAKELD</string>
+  <string name="sleeptimer_controlTitle">SLUIMERSTAND</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">Account</string>
+  <string name="naxaccountdetail_edit_name">Naam bewerken</string>
+  <string name="naxaccountdetail_signIn">Aanmelden</string>
+  <string name="naxaccountdetail_remove">Verwijderen</string>
+  <string name="naxaccountdetail_remove_yes">Ja, verwijderen</string>
+  <string name="naxaccountdetail_removeAccount_warning">Dit %s-account is niet langer toegankelijk voor Crestron Home.\n\n Wil je doorgaan?</string>
+</resources>

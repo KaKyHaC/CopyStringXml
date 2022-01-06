@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">Saját otthonaim</string>
+  <string name="homeswitcher_addHome">Hozzáadás</string>
+  <string name="homeswitcher_online_status">Ez az otthon csatlakoztatva van és készen áll.\nKoppintással nyissa meg.</string>
+  <string name="homeswitcher_online_remote_status">Koppintással nyissa meg.</string>
+  <string name="homeswitcher_offline_status">Ez az otthon OFFLINE állapotú.\nKoppintással nyissa meg.</string>
+  <string name="homeswitcher_offline">OFFLINE.</string>
+</resources>

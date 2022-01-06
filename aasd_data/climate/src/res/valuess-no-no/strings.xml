@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">KLIMAKONTROLLER</string>
+  <string name="climate_current_temperature">GJELDENDE TEMP.</string>
+  <string name="climate_mode">Modus</string>
+  <string name="climate_schedule">RUTE</string>
+  <string name="climate_fan">Vifte</string>
+  <string name="climate_floor_heating">Gulvvarme</string>
+  <string name="climate_humidity_controls">FUKTIGHETSKONTROLLER</string>
+  <string name="climate_humidify">FUKT TIL</string>
+  <string name="climate_floor_control">Gulvkontroll</string>
+  <string name="climate_currentHumidity_title">Aktuell fuktighet</string>
+  <string name="climate_humidityControl_title">Fuktighetskontroll</string>
+</resources>

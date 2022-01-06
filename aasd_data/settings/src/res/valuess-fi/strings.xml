@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Virtual toolbar timeout</string>
+  <string name="settings_hardkey_wakes_lcd">Hardkey Wakes LCD</string>
+  <string name="settings_master_volume">Pää-äänenvoimakkuus</string>
+  <string name="settings_hardkey_behavior">UP/DOWN PANEL BUTTON BEHAVIOR</string>
+  <string name="settings_hardkey_no_function">Ei toimintoa</string>
+  <string name="settings_hardkey_lights">Valot (nosta/laske huoneessa)</string>
+  <string name="settings_hardkey_shades">Kaihtimet (nosta/laske huoneessa)</string>
+  <string name="settings_hardkey_media">Media (äänenvoimakkuus+/äänenvoimakkuus- huoneessa)</string>
+  <string name="settings_advanced_settings_toolbar">Lisäasetukset</string>
+</resources>

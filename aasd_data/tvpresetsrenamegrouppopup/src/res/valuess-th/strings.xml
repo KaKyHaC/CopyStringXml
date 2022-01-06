@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">ตั้งชื่อกลุ่มใหม่</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">ยกเลิก</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">เปลี่ยนชื่อ</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">ชื่อซ้ำ</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">ชื่อไม่ถูกต้อง</string>
+  <string name="tvpresetsrenamegroup_unknownError">การดำเนินการล้มเหลว</string>
+</resources>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">Csatornaelem képe</string>
+  <string name="tvpresetsfavorite_favoritesChannels">KEDVENCEK</string>
+  <string name="tvpresetsfavorite_favoritesList">Média kedvencek lista</string>
+  <string name="tvpresetsfavorite_favoritesMore">További média kedvencek</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">Csoport szerkesztése</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">Kedvenc csoport módosítása</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">Új csoport létrehozása</string>
+  <string name="tvpresetsfavorite_nowPlaying">MOST JÁTSZOTT</string>
+  <string name="tvpresetsfavorite_upNext">KÖVETKEZŐ</string>
+  <string name="tvpresetsfavorite_noInformation">Nincs információ</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">Koppintson a  „⋯” elemre a kedvenc csatornái hozzáadásához</string>
+  <string name="tvpresetsfavorite_noProvider">Nincsenek kedvenc csatornák, mert nincs kiválasztott szolgáltató</string>
+</resources>

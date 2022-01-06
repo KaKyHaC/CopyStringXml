@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Lag ny</string>
+  <string name="sceneslib_edit">Rediger</string>
+  <string name="sceneslib_reorder">Bestill på nytt</string>
+  <string name="sceneslib_max_scenes_reached">Maksimalt antall scener i dette rommet er nådd. Trykk på \"Rediger\" for å endre eller slette eksisterende scener.</string>
+  <string name="sceneslib_unsaved_scene_message">Du har ulagret scene. Lagre denne scenen?</string>
+  <string name="sceneslib_progress_lost_message">Er du sikker på at du vil gå ut av denne skjermen og miste fremgangen din?</string>
+  <string name="sceneslib_generic_scene_name">Min scene %d</string>
+  <string name="sceneslib_unexpected_error_message">En uventet feil har oppstått. Scenen kunne ikke lagres.</string>
+  <string name="sceneslib_success_message">Scenen ble opprettet.</string>
+  <string name="sceneslib_update_success_message">Scenen ble oppdatert.</string>
+  <string name="sceneslib_error_invalid_name">Det angitte scenenavnet er ugyldig. Scenen kunne ikke lagres.</string>
+  <string name="sceneslib_error_duplicate_name">Det angitte scenenavnet er allerede i bruk. Scenen kunne ikke lagres.</string>
+  <string name="sceneslib_error_name_too_long">Det angitte scenenavnet er for langt. Scenen kunne ikke lagres.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">Det angitte scenenavnet inneholder ugyldige tegn. Scenen kunne ikke lagres.</string>
+  <string name="sceneslib_error_read_only">Den angitte scenen kan ikke redigeres. Scenen kunne ikke lagres.</string>
+  <string name="sceneslib_error_cannot_delete">En uventet feil har oppstått. Scenen kunne ikke slettes.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Dette er en scene som leveres av systemet, og den kan ikke slettes.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Denne scenen brukes av programmering andre steder i systemet. Den kan ikke slettes.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">Dette er en scene som leveres av systemet. Den kan ikke slettes mens rommet inneholder lys.</string>
+  <string name="sceneslib_error_max_scene_count_reached">Maksimalt antall scener i dette rommet er nådd. Den nye scenen kunne ikke lagres.</string>
+  <string name="sceneslib_error_invalid_ramp_time">Den valgte uttoningstiden er ugyldig. Scenen kunne ikke lagres.</string>
+</resources>

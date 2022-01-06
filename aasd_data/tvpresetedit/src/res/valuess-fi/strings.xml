@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">Suosikit</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ Add favorite channels</string>
+  <string name="tvpresetedit_favoritesTitle">%s favorites</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">Suosikit</string>
+  <string name="tvpresetedit_moreItem_renameGroup">Nimeä uudelleen</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">Poista ryhmä</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">Are you sure you want to delete this group?</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">Poista</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">Peruuta</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">OK</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">Sorry, the last group can’t be deleted</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">This group has already been deleted.</string>
+</resources>

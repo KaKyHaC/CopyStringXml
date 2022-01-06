@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">Ett enkelt rum har valts</string>
+  <string name="multiroom_singleRoomDescription">Du kan lyssna på samma musik i fler än ett rum samtidigt.</string>
+  <string name="multiroom_playInMultipleRooms">Spela upp i flera rum</string>
+  <string name="multiroom_manageRoomsAndGroups">Hantera rum och grupper</string>
+  <string name="multiroom_sourceNotPlaying">Källa spelar inte</string>
+</resources>

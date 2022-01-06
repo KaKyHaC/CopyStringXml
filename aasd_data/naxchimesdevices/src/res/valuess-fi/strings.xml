@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesDevices_title">Events &amp; Sounds</string>
+  <string name="naxChimesDevices_volumeTitle">Event volume</string>
+  <string name="naxChimesDevices_noEventsFound">No events are available</string>
+</resources>

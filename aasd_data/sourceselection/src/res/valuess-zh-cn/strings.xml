@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">选择来源</string>
+  <string name="source_selection_problem_source">分组中的所有房间中不可用</string>
+</resources>

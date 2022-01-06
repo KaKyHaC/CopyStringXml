@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Fade tid</string>
+  <string name="sceneFadeTime_header">angi tid for belysningstoning</string>
+</resources>

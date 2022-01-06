@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">Byt namn på gruppen</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">Avbryt</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">Byt namn</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">Dubblettnamn</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">Ogiltigt namn</string>
+  <string name="tvpresetsrenamegroup_unknownError">Åtgärd misslyckades</string>
+</resources>

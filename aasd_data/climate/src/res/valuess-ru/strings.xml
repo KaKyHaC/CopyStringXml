@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">КЛИМАТ-КОНТРОЛЬ</string>
+  <string name="climate_current_temperature">ТЕКУЩАЯ ТЕМПЕРАТУРА.</string>
+  <string name="climate_mode">РЕЖИМ</string>
+  <string name="climate_schedule">РАСПИСАНИЕ</string>
+  <string name="climate_fan">ВЕНТИЛЯТОР</string>
+  <string name="climate_floor_heating">Подогрев пола</string>
+  <string name="climate_humidity_controls">КОНТРОЛЬ ВЛАЖНОСТИ</string>
+  <string name="climate_humidify">УВЛАЖНИТЬ ДО</string>
+  <string name="climate_floor_control">Контроль пола</string>
+  <string name="climate_currentHumidity_title">Текущая влажность</string>
+  <string name="climate_humidityControl_title">Контроль влажности</string>
+</resources>

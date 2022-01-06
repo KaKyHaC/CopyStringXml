@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="endpointsettings_stereo">Estéreo</string>
+  <string name="endpointsettings_mono">Mono</string>
+  <string name="endpointsettings_default">Predefinição</string>
+  <string name="endpointsettings_center">Centro</string>
+  <string name="endpointsettings_valueOneDecimal">%.1f%s</string>
+  <string name="endpointsettings_valueNoDecimals">%.0f%s</string>
+  <string name="endpointsettings_noConfigurableSettings">Esta saída não tem configurações de áudio configuráveis.</string>
+  <string name="endpointsettings_l">L</string>
+  <string name="endpointsettings_r">R</string>
+</resources>

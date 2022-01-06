@@ -1,0 +1,33 @@
+<resources>
+  <string name="lightslib_lights">แสง</string>
+  <string name="lightslib_lights_title">% แสง</string>
+  <string name="lightslib_lights_status_on">เปิดไฟแล้ว</string>
+  <string name="lightslib_lights_turning_off">กำลังปิดเครื่อง...</string>
+  <string name="lightslib_lights_turning_on">กำลังเปิดเครื่อง</string>
+  <string name="lightslib_add_lights_title">เพิ่มแสงให้กับ \"%s\"</string>
+  <string name="lightslib_controlsTitle">ควบคุม</string>
+  <string name="lightslib_sceneNameScene">% ฉาก</string>
+  <string name="lightslib_tunableLightNotFound">เกิดข้อผิดพลาดบางประการ ไม่พบโหลดแสงนี้</string>
+  <string name="lightslib_percentageUnit">	
+%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">บันทึกเป็นการตั้งค่าพื้นฐานสากลหรือไม่</string>
+  <string name="lightslib_whiteTuningProgressLost">บันทึกค่าแสงนี้เป็นการตั้งค่าพื้นฐานหรือไม่</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">คุณแน่ใจหรือไม่ว่าต้องการใช้การตั้งค่าเหล่านี้กับห้องนี้</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">การดำเนินการนี้จะแทนที่การตั้งค่าอื่นที่ใช้ไว้ก่อนหน้า</string>
+  <string name="lightslib_saveTunableSettingsError">เกิดข้อผิดพลาดที่ไม่คาดคิด ไม่สามารถบันทึกการตั้งค่าที่ปรับจูนได้</string>
+  <string name="lightslib_saveTunableSettingsSuccess">บันทึกการตั้งค่าที่ปรับจูนได้เรียบร้อย</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">เกิดข้อผิดพลาดที่ไม่คาดคิด ไม่สามารถกำหนดค่าแสงทั้งหมดในห้องตามการตั้งค่าแบบปรับจูนได้</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">ใช้การตั้งค่าแบบปรับจูนได้กับแสงทั้งหมดในห้องเรียบร้อยแล้ว</string>
+  <string name="lightslib_saveAsGlobalSettings">บันทึกเป็นการตั้งค่าพื้นฐานระดับสากล</string>
+  <string name="lightslib_save">บันทึก</string>
+  <string name="lightslib_circadianSettingsProgressLost">บันทึกการตั้งค่าปัจจุบันเป็นวงจรเซอคาเดียนหรือไม่</string>
+  <string name="lightslib_saveCircadianSettingsError">เกิดข้อผิดพลาดที่ไม่คาดคิด ไม่สามารถบันทึกการตั้งค่าเซอร์คาเดียนได้</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">บันทึกเซอร์คาเดียนเรียบร้อยแล้ว</string>
+  <string name="lightslib_morningCircadianTitle">7 นาฬิกาในตอนเช้า %dK</string>
+  <string name="lightslib_noonCircadianTitle">ตอนเที่ยง %dK</string>
+  <string name="lightslib_eveningCircadianTitle">19 นาฬิกาในตอนเย็น %dK</string>
+  <string name="lightslib_nightCircadianTitle">22:45 นาฬิกาในตอนกลางคืน %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">ลบสีที่ชอบแล้ว</string>
+  <string name="lightslib_addFavorite_confirmation">เพิ่มสีที่ชอบแล้ว</string>
+</resources>

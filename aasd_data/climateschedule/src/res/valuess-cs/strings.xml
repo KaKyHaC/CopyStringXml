@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Název akce, např. Letní program klimatizace</string>
+  <string name="climateschedule_scheduleNameTitleLabel">Název</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">Nová naplánovaná akce klimatizace</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">Upravit naplánovanou akci</string>
+  <string name="climateschedule_scheduleActiveDays">AKTIVNÍ DNY</string>
+  <string name="climateschedule_activeDays_sunday">NE</string>
+  <string name="climateschedule_activeDays_monday">PO</string>
+  <string name="climateschedule_activeDays_tuesday">UT</string>
+  <string name="climateschedule_activeDays_wednesday">ST</string>
+  <string name="climateschedule_activeDays_thursday">UT</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">NE</string>
+  <string name="climateschedule_activeDays">AKTIVNÍ DNY</string>
+  <string name="climateschedule_save">Uložit</string>
+  <string name="climateschedule_deleteSchedule">Vymazat</string>
+  <string name="climateschedule_copyToAnotherThermostat">Kopírovat na jiný termostat</string>
+  <string name="climateschedule_scheduleEventError">Něco se nepovedlo, prosím zkuste to znovu.</string>
+  <string name="climateschedule_editTitle">UPRAVIT</string>
+  <string name="climateschedule_deleteWarning">Opravdu chcete vymazat akci %s?</string>
+  <string name="climateschedule_invalidScheduleNameError">Název této naplánované akce není platný</string>
+  <string name="climateschedule_duplicateScheduleNameError">Název této naplánované akce již existuje</string>
+  <string name="climateschedule_discardChangesWarning">Máte neuložené změny. Zapomenout změny?</string>
+  <string name="climateschedule_discard">Zapomenout</string>
+  <string name="climateschedule_saveChangesWarning">Chcete uložit změny?</string>
+  <string name="climateschedule_setpointsTitle">ŽÁDANÉ HODNOTY</string>
+  <string name="climateschedule_scheduleStatusTitle">STATUS PROGRAMU</string>
+  <string name="climateschedule_scheduleStatusItem">Program povolen</string>
+  <string name="climateschedule_timePicker_header">SPUSTIT</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

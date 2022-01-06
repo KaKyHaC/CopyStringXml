@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">Konto</string>
+  <string name="naxaccountdetail_edit_name">Zmień nazwę</string>
+  <string name="naxaccountdetail_signIn">Zaloguj</string>
+  <string name="naxaccountdetail_remove">Usuń</string>
+  <string name="naxaccountdetail_remove_yes">Tak, usuń</string>
+  <string name="naxaccountdetail_removeAccount_warning">To konto %s nie będzie już dostępne dla Crestron Home.\n\n Czy chcesz kontynuować?</string>
+</resources>

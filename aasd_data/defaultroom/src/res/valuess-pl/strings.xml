@@ -1,0 +1,7 @@
+<resources>
+  <string name="defaultRoom_chooseDefaultRoom">WYBIERZ POKÓJ DOMYŚLNY</string>
+  <string name="defaultRoom_category">WYBIERZ POKÓJ DOMYŚLNY</string>
+  <string name="defaultRoom_emptyList">Brak skonfigurowanych pokoi. Na liście nie ma pokoi.</string>
+  <string name="defaultRoom_save">Zapisz</string>
+  <string name="defaultroom_homeConfiguration">Konfiguracja domu</string>
+</resources>

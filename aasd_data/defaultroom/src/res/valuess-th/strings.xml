@@ -1,0 +1,7 @@
+<resources>
+  <string name="defaultRoom_chooseDefaultRoom">เลือกห้องเริ่มต้น</string>
+  <string name="defaultRoom_category">เลือกห้องเริ่มต้น</string>
+  <string name="defaultRoom_emptyList">ไม่มีห้องที่กำหนดค่าไว้ ไม่มีห้องในรายการ</string>
+  <string name="defaultRoom_save">บันทึก</string>
+  <string name="defaultroom_homeConfiguration">การกำหนดค่าบ้าน</string>
+</resources>

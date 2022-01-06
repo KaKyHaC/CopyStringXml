@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">Kontroller</string>
+  <string name="circadianLights_saveButtonText">Spara aktuella inställningar som Dygnsrytm</string>
+</resources>

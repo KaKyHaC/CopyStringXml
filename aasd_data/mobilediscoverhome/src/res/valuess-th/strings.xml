@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mobilediscoverhome_downloadSgMessage">โปรดดาวน์โหลดแอป Smart Graphics เพื่อควบคุมบ้านนี้</string>
+  <string name="mobilediscoverhome_cancel">ยกเลิก</string>
+  <string name="mobilediscoverhome_downloadApp">ดาวน์โหลดแอป</string>
+</resources>

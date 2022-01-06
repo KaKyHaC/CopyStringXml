@@ -1,0 +1,16 @@
+<resources>
+  <string name="claimaddhome_friendlyNameOrLocation">Popisný názov/umiestnenie</string>
+  <string name="claimaddhome_ipAddressOrHostName">IP adresa/meno hostiteľa</string>
+  <string name="claimaddhome_password">Heslo používateľského rozhrania</string>
+  <string name="claimaddhome_connect">Pripojiť</string>
+  <string name="claimaddhome_addTitle">Pridať novú domácnosť</string>
+  <string name="claimaddhome_addSubtitle">Zadajte podrobnosti o svojej novej domácnosti so systémom Crestron a ťuknite na položku Pripojiť, aby ste ju mohli spustiť.</string>
+  <string name="claimaddhome_editTitle">Upraviť %s</string>
+  <string name="claimaddhome_editSubtitle">Upravte údaje o svojej domácnosti v systéme Crestron.</string>
+  <string name="claimaddhome_errorNotEmpty">Ak chcete pokračovať, zadajte %s.</string>
+  <string name="claimaddhome_errorGeneral">Nie je možné sa pripojiť k tejto domácnosti.</string>
+  <string name="claimaddhome_incorrectPassword">Nesprávne heslo.</string>
+  <string name="claimaddhome_localConnectionSettings">NASTAVENIA MIESTNEHO PRIPOJENIA</string>
+  <string name="claimaddhome_discover">Rozpoznať</string>
+  <string name="claimaddhome_invalidPasswordPopUp">Heslo bolo zmenené, znovu zadajte nové heslo pre %s</string>
+</resources>

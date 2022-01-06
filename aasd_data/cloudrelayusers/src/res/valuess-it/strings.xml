@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">Tu</string>
+  <string name="cloud_relay_users_no_user">Non ci sono utenti disponibili</string>
+  <string name="cloud_relay_users_add_new_user">+ Aggiungi il nuovo utente</string>
+  <string name="cloud_relay_users_reclaim_home">Richiedi nuovamente questa Home</string>
+  <string name="cloud_relay_users_role_format">%s (invito in sospeso)</string>
+  <string name="cloud_relay_users_info_unavailable">"Informazioni sull'utente non sono disponibili, riprova più tardi"</string>
+</resources>

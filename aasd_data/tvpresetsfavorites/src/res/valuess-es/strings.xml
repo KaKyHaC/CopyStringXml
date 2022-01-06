@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">Imagen del objeto canal</string>
+  <string name="tvpresetsfavorite_favoritesChannels">FAVORITOS</string>
+  <string name="tvpresetsfavorite_favoritesList">Lista de favoritos de medios</string>
+  <string name="tvpresetsfavorite_favoritesMore">Favoritos de medios más</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">Editar grupo</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">Cambiar grupo favorito</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">Crear nuevo grupo</string>
+  <string name="tvpresetsfavorite_nowPlaying">REPRODUCIENDO AHORA</string>
+  <string name="tvpresetsfavorite_upNext">ARRIBA SIGUIENTE</string>
+  <string name="tvpresetsfavorite_noInformation">Sin información</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">Toque \"⋯\" para añadir sus canales favoritos</string>
+  <string name="tvpresetsfavorite_noProvider">No hay canales favoritos porque no se seleccionó ningún proveedor</string>
+</resources>

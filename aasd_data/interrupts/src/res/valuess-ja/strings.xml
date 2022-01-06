@@ -1,0 +1,8 @@
+<resources>
+  <string name="interrupts_toolbar">イベントとサウンド </string>
+  <string name="interrupts_back_description">イベント戻るボタン
+</string>
+  <string name="interrupts_not_available">
+利用できるイベントはありません。
+</string>
+</resources>

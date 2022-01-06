@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="remotekeypad_hyphen">-</string>
+  <string name="remotekeypad_guide">Opas</string>
+  <string name="remotekeypad_clear">Tyhjennä</string>
+  <string name="remotekeypad_enter">Anna</string>
+  <string name="remotekeypad_notAvailable">Keypad is not available.</string>
+</resources>

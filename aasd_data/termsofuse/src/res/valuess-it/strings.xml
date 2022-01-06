@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">Benvenuto al tuo Home</string>
+  <string name="termsofuse_subtitle_one">In Crestron, diamo importanza alla tua privacy. Si prega di leggere l'Informativa sulla privacy di Crestron tramite il link fornito in seguito oer vedere quali sono le informazioni che possiamo raccogliere. Se desideri modificare le impostazioni sulla privacy del tuo sistema per attivare o disattivare la raccolta di informazioni, contatta il tuo distributore autorizzato Crestron o il fornitore di servizi Crestron, o Crestron Electronics, Inc. %s.</string>
+  <string name="termsofuse_subtitle_two">Per continuare a scoprire il Home, accetta quanto segue:</string>
+  <string name="termsofuse_agreeAndContinue">Accetta e continua</string>
+  <string name="termsofuse_termsOfUse">Condizioni di utilizzo dell’App mobile</string>
+  <string name="termsofuse_privacyStatement">Informativa sulla privacy</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">Sono d'accordo per %s e %s di Crestron.</string>
+</resources>

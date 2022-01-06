@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">Újrapróbálkozás</string>
+  <string name="discoverhome_discovering">Felfedezés</string>
+  <string name="discoverhome_notCompatibleMessage">A PYNG NEM KOMPATIBILIS A CRESTRON HOME ALKALMAZÁSSAL</string>
+  <string name="discoverhome_titleFound">A hálózaton található otthonok</string>
+  <string name="discoverhome_titleNotFound">Nem található új otthon</string>
+  <string name="discoverhome_subtitleFound">Kérjük, jelöljön ki egy otthont a hozzáadási eljárás megkezdéséhez.</string>
+  <string name="discoverhome_subtitleNotFound">Nincs elérhető otthon a hálózaton. Kérjük, ellenőrizze az internetkapcsolatát, majd próbálja meg újra.</string>
+</resources>

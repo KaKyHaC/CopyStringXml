@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Ação de seleção Wifi de volta</string>
+  <string name="touchpanelWifiSelection_title">Seleção de Wifi</string>
+  <string name="touchpanelWifiSelection_Discovering">Descobrindo</string>
+  <string name="touchpanelWifiSelection_tryAgain">Tente novamente</string>
+  <string name="touchpanelWifiSelection_titleFound">Conectar-se ao ponto de acesso WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleFound">Por favor, selecione o ponto de acesso.</string>
+  <string name="touchpanelWifiSelection_titleNotFound">Nenhum ponto de acesso WiFi encontrado</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">Não foram encontrados pontos de acesso WiFi. Por favor, verifique sua conexão de rede e tente novamente.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">Procurando pontos de acesso WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">Por favor, aguarde a conclusão da digitalização.</string>
+</resources>

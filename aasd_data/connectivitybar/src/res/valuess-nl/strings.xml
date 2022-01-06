@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">Verbonden</string>
+  <string name="connectivitybar_disconnectedStatus">Verbinding maken met thuis…</string>
+</resources>

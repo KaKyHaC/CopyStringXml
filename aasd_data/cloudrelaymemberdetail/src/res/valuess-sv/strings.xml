@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">tilldela användarroll</string>
+  <string name="cloudrelaymemberdetail_user">Användare</string>
+  <string name="cloudrelaymemberdetail_owner">Ägare</string>
+  <string name="cloudrelaymemberdetail_remove_user">Ta bort användare</string>
+  <string name="cloudrelaymemberdetail_house_access">Husåtkomst</string>
+  <string name="cloudrelaymemberdetail_enable_access">Aktivera åtkomst</string>
+  <string name="cloudrelaymemberdetail_remove">Ta bort</string>
+  <string name="cloudrelaymemberdetail_cancel">Avbryt</string>
+  <string name="cloudrelaymemberdetail_remove_warning">Är du säker på att du vill ta bort den här användaren?</string>
+</resources>

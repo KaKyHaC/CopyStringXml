@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">Zadat bezpečnostní kód</string>
+  <string name="securitypasscodeentry_saveMessage">Uložte kód pro toto zařízení. Již\ho nebudete muset zadávat znovu.</string>
+  <string name="securitypasscodeentry_invalidPasscode">Chybný kód. Zkuste to prosím znovu.</string>
+  <string name="securitypasscodeentry_passcodeRequired">Kód je prázdný. Prosím zadejte správný kód.</string>
+</resources>

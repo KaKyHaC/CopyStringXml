@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">Estores</string>
+  <string name="shades_scenesTitle">CENÁRIOS</string>
+  <string name="shades_controlsTitle">CONTROLOS</string>
+  <string name="shades_allShadesTitle">TODOS AS CORTINAS</string>
+  <string name="shades_allShades_MoreLightTitle">Mais luz</string>
+  <string name="shades_allShades_LessLightTitle">Menos luz</string>
+  <string name="shades_stopRampText">Parar</string>
+</resources>

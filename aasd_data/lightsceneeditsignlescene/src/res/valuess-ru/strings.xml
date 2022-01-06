@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">Редактировать места освещения</string>
+  <string name="lightEditSingleScene_set_scene_options">УСТАНОВИТЬ ПАРАМЕТРЫ МЕСТА </string>
+  <string name="lightEditSingleScene_delete_scene">Удалить это место</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">Действительно удалить этот профиль?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">Удалить</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">Отмена</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">Извините, это место не может быть удалено.</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">ОК</string>
+  <string name="lightEditSingleScene_dismiss">ОТКЛОНИТЬ</string>
+  <string name="lightEditSingleScene_cannot_edit">К сожалению, название и иконку этого места не удается отредактировать</string>
+</resources>

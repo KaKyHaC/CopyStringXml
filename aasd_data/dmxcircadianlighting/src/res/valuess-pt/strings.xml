@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">Controlos</string>
+  <string name="circadianLights_saveButtonText">Salvar as configurações atuais como ciclo circadiano</string>
+</resources>

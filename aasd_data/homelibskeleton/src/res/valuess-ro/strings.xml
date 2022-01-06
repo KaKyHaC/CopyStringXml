@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">ADĂUGAȚI O NOUĂ CASĂ</string>
+  <string name="homelibskeleton_discoverHome">Explorați casa</string>
+  <string name="homelibskeleton_addManually">ADĂUGARE MANUALĂ</string>
+  <string name="homelibskeleton_editHome">Editare</string>
+  <string name="homelibskeleton_deleteHome">ŞTERGERE</string>
+  <string name="homelibskeleton_deleteHomeWarning">Sunteți sigur(ă) că doriți să ștergeți %s?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">Dacă sunteți singurul/singura proprietar/proprietară care șterge, toți ceilalți utilizatori vor pierde accesul de la distanță la această casă.</string>
+  <string name="homelibskeleton_cancel">Revocare</string>
+  <string name="homelibskeleton_ok">OK</string>
+</resources>

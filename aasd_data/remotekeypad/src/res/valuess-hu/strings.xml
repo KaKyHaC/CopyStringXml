@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="remotekeypad_hyphen">-</string>
+  <string name="remotekeypad_guide">ÚTMUTATÓ</string>
+  <string name="remotekeypad_clear">TÖRLÉS</string>
+  <string name="remotekeypad_enter">BEVITEL</string>
+  <string name="remotekeypad_notAvailable">A számbillentyűzet nem elérhető.</string>
+</resources>

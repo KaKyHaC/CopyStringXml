@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">Editar circadiano</string>
+  <string name="circadianEdit_description">As luzes elétricas podem ser usadas para apoiar a saúde humana, minimizando os seus efeitos no ritmo circadiano humano.</string>
+  <string name="circadianEdit_transitionsCategory">editar pontos de transição de luzes</string>
+  <string name="circadianEdit_previewTransitionButton_start">Transição circadiana de visualização</string>
+  <string name="circadianEdit_previewTransitionButton_end">Antevisão da transição do fim circadiano</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">Manhã</string>
+  <string name="circadianEdit_dayTransition">Dia</string>
+  <string name="circadianEdit_eveningTransition">Tarde</string>
+  <string name="circadianEdit_nightTransition">Noite</string>
+  <string name="circadianEdit_minTime">00:00</string>
+  <string name="circadianEdit_maxTime">23:59</string>
+</resources>

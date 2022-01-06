@@ -1,0 +1,7 @@
+<resources>
+  <string name="defaultRoom_chooseDefaultRoom">VÄLJ STANDARDRUM</string>
+  <string name="defaultRoom_category">VÄLJ STANDARDRUM</string>
+  <string name="defaultRoom_emptyList">Inga rum har konfigurerats. Det finns inga rum i listan.</string>
+  <string name="defaultRoom_save">Spara</string>
+  <string name="defaultroom_homeConfiguration">Hemkonfiguration</string>
+</resources>

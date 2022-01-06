@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">Πρόσβαση σπιτιού</string>
+  <string name="hide_subsystem_lights">Φώτα</string>
+  <string name="hide_subsystem_media">Πολυμέσα</string>
+  <string name="hide_subsystem_pools">Πισίνες &amp; Σπα</string>
+  <string name="hide_subsystem_climate">Κλίμα</string>
+  <string name="hide_subsystem_shades">Σκιές</string>
+  <string name="hide_subsystem_security">Ασφάλεια</string>
+  <string name="hide_subsystem_cameras">Κάμερες</string>
+  <string name="hide_subsystem_customdevices">Προσαρμοσμένες συσκευές</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="lightSceneVisibility_title">Viditeľnosť prostredia</string>
+  <string name="lightSceneVisibility_subtitle">%s prostredie</string>
+</resources>

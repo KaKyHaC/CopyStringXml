@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">Aggiungi una nuova home</string>
+  <string name="homelibskeleton_discoverHome">Scopri la home</string>
+  <string name="homelibskeleton_addManually">AGGIUNGERE MANUALMENTE</string>
+  <string name="homelibskeleton_editHome">Modifica</string>
+  <string name="homelibskeleton_deleteHome">ELIMINA</string>
+  <string name="homelibskeleton_deleteHomeWarning">Sei sicuro di voler cancellare questo  %s?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">Se sei l'unico proprietario, l'eliminazione farà perdere a tutti gli altri utenti l'accesso remoto a questo Home.</string>
+  <string name="homelibskeleton_cancel">Annulla</string>
+  <string name="homelibskeleton_ok">OK</string>
+</resources>

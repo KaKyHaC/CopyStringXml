@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">Światła</string>
+  <string name="lightslib_lights_title">% światła</string>
+  <string name="lightslib_lights_status_on">Światła włączone</string>
+  <string name="lightslib_lights_turning_off">Wyłączanie...</string>
+  <string name="lightslib_lights_turning_on">Włączanie...</string>
+  <string name="lightslib_add_lights_title">Dodaj światła do \"%s\"</string>
+  <string name="lightslib_controlsTitle">STEROWANIE</string>
+  <string name="lightslib_sceneNameScene">Sceneria %s</string>
+  <string name="lightslib_tunableLightNotFound">Coś poszło nie tak. To światło nie mogło zostać odnalezione.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">Zapisać jako ustawienia podstawowe?</string>
+  <string name="lightslib_whiteTuningProgressLost">Zapisać jako ustawienia podstawowe dla tego światła?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">Czy na pewno chcesz zastosować te ustawienia dla tego pokoju?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">Zastąpi to wszelkie inne poprzednio zastosowane ustawienia.</string>
+  <string name="lightslib_saveTunableSettingsError">Wystąpił nieoczekiwany błąd. Nie udało się zapisać ustawień regulowanych.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">Ustawienia regulowane zostały pomyślnie zapisane.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">Wystąpił nieoczekiwany błąd. Nie można było zapisać regulowanych ustawień dla wszystkich świateł w pomieszczeniu.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">Regulowane ustawienia zostały pomyślnie ustawione na wszystkie światła w pomieszczeniu.</string>
+  <string name="lightslib_saveAsGlobalSettings">Zapisz jako ustawienia podstawowe</string>
+  <string name="lightslib_save">Zapisz</string>
+  <string name="lightslib_circadianSettingsProgressLost">Zapisać aktualne ustawienia jako cykl dobowy?</string>
+  <string name="lightslib_saveCircadianSettingsError">Wystąpił nieoczekiwany błąd. Nie udało się zapisać ustawień dobowych.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">Ustawienia dobowe zostały pomyślnie zapisane.</string>
+  <string name="lightslib_morningCircadianTitle">Rano:7:00, %dK</string>
+  <string name="lightslib_noonCircadianTitle">Południe, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">Wieczór: 19:00, %dK</string>
+  <string name="lightslib_nightCircadianTitle">Noc: 22:45, %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">Usunięto ulubiony kolor.</string>
+  <string name="lightslib_addFavorite_confirmation">Dodano ulubiony kolor.</string>
+</resources>

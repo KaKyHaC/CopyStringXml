@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">Sicherheitscode eingeben</string>
+  <string name="securitypasscodeentry_saveMessage">Code für dieses Gerät speichern. Sie werden nicht aufgefordert, diesen Code erneut einzugeben.</string>
+  <string name="securitypasscodeentry_invalidPasscode">Falscher Code. Bitte versuchen Sie es noch einmal.</string>
+  <string name="securitypasscodeentry_passcodeRequired">Der Code ist leer. Bitte geben Sie den richtigen Code ein.</string>
+</resources>

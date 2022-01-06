@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">安全</string>
+  <string name="security_panicActionsTitle">动作</string>
+  <string name="security_panicActionsSubtitle">按住不放1秒以触发每个操作</string>
+  <string name="security_navigationButtonsTitle">导航按钮</string>
+  <string name="security_selectNavigationButton">选择</string>
+  <string name="security_keypadTitle">小键盘</string>
+  <string name="security_keypadSubtitle">输入4位密码和对应于您想执行的操作的一位数字</string>
+  <string name="security_displayTextTitle">显示文本</string>
+</resources>

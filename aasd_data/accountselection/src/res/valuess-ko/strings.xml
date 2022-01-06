@@ -1,0 +1,5 @@
+<resources>
+  <string name="account_selection_account_select">계정 선택</string>
+  <string name="account_selection_add_account">다른 계정을 추가하시겠습니까?</string>
+  <string name="account_selection_go_provider_account">제공자의 계정 설정 페이지로 이동하기</string>
+</resources>

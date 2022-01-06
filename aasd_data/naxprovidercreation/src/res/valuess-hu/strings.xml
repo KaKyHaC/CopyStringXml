@@ -1,0 +1,9 @@
+<resources>
+  <string name="naxprovidercreation_enter_name">Felhasználónév</string>
+  <string name="naxprovidercreation_description">Adja meg az új %s felhasználó nevét.</string>
+  <string name="naxprovidercreation_title">%S felhasználó hozzáadása</string>
+  <string name="naxprovidercreation_add_user">Felhasználó hozzáadása</string>
+  <string name="naxprovidercreation_creating_account">Fiók létrehozása...</string>
+  <string name="naxprovidercreation_account_added">Fiók hozzáadva.</string>
+  <string name="naxprovidercreation_create_failed">Sikertelen bejelentkezés. %s</string>
+</resources>

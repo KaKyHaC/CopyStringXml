@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Színhangolás</string>
+  <string name="dmxroomselection_controlsTitle">VEZÉRLŐK</string>
+  <string name="dmxcolortuning_description">Adja meg a helyiség alapérték beállításait. Az alapérték beállítások segítségével megadhatja a hangolható lámpatestek kívánt színét és hőmérsékletét.\n\Az intenzitási csúszkák és kapcsolók segítenek az Ön számára vizualizálni a színeket. Ezeket a rendszer nem menti el az alapérték beállításokban.</string>
+</resources>

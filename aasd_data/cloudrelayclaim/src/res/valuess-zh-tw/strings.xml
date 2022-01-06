@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">此住宅所有現有用戶的訪問權限將被刪除。認領完成後，您可以選擇將訪問權歸還這些用戶。</string>
+  <string name="cloudrelayclaim_title">繼續認領</string>
+  <string name="cloudrelayclaim_continue">繼續</string>
+  <string name="cloudrelayclaim_success">點擊上方的“用戶”按鈕，開始賦予您的家人和朋友訪問權限。</string>
+  <string name="cloudrelayclaim_warning_ok">確定</string>
+  <string name="cloudrelayclaim_warning_subtitle">請聯繫您的快思聰經銷商，尋求幫助。</string>
+  <string name="cloudrelayclaim_warning_title">此時無法認領您的住宅</string>
+</resources>

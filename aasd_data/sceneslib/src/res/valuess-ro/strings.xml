@@ -1,0 +1,27 @@
+<resources>
+  <string name="sceneslib_create_new">Creați un nou/o nouă</string>
+  <string name="sceneslib_edit">Editare</string>
+  <string name="sceneslib_reorder">Reordonați</string>
+  <string name="sceneslib_max_scenes_reached">Numărul maxim de scene din această încăpere a fost atins. Apăsați \„Editați\” pentru a schimba sau a șterge scenele existente.</string>
+  <string name="sceneslib_unsaved_scene_message">Aveți o scenă nesalvată. Salvați această scenă?</string>
+  <string name="sceneslib_progress_lost_message">Sunteți sigur(ă) că doriți să părăsiți acest ecran și să pierdeți progresul?</string>
+  <string name="sceneslib_generic_scene_name">Scena mea %d</string>
+  <string name="sceneslib_unexpected_error_message">A apărut o eroare neașteptată. Scena nu a putut fi salvată.</string>
+  <string name="sceneslib_success_message">Scena a fost creată cu succes.</string>
+  <string name="sceneslib_update_success_message">Scena a fost actualizată cu succes.</string>
+  <string name="sceneslib_error_invalid_name">Numele scenei specificate nu este valid. Scena nu a putut fi salvată.</string>
+  <string name="sceneslib_error_duplicate_name">Numele scenei specificate este deja utilizat. Scena nu a putut fi salvată.
+</string>
+  <string name="sceneslib_error_name_too_long">Numele scenei specificate este prea lung. Scena nu a putut fi salvată.
+</string>
+  <string name="sceneslib_error_invalid_chars_in_name">Numele scenei specificate conține caractere nevalide. Scena nu a putut fi salvată.</string>
+  <string name="sceneslib_error_read_only">Scena specificată nu este editabilă. Scena nu a putut fi salvată.</string>
+  <string name="sceneslib_error_cannot_delete">A apărut o eroare neașteptată. Scena nu a putut fi ștearsă.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Acesta este un sistem furnizat de scenă și nu poate fi șters.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Această scenă este utilizată prin programarea din altă parte a sistemului. Nu poate fi ștearsă.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">
+Acesta este un sistem furnizat de scenă. Nu poate fi șters în timp ce camera conține anumite lumini.</string>
+  <string name="sceneslib_error_max_scene_count_reached">
+Numărul maxim de scene din această cameră a fost atins. Noua scenă nu a putut fi salvată.</string>
+  <string name="sceneslib_error_invalid_ramp_time">Timpul de estompare selectat nu este valid. Scena nu a putut fi salvată.</string>
+</resources>

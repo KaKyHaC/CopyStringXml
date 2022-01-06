@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">Supportdiagnostik</string>
+  <string name="diagnostics_loggingTitle">Aktivera sändning av diagnostik</string>
+  <string name="diagnostics_loggingDescription">Aktivera inte sändning av diagnostik om det inte begärs av Crestrons tekniska support</string>
+  <string name="diagnostics_submitDiagnostics">Skicka supportdiagnostik</string>
+  <string name="diagnostics_submitMessage">Crestron rekommenderar att du endast skickar in diagnostik när du arbetar med din Crestron-leverantör eller när det begärs av Crestrons kundtjänst. \n\nNär du trycker på Skicka kommer du att kunna välja hur du vill dela filen. Följ instruktionerna från din Crestron-leverantör eller Crestrons kundtjänst för att veta var du ska skicka filen.</string>
+  <string name="diagnostics_submit">Skicka</string>
+</resources>

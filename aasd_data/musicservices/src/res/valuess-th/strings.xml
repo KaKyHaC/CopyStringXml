@@ -1,0 +1,9 @@
+<resources>
+  <string name="music_service_name">บริการเพลง</string>
+  <string name="music_service_add_more">เพิ่มอีก</string>
+  <plurals name="music_service_status_account">
+    <item quantity="one">%d account</item>
+    <item quantity="other">%d accounts</item>
+  </plurals>
+  <string name="music_service_no_music">ไม่มีบริการเสียงเพลงพร้อมใช้</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Tiempo de atenuación</string>
+  <string name="sceneFadeTime_header">establecer tiempo de atenuación de la luz</string>
+</resources>

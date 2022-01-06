@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">Alle rom</string>
+  <string name="roomslib_favorite_rooms">Favoritter</string>
+  <string name="roomslib_other_rooms">Andre rom</string>
+  <string name="ok_text">OK</string>
+  <string name="renameroom_voice">For at taletjenesten din skal forstå dette nye romnavnet, ber du den om å gjenoppdage enhetene dine</string>
+  <string name="duplicate_name">Duplikatnavn</string>
+  <string name="invalid_name">Ugyldig navn</string>
+  <string name="unknown_error">Ukjent feil</string>
+  <string name="read_only">Kun lesetilgang</string>
+  <string name="renameRoom">Gi rommet nytt navn</string>
+  <string name="roomslib_do_not_disturb_toast_on">Ikke forstyrr-modus er slått på.</string>
+  <string name="roomslib_do_not_disturb_toast_off">Ikke forstyrr-modus er av.</string>
+  <string name="roomslib_this_room">Dette rommet</string>
+  <string name="roomslib_selectRoom_colorTuning">Fargejustering</string>
+  <string name="roomslib_selectRoom_circadianLighting">Døgntidsbelysning</string>
+</resources>

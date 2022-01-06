@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">Aspectul principal %s a fost eliminat.</string>
+  <string name="customdevice_controlNotAvailable">COMANDA NU ESTE DISPONIBILĂ</string>
+  <string name="customdevice_emptyAlertTitle">Informațiile nu sunt disponibile.</string>
+  <string name="customdevice_emptyLayoutError">Nu există niciun aspect cu id %s.</string>
+  <string name="customdevice_emptyMediaLayoutError">Nu există niciun aspect stabilit pentru sursa cu proprietarul id %d.</string>
+  <string name="customdevice_emptyAlertError">Nu există niciun aspect cu id %s.</string>
+  <string name="customdevice_alertError">A apărut o eroare la alerta de deschidere cu id %s.</string>
+  <string name="customdevice_layoutError">A apărut o eroare la deschiderea aspectului cu id %s.</string>
+  <string name="customdevice_emptySelectionList">Nu există elemente care să fie afișate pentru %s</string>
+  <string name="customdevice_setValueGenericError">Ceva nu a funcționat bine. Valoarea nu poate fi schimbată.</string>
+  <string name="customdevice_setValueError">Valoarea nu a putut fi schimbată. %s</string>
+  <string name="customdevice_runCommandGenericError">Ceva nu a funcționat bine. Comanda nu poate fi executată.</string>
+  <string name="customdevice_runCommandError">Comanda nu a putut fi executată. %s.</string>
+  <string name="customdevice_thermostat_setpoint">SETAT(Ă) LA</string>
+  <string name="customdevice_thermostat_heatSetpoint">ÎNCĂLZIRE LA</string>
+  <string name="customdevice_thermostat_coolSetpoint">RĂCIRE LA</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">Câmpul de navigare este configurat în mod eronat.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">Utilizați aplicația sau dispozitivul extern pentru control.</string>
+  <string name="customdevice_mediaEmptyScreen_title">Nu este disponibilă nicio comandă.</string>
+</resources>

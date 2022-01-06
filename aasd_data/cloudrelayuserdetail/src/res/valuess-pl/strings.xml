@@ -1,0 +1,18 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">Zaktualizuj swoje informacje</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">Wyloguj się ze wszystkich urządzeń</string>
+  <string name="cloud_relay_user_detail_sign_out">Wyloguj</string>
+  <string name="cloud_relay_user_detail_delete_account">Usuń konto</string>
+  <string name="cloud_relay_user_detail_edit_name">Zmień nazwę</string>
+  <string name="cloud_relay_user_detail_change_email">Zmień e-mail</string>
+  <string name="cloud_relay_user_detail_change_password">Zmień hasło</string>
+  <string name="cloud_relay_user_detail_change_phone_number">Zmień numer telefonu</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">Kliknięcie „Tak” wyloguje Cię ze wszystkich urządzeń, na których jesteś zalogowany na tym koncie. Wszystkie sesje zostaną wylogowane przez system w ciągu 1-60 minut.</string>
+  <string name="cloud_relay_user_detail_sign_out_user">Czy na pewno chcesz się wylogować?</string>
+  <string name="cloud_relay_user_detail_delete_user_account">Czy na pewno chcesz usunąć konto?</string>
+  <string name="cloud_relay_user_detail_account_deleted">Konto zostało usunięte</string>
+  <string name="cloud_relay_user_detail_user_signed_out">Zostałeś wylogowany</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">Usunięcie konta zajmie około 15 sekund. Jeśli do ponownej rejestracji używasz tych samych danych, odczekaj minimum15 sekund.</string>
+  <string name="cloud_relay_user_detail_no">Nie</string>
+  <string name="cloud_relay_user_detail_yes">Tak</string>
+</resources>

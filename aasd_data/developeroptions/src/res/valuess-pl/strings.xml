@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">Włącz opcje programistyczne</string>
+  <string name="reset_logging_after_24_hours">Zresetuj logowanie po 24 godzinach</string>
+  <string name="developer_options">Opcje programistyczne</string>
+  <string name="logging_level">Poziom logowania</string>
+  <string name="logging">Logowanie</string>
+  <string name="network_logging">Logowanie sieciowe</string>
+  <string name="detailed_logging">Szczegółowe logowanie</string>
+</resources>

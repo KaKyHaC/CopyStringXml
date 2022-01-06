@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">Diagnostiche di supporto</string>
+  <string name="diagnostics_loggingTitle">Abilita l'inivio delle diagnastiche </string>
+  <string name="diagnostics_loggingDescription">Si prega di non abilitare l'invio della diagnostica se non viene indicato dal supporto tecnico di Crestron</string>
+  <string name="diagnostics_submitDiagnostics">Invia  le diagnostiche di supporto</string>
+  <string name="diagnostics_submitMessage">Crestron raccomanda di attivare la diagnostica solo quando si lavora con il proprio distributore di Crestron o richiesto dal supporto clienti di Crestron. \n\n Premendo l'invio potrai scegliere come condividere il file. Segui le istruzioni del tuo distributore di Crestron, o del supporto clienti di Crestron, su come inviare questo file.</string>
+  <string name="diagnostics_submit">Invia</string>
+</resources>

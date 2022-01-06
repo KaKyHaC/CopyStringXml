@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">Všetkým existujúcim používateľom v tejto domácnosti sa zruší prístup. Po dokončení prihlasovania môžete týmto používateľom prístup vrátiť</string>
+  <string name="cloudrelayclaim_title">Pokračovať v prihlasovaní</string>
+  <string name="cloudrelayclaim_continue">Pokračovať</string>
+  <string name="cloudrelayclaim_success">Ťuknite na tlačidlo „Používatelia“ vyššie a začnite poskytovať prístup svojej rodine a priateľom.</string>
+  <string name="cloudrelayclaim_warning_ok">OK</string>
+  <string name="cloudrelayclaim_warning_subtitle">Kontaktujte svojho predajcu systému Crestron a požiadajte ho o pomoc.</string>
+  <string name="cloudrelayclaim_warning_title">Momentálne nie je možné prihlásiť vašu domácnosť</string>
+</resources>

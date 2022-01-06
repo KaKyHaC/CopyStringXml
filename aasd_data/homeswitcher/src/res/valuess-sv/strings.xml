@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">Mina hem</string>
+  <string name="homeswitcher_addHome">Lägg till</string>
+  <string name="homeswitcher_online_status">Det här hemmet är redan anslutet och redo.\nTryck för att öppna.</string>
+  <string name="homeswitcher_online_remote_status">Tryck för att öppna.</string>
+  <string name="homeswitcher_offline_status">Det här hemmet är OFFLINE.\nTryck för att öpnna.</string>
+  <string name="homeswitcher_offline">OFFLINE.</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="lightSceneReorder_reorder_lightning_scenes">Zmień kolejność scenerii świateł</string>
+  <string name="lightSceneReorder_default_order">Domyślna kolejność</string>
+  <string name="lightSceneReorder_scenes_subtitle">Scenerie</string>
+</resources>

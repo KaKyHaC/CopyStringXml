@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">HANGSZÓRÓ BEÁLLÍTÁSOK</string>
+  <string name="mediamore_additionalFunctions">TOVÁBBI FUNKCIÓK</string>
+  <string name="mediamore_advancedSettings">Haladó beállítások</string>
+  <string name="mediamore_noInfo">Nincs elérhető információ.</string>
+</resources>

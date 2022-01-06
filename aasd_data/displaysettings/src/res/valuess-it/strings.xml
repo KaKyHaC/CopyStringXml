@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_settings_title">Schermo</string>
+  <string name="display_settings_edit">Modifica</string>
+</resources>

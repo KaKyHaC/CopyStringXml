@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Flytta och ändra storlek</string>
+  <string name="changeimage_cellularWarning">Uppladdningar av bilder kan ta mycket längre när du inte är ansluten till Wi-Fi.</string>
+  <string name="changeimage_cancel">Avbryt</string>
+  <string name="changeimage_choose">Välj</string>
+</resources>

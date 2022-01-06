@@ -1,0 +1,6 @@
+<resources>
+  <string name="naxaccountedit_editTitle">ערוך שם חשבון</string>
+  <string name="naxaccountedit_accountLabel">חשבון</string>
+  <string name="naxaccountedit_editNameLabel">שם</string>
+  <string name="naxaccountedit_done">סיום</string>
+</resources>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">リモート</string>
+  <string name="roommedia_more">詳細</string>
+  <string name="roommedia_playing">再生中</string>
+  <string name="roommedia_browse">閲覧する</string>
+  <string name="roommedia_multiRoom">マルチルーム</string>
+  <string name="roommedia_favorites">お気に入り</string>
+  <string name="roommedia_keypad">キーパッド</string>
+  <string name="roommedia_media">メディア</string>
+  <string name="roommedia_warmingUp">ウォーミングアップ</string>
+  <string name="roommedia_coolingDown">クールダウン</string>
+  <string name="roommedia_roomVideo">
+％sビデオ</string>
+  <string name="roommedia_limitedControl">
+制限付き制御。接続中…</string>
+  <string name="roommedia_someRoomsAreOff">
+一部の部屋はオフになっています</string>
+  <string name="roommedia_openInSonos">Sonosで開く</string>
+  <string name="roommedia_account_status">サインインしていません</string>
+  <string name="roommedia_noNowPlayingInformation">何も再生されていません</string>
+  <string name="roommedia_noAccountSelected">アカウントを選択</string>
+  <string name="roommedia_pduPr_dialogHeader">このデバイスの電源を入れ直しますか？
+</string>
+  <string name="roommedia_pduPr_dialogMessage">
+バックアップの開始には数分かかる場合があります。</string>
+  <string name="roommedia_pduPr_digPowerCycle">
+パワーサイクル</string>
+  <string name="roommedia_pduPr_digCancel">キャンセル</string>
+  <string name="roommedia_pduPr_toastMessage">
+電源を入れ直すためのクイックアクションはありません</string>
+</resources>

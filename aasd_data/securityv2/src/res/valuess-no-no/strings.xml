@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_v2_actions_header_text">Handlinger</string>
+  <string name="security_v2_toolbarTitle">Sikkerhet</string>
+  <string name="security_v2_panicActionsTitle">Handlinger</string>
+  <string name="security_v2_panicActionsSubtitle">Trykk og hold i 1 sekund for å utløse hver handling</string>
+  <string name="security_v2_navigationButtonsTitle">NAVIGASJONSKNAPPER</string>
+  <string name="security_v2_selectNavigationButton">Velg</string>
+  <string name="security_v2_keypadTitle">Tastatur</string>
+  <string name="security_v2_keypadSubtitle">Tast inn den 4-sifrede koden og et siffer som tilsvarer handlingen du ønsker å utføre</string>
+  <string name="security_v2_displayTextTitle">VIS TEKST</string>
+</resources>

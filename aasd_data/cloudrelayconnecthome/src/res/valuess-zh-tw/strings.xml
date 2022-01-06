@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayconnecthome_edit_home">編輯住宅</string>
+  <string name="couldrelayconnecthome_edit_details">編輯有關您的 Crestron Home（快思聰智家）的詳細訊息。</string>
+  <string name="cloudrelayconnecthome_home_settings">住宅設定</string>
+  <string name="cloudrelayconnecthome_friendlyNameOrLocation">易記名稱/地點</string>
+  <string name="cloudrelayconnecthome_password">用戶界面密碼</string>
+  <string name="cloudrelayconnecthome_localConnectionSettings">本地連接設定</string>
+  <string name="cloudrelayconnecthome_ipAddressOrHostName">IP 位址 / 主機名稱</string>
+  <string name="cloudrelayconnecthome_continue">繼續</string>
+</resources>

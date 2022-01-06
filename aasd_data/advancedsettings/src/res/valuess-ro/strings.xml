@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">AFIȘEZĂ COMENZI</string>
+  <string name="advancedSettings_roomVisibilityControl_label">AFIȘEAZĂ CAMERE</string>
+  <string name="advancedSettings_settings_home_access_label">Acces la casă</string>
+  <string name="advancedSettings_settings_cameras_label">APARATE FOTO</string>
+  <string name="advancedSettings_settings_security_label">Securitate</string>
+  <string name="advancedSettings_back_description">Setări buton Înapoi</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">ÎNTRERUPERI AUDIO ȘI SONERII</string>
+  <string name="advancedSettings_settings_events_sound_label">Evenimente și sunete</string>
+  <string name="advancedSettings_settings_change_theme_label">AFIŞEAZĂ</string>
+  <string name="advancedSettings_settings_change_theme_title">Schimbați tema</string>
+  <string name="advancedSettings_toolbar">Setări avansate</string>
+  <string name="advancedSettings_showDoNotSiasturb">Afișează modul „Nu deranjați”</string>
+  <string name="advancedSettings_colorTuning_label">Reglarea culorilor</string>
+  <string name="advancedSettings_tunableLighting_label">Iluminare reglabilă</string>
+  <string name="advancedSettings_circadianSettings_label">Setări circadiene</string>
+</resources>

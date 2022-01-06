@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="autoupdate_updateStarted">Actualizare a început.</string>
+  <string name="autoupdate_updateFailed">Actualizarea a eșuat.</string>
+  <string name="autoupdate_updateServerUnreachable">Nu este posibilă conectarea la serverul de actualizare.</string>
+  <string name="autoupdate_updateSucceeded">Actualizarea a reușit.</string>
+</resources>

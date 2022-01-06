@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">Velkommen til ditt hjem</string>
+  <string name="termsofuse_subtitle_one">Hos Crestron er personvernet ditt viktig for oss. Se gjennom Crestrons personvernerklæring på lenken nedenfor for å se hvilke typer informasjon vi kan samle inn. Hvis du ønsker å endre personverninnstillingene til systemet ditt for å aktivere eller deaktivere innhenting av informasjon, vennligst kontakt din autoriserte Crestron-forhandler eller Crestron-tjenesteleverandør, eller Crestron Electronics, Inc. på %s.</string>
+  <string name="termsofuse_subtitle_two">For å fortsette å oppdage hjemmet må du godta følgende:</string>
+  <string name="termsofuse_agreeAndContinue">Enig og fortsett</string>
+  <string name="termsofuse_termsOfUse">Brukerbetingelser for mobilapper</string>
+  <string name="termsofuse_privacyStatement">Personvernerklæring</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">Jeg godtar Crestrons %s og %s.</string>
+</resources>

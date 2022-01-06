@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">Eventos agendados</string>
+  <string name="climateschedules_noSchedulesTitle">Sem eventos programados</string>
+  <string name="climateschedules_noSchedulesDescription">Automatize os seus termostatos e crie eventos programados personalizados para cada termostato.</string>
+  <string name="climateschedules_emptyLayout_createNew">Criar novo evento de programação</string>
+  <string name="climateschedules_createNew">+ Criar novo evento agendado</string>
+</resources>

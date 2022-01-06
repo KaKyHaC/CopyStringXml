@@ -1,0 +1,18 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">Atualize seus dados</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">Terminar sessão em todos os dispositivos</string>
+  <string name="cloud_relay_user_detail_sign_out"> Sair da sessão</string>
+  <string name="cloud_relay_user_detail_delete_account">Eliminar conta</string>
+  <string name="cloud_relay_user_detail_edit_name">Editar nome</string>
+  <string name="cloud_relay_user_detail_change_email">Alterar e-mail</string>
+  <string name="cloud_relay_user_detail_change_password">Alterar senha</string>
+  <string name="cloud_relay_user_detail_change_phone_number">Alterar número de telefone</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">Ao tocar em "Sim", você será desconectado de todos os dispositivos em quais você estiver conectado usando esta conta.Todas as sessões serão terminadas pelo sistema dentro de 1-60 minutos.</string>
+  <string name="cloud_relay_user_detail_sign_out_user">Tem certeza de que deseja sair da sessão?</string>
+  <string name="cloud_relay_user_detail_delete_user_account">Tem certeza de que deseja excluir a conta?</string>
+  <string name="cloud_relay_user_detail_account_deleted">Conta foi excluída</string>
+  <string name="cloud_relay_user_detail_user_signed_out">Você está desconectado</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">A eliminação da conta levaria cerca de 15 segundos. Tente se inscrever se estiver usando a mesma conta após 15 segundos.</string>
+  <string name="cloud_relay_user_detail_no">Não</string>
+  <string name="cloud_relay_user_detail_yes">SIM</string>
+</resources>

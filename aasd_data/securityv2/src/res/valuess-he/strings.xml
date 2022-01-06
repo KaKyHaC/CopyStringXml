@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_v2_actions_header_text">פעולות</string>
+  <string name="security_v2_toolbarTitle">אבטחה</string>
+  <string name="security_v2_panicActionsTitle">פעולות</string>
+  <string name="security_v2_panicActionsSubtitle">לחץ והחזק למשך שנייה אחת כדי להפעיל כל פעולה</string>
+  <string name="security_v2_navigationButtonsTitle">מקשי ניווט</string>
+  <string name="security_v2_selectNavigationButton">בחר</string>
+  <string name="security_v2_keypadTitle">לוח מקשים</string>
+  <string name="security_v2_keypadSubtitle">הזן את הקוד בן 4 הספרות והספרה התואמת לפעולה שברצונך לבצע</string>
+  <string name="security_v2_displayTextTitle">טקסט על הצג</string>
+</resources>

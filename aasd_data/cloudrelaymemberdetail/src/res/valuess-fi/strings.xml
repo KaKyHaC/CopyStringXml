@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">assign user role</string>
+  <string name="cloudrelaymemberdetail_user">Käyttäjä</string>
+  <string name="cloudrelaymemberdetail_owner">Omistaja</string>
+  <string name="cloudrelaymemberdetail_remove_user">Remove user</string>
+  <string name="cloudrelaymemberdetail_house_access">House access</string>
+  <string name="cloudrelaymemberdetail_enable_access">Enable access</string>
+  <string name="cloudrelaymemberdetail_remove">Poista</string>
+  <string name="cloudrelaymemberdetail_cancel">Peruuta</string>
+  <string name="cloudrelaymemberdetail_remove_warning">Are you sure you want to remove this user?</string>
+</resources>

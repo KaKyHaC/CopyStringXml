@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">Edit name</string>
+  <string name="cloudrelayeditusername_subtitle">Remote cloud connection</string>
+  <string name="cloudrelayeditusername_accountLabel">Tili</string>
+  <string name="cloudrelayeditusername_editNameLabel">Nimi</string>
+  <string name="cloudrelayeditusername_done">Valmis</string>
+</resources>

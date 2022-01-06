@@ -1,0 +1,6 @@
+<resources>
+  <string name="cloudrelayrecoveraccount_update_info">update je info</string>
+  <string name="cloudrelayrecoveraccount_change_mail">E-mailadres wijzigen</string>
+  <string name="cloudrelayrecoveraccount_reset_password">Wachtwoord opnieuw instellen</string>
+  <string name="cloudrelayrecoveraccount_reset_number">Telefoonnummer resetten</string>
+</resources>

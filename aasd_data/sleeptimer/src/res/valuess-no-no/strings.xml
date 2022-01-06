@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">Slå på dette medierommet</string>
+  <string name="sleeptimer_disabledMsg">STILL TIDEN</string>
+  <string name="sleeptimer_enabledMsg">%s SLÅR AV</string>
+  <string name="sleeptimer_controlTitle">Sleep timer</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

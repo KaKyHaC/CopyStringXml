@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianTransition_title">%s 편집</string>
+  <string name="circadianTransition_description">“%s” 전환점이 시작되는 시간을 선택하고 원하는 색 온도를 설정하십시오. 이러한 설정은 모든 룸에 영향을 미칩니다.</string>
+  <string name="circadianTransition_categoryTitle_startTime">시작 시간 설정</string>
+  <string name="circadianTransition_categoryTitle_colorTemperature">색 온도 설정</string>
+  <string name="circadianTransition_colorTemperature">색 온도 — %dK</string>
+  <string name="circadianTransition_morning">아침</string>
+  <string name="circadianTransition_day">낮</string>
+  <string name="circadianTransition_evening">저녁</string>
+  <string name="circadianTransition_night">밤</string>
+  <string name="circadianTransition_timePicker_header">시작</string>
+  <string name="circadianTransition_timePicker_colon">:</string>
+  <string name="circadianTransition_timePicker_minuteFormat">%02d</string>
+</resources>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">הגדר את טיימר השינה לכיבוי עבור כל המדיה הפעילה בחדר הזה.</string>
+  <string name="sleeptimer_disabledMsg">הגרת את השעה</string>
+  <string name="sleeptimer_enabledMsg">%s  יתכבה </string>
+  <string name="sleeptimer_controlTitle">טיימר שינה</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

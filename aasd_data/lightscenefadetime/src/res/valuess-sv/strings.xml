@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Nedtoningstid</string>
+  <string name="sceneFadeTime_header">ange nedtoningstid för belysning</string>
+</resources>

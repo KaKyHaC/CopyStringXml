@@ -1,0 +1,11 @@
+<resources>
+  <string name="more_crestron">Crestron</string>
+  <string name="more_help">Pomoc</string>
+  <string name="more_help_webview">Pomoc</string>
+  <string name="more_legal_terms">Warunki prawne</string>
+  <string name="more_privacy_information">Informacje o prywatności</string>
+  <string name="more_feedback">Informacje zwrotne</string>
+  <string name="more_version">Wersja - %s</string>
+  <string name="more_changeColorMode">Zmień tryb kolorów</string>
+  <string name="more_developer_options">Opcje programistyczne</string>
+</resources>

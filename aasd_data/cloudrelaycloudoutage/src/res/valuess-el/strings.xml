@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">Η σύνδεση στο cloud έχει διακοπεί…</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">Δεν είναι δυνατή η φόρτωση των συσκευών ρύθμισης ελέγχου αυτήν τη στιγμή. Παρόλο που η σύνδεση cloud είναι προσωρινά εκτός σύνδεσης, εφόσον βρίσκεστε στο τοπικό WAP, μπορείτε ακόμα να συνδεθείτε τοπικά.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">Δοκιμάστε να συνδεθείτε τοπικά</string>
+</resources>

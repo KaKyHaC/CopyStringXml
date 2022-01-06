@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Värisäätö</string>
+  <string name="dmxroomselection_controlsTitle">CONTROLS</string>
+  <string name="dmxcolortuning_description">Määritä tämän huoneen perusasetukset. Perusasetuksissa määrität halutun värin ja värilämpötilan viritettäville valaisinlaitteillesi.\n\nVoimakkuusliu'ut ja -kytkimet auttavat sinua näkemään värin. Niitä ei tallenneta perusasetuksiin.</string>
+</resources>

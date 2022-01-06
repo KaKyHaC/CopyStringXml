@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sceneNameAndIcon_title">장면 이름 및 아이콘</string>
+  <string name="sceneNameAndIcon_subtitle">새 장면의 이름을 입력하고 아이콘을 선택하십시오.</string>
+</resources>

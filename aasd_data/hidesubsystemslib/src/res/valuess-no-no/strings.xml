@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">Hustilgang</string>
+  <string name="hide_subsystem_lights">Lys</string>
+  <string name="hide_subsystem_media">Media</string>
+  <string name="hide_subsystem_pools">Bassenger &amp; Spa</string>
+  <string name="hide_subsystem_climate">Klima</string>
+  <string name="hide_subsystem_shades">Nyanser</string>
+  <string name="hide_subsystem_security">Sikkerhet</string>
+  <string name="hide_subsystem_cameras">Kameraer</string>
+  <string name="hide_subsystem_customdevices">Egendefinerte enheter</string>
+</resources>

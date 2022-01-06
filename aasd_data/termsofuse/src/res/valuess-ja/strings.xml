@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">ホームへようこそ</string>
+  <string name="termsofuse_subtitle_one">
+クレストロンでは、あなたのプライバシーは私たちにとって重要です。収集する可能性のある情報の種類については、以下のリンクにあるCrestronのプライバシーステートメントを確認してください。システムのプライバシー設定を変更して情報の収集を有効または無効にする場合は、認定されたCrestronディーラーまたはCrestronサービスプロバイダー、またはCrestron Electronics、Inc。（％s）に連絡してください。</string>
+  <string name="termsofuse_subtitle_two">検索を続けるには、以下に同意してください：</string>
+  <string name="termsofuse_agreeAndContinue">同意して続けます</string>
+  <string name="termsofuse_termsOfUse">モバイルアプリの利用規約</string>
+  <string name="termsofuse_privacyStatement">プライバシーポリシー</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">Crestron\'s %sと％sに同意します。</string>
+</resources>

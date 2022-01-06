@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Criar novo cenário</string>
+  <string name="lightSceneCreate_add_lights">Adicionar luzes</string>
+  <string name="lightSceneCreate_add_more_lights">Adicione mais luzes</string>
+  <string name="lightSceneCreate_save">Guardar</string>
+  <string name="lightSceneCreate_set_scene_options">DEFINIR OPÇÕES DE CENÁRIO</string>
+  <string name="lightSceneCreate_fade_time">Tempo de desvanecimento</string>
+  <string name="lightSceneCreate_scene_visibility">Visibilidade da cenários</string>
+  <string name="lightSceneCreate_subtitle_template">%d DE %d CENÁRIOS</string>
+</resources>

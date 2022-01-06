@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">Azioni rapide</string>
+  <string name="room_room_services">SERVIZI IN CAMERA</string>
+  <string name="renameroomgroup_popupCancelButton">Annulla</string>
+  <string name="renameroomgroup_popupCreateButton">Rinomina</string>
+  <string name="renameroomgroup_popupTitle">Rinomina la stanza</string>
+</resources>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s klimaat</string>
+  <string name="climatelib_noActiveThermostats_upperCase">GEEN ACTIEVE THERMOSTATEN</string>
+  <string name="climatelib_noActiveThermostats">Geen actieve thermostaten</string>
+  <string name="climatelib_status_multiple_running">meerdere thermostaten draaien</string>
+  <string name="climatelib_status_heating_to_temperature">Verwarmen tot %s</string>
+  <string name="climatelib_status_cooling_to_temperature">Koelen tot %s</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%dºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">KOELING TOT%.1fº, H.C. AAN (56%%)</string>
+  <string name="climatelib_thermostat_status_increasing">VERWARMING TOT%.1fº, H.C. AAN (56%%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">HC AAN (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H. AAN (%s)</string>
+  <string name="climatelib_thermostat_state_offline">Offline</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">KOEL INSTELLEN</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">WARMTE INSTELLEN</string>
+  <string name="climatelib_thermostat_setpoint_single">SETPUNT</string>
+  <string name="climatelib_set_point">SETPUNT</string>
+  <string name="climatelib_heat_set_point">VERWARMEN TO</string>
+  <string name="climatelib_cool_set_point">OKE OM TE</string>
+  <string name="climatelib_single_set_point">Enkel Auto</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">KOEL NAAR %s</string>
+  <string name="climatelib_thermostat_heatTo">VERWARMEN TOT %s</string>
+  <string name="climatelib_thermostat_setTo">INSTELLEN OP %s</string>
+  <string name="climatelib_state_off">UIT</string>
+  <string name="climatelib_state_on">AAN</string>
+  <string name="climatelib_thermostatMode_heat">WARM</string>
+  <string name="climatelib_thermostatMode_cool">KOUD</string>
+  <string name="climatelib_thermostatMode_single_auto">Enkel Auto</string>
+  <string name="climatelib_thermostatMode_dual_auto">Dubbel Auto</string>
+  <string name="climatelib_thermostatMode_aux_heat">Hulpverwarming</string>
+  <string name="climatelib_thermostatMode_autoMode">AUTOMATISCHE MODUS</string>
+  <string name="climatelib_thermostatMode_dualMode">DUBBELE MODUS</string>
+  <string name="climatelib_thermostatFan_auto">Automatisch</string>
+  <string name="climatelib_thermostatFan_low">Laag</string>
+  <string name="climatelib_thermostatFan_medium">Medium</string>
+  <string name="climatelib_thermostatFan_high">Hoog</string>
+  <string name="climatelib_thermostatFan_circulate">Circuleren</string>
+  <string name="climatelib_thermostatFan_circulateLow">Laag circuleren</string>
+  <string name="climatelib_thermostatFan_circulateMedium">Circuleren Medium</string>
+  <string name="climatelib_thermostatFan_none">Geen</string>
+  <string name="climatelib_thermostatSchedule_noEvents">Geen evenementen</string>
+  <string name="climatelib_thermostatSchedule_hold">Stop</string>
+  <string name="climatelib_thermostatSchedule_running">Rennen</string>
+  <string name="climatelib_thermostatSchedule_run">Start</string>
+  <string name="climatelib_thermostatSchedule_override">Tijdelijk</string>
+  <string name="climatelib_thermostatSchedule_next">VOLGENDE%1$s -%2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">Vasthouden</string>
+  <string name="climatelib_labelMode">MODUS</string>
+  <string name="climatelib_labelFan">VENTILATOR</string>
+  <string name="climatelib_labelSchedule">PROGRAMMA</string>
+  <string name="climatelib_noScheduleEvents">Er zijn geen planningsevenementen. Wilt u nu planningsgebeurtenissen maken?</string>
+  <string name="climatelib_popupCancel">ANNULEREN</string>
+  <string name="climatelib_popupCreate">Maken</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">KLIMAATSCHEMA</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">Geprogrammeerde gebeurtenissen</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">Incorrect wachtwoord</string>
+  <string name="climatelib_climateSchedules_weekdays">Weekdagen</string>
+  <string name="climatelib_climateSchedules_weekend">Weekend</string>
+  <string name="climatelib_climateSchedules_everyday">ELKE DAG</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s, %2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">Geen geplande evenementen</string>
+  <string name="climatelib_climateSchedules_mon">MA</string>
+  <string name="climatelib_climateSchedules_tue">DI</string>
+  <string name="climatelib_climateSchedules_wed">WO</string>
+  <string name="climatelib_climateSchedules_thu">DO</string>
+  <string name="climatelib_climateSchedules_fri">VR</string>
+  <string name="climatelib_climateSchedules_sat">ZA</string>
+  <string name="climatelib_climateSchedules_sun">ZO</string>
+  <string name="climatelib_climate">KLIMAAT</string>
+</resources>

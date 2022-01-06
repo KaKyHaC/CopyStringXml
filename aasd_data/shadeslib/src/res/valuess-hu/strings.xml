@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">Árnyékolók</string>
+  <string name="shadeslib_all_shades_closed">ZÁRÁS</string>
+  <string name="shadeslib_all_shades_opened">NYITÁS</string>
+  <string name="shadeslib_shades_title">%s árnyékoló</string>
+  <string name="shadeslib_shade_state_with_tilt">%d%% DÖNTÉSSEL</string>
+  <string name="shadeslib_shades_status_opened">Az árnyékolók nyitva vannak.</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (RÉSZLEGESEN OFFLINE)</string>
+  <string name="shadeslib_position_open">%D%% NYITVA</string>
+  <string name="shadeslib_shades_closed">ZÁRÁS</string>
+  <string name="shadeslib_shades_open">NYITÁS</string>
+  <string name="shadeslib_shades_opening">NYITÁS...</string>
+  <string name="shadeslib_shades_closing">ZÁRÁS...</string>
+</resources>

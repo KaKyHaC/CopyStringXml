@@ -1,0 +1,5 @@
+<resources>
+  <string name="landing_screen_discover_home">Обнаружить дом</string>
+  <string name="landing_screen_add_manually">ДОБАВИТЬ ВРУЧНУЮ</string>
+  <string name="landing_screen_waps_selection_button_title">Подключение к точке доступа Wi-Fi</string>
+</resources>

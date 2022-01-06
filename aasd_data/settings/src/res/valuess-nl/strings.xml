@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Time-out virtuele werkbalk</string>
+  <string name="settings_hardkey_wakes_lcd">Hardkey activeert LCD</string>
+  <string name="settings_master_volume">Hoofdvolume</string>
+  <string name="settings_hardkey_behavior">UP/DOWN PANEEL KNOP GEDRAG</string>
+  <string name="settings_hardkey_no_function">Geen functie</string>
+  <string name="settings_hardkey_lights">Lichten (kamer hoger/lager)</string>
+  <string name="settings_hardkey_shades">Zonneschermen (kamer hoger/lager)</string>
+  <string name="settings_hardkey_media">Media (kamer volume+/volume-)</string>
+  <string name="settings_advanced_settings_toolbar">Geavanceerde instellingen</string>
+</resources>

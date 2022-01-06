@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">分配用戶角色</string>
+  <string name="cloudrelayadduser_user">使用者</string>
+  <string name="cloudrelayadduser_owner">所有者</string>
+  <string name="cloudrelayadduser_username">使用者名稱</string>
+  <string name="cloudrelayadduser_email">電子郵件</string>
+  <string name="cloudrelayadduser_yes">是</string>
+  <string name="cloudrelayadduser_no">否</string>
+  <string name="cloudrelayadduser_invite_warning">您尚未完成發送邀請。要繼續編輯嗎？</string>
+  <string name="cloudrelayadduser_send_invite">發出邀請</string>
+  <string name="cloudrelayadduser_invite_sent">邀請已發出。</string>
+  <string name="cloudrelayadduser_add_new_user">新增新的用戶</string>
+</resources>

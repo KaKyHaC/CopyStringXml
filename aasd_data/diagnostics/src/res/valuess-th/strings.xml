@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">การวินิจฉัยการสนับสนุน</string>
+  <string name="diagnostics_loggingTitle">เปิดใช้งานการส่งการวินิจฉัย</string>
+  <string name="diagnostics_loggingDescription">โปรดอย่าเปิดใช้งานการส่งเพื่อตรวจสอบปัญหายกเว้นได้รับคำแนะนำจาก Crestron Tech Support</string>
+  <string name="diagnostics_submitDiagnostics">ส่งการวินิจฉัยการสนับสนุน</string>
+  <string name="diagnostics_submitMessage">Crestron ขอแนะนำให้คุณส่งเข้ารหัสสอบปัญหาเมื่อประสานงานกับดีลเลอร์ Crestron หรือได้รับคำแนะนำจาก Crestron Customer Support เท่านั้น \n\n การกดส่งจะให้คุณเลือกว่าต้องการแชร์ไฟล์เช่นไร โปรดปฏิบัติตามคำแนะนำจากดีลเลอร์ Crestron หรือ Crestron Customer Support ว่าควรส่งไฟล์ไปยังที่ใด</string>
+  <string name="diagnostics_submit">ส่ง</string>
+</resources>

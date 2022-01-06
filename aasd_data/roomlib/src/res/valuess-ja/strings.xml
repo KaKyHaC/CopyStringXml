@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">すべての部屋</string>
+  <string name="roomslib_favorite_rooms">お気に入り</string>
+  <string name="roomslib_other_rooms">他の部屋</string>
+  <string name="ok_text">OK</string>
+  <string name="renameroom_voice">お客様の音声サービスがこの新しい部屋の名前を理解するためには、お客様のデバイスを再発見できるように尋ねてください</string>
+  <string name="duplicate_name">重複する名前</string>
+  <string name="invalid_name">無効な名前</string>
+  <string name="unknown_error">不明なエラー　　</string>
+  <string name="read_only">読み取り専用</string>
+  <string name="renameRoom">部屋の名称を変更します</string>
+  <string name="roomslib_do_not_disturb_toast_on">阻害モードの起動禁止。　</string>
+  <string name="roomslib_do_not_disturb_toast_off">邪魔しないモードがオフになっています。　</string>
+  <string name="roomslib_this_room">この部屋　　</string>
+  <string name="roomslib_selectRoom_colorTuning">カラー調整</string>
+  <string name="roomslib_selectRoom_circadianLighting">24時間周期の照明方法</string>
+</resources>

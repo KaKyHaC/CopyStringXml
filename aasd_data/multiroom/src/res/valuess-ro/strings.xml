@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">Este selectată o singură cameră </string>
+  <string name="multiroom_singleRoomDescription">Puteți asculta aceeași muzică în mai multe camere din casa dvs.</string>
+  <string name="multiroom_playInMultipleRooms">Redă în mai multe camere</string>
+  <string name="multiroom_manageRoomsAndGroups">Gestionați camere și grupuri</string>
+  <string name="multiroom_sourceNotPlaying">Sursa nu redă</string>
+</resources>

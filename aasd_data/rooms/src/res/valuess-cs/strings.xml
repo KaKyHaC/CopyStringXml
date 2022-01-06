@@ -1,0 +1,6 @@
+<resources>
+  <string name="rooms_title">POKOJE</string>
+  <string name="room_groups_choose_room_filter">Zvolit filtr místností</string>
+  <string name="rooms">POKOJE</string>
+  <string name="rooms_no_rooms_visible">V tomto domě nejsou žádné místnosti</string>
+</resources>

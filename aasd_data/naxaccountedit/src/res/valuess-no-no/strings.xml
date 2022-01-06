@@ -1,0 +1,6 @@
+<resources>
+  <string name="naxaccountedit_editTitle">Rediger kontonavn</string>
+  <string name="naxaccountedit_accountLabel">REGNSKAP</string>
+  <string name="naxaccountedit_editNameLabel">Navn</string>
+  <string name="naxaccountedit_done">Fullført</string>
+</resources>

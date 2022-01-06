@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">Elementos de oscurecimiento</string>
+  <string name="shades_scenesTitle">ESCENAS</string>
+  <string name="shades_controlsTitle">CONTROLES</string>
+  <string name="shades_allShadesTitle">TODOS LOS ELEMENTOS DE OSCURECIMIENTO</string>
+  <string name="shades_allShades_MoreLightTitle">Más luz</string>
+  <string name="shades_allShades_LessLightTitle">Menos luz</string>
+  <string name="shades_stopRampText">Detener</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">Valot</string>
+  <string name="lightslib_lights_title">%s Lights</string>
+  <string name="lightslib_lights_status_on">Valot on päällä.</string>
+  <string name="lightslib_lights_turning_off">TURNING OFF…</string>
+  <string name="lightslib_lights_turning_on">TURNING ON…</string>
+  <string name="lightslib_add_lights_title">Add lights to \"%s\"</string>
+  <string name="lightslib_controlsTitle">CONTROLS</string>
+  <string name="lightslib_sceneNameScene">%s scene</string>
+  <string name="lightslib_tunableLightNotFound">Something went wrong. This light load cannot be found.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">Save as global baseline settings?</string>
+  <string name="lightslib_whiteTuningProgressLost">Save as baseline settings for this light?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">Haluatko varmasti käyttää näitä asetuksia tässä huoneessa?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">Tämä korvaa kaikki aiemmin käytössä olleet asetukset.</string>
+  <string name="lightslib_saveTunableSettingsError">An unexpected error has occurred. The tunable settings could not be saved.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">The tunable settings saved successfully.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">An unexpected error has occurred. The tunable settings could not be set to all lights in the room.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">The tunable settings set to all lights in the room successfully.</string>
+  <string name="lightslib_saveAsGlobalSettings">Tallenna yleisinä perusasetuksina</string>
+  <string name="lightslib_save">Tallenna</string>
+  <string name="lightslib_circadianSettingsProgressLost">Save current settings as Circadian cycle?</string>
+  <string name="lightslib_saveCircadianSettingsError">An unexpected error has occurred. The circadian settings could not be saved.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">The circadian settings saved successfully.</string>
+  <string name="lightslib_morningCircadianTitle">Morning: 7:00 AM, %dK</string>
+  <string name="lightslib_noonCircadianTitle">Noon, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">Evening: 7:00 PM, %dK</string>
+  <string name="lightslib_nightCircadianTitle">Night: 10:45 AM, %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">Favorite color removed.</string>
+  <string name="lightslib_addFavorite_confirmation">Favorite color added.</string>
+</resources>

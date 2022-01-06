@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">DODAJ NOWY DOM</string>
+  <string name="homelibskeleton_discoverHome">Odkryj dom</string>
+  <string name="homelibskeleton_addManually">Dodaj ręcznie</string>
+  <string name="homelibskeleton_editHome">Edytuj</string>
+  <string name="homelibskeleton_deleteHome">USUŃ</string>
+  <string name="homelibskeleton_deleteHomeWarning">Czy na pewno chcesz usunąć %s?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">Jeśli jesteś jedynym właścicielem, usunięcie domu spowoduje, że wszyscy inni użytkownicy utracą do niego zdalny dostęp.</string>
+  <string name="homelibskeleton_cancel">Anuluj</string>
+  <string name="homelibskeleton_ok">OK</string>
+</resources>

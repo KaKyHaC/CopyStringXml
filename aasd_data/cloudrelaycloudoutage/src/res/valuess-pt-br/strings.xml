@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">A conexão com a nuvem caiu...</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">Não foi possível carregar os controles de casa neste momento. Mesmo que a conexão com a nuvem esteja temporariamente desativada, enquanto você estiver em seu WAP local, ainda poderá se conectar localmente.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">Tente conectar-se localmente</string>
+</resources>

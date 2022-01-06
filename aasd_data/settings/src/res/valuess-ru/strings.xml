@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Время ожидания виртуальной панели инструментов</string>
+  <string name="settings_hardkey_wakes_lcd">Hardkey Wakes LCD</string>
+  <string name="settings_master_volume">Общая громкость</string>
+  <string name="settings_hardkey_behavior">ДЕЙСТВИЕ КНОПОК ПАНЕЛИ ВВЕРХ/ВНИЗ</string>
+  <string name="settings_hardkey_no_function">Без функции</string>
+  <string name="settings_hardkey_lights">Светильники (помещение: поднять / опустить)</string>
+  <string name="settings_hardkey_shades">Элементы затемнения (помещение: поднять / опустить)</string>
+  <string name="settings_hardkey_media">Мультимедиа (помещение: увеличить / уменьшить громкость)</string>
+  <string name="settings_advanced_settings_toolbar">Дополнительные настройки</string>
+</resources>

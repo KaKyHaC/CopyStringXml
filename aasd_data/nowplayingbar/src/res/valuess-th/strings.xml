@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s ใน %s</string>
+  <string name="nowplayingbar_multiple_media">มีเดียหลายรายการ</string>
+  <string name="nowplayingbar_rooms">%d ห้อง</string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">ไม่สามารถใช้การควบคุมระดับเสียง</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">เปิดใช้งานห้องมีเดียนี้</string>
+</resources>

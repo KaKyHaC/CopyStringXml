@@ -1,0 +1,35 @@
+<resources>
+  <string name="mediacompositelib_audioTitle">Hang</string>
+  <string name="mediacompositelib_videoTitle">Videó</string>
+  <string name="mediacompositelib_sourceOff">KI</string>
+  <string name="mediacompositelib_sourceOn">%s BEKAPCSOLT</string>
+  <string name="mediacompositelib_videSourcesNotAllowed">Ez a helyiség egy csoportban található, a videoforrások nem engedélyezettek.</string>
+  <string name="mediacompositelib_sourceStatus">%s be van kapcsolva.</string>
+  <string name="mediacompositelib_forwardRewindSpeed">%dx</string>
+  <string name="mediacompositelib_noNowPlayingInfo">Nincs elérhető Lejátszás alatt információ.</string>
+  <string name="mediacompositelib_sourceProblematic">KI,\nCSOPORT BE</string>
+  <string name="mediacompositelib_remotes_back">VISSZA</string>
+  <string name="mediacompositelib_remotes_popupMenu">FELUGRÓ MENÜ</string>
+  <string name="mediacompositelib_remotes_home">KEZDŐLAP</string>
+  <string name="mediacompositelib_remotes_discMinus">LEMEZ -</string>
+  <string name="mediacompositelib_remotes_discPlus">LEMEZ +</string>
+  <string name="mediacompositelib_remotes_letterA">A</string>
+  <string name="mediacompositelib_remotes_letterB">B</string>
+  <string name="mediacompositelib_remotes_letterC">C</string>
+  <string name="mediacompositelib_remotes_letterD">D</string>
+  <string name="mediacompositelib_remotes_menu">MENÜ</string>
+  <string name="mediacompositelib_remotes_exit">KILÉPÉS</string>
+  <string name="mediacompositelib_remotes_pagePlus">PG+</string>
+  <string name="mediacompositelib_remotes_pageMinus">PG-</string>
+  <string name="mediacompositelib_remotes_channelPlus">CH+</string>
+  <string name="mediacompositelib_remotes_channelMinus">CH-</string>
+  <string name="mediacompositelib_remotes_live">ÉLŐ</string>
+  <string name="mediacompositelib_remotes_favorite">KEDVENCEK</string>
+  <string name="mediacompositelib_remotes_info">INFÓ</string>
+  <string name="mediacompositelib_remotes_onDemand">IGÉNY SZERINTI</string>
+  <string name="mediacompositelib_remotes_last">UTOLSÓ</string>
+  <string name="mediacompositelib_remotes_guide">ÚTMUTATÓ</string>
+  <string name="mediacompositelib_remotes_appleTv_home">TV</string>
+  <string name="mediacompositelib_remotes_empty" />
+  <string name="mediacompositelib_remotes_notAvailable">A távirányító nem elérhető.</string>
+</resources>

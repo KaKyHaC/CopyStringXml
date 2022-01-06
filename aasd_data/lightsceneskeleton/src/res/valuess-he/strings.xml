@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">צור סצנה חדשה</string>
+  <string name="lightSceneCreate_add_lights">הוסף אורות</string>
+  <string name="lightSceneCreate_add_more_lights">הוסף עוד אורות</string>
+  <string name="lightSceneCreate_save">שמור</string>
+  <string name="lightSceneCreate_set_scene_options">הגדר אפשוריות סצנה</string>
+  <string name="lightSceneCreate_fade_time">זמן עמעום</string>
+  <string name="lightSceneCreate_scene_visibility">ראות הסצנה</string>
+  <string name="lightSceneCreate_subtitle_template">%d מתוך %d סצינות</string>
+</resources>

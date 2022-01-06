@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="endpointsettings_stereo">立体声</string>
+  <string name="endpointsettings_mono">单声道</string>
+  <string name="endpointsettings_default">默认</string>
+  <string name="endpointsettings_center">中心</string>
+  <string name="endpointsettings_valueOneDecimal">%.1f%s</string>
+  <string name="endpointsettings_valueNoDecimals">%s的%.</string>
+  <string name="endpointsettings_noConfigurableSettings">此输出无可配置的音频设置。</string>
+  <string name="endpointsettings_l">L</string>
+  <string name="endpointsettings_r">R</string>
+</resources>

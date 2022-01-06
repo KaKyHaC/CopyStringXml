@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="autoupdate_updateStarted">업데이트가 시작되었습니다.</string>
+  <string name="autoupdate_updateFailed">업데이트 실패.</string>
+  <string name="autoupdate_updateServerUnreachable">업데이트 서버에 연결할 수 없습니다.</string>
+  <string name="autoupdate_updateSucceeded">업데이트가 성공했습니다.</string>
+</resources>

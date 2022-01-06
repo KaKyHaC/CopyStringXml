@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Criar novo</string>
+  <string name="sceneslib_edit">Editar</string>
+  <string name="sceneslib_reorder">Reordenar</string>
+  <string name="sceneslib_max_scenes_reached">O número máximo de cenas neste quarto foi alcançado. Toque em \"Editar\" para alterar ou apagar as cenas existentes.</string>
+  <string name="sceneslib_unsaved_scene_message">Você tem uma cena não salva. Salvar esta cena?</string>
+  <string name="sceneslib_progress_lost_message">Tem certeza de que deseja sair desta tela e perder seu progresso?</string>
+  <string name="sceneslib_generic_scene_name">Minha Cena %d</string>
+  <string name="sceneslib_unexpected_error_message">Ocorreu um erro inesperado. A cena não pôde ser salva.</string>
+  <string name="sceneslib_success_message">A cena foi criada com sucesso.</string>
+  <string name="sceneslib_update_success_message">A cena foi atualizada com sucesso.</string>
+  <string name="sceneslib_error_invalid_name">O nome da cena especificada é inválido. A cena não pôde ser salva.</string>
+  <string name="sceneslib_error_duplicate_name">O nome da cena especificada já está em uso. A cena não pôde ser salva.</string>
+  <string name="sceneslib_error_name_too_long">O nome da cena especificada é demasiado longo. A cena não pôde ser salva.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">O nome da cena especificada contém caracteres inválidos. A cena não pôde ser salva.</string>
+  <string name="sceneslib_error_read_only">A cena especificada não é editável. A cena não pôde ser salva.</string>
+  <string name="sceneslib_error_cannot_delete">Ocorreu um erro inesperado. A cena não pôde ser apagada.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Esta é uma cena fornecida pelo sistema e não pode ser apagada.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Esta cena está sendo usada pela programação em outra parte do sistema. Não pode ser apagada.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">Esta é uma cena fornecida pelo sistema. Ela não pode ser apagada enquanto o quarto contiver quaisquer luzes.</string>
+  <string name="sceneslib_error_max_scene_count_reached">O número máximo de cenas neste quarto foi atingido. A nova cena não pôde ser salva.</string>
+  <string name="sceneslib_error_invalid_ramp_time">O tempo de desvanecimento selecionado é inválido. A cena não pôde ser salva.</string>
+</resources>

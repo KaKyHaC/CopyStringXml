@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">הבתים שלי</string>
+  <string name="homeswitcher_addHome">הוסף</string>
+  <string name="homeswitcher_online_status">הבית הזה מחובר ומוכן.\nהקש כדי להיכנס.</string>
+  <string name="homeswitcher_online_remote_status">הקש כדי להיכנס</string>
+  <string name="homeswitcher_offline_status">הבית הזה במצב לא מקוון.\nהקש כדי להיכנס.</string>
+  <string name="homeswitcher_offline">לא מקוון.</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="lightSceneVisibility_title">Ορατότητα σκηνικού</string>
+  <string name="lightSceneVisibility_subtitle">%s σκηνικό</string>
+</resources>

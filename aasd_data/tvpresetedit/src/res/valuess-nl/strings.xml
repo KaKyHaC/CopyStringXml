@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">Favorieten</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ Favoriete zenders toevoegen</string>
+  <string name="tvpresetedit_favoritesTitle">%s favorieten</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">Favorieten</string>
+  <string name="tvpresetedit_moreItem_renameGroup">Hernoemen</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">Groep verwijderen</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">Weet u zeker dat u deze groep wilt verwijderen?</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">VERWIJDEREN</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">ANNULEREN</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">OK</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">Sorry, de laatste groep kan niet worden verwijderd</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">Deze groep is al verwijderd.</string>
+</resources>

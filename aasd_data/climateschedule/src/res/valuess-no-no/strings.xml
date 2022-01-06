@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Begivenhetsnavn, f.eks. Klimaplan for sommeren</string>
+  <string name="climateschedule_scheduleNameTitleLabel">Navn</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">Nytt klimaarrangement</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">Rediger planlagt hendelse</string>
+  <string name="climateschedule_scheduleActiveDays">AKTIVE DAGER</string>
+  <string name="climateschedule_activeDays_sunday">S</string>
+  <string name="climateschedule_activeDays_monday">M</string>
+  <string name="climateschedule_activeDays_tuesday">T</string>
+  <string name="climateschedule_activeDays_wednesday">W</string>
+  <string name="climateschedule_activeDays_thursday">T</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">S</string>
+  <string name="climateschedule_activeDays">AKTIVE DAGER</string>
+  <string name="climateschedule_save">Lagre</string>
+  <string name="climateschedule_deleteSchedule">Slett</string>
+  <string name="climateschedule_copyToAnotherThermostat">Kopier til en annen termostat</string>
+  <string name="climateschedule_scheduleEventError">Noe gikk galt. Prøv igjen.</string>
+  <string name="climateschedule_editTitle">Rediger</string>
+  <string name="climateschedule_deleteWarning">Er du sikker på at du vil slette %s hendelse?</string>
+  <string name="climateschedule_invalidScheduleNameError">Navnet på denne tidsplanen er ikke gyldig</string>
+  <string name="climateschedule_duplicateScheduleNameError">Dette hendelsesnavnet for tidsplanen eksisterer allerede</string>
+  <string name="climateschedule_discardChangesWarning">Du har ulagrede endringer. Forkaste endringer?</string>
+  <string name="climateschedule_discard">Kast</string>
+  <string name="climateschedule_saveChangesWarning">Vil du lagre endringer?</string>
+  <string name="climateschedule_setpointsTitle">SETTE POENG</string>
+  <string name="climateschedule_scheduleStatusTitle">TIDSPLAN STATUS</string>
+  <string name="climateschedule_scheduleStatusItem">Tidsplan aktivert</string>
+  <string name="climateschedule_timePicker_header">Start</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

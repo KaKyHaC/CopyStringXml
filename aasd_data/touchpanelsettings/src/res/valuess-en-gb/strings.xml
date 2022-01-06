@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">settings back button</string>
+  <string name="touchPanelsettings_toolbar">SETTINGS</string>
+  <string name="touchPanelsettings_toolbar_default_room">Default Room</string>
+  <string name="touchPanelsettings_room_list">ROOM LIST</string>
+  <string name="touchPanelsettings_display">DISPLAY</string>
+  <string name="touchPanelsettings_automode_brightness">Auto mode brightness</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">Display Timeout</string>
+  <string name="touchPanelsettings_screensaver">Screensaver</string>
+  <string name="touchPanelsettings_media_volume">Media volume</string>
+  <string name="touchPanelsettings_home">Home</string>
+  <string name="touchPanelsettings_advanced_settings">Advanced Settings</string>
+  <string name="touchPanelsettings_edit_home">Edit Home</string>
+  <string name="touchPanelsettings_info">INFO</string>
+  <string name="touchPanelsettings_firmware_version">Firmware version</string>
+  <string name="touchPanelsettings_ui_version">UI version</string>
+  <string name="touchPanelsettings_volume">VOLUME</string>
+  <string name="touchPanelsettings_edit_home_popup_message">Only change these settings if instructed to by your Crestron dealer</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">Continue</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">Cancel</string>
+  <string name="touchPanelsettings_timeout_text_never">Never</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s seconds</string>
+  <string name="touchPanelsettings_timeout_text_minute">1 minute</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s minutes</string>
+  <string name="touchPanelsettings_timeout_text_hour">1 hour</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s hours</string>
+  <string name="touchPanelsettings_access_points">WiFi Access Point</string>
+  <string name="touchPanelsettings_intercom">INTERCOM &amp; INTERRUPTS</string>
+  <string name="touchPanelsettings_do_not_disturb">Do not disturb</string>
+  <string name="touchPanelsettings_play_test">Play test</string>
+  <string name="touchPanelsettings_speakervolume_label">Speaker Volume</string>
+</resources>

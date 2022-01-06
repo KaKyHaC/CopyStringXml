@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Crear nueva</string>
+  <string name="sceneslib_edit">Editar</string>
+  <string name="sceneslib_reorder">Reordenar</string>
+  <string name="sceneslib_max_scenes_reached">Se alcanzó la cantidad máxima de escenas en esta habitación. Toque \</string>
+  <string name="sceneslib_unsaved_scene_message">Tiene una escena sin guardar. ¿Guardar esta escena?</string>
+  <string name="sceneslib_progress_lost_message">¿Confirma que desea salir de esta pantalla y perder su progreso?</string>
+  <string name="sceneslib_generic_scene_name">Mi escena %d</string>
+  <string name="sceneslib_unexpected_error_message">Ocurrió un error inesperado. No se pudo guardar la escena.</string>
+  <string name="sceneslib_success_message">La escena se creó exitosamente.</string>
+  <string name="sceneslib_update_success_message">La escena se actualizó exitosamente.</string>
+  <string name="sceneslib_error_invalid_name">El nombre de la escena especificada es inválido. No se pudo guardar la escena.</string>
+  <string name="sceneslib_error_duplicate_name">El nombre de la escena especificada ya está en uso. No se pudo guardar la escena.</string>
+  <string name="sceneslib_error_name_too_long">El nombre de la escena especificada es demasiado largo. No se pudo guardar la escena.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">El nombre de la escena especificada contiene caracteres inválidos. No se pudo guardar la escena.</string>
+  <string name="sceneslib_error_read_only">La escena especificada no es editable. No se pudo guardar la escena.</string>
+  <string name="sceneslib_error_cannot_delete">Ocurrió un error inesperado. No se pudo eliminar la escena.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Esta es una escena suministrada por el sistema y no puede ser eliminada.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Esta escena se utiliza en otra parte del sistema para programación. No puede ser eliminada.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">Esta es una escena suministrada por el sistema. No puede ser eliminada mientras la habitación contenga alguna luz.</string>
+  <string name="sceneslib_error_max_scene_count_reached">Se alcanzó la cantidad máxima de escenas en esta habitación. No se pudo guardar la nueva escena.</string>
+  <string name="sceneslib_error_invalid_ramp_time">El tiempo de atenuación seleccionado no es válido. No se pudo guardar la escena.</string>
+</resources>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s in %s</string>
+  <string name="nowplayingbar_multiple_media">Supporti multipli</string>
+  <string name="nowplayingbar_rooms">porte %d </string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">Controlli di volume non disponibili</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">Accendi questa stanza multimediale</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Fortoningstid</string>
+  <string name="sceneFadeTime_header">Indstil fortoningstid</string>
+</resources>

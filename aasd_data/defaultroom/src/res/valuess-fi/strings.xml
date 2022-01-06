@@ -1,0 +1,7 @@
+<resources>
+  <string name="defaultRoom_chooseDefaultRoom">CHOOSE DEFAULT ROOM</string>
+  <string name="defaultRoom_category">CHOOSE DEFAULT ROOM</string>
+  <string name="defaultRoom_emptyList">No rooms configured. There are no rooms in the list.</string>
+  <string name="defaultRoom_save">Tallenna</string>
+  <string name="defaultroom_homeConfiguration">Home Configuration</string>
+</resources>

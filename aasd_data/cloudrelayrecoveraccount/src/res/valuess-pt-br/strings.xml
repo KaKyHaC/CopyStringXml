@@ -1,0 +1,6 @@
+<resources>
+  <string name="cloudrelayrecoveraccount_update_info">atualize seus dados</string>
+  <string name="cloudrelayrecoveraccount_change_mail">Alterar e-mail</string>
+  <string name="cloudrelayrecoveraccount_reset_password">Redefinir senha</string>
+  <string name="cloudrelayrecoveraccount_reset_number">Redefinir número de telefone</string>
+</resources>

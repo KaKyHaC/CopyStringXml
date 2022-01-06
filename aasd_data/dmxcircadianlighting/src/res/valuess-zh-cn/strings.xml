@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">控件</string>
+  <string name="circadianLights_saveButtonText">将当前设置另存为昼夜循环</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">그룹 이름 변경</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">취소</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">이름 변경</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">중복 이름</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">잘못된 이름</string>
+  <string name="tvpresetsrenamegroup_unknownError">조작 실패</string>
+</resources>

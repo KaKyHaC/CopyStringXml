@@ -1,0 +1,4 @@
+<resources>
+  <string name="lightSceneVisibility_title">장면 가시성</string>
+  <string name="lightSceneVisibility_subtitle">%s 장면</string>
+</resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">選択したものに適用</string>
+  <string name="climateschedulethermostats_title">
+サーモスタットリスト</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">すべてのサーモスタット</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">イベントは、選択したサーモスタットに正常に適用されました。</string>
+  <string name="climateschedulethermostats_eventsCopyError">一部の設定を1つ以上のサーモスタットにコピーできませんでした。</string>
+</resources>

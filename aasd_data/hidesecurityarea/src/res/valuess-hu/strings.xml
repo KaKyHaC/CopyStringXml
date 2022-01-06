@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">TERÜLETEK MEGJELENÍTÉSE</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">biztonsági területek elrejtése hátsó gomb</string>
+</resources>

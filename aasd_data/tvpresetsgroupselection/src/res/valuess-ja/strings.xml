@@ -1,0 +1,7 @@
+<resources>
+  <string name="tvpresetsgroupselection_pageTitle">お気に入りのグループを変更する </string>
+  <string name="tvpresetsgroupselection_changeButton">変更</string>
+  <string name="tvpresetsgroupselection_newPresetGroup">
++新しいグループを作成する</string>
+  <string name="tvpresetsgroupselection_defaultDeviceName">ケーブルTV</string>
+</resources>

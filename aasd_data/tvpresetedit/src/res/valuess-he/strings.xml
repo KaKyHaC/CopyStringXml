@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">מועדפים</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ הוסף ערוצים מועדפים</string>
+  <string name="tvpresetedit_favoritesTitle">%s מועדפים</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">מועדפים</string>
+  <string name="tvpresetedit_moreItem_renameGroup">הגדר שם מחדש</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">מחק קבוצה</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">האם אתה בטוח שברצונך למחוק קבוצה זו?</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">מחק</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">בטל</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">אישור</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">מצטערים, הקבוצה האחרונה אינה ניתנת למחיקה</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">הקבוצה הזאת כבר נמחקה</string>
+</resources>

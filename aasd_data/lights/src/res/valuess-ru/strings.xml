@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">МЕСТА</string>
+  <string name="lights_controlsTitle">СРЕДСТВА УПРАВЛЕНИЯ</string>
+  <string name="lights_controlsMasterControl">ВСЕ СВЕТИЛЬНИКИ</string>
+  <string name="create_new_scene">Создать новую зону</string>
+  <string name="lights_noScenesInfo">В этой комнате нет никаких видимых мест освещения.</string>
+</resources>

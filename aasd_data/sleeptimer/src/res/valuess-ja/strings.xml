@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">
+この部屋のすべてのアクティブなメディアの電源オフスリープタイマーを設定します。
+</string>
+  <string name="sleeptimer_disabledMsg">時間を設定する</string>
+  <string name="sleeptimer_enabledMsg">
+％sは電源がオフになります
+</string>
+  <string name="sleeptimer_controlTitle">目覚まし時計
+</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

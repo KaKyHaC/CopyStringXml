@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">Planlagte arrangementer</string>
+  <string name="climateschedules_noSchedulesTitle">Ingen planlagte hendelser</string>
+  <string name="climateschedules_noSchedulesDescription">Automatiser termostatene dine og lag tilpassede planlagte hendelser for hver termostat.</string>
+  <string name="climateschedules_emptyLayout_createNew">Opprett ny tidsplanhendelse</string>
+  <string name="climateschedules_createNew">+ Opprett ny planlagt begivenhet</string>
+</resources>

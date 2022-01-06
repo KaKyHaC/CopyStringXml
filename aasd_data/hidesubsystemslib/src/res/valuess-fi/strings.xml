@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">House access</string>
+  <string name="hide_subsystem_lights">Valot</string>
+  <string name="hide_subsystem_media">Media</string>
+  <string name="hide_subsystem_pools">Pools &amp; Spa</string>
+  <string name="hide_subsystem_climate">Sisäilmasto</string>
+  <string name="hide_subsystem_shades">Kaihtimet</string>
+  <string name="hide_subsystem_security">Suojaus</string>
+  <string name="hide_subsystem_cameras">Kamerat</string>
+  <string name="hide_subsystem_customdevices">Custom devices</string>
+</resources>

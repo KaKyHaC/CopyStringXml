@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">Edit lighting scenes</string>
+  <string name="lightEditSingleScene_set_scene_options">SET SCENE OPTIONS</string>
+  <string name="lightEditSingleScene_delete_scene">Delete this scene</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">Haluatko varmasti poistaa tämän profiilin?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">Poista</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">Peruuta</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">Sorry, this scene can’t be deleted</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">OK</string>
+  <string name="lightEditSingleScene_dismiss">HYLKÄÄ</string>
+  <string name="lightEditSingleScene_cannot_edit">Sorry, this scene’s name and icon can’t be edited</string>
+</resources>

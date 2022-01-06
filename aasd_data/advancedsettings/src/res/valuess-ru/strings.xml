@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">ПОКАЗАТЬ КОНТРОЛЬНЫЕ ТОЧКИ</string>
+  <string name="advancedSettings_roomVisibilityControl_label">ПОКАЗАТЬ КОМНАТЫ</string>
+  <string name="advancedSettings_settings_home_access_label">Доступ к дому</string>
+  <string name="advancedSettings_settings_cameras_label">Камеры</string>
+  <string name="advancedSettings_settings_security_label">Безопасность</string>
+  <string name="advancedSettings_back_description">настройки кнопка "Назад"</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">ЗВУКОВЫЕ ПЕРЕБОИ И ЗВОНКИ</string>
+  <string name="advancedSettings_settings_events_sound_label">События и звуки</string>
+  <string name="advancedSettings_settings_change_theme_label">ДИСПЛЕЙ</string>
+  <string name="advancedSettings_settings_change_theme_title">Изменить тему</string>
+  <string name="advancedSettings_toolbar">Дополнительные настройки</string>
+  <string name="advancedSettings_showDoNotSiasturb">Отображать функцию "Не беспокоить"</string>
+  <string name="advancedSettings_colorTuning_label">Настройка цвета</string>
+  <string name="advancedSettings_tunableLighting_label">Регулируемое освещение</string>
+  <string name="advancedSettings_circadianSettings_label">Циркадные настройки</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">אירועים וקול</string>
+  <string name="interrupts_back_description">כפתור החזרה לאירועים</string>
+  <string name="interrupts_not_available">אין אירועים זמינים.</string>
+</resources>

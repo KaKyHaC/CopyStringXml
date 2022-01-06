@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">สร้างใหม่</string>
+  <string name="sceneslib_edit">แก้ไข</string>
+  <string name="sceneslib_reorder">สั่งซื้ออีกครั้ง</string>
+  <string name="sceneslib_max_scenes_reached">ฉากในห้องนี้ถึงขีดจำกัดสูงสุดแล้ว แตะ \"แก้ไข\" เพื่อแก้ไขหรือลบฉากที่มีอยู่แล้ว</string>
+  <string name="sceneslib_unsaved_scene_message">มีฉากที่ยังไม่ได้บันทึก ต้องการบันทึกหรือไม่</string>
+  <string name="sceneslib_progress_lost_message">คุณแน่ใจหรือไม่ว่าต้องการออกจากหน้าจอนี้และทิ้งความคืบหน้าของคุณ</string>
+  <string name="sceneslib_generic_scene_name">ฉากของฉัน %d</string>
+  <string name="sceneslib_unexpected_error_message">เกิดข้อผิดพลาดที่ไม่คาดคิด ไม่สามารถบันทึกฉากได้</string>
+  <string name="sceneslib_success_message">สร้างฉากสำเร็จ</string>
+  <string name="sceneslib_update_success_message">อัพเดตฉากสำเร็จ</string>
+  <string name="sceneslib_error_invalid_name">ชื่อของฉากดังกล่าวไม่ถูกต้อง ไม่สามารถบันทึกฉากได้</string>
+  <string name="sceneslib_error_duplicate_name">ชื่อของฉากดังกล่าวมีการใช้งานอยู่แล้ว ไม่สามารถบันทึกฉากได้</string>
+  <string name="sceneslib_error_name_too_long">ชื่อของฉากดังกล่าวยาวเกินไป ไม่สามารถบันทึกฉากได้</string>
+  <string name="sceneslib_error_invalid_chars_in_name">ชื่อของฉากดังกล่าวมีอักขระที่ไม่ถูกต้อง ไม่สามารถบันทึกฉากได้</string>
+  <string name="sceneslib_error_read_only">ฉากดังกล่าวไม่สามารถแก้ไขได้ ไม่สามารถบันทึกฉากได้</string>
+  <string name="sceneslib_error_cannot_delete">เกิดข้อผิดพลาดที่ไม่คาดคิด ไม่สามารถลบฉากได้</string>
+  <string name="sceneslib_error_cannot_delete_built_in">นี่คือฉากจากระบบและไม่สามารถลบได้</string>
+  <string name="sceneslib_error_cannot_delete_in_use">ฉากนี้อยู่ระหว่างถูกใช้ในการทำโปรแกรมอยู่ในระบบ ไม่สามารถลบได้</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">นี่คือฉากจากระบบ ไม่สามารถลบได้เมื่อห้องมีแสง</string>
+  <string name="sceneslib_error_max_scene_count_reached">ห้องนี้มีจำนวนฉากสูงสุดแล้ว ไม่สามารถบันทึกฉากเพิ่มได้</string>
+  <string name="sceneslib_error_invalid_ramp_time">เวลาการเลือนหายไปที่เลือกไม่ถูกต้อง ไม่สามารถลบฉากได้</string>
+</resources>

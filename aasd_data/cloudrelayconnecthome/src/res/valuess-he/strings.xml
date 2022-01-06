@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayconnecthome_edit_home">ערוך בית</string>
+  <string name="couldrelayconnecthome_edit_details">ערוך פרטי Crestron Home שלך.</string>
+  <string name="cloudrelayconnecthome_home_settings">הגדרות בית</string>
+  <string name="cloudrelayconnecthome_friendlyNameOrLocation">שם ידידותי/מיקום</string>
+  <string name="cloudrelayconnecthome_password">סיסמת ממשק משתמש</string>
+  <string name="cloudrelayconnecthome_localConnectionSettings">הגדרות תקשורת מקומית</string>
+  <string name="cloudrelayconnecthome_ipAddressOrHostName">כתובת IP / שם מארח</string>
+  <string name="cloudrelayconnecthome_continue">המשך</string>
+</resources>

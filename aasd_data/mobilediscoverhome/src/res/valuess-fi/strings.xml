@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mobilediscoverhome_downloadSgMessage">Lataa Smart Graphics -sovellus hallitaksesi tätä kotia</string>
+  <string name="mobilediscoverhome_cancel">Peruuta</string>
+  <string name="mobilediscoverhome_downloadApp">Download app</string>
+</resources>

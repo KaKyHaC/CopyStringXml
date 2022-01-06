@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Ajuste de cor</string>
+  <string name="dmxroomselection_controlsTitle">CONTROLOS</string>
+  <string name="dmxcolortuning_description">Defina as configurações básicas para este quarto. Com as configurações básicas, define a cor e a temperatura desejadas para os seus acessórios ajustáveis.\n\ nOs controlos deslizantes de intensidade e os interruptores são fornecidos para ajudá-lo a visualizar a cor. Eles não são salvos nas configurações da linha de base.</string>
+</resources>

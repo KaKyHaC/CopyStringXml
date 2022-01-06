@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">Lumini</string>
+  <string name="lightslib_lights_title">%s lumini</string>
+  <string name="lightslib_lights_status_on">Luminile sunt aprinse.</string>
+  <string name="lightslib_lights_turning_off">SE STING...</string>
+  <string name="lightslib_lights_turning_on">SE APRIND...</string>
+  <string name="lightslib_add_lights_title">Adăugați lumini la \"%s\"</string>
+  <string name="lightslib_controlsTitle">COMENZI</string>
+  <string name="lightslib_sceneNameScene">scena %s</string>
+  <string name="lightslib_tunableLightNotFound">Ceva nu a funcționat bine. Această solicitare de a aprinde lumina poate fi găsită.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">Salvați ca setări universale de bază?</string>
+  <string name="lightslib_whiteTuningProgressLost">Salvați ca setări de bază pentru această lumină?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">Sunteți sigur(ă) că doriți să aplicați aceste setări pentru această încăpere?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">Această setare nu va ține cont de nicio altă setare aplicată anterior.</string>
+  <string name="lightslib_saveTunableSettingsError">A apărut o eroare neașteptată. Setările reglabile nu au putut fi salvate.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">Setările reglabile au fost salvate cu succes.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">A apărut o eroare neașteptată. Setările reglabile nu au putut fi configurate pentru toate luminile din încăpere.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">Setările reglabile s-au configurat cu succes pentru toate luminile din încăpere.</string>
+  <string name="lightslib_saveAsGlobalSettings">Salvați ca setări universale de bază</string>
+  <string name="lightslib_save">Salvare</string>
+  <string name="lightslib_circadianSettingsProgressLost">Salvați setările actuale ca ciclu circadian?</string>
+  <string name="lightslib_saveCircadianSettingsError">A apărut o eroare neașteptată. Setările circadiene nu au putut fi salvate.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">Setările circadiene au fost salvate cu succes.</string>
+  <string name="lightslib_morningCircadianTitle">Dimineața: 7:00, %dK</string>
+  <string name="lightslib_noonCircadianTitle">Amiază, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">Seara:19:00, %dK</string>
+  <string name="lightslib_nightCircadianTitle">Noapte: 22:45, %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">Culoarea preferată a fost eliminată.</string>
+  <string name="lightslib_addFavorite_confirmation">S-a adăugat culoarea preferată.</string>
+</resources>

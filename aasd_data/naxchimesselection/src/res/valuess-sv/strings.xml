@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesSelection_helpText_text">Välj ljud för den här händelsen. Det här ljudet kommer att gälla för alla zoner där den här händelsen är aktiverad.</string>
+</resources>

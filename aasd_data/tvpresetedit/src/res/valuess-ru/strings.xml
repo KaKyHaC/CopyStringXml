@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">Избранные места</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ Добавить избранные каналы</string>
+  <string name="tvpresetedit_favoritesTitle">%s избранное</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">Избранное</string>
+  <string name="tvpresetedit_moreItem_renameGroup">Переименовать</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">Удалить группу</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">Вы уверены, что хотите удалить эту группу?</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">Удалить</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">Отмена</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">ОК</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">Извините, предыдущая группа не может быть удалена</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">Эта группа уже удалена.</string>
+</resources>

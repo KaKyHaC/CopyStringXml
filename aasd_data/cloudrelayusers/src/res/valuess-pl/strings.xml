@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">Ty</string>
+  <string name="cloud_relay_users_no_user">Brak dostępnych użytkowników</string>
+  <string name="cloud_relay_users_add_new_user">+ Dodaj nowego użytkownika</string>
+  <string name="cloud_relay_users_reclaim_home">Odzyskaj ten dom</string>
+  <string name="cloud_relay_users_role_format">%s (oczekujące zaproszenie)</string>
+  <string name="cloud_relay_users_info_unavailable">"Informacje o użytkowniku są niedostępne, spróbuj później”</string>
+</resources>

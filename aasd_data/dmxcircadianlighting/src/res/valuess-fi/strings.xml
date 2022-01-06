@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">Ohjaimet</string>
+  <string name="circadianLights_saveButtonText">Tallenna nykyiset asetukset vuorokausisykliksi</string>
+</resources>

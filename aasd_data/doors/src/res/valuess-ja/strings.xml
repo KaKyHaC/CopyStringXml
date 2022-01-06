@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">ドアロック　</string>
+  <string name="doors_scenes">シーン </string>
+  <string name="doors_controls">コントロール　</string>
+  <string name="doors_lock_all">すべてを施錠　</string>
+  <string name="doors_unlock_all">すべて開錠　</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">Ansluten</string>
+  <string name="connectivitybar_disconnectedStatus">Ansluter till hemmet...</string>
+</resources>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">Afbeelding van kanaalitem</string>
+  <string name="tvpresetsfavorite_favoritesChannels">Favorieten</string>
+  <string name="tvpresetsfavorite_favoritesList">Lijst met mediafavorieten</string>
+  <string name="tvpresetsfavorite_favoritesMore">Media favorieten meer</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">Groep bewerken</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">Favoriete groep wijzigen</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">Nieuwe groep maken</string>
+  <string name="tvpresetsfavorite_nowPlaying">Nu aan het spelen</string>
+  <string name="tvpresetsfavorite_upNext">VOLGENDE</string>
+  <string name="tvpresetsfavorite_noInformation">Geen informatie</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">Tik op \"⋯\" om je favoriete kanalen toe te voegen</string>
+  <string name="tvpresetsfavorite_noProvider">Er zijn geen favoriete zenders omdat de aanbieder niet is geselecteerd</string>
+</resources>

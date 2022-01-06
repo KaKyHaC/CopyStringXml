@@ -1,0 +1,36 @@
+<resources>
+  <string name="mediacompositelib_audioTitle">AUDIO</string>
+  <string name="mediacompositelib_videoTitle">VIDEO</string>
+  <string name="mediacompositelib_sourceOff">DEZACTIVAT(Ă)</string>
+  <string name="mediacompositelib_sourceOn">%s ACTIVAT(Ă)</string>
+  <string name="mediacompositelib_videSourcesNotAllowed">Această cameră se află într-un grup, nu sunt permise surse video.</string>
+  <string name="mediacompositelib_sourceStatus">%s este activat(ă). </string>
+  <string name="mediacompositelib_forwardRewindSpeed">%dx</string>
+  <string name="mediacompositelib_noNowPlayingInfo">Nu sunt disponibile acum informații de redare.</string>
+  <string name="mediacompositelib_sourceProblematic">DEZACTIVAT(Ă),\nGRUP ACTIVAT(Ă)</string>
+  <string name="mediacompositelib_remotes_back">ÎNAPOI</string>
+  <string name="mediacompositelib_remotes_popupMenu">MENIU POPUP</string>
+  <string name="mediacompositelib_remotes_home">ACASĂ</string>
+  <string name="mediacompositelib_remotes_discMinus">DISC -</string>
+  <string name="mediacompositelib_remotes_discPlus">DISC +</string>
+  <string name="mediacompositelib_remotes_letterA">A</string>
+  <string name="mediacompositelib_remotes_letterB">B</string>
+  <string name="mediacompositelib_remotes_letterC">C</string>
+  <string name="mediacompositelib_remotes_letterD">
+D</string>
+  <string name="mediacompositelib_remotes_menu">MENIU</string>
+  <string name="mediacompositelib_remotes_exit">IEȘIRE</string>
+  <string name="mediacompositelib_remotes_pagePlus">PG+</string>
+  <string name="mediacompositelib_remotes_pageMinus">PG-</string>
+  <string name="mediacompositelib_remotes_channelPlus">CH+</string>
+  <string name="mediacompositelib_remotes_channelMinus">CH-</string>
+  <string name="mediacompositelib_remotes_live">ÎN DIRECT</string>
+  <string name="mediacompositelib_remotes_favorite">FAV</string>
+  <string name="mediacompositelib_remotes_info">INFORMAȚII</string>
+  <string name="mediacompositelib_remotes_onDemand">LA CERERE</string>
+  <string name="mediacompositelib_remotes_last">ULTIMUL</string>
+  <string name="mediacompositelib_remotes_guide">GHID</string>
+  <string name="mediacompositelib_remotes_appleTv_home">TV</string>
+  <string name="mediacompositelib_remotes_empty" />
+  <string name="mediacompositelib_remotes_notAvailable">Nu este disponibil(ă) la distanță.</string>
+</resources>

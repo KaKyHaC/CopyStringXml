@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Entrez votre nom d'utilisateur</string>
+  <string name="providersignin_enter_password">Entrez votre mot de passe</string>
+  <string name="providersignin_description">Connectez-vous à votre compte %s pour activer cet enregistrement.</string>
+  <string name="providersignin_user_name">Nom d'utilisateur</string>
+  <string name="providersignin_password">Mot de passe</string>
+  <string name="providersignin_title">Se connecter</string>
+  <string name="providersignin_save_user">Sauvegarde de l'utilisateur</string>
+  <string name="providersignin_account_added">Un nouveau compte a été ajouté.</string>
+  <string name="providersignin_login_failed">Échec de connexion.</string>
+</resources>

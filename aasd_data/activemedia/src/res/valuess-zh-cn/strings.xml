@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">关闭所有媒体</string>
+  <string name="activemedia_activeMedia">已激活的媒体（%d）</string>
+  <string name="activemedia_audio">音频</string>
+  <string name="activemedia_video">视频</string>
+  <string name="activemedia_multiple_displays">多个显示器</string>
+  <string name="activemedia_left_display">左侧显示器</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">您是否想关闭整个房屋的电源？</string>
+</resources>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">Vzdialený</string>
+  <string name="roommedia_more">Viac</string>
+  <string name="roommedia_playing">Prehrávanie</string>
+  <string name="roommedia_browse">Prehľadávať</string>
+  <string name="roommedia_multiRoom">Viacero miestností</string>
+  <string name="roommedia_favorites">Obľúbené</string>
+  <string name="roommedia_keypad">Klávesnica</string>
+  <string name="roommedia_media">Médiá</string>
+  <string name="roommedia_warmingUp">ZAHRIEVANIE</string>
+  <string name="roommedia_coolingDown">OCHLADZOVANIE</string>
+  <string name="roommedia_roomVideo">%s video</string>
+  <string name="roommedia_limitedControl">OBMEDZENÁ REGULÁCIA. PRIPÁJANIE...</string>
+  <string name="roommedia_someRoomsAreOff">NIEKTORÉ MIESTNOSTI SÚ VYPNUTÉ</string>
+  <string name="roommedia_openInSonos">Otvoriť v zariadení Sonos</string>
+  <string name="roommedia_account_status">Neprihlásený</string>
+  <string name="roommedia_noNowPlayingInformation">Nič sa neprehráva</string>
+  <string name="roommedia_noAccountSelected">Vybrať konto</string>
+  <string name="roommedia_pduPr_dialogHeader">Chcete toto zariadenie reštartovať opätovným pripojením do napájacej siete?</string>
+  <string name="roommedia_pduPr_dialogMessage">Reštartovanie opätovného pripojenia môže trvať niekoľko minút.</string>
+  <string name="roommedia_pduPr_digPowerCycle">Reštartovať opätovným pripojením</string>
+  <string name="roommedia_pduPr_digCancel">Zrušiť</string>
+  <string name="roommedia_pduPr_toastMessage">Žiadna rýchla akcia na reštartovanie opätovným pripojením</string>
+</resources>

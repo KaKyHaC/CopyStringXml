@@ -1,0 +1,17 @@
+<resources>
+  <string name="circadianTransition_title">％sを編集</string>
+  <string name="circadianTransition_description">
+''％s''遷移点がいつ開始するかを選択し、それに必要な色温度を設定します。これらの設定はすべての部屋に影響します。</string>
+  <string name="circadianTransition_categoryTitle_startTime">
+開始時間を設定する</string>
+  <string name="circadianTransition_categoryTitle_colorTemperature">色温度を設定する</string>
+  <string name="circadianTransition_colorTemperature">色温度ー%dK</string>
+  <string name="circadianTransition_morning">朝</string>
+  <string name="circadianTransition_day">昼間</string>
+  <string name="circadianTransition_evening">夕方</string>
+  <string name="circadianTransition_night">夜</string>
+  <string name="circadianTransition_timePicker_header">開始</string>
+  <string name="circadianTransition_timePicker_colon">:</string>
+  <string name="circadianTransition_timePicker_minuteFormat">	
+%02d</string>
+</resources>

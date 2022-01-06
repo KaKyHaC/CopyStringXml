@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="remotekeypad_hyphen">-</string>
+  <string name="remotekeypad_guide">GUIDE</string>
+  <string name="remotekeypad_clear">RENSA</string>
+  <string name="remotekeypad_enter">RETUR</string>
+  <string name="remotekeypad_notAvailable">Knappsatsen är inte tillgänglig.</string>
+</resources>

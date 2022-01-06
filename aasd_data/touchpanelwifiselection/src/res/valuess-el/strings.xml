@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Ενέργεια επιστροφής επιλογής Wifi</string>
+  <string name="touchpanelWifiSelection_title">Επιλογή Wi-Fi</string>
+  <string name="touchpanelWifiSelection_Discovering">Ανακαλύπτοντας</string>
+  <string name="touchpanelWifiSelection_tryAgain">Δοκιμάστε ξανά</string>
+  <string name="touchpanelWifiSelection_titleFound">Συνδεθείτε με το σημείο πρόσβασης WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleFound">Παρακαλώ επιλέξτε σημείο πρόσβασης. </string>
+  <string name="touchpanelWifiSelection_titleNotFound">Δεν βρέθηκε σημείο πρόσβασης WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">Δεν βρέθηκαν σημεία πρόσβασης. Ελέγξτε τη σύνδεση του δικτύου σας και δοκιμάστε ξανά.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">Αναζήτηση για σημεία πρόσβασης WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">Παρακαλώ περιμένετε να ολοκληρωθεί η σάρωση</string>
+</resources>

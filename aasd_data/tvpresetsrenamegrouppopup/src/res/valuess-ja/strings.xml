@@ -1,0 +1,9 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">
+グループの名前を変更する</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">キャンセル</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">名前の変更</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">重複する名前</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">無効な名前</string>
+  <string name="tvpresetsrenamegroup_unknownError">操作の誤り　</string>
+</resources>

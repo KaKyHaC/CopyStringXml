@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">Geen netwerk gevonden!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">Controleer uw ethernetkabels of maak draadloos verbinding.</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">Verbinding maken met wifi-toegangspunt</string>
+</resources>

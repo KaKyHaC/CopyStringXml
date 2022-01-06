@@ -1,0 +1,15 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">ユーザーの役割を割り振ります</string>
+  <string name="cloudrelayadduser_user">ユーザー </string>
+  <string name="cloudrelayadduser_owner">オーナー</string>
+  <string name="cloudrelayadduser_username">ユーザー名</string>
+  <string name="cloudrelayadduser_email">メールアドレス</string>
+  <string name="cloudrelayadduser_yes">はい</string>
+  <string name="cloudrelayadduser_no">いいえ</string>
+  <string name="cloudrelayadduser_invite_warning">
+招待状の送信が完了していません。編集を続けますか？</string>
+  <string name="cloudrelayadduser_send_invite">招待を送る</string>
+  <string name="cloudrelayadduser_invite_sent">送信済みの招待状。</string>
+  <string name="cloudrelayadduser_add_new_user">
+新しいユーザーを追加する</string>
+</resources>

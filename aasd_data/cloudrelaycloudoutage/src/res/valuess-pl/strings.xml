@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">Połączenie z chmurą nie działa…</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">W tej chwili nie można załadować sterowania domem. Nawet jeśli połączenie z chmurą jest chwilowo wyłączone, dopóki korzystasz z lokalnego WAP, nadal możesz łączyć się lokalnie.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">Spróbuj połączyć się lokalnie</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">Sicherheit</string>
+  <string name="security_panicActionsTitle">AKTIONEN</string>
+  <string name="security_panicActionsSubtitle">Drücken und 1 Sekunde lang halten, um jede Aktion auszulösen</string>
+  <string name="security_navigationButtonsTitle">NAVIGATIONSSCHALTFLÄCHEN</string>
+  <string name="security_selectNavigationButton">Auswählen</string>
+  <string name="security_keypadTitle">TASTENFELD</string>
+  <string name="security_keypadSubtitle">Geben Sie den 4-stelligen Code und eine Ziffer ein, die der gewünschten Aktion entspricht.</string>
+  <string name="security_displayTextTitle">TEXTANZEIGE</string>
+</resources>

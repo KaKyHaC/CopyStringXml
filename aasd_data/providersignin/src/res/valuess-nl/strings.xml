@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Typ je gebruikersnaam</string>
+  <string name="providersignin_enter_password">Voer uw wachtwoord in</string>
+  <string name="providersignin_description">Log in op uw %s-account om dit abonnement toe te voegen.</string>
+  <string name="providersignin_user_name">Naam gebruiker</string>
+  <string name="providersignin_password">Wachtwoord</string>
+  <string name="providersignin_title">Aanmelden</string>
+  <string name="providersignin_save_user">Gebruiker opslaan...</string>
+  <string name="providersignin_account_added">Account toegevoegd.</string>
+  <string name="providersignin_login_failed">Fout bij inloggen.</string>
+</resources>

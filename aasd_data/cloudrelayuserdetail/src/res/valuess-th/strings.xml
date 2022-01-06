@@ -1,0 +1,18 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">อัปเดตข้อมูลของคุณ</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">ลงชื่อออกจากอุปกรณ์ทั้งหมด</string>
+  <string name="cloud_relay_user_detail_sign_out">ออกจากระบบ</string>
+  <string name="cloud_relay_user_detail_delete_account">ลบบัญชี</string>
+  <string name="cloud_relay_user_detail_edit_name">แก้ไขชื่อ</string>
+  <string name="cloud_relay_user_detail_change_email">เปลี่ยนอีเมล</string>
+  <string name="cloud_relay_user_detail_change_password">เปลี่ยนรหัสผ่าน</string>
+  <string name="cloud_relay_user_detail_change_phone_number">เปลี่ยนหมายเลขโทรศัพท์</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">การแตะที่ "ตกลง" จะเป็นการลงชื่อออกจากอุปกรณ์ทั้งหมดที่คุณลงชื่อเข้าใช้ไว้ด้วยบัญชีนี้อย่างสมัครใจ เซสชั่นทั้งหมดจะล็อกเอาท์จากระบบภายใน 1-60 นาที</string>
+  <string name="cloud_relay_user_detail_sign_out_user">คุณแน่ใจหรือว่าคุณต้องการออกจากระบบ</string>
+  <string name="cloud_relay_user_detail_delete_user_account">แน่ใจหรือว่าต้องการลบบัญชีนี้</string>
+  <string name="cloud_relay_user_detail_account_deleted">บัญชีถูกลบแล้ว</string>
+  <string name="cloud_relay_user_detail_user_signed_out">คุณลงชื่อออกแล้ว</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">การลบบัญชีจะใช้เวลาประมาณ 15 วินาที ให้ลองลงชื่อเข้าใช้บัญชีนี้อีกทีหลังจากผ่านไปแล้ว 15 วินาที</string>
+  <string name="cloud_relay_user_detail_no">ไม่ใช่</string>
+  <string name="cloud_relay_user_detail_yes">ใช่</string>
+</resources>

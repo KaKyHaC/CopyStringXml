@@ -1,0 +1,6 @@
+<resources>
+  <string name="homeaccess_houseLabel">גישה לבית</string>
+  <string name="homeaccess_lockTitle">מנעולים</string>
+  <string name="homeaccess_garageTitle">דלתות חניה</string>
+  <string name="homeaccess_gateTitle">שערים</string>
+</resources>

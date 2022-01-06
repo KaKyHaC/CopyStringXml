@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">Все комнаты</string>
+  <string name="roomslib_favorite_rooms">Избранное</string>
+  <string name="roomslib_other_rooms">Другие комнаты</string>
+  <string name="ok_text">ОК</string>
+  <string name="renameroom_voice">Чтобы ваша голосовая служба распознала новое имя комнаты, попросите ее заново обнаружить ваши устройства.</string>
+  <string name="duplicate_name">Дублировать имя</string>
+  <string name="invalid_name">Неверное имя</string>
+  <string name="unknown_error">Неизвестная ошибка</string>
+  <string name="read_only">Только для чтения</string>
+  <string name="renameRoom">Переименовать комнату</string>
+  <string name="roomslib_do_not_disturb_toast_on">Включен режим "Не беспокоить".</string>
+  <string name="roomslib_do_not_disturb_toast_off">Режим "Не беспокоить" выключен.</string>
+  <string name="roomslib_this_room">Это помещение</string>
+  <string name="roomslib_selectRoom_colorTuning">Настройка цвета</string>
+  <string name="roomslib_selectRoom_circadianLighting">Циркадное освещение</string>
+</resources>

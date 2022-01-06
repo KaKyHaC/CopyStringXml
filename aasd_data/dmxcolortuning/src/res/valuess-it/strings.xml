@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Regolazione del colore</string>
+  <string name="dmxroomselection_controlsTitle">Comandi</string>
+  <string name="dmxcolortuning_description">Definisci le impostazioni di base per questa stanza. Con le impostazioni della linea di base, definisci il colore e la temperatura che desideri per i tuoi dispositivi sintonizzabili.\n\nSono forniti cursori e interruttori di intensità per aiutarti a visualizzare il colore. Non vengono salvati nelle impostazioni di base.</string>
+</resources>

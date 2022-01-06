@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">nastavenia tlačidla späť</string>
+  <string name="touchPanelsettings_toolbar">Nastavenia</string>
+  <string name="touchPanelsettings_toolbar_default_room">Predvolená miestnosť</string>
+  <string name="touchPanelsettings_room_list">ZOZNAM MIESTNOSTÍ</string>
+  <string name="touchPanelsettings_display">DISPLEJ</string>
+  <string name="touchPanelsettings_automode_brightness">Automatický režim jasu</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">Časový limit obrazovky</string>
+  <string name="touchPanelsettings_screensaver">Šetrič obrazovky</string>
+  <string name="touchPanelsettings_media_volume">Hlasitosť médií</string>
+  <string name="touchPanelsettings_home">DOMOV</string>
+  <string name="touchPanelsettings_advanced_settings">Rozšírené nastavenia</string>
+  <string name="touchPanelsettings_edit_home">Upraviť domácnosť</string>
+  <string name="touchPanelsettings_info">INFORMÁCIE</string>
+  <string name="touchPanelsettings_firmware_version">Verzia firmvéru</string>
+  <string name="touchPanelsettings_ui_version">Verzia používateľského rozhrania (UI)</string>
+  <string name="touchPanelsettings_volume">HLASITOSŤ</string>
+  <string name="touchPanelsettings_edit_home_popup_message">Only change these settings if instructed to by your Crestron dealer</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">Pokračovať</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">Zrušiť</string>
+  <string name="touchPanelsettings_timeout_text_never">Nikdy</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s sekúnd</string>
+  <string name="touchPanelsettings_timeout_text_minute">1 minúta</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s minút</string>
+  <string name="touchPanelsettings_timeout_text_hour">1 hodina</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s hodín</string>
+  <string name="touchPanelsettings_access_points">Prístupový bod siete Wi-Fi</string>
+  <string name="touchPanelsettings_intercom">INTERKOM A PRERUŠENIA</string>
+  <string name="touchPanelsettings_do_not_disturb">Nerušiť</string>
+  <string name="touchPanelsettings_play_test">Prehrať test</string>
+  <string name="touchPanelsettings_speakervolume_label">Hlasitosť reproduktora</string>
+</resources>

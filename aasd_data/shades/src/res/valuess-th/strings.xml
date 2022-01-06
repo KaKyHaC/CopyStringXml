@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">ที่บังแดด</string>
+  <string name="shades_scenesTitle">ฉาก</string>
+  <string name="shades_controlsTitle">ควบคุม</string>
+  <string name="shades_allShadesTitle">ที่บังแดดทั้งหมด</string>
+  <string name="shades_allShades_MoreLightTitle">แสงมากขึ้น</string>
+  <string name="shades_allShades_LessLightTitle">แสงลดลง</string>
+  <string name="shades_stopRampText">หยุด</string>
+</resources>

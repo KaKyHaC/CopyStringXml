@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesDevices_title">事件和聲響</string>
+  <string name="naxChimesDevices_volumeTitle">事件量</string>
+  <string name="naxChimesDevices_noEventsFound">沒有可用事件</string>
+</resources>

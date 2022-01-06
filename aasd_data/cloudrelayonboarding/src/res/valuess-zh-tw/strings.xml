@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelay_onboarding_sign_up">註冊</string>
+  <string name="cloudrelay_onboarding_not_now">不是現在</string>
+  <string name="cloudrelay_onboarding_trouble_sign_in">無法登錄？</string>
+  <string name="cloudrelay_onboarding_yes_let_begin">是的，讓我們開始</string>
+  <string name="cloudrelay_connect_user_roles">用戶角色與訪問</string>
+  <string name="cloudrelay_onboarding_cancel">取消</string>
+  <string name="cloudrelay_onboarding_continue">繼續</string>
+  <string name="cloudrelay_onboarding_waring">我們了解到您現在還沒有準備好註冊。您可以稍後再執行此操作。</string>
+  <string name="cloudrelay_connect_user_roles_description">作為房主，您可以輕鬆地向您信任的人授予訪問權限並設置用戶角色。此權限也可以隨時撤銷...</string>
+  <string name="cloudrelay_connect_anywhere_securely">安全連接任何地方</string>
+  <string name="cloudrelay_connect_anywhere_securely_description">我們為您的 Crestron Home（快思聰智家）開發了迄今最安全的遠程連接體驗。您可以從任何地方連接並安全控制您的住宅。</string>
+</resources>

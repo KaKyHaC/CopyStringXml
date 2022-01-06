@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s מזג האוויר</string>
+  <string name="climatelib_noActiveThermostats_upperCase">אין תרמוסטטים פעילים</string>
+  <string name="climatelib_noActiveThermostats">אין תרטוסטטים פעילים</string>
+  <string name="climatelib_status_multiple_running">מספר תרמוסטטים מופעלים</string>
+  <string name="climatelib_status_heating_to_temperature">חימום ל-%s</string>
+  <string name="climatelib_status_cooling_to_temperature">קירור ל-%s</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%dºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">קירור ל- %1fº, H.C. מופעל (56%%)</string>
+  <string name="climatelib_thermostat_status_increasing">חימום ל- %1fº, H.C. מופעל (56%%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">H.C. מופעל (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H. מופעל (%s)</string>
+  <string name="climatelib_thermostat_state_offline">לא מקוון</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">להגדיר קירור</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">להגדיר חימום</string>
+  <string name="climatelib_thermostat_setpoint_single">נקודת הגדרה</string>
+  <string name="climatelib_set_point">להגדיר נקודה</string>
+  <string name="climatelib_heat_set_point">חימום ל-</string>
+  <string name="climatelib_cool_set_point">קירור ל-</string>
+  <string name="climatelib_single_set_point">אוטומטי יחיד</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">קירור ל-  %s</string>
+  <string name="climatelib_thermostat_heatTo">חימום ל-  %s</string>
+  <string name="climatelib_thermostat_setTo">להגדיר ל-  %s</string>
+  <string name="climatelib_state_off">כבוי</string>
+  <string name="climatelib_state_on">פועל</string>
+  <string name="climatelib_thermostatMode_heat">חום</string>
+  <string name="climatelib_thermostatMode_cool">קור</string>
+  <string name="climatelib_thermostatMode_single_auto">אוטומטי יחיד</string>
+  <string name="climatelib_thermostatMode_dual_auto">אוטומטי כפול</string>
+  <string name="climatelib_thermostatMode_aux_heat">חום נוסף</string>
+  <string name="climatelib_thermostatMode_autoMode">מצב אוטומטי</string>
+  <string name="climatelib_thermostatMode_dualMode">מצב כפול</string>
+  <string name="climatelib_thermostatFan_auto">אוטומטי</string>
+  <string name="climatelib_thermostatFan_low">נמוך</string>
+  <string name="climatelib_thermostatFan_medium">בינוני</string>
+  <string name="climatelib_thermostatFan_high">גבוה</string>
+  <string name="climatelib_thermostatFan_circulate">סחרור</string>
+  <string name="climatelib_thermostatFan_circulateLow">מחזור נמוך</string>
+  <string name="climatelib_thermostatFan_circulateMedium">מחזור בינוני</string>
+  <string name="climatelib_thermostatFan_none">ללא</string>
+  <string name="climatelib_thermostatSchedule_noEvents">אין אירועים</string>
+  <string name="climatelib_thermostatSchedule_hold">המתנה</string>
+  <string name="climatelib_thermostatSchedule_running">הרצה</string>
+  <string name="climatelib_thermostatSchedule_run">הפעלה</string>
+  <string name="climatelib_thermostatSchedule_override">זמני</string>
+  <string name="climatelib_thermostatSchedule_next">%1$s -%2$s הבא</string>
+  <string name="climatelib_thermostatSchedule_holding">אחיזה</string>
+  <string name="climatelib_labelMode">מצב</string>
+  <string name="climatelib_labelFan">מאוורר</string>
+  <string name="climatelib_labelSchedule">תזמון</string>
+  <string name="climatelib_noScheduleEvents">אין אירועי תזמון. האם אתה רוצה ליצור תזמון אירועים עכשיו?</string>
+  <string name="climatelib_popupCancel">בטל</string>
+  <string name="climatelib_popupCreate">צור</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">תזמון מזג האוויר</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">תזמון אירועים</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">הסיסמה שגויה</string>
+  <string name="climatelib_climateSchedules_weekdays">ימי חול</string>
+  <string name="climatelib_climateSchedules_weekend">סוף שבוע</string>
+  <string name="climatelib_climateSchedules_everyday">כל יום</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s, %2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">אין אירועים מתוזמנים</string>
+  <string name="climatelib_climateSchedules_mon">ב'</string>
+  <string name="climatelib_climateSchedules_tue">ג'</string>
+  <string name="climatelib_climateSchedules_wed">ד'</string>
+  <string name="climatelib_climateSchedules_thu">ה'</string>
+  <string name="climatelib_climateSchedules_fri">ו'</string>
+  <string name="climatelib_climateSchedules_sat">ש'</string>
+  <string name="climatelib_climateSchedules_sun">א'</string>
+  <string name="climatelib_climate">אקלים</string>
+</resources>

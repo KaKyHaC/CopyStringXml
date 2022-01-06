@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">Nyanser</string>
+  <string name="shades_scenesTitle">SCENER</string>
+  <string name="shades_controlsTitle">KONTROLLER</string>
+  <string name="shades_allShadesTitle">ALLE NYANSER</string>
+  <string name="shades_allShades_MoreLightTitle">Mer lys</string>
+  <string name="shades_allShades_LessLightTitle">Mindre lys</string>
+  <string name="shades_stopRampText">Stopp</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">Выберите источник</string>
+  <string name="source_selection_problem_source">Доступно не во всех комнатах группы</string>
+</resources>

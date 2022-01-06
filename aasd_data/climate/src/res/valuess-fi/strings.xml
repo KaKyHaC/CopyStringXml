@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">CLIMATE CONTROLS</string>
+  <string name="climate_current_temperature">CURRENT TEMP.</string>
+  <string name="climate_mode">Tila</string>
+  <string name="climate_schedule">AIKATAULU</string>
+  <string name="climate_fan">TUULETIN</string>
+  <string name="climate_floor_heating">Floor heating</string>
+  <string name="climate_humidity_controls">HUMIDITY CONTROLS</string>
+  <string name="climate_humidify">HUMIDIFY TO</string>
+  <string name="climate_floor_control">Floor control</string>
+  <string name="climate_currentHumidity_title">Current humidity</string>
+  <string name="climate_humidityControl_title">Humidity control</string>
+</resources>

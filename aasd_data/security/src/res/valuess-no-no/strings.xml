@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">Sikkerhet</string>
+  <string name="security_panicActionsTitle">Handlinger</string>
+  <string name="security_panicActionsSubtitle">Trykk og hold i 1 sekund for å utløse hver handling</string>
+  <string name="security_navigationButtonsTitle">NAVIGASJONSKNAPPER</string>
+  <string name="security_selectNavigationButton">Velg</string>
+  <string name="security_keypadTitle">Tastatur</string>
+  <string name="security_keypadSubtitle">Tast inn den 4-sifrede koden og et siffer som tilsvarer handlingen du ønsker å utføre</string>
+  <string name="security_displayTextTitle">VIS TEKST</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">SCENER</string>
+  <string name="lights_controlsTitle">KONTROLLER</string>
+  <string name="lights_controlsMasterControl">ALLA LAMPOR</string>
+  <string name="create_new_scene">Skapa ny scen</string>
+  <string name="lights_noScenesInfo">Det här rummet verkar inte ha några synliga ljusscener.</string>
+</resources>

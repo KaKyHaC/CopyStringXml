@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Salasana väärin</string>
+  <string name="advancedpassword_passwordHint">Enter the password to edit scheduled events.</string>
+  <string name="advancedpassword_settingsPasswordHint">This is a protected section, please enter the password first.</string>
+  <string name="advancedpassword_editScenesPasswordHint">This is a protected section, please enter the password first.</string>
+  <string name="advancedpassword_title">Enter the password</string>
+  <string name="advancedpassword_advancedUserPassword">Edistynyt käyttäjän salasana</string>
+  <string name="advancedpassword_advancedUserPasswordHint">Contact your authorized Crestron dealer for your advanced user password.</string>
+  <string name="advancedpassword_warning_ok">OK</string>
+  <string name="advancedpassword_warning_subtitle">If you enter an incorrect password multiple times, your account will be temporarily locked out. Try again in a little while or contact your authorized Crestron dealer.</string>
+  <string name="advancedpassword_warning_title">You have entered an incorrect password. </string>
+  <string name="advancedpassword_cloud_claim_hint">Syötä edistynyt käyttäjän salasana jatkaaksesi kotisi lunastamista. Ota yhteys valtuutettuun Crestron-myyjääsi saadaksesi edistyneen käyttäjän salasanasi.</string>
+  <string name="advancedpassword_cloud_claim_skip">You can %s and proceed to your home without using an advanced user password at this time.</string>
+  <string name="advancedpassword_skip_this_step">ohita tämä vaihe</string>
+</resources>

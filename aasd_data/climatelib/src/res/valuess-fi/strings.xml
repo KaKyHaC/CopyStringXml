@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s climate</string>
+  <string name="climatelib_noActiveThermostats_upperCase">NO ACTIVE THERMOSTATS</string>
+  <string name="climatelib_noActiveThermostats">Ei aktiivisia termostaatteja</string>
+  <string name="climatelib_status_multiple_running">useampi termostaatti on käynnissä</string>
+  <string name="climatelib_status_heating_to_temperature">Heating to %s</string>
+  <string name="climatelib_status_cooling_to_temperature">Cooling to %s</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%dºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">COOLING TO %.1fº, H.C. ON (56%%)</string>
+  <string name="climatelib_thermostat_status_increasing">HEATING TO %.1fº, H.C. ON (56%%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">H.C. ON (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H. ON (%s)</string>
+  <string name="climatelib_thermostat_state_offline">Offline</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">SET COOL</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">SET HEAT</string>
+  <string name="climatelib_thermostat_setpoint_single">SETPOINT</string>
+  <string name="climatelib_set_point">SET POINT</string>
+  <string name="climatelib_heat_set_point">HEAT TO</string>
+  <string name="climatelib_cool_set_point">COOL TO</string>
+  <string name="climatelib_single_set_point">Single Auto (Yksi automaattinen)</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">COOL TO %s</string>
+  <string name="climatelib_thermostat_heatTo">HEAT TO %s</string>
+  <string name="climatelib_thermostat_setTo">SET TO %s</string>
+  <string name="climatelib_state_off">Pois päältä</string>
+  <string name="climatelib_state_on">Päällä</string>
+  <string name="climatelib_thermostatMode_heat">Lämmitä</string>
+  <string name="climatelib_thermostatMode_cool">Viilennä</string>
+  <string name="climatelib_thermostatMode_single_auto">Yksi automaattinen</string>
+  <string name="climatelib_thermostatMode_dual_auto">Kaksi automaattista</string>
+  <string name="climatelib_thermostatMode_aux_heat">Aux-lämpö</string>
+  <string name="climatelib_thermostatMode_autoMode">AUTO MODE</string>
+  <string name="climatelib_thermostatMode_dualMode">DUAL MODE</string>
+  <string name="climatelib_thermostatFan_auto">Automaattinen</string>
+  <string name="climatelib_thermostatFan_low">Matala</string>
+  <string name="climatelib_thermostatFan_medium">Keskiarvoinen</string>
+  <string name="climatelib_thermostatFan_high">Korkea</string>
+  <string name="climatelib_thermostatFan_circulate">Circulate</string>
+  <string name="climatelib_thermostatFan_circulateLow">Circulate Low</string>
+  <string name="climatelib_thermostatFan_circulateMedium">Circulate Medium</string>
+  <string name="climatelib_thermostatFan_none">Ei mitään</string>
+  <string name="climatelib_thermostatSchedule_noEvents">No events</string>
+  <string name="climatelib_thermostatSchedule_hold">Pidä</string>
+  <string name="climatelib_thermostatSchedule_running">Running</string>
+  <string name="climatelib_thermostatSchedule_run">Suorita</string>
+  <string name="climatelib_thermostatSchedule_override">Väliaikainen</string>
+  <string name="climatelib_thermostatSchedule_next">NEXT %1$s - %2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">Pidetään</string>
+  <string name="climatelib_labelMode">Tila</string>
+  <string name="climatelib_labelFan">TUULETIN</string>
+  <string name="climatelib_labelSchedule">AIKATAULU</string>
+  <string name="climatelib_noScheduleEvents">No scheduling events exist. Do you want to create scheduling events now?</string>
+  <string name="climatelib_popupCancel">Peruuta</string>
+  <string name="climatelib_popupCreate">Create</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">CLIMATE SCHEDULE</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">Ajastetut tapahtumat</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">Salasana väärin</string>
+  <string name="climatelib_climateSchedules_weekdays">WEEKDAYS</string>
+  <string name="climatelib_climateSchedules_weekend">WEEKEND</string>
+  <string name="climatelib_climateSchedules_everyday">EVERY DAY</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s, %2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">No scheduled events</string>
+  <string name="climatelib_climateSchedules_mon">Ma</string>
+  <string name="climatelib_climateSchedules_tue">TI</string>
+  <string name="climatelib_climateSchedules_wed">Ke</string>
+  <string name="climatelib_climateSchedules_thu">TO</string>
+  <string name="climatelib_climateSchedules_fri">Pe</string>
+  <string name="climatelib_climateSchedules_sat">La</string>
+  <string name="climatelib_climateSchedules_sun">Su</string>
+  <string name="climatelib_climate">Sisäilmasto</string>
+</resources>

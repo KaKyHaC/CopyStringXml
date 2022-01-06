@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="remotekeypad_hyphen">-</string>
+  <string name="remotekeypad_guide">GUIA</string>
+  <string name="remotekeypad_clear">LIMPAR</string>
+  <string name="remotekeypad_enter">INTRODUZIR</string>
+  <string name="remotekeypad_notAvailable">O teclado não está disponível.</string>
+</resources>

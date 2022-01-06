@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">Skriv inn sikkerhetskoden</string>
+  <string name="securitypasscodeentry_saveMessage">Lagre koden for denne enheten. Du vil ikke bli bedt om å skrive inn denne koden igjen.</string>
+  <string name="securitypasscodeentry_invalidPasscode">Feil kode. Vær så snill, prøv på nytt.</string>
+  <string name="securitypasscodeentry_passcodeRequired">Koden er tom. Vennligst skriv inn riktig kode.</string>
+</resources>

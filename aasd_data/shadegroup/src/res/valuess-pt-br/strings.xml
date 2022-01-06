@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">TONALIDADES</string>
+  <string name="shadegroup_batteryOk">Bateria ok</string>
+  <string name="shadegroup_batteryLow">Bateria fraca</string>
+</resources>

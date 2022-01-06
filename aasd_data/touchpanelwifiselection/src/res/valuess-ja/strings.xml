@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Wifi選択バックアクション</string>
+  <string name="touchpanelWifiSelection_title">Wifiの選択</string>
+  <string name="touchpanelWifiSelection_Discovering">発見　</string>
+  <string name="touchpanelWifiSelection_tryAgain">やり直し</string>
+  <string name="touchpanelWifiSelection_titleFound">WiFiアクセスポイントに接続します
+</string>
+  <string name="touchpanelWifiSelection_subtitleFound">アクセスポイントを選択してください。</string>
+  <string name="touchpanelWifiSelection_titleNotFound">WiFiアクセスポイントが見つかりません</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">
+WiFiアクセスポイントが見つかりません。ネットワーク接続を確認して、再試行してください。</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">
+WiFiアクセスポイントの検索</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">スキャンが完了するまでお待ちください
+</string>
+</resources>

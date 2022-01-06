@@ -1,0 +1,7 @@
+<resources>
+  <string name="defaultRoom_chooseDefaultRoom">בחר חדר ברירת מחדל</string>
+  <string name="defaultRoom_category">בחר חדר ברירת מחדל</string>
+  <string name="defaultRoom_emptyList">לא הוגדרו חדרים. אין חדרים ברשימה.</string>
+  <string name="defaultRoom_save">שמור</string>
+  <string name="defaultroom_homeConfiguration">תצורת בית</string>
+</resources>

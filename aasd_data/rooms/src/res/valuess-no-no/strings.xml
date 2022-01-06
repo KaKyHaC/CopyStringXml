@@ -1,0 +1,6 @@
+<resources>
+  <string name="rooms_title">Rom</string>
+  <string name="room_groups_choose_room_filter">Velg romfilter</string>
+  <string name="rooms">Rom</string>
+  <string name="rooms_no_rooms_visible">Det er ingen rom i huset.</string>
+</resources>

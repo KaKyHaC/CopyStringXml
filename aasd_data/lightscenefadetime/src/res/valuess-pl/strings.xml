@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Czas wygaszania</string>
+  <string name="sceneFadeTime_header">Ustaw czas gaszenia światła</string>
+</resources>

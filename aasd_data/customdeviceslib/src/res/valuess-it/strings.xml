@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">La disposizione principale %s è stata rimossa</string>
+  <string name="customdevice_controlNotAvailable">CONTROLLO NON DISPONIBILE</string>
+  <string name="customdevice_emptyAlertTitle">Informazione non è disponibile.</string>
+  <string name="customdevice_emptyLayoutError">Non c'è la disposizione con l'id %s.</string>
+  <string name="customdevice_emptyMediaLayoutError">Nessuna disposizione predefinita come fonte con</string>
+  <string name="customdevice_emptyAlertError">Non c'è la disposizione con l'id %s.</string>
+  <string name="customdevice_alertError">Si è verificato un errore durante l'apertura dell'avviso con ID %s.</string>
+  <string name="customdevice_layoutError">Si è verificato un errore durante l'apertura della configurazione con ID %s.</string>
+  <string name="customdevice_emptySelectionList">Non si vedono oggetti per %s.</string>
+  <string name="customdevice_setValueGenericError">Qualcosa non ha funzionato. Non si può cambiare il valore. </string>
+  <string name="customdevice_setValueError">Il valore non si poteva cambiare. %s</string>
+  <string name="customdevice_runCommandGenericError">Qualcosa non ha funzionato. Il comando non può essere eseguito.</string>
+  <string name="customdevice_runCommandError">Impossibile eseguire il comando. %S</string>
+  <string name="customdevice_thermostat_setpoint">IMPOSTA SU</string>
+  <string name="customdevice_thermostat_heatSetpoint">RISCALDAMENTO VERSO</string>
+  <string name="customdevice_thermostat_coolSetpoint">RAFFREDDAMENTO VERSO</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">Il campo di navigazione non è configurato correttamente.</string>
+  <string name="customdevice_emptyValuePlaceholder">- </string>
+  <string name="customdevice_mediaEmptyScreen_hint">Si prega di utilizzare l'applicazione esterna oppure il dispositivo per il controllo</string>
+  <string name="customdevice_mediaEmptyScreen_title">Nessun controllo disponibile.</string>
+</resources>

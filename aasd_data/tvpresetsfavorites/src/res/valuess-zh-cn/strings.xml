@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">频道项目图片</string>
+  <string name="tvpresetsfavorite_favoritesChannels">收藏夹</string>
+  <string name="tvpresetsfavorite_favoritesList">最喜爱媒体清单</string>
+  <string name="tvpresetsfavorite_favoritesMore">更多最喜爱媒体</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">编辑分组</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">更改最喜爱分组</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">创建新的分组</string>
+  <string name="tvpresetsfavorite_nowPlaying">正在播放</string>
+  <string name="tvpresetsfavorite_upNext">下一首</string>
+  <string name="tvpresetsfavorite_noInformation">无信息</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">点击\"⋯\"添加您最喜爱的频道</string>
+  <string name="tvpresetsfavorite_noProvider">由于没有选择提供商，无最喜爱的频道</string>
+</resources>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Nazwa wydarzenia, np. Letni harmonogram klimatyczny</string>
+  <string name="climateschedule_scheduleNameTitleLabel">Nazwa</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">Nowe zaplanowane wydarzenie klimatyczne</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">Edytuj zaplanowane wydarzenie</string>
+  <string name="climateschedule_scheduleActiveDays">AKTYWNE DNI</string>
+  <string name="climateschedule_activeDays_sunday">S</string>
+  <string name="climateschedule_activeDays_monday">M</string>
+  <string name="climateschedule_activeDays_tuesday">T</string>
+  <string name="climateschedule_activeDays_wednesday">W</string>
+  <string name="climateschedule_activeDays_thursday">T</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">S</string>
+  <string name="climateschedule_activeDays">AKTYWNE DNI</string>
+  <string name="climateschedule_save">Zapisz</string>
+  <string name="climateschedule_deleteSchedule">USUŃ</string>
+  <string name="climateschedule_copyToAnotherThermostat">Kopiuj do innego termostatu</string>
+  <string name="climateschedule_scheduleEventError">Cos poszło nie tak, spróbuj ponownie.</string>
+  <string name="climateschedule_editTitle">Edytuj</string>
+  <string name="climateschedule_deleteWarning">Czy na pewno chcesz usunąć wydarzenie %s?</string>
+  <string name="climateschedule_invalidScheduleNameError">Ta nazwa wydarzenia jest nieprawidłowa</string>
+  <string name="climateschedule_duplicateScheduleNameError">Ta nazwa wydarzenia już istnieje</string>
+  <string name="climateschedule_discardChangesWarning">Masz niezapisane zmiany. Czy chcesz je odrzucić?</string>
+  <string name="climateschedule_discard">Odrzuć</string>
+  <string name="climateschedule_saveChangesWarning">Czy chcesz zapisać zmiany?</string>
+  <string name="climateschedule_setpointsTitle">Ustal wartości</string>
+  <string name="climateschedule_scheduleStatusTitle">STAN HARMONOGRAMU</string>
+  <string name="climateschedule_scheduleStatusItem">Harmonogram włączony</string>
+  <string name="climateschedule_timePicker_header">START</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

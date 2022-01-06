@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">felhasználói szerepkör hozzárendelése</string>
+  <string name="cloudrelaymemberdetail_user">Felhasználó</string>
+  <string name="cloudrelaymemberdetail_owner">Tulajdonos</string>
+  <string name="cloudrelaymemberdetail_remove_user">Felhasználó eltávolítása</string>
+  <string name="cloudrelaymemberdetail_house_access">Ház hozzáférés</string>
+  <string name="cloudrelaymemberdetail_enable_access">Hozzáférés engedélyezése</string>
+  <string name="cloudrelaymemberdetail_remove">Eltávolítás</string>
+  <string name="cloudrelaymemberdetail_cancel">Mégse</string>
+  <string name="cloudrelaymemberdetail_remove_warning">Biztosan el szeretné távolítani ezt a felhasználót?</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelay_onboarding_sign_up">ลงชื่อสมัครใช้</string>
+  <string name="cloudrelay_onboarding_not_now">ไม่ใช่ตอนนี้</string>
+  <string name="cloudrelay_onboarding_trouble_sign_in">พบปัญหาในการลงชื่อเข้าใช้</string>
+  <string name="cloudrelay_onboarding_yes_let_begin">เอาล่ะ มาเริ่มกันเลย</string>
+  <string name="cloudrelay_connect_user_roles">บทบาทผู้ใช้และการเข้าถึง</string>
+  <string name="cloudrelay_onboarding_cancel">ยกเลิก</string>
+  <string name="cloudrelay_onboarding_continue">ดำเนินการต่อ</string>
+  <string name="cloudrelay_onboarding_waring">เราเข้าใจว่าคุณยังไม่พร้อมลงชื่อสมัครใช้ตอนนี้ คุณสามารถดำเนินการนี้ได้ในภายหลัง</string>
+  <string name="cloudrelay_connect_user_roles_description">ในฐานะเจ้าของบ้าน คุณสามารถให้การเข้าถึงแก่คนที่คุณไว้ใจและตั้งบทบาทของผู้ใช้ได้ รวมถึงเพิกถอนสิทธิพิเศษต่าง ๆ ได้ทุกเมื่อที่คุณต้องการ</string>
+  <string name="cloudrelay_connect_anywhere_securely">เชื่อมต่อที่ใดก็ได้อย่างปลอดภัย</string>
+  <string name="cloudrelay_connect_anywhere_securely_description">เราได้พัฒนาประสบการณ์การเชื่อมต่อระยะไกลที่ปลอดภัยที่สุดเท่าที่เคยมีมาสำหรับ Crestron Home ของคุณ คุณสามารถเชื่อมต่อและควบคุมบ้านของคุณได้อย่างปลอดภัยจากทุกที่</string>
+</resources>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">Сеть не найдена!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">Проверьте кабели Ethernet или подключитесь по беспроводной сети.</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">Подключение к точке доступа Wi-Fi</string>
+</resources>

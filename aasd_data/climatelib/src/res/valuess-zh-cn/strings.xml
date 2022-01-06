@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s气候</string>
+  <string name="climatelib_noActiveThermostats_upperCase">无已激活的恒温控制器</string>
+  <string name="climatelib_noActiveThermostats">无已激活的恒温控制器</string>
+  <string name="climatelib_status_multiple_running">多个恒温控制器正在运行</string>
+  <string name="climatelib_status_heating_to_temperature">加热至%s</string>
+  <string name="climatelib_status_cooling_to_temperature">冷却至%s</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%dºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">冷却至%.1fº, H.C. ON （56%%）</string>
+  <string name="climatelib_thermostat_status_increasing">加热至%.1fº, H.C. ON （56%%）</string>
+  <string name="climatelib_thermostat_status_with_humidity">H.C. ON （%d%%）</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H. ON （%s）</string>
+  <string name="climatelib_thermostat_state_offline">离线</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">设置冷却</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">设置加热</string>
+  <string name="climatelib_thermostat_setpoint_single">设置值</string>
+  <string name="climatelib_set_point">设置值</string>
+  <string name="climatelib_heat_set_point">加热至</string>
+  <string name="climatelib_cool_set_point">冷却至</string>
+  <string name="climatelib_single_set_point">单自动</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">冷却至%s</string>
+  <string name="climatelib_thermostat_heatTo">加热至%s</string>
+  <string name="climatelib_thermostat_setTo">设置至%s</string>
+  <string name="climatelib_state_off">关</string>
+  <string name="climatelib_state_on">开</string>
+  <string name="climatelib_thermostatMode_heat">加热</string>
+  <string name="climatelib_thermostatMode_cool">冷却</string>
+  <string name="climatelib_thermostatMode_single_auto">单自动</string>
+  <string name="climatelib_thermostatMode_dual_auto">双自动</string>
+  <string name="climatelib_thermostatMode_aux_heat">辅助加热</string>
+  <string name="climatelib_thermostatMode_autoMode">自动模式</string>
+  <string name="climatelib_thermostatMode_dualMode">双重模式</string>
+  <string name="climatelib_thermostatFan_auto">自动</string>
+  <string name="climatelib_thermostatFan_low">低</string>
+  <string name="climatelib_thermostatFan_medium">中</string>
+  <string name="climatelib_thermostatFan_high">高</string>
+  <string name="climatelib_thermostatFan_circulate">循环</string>
+  <string name="climatelib_thermostatFan_circulateLow">循环低</string>
+  <string name="climatelib_thermostatFan_circulateMedium">循环中</string>
+  <string name="climatelib_thermostatFan_none">无</string>
+  <string name="climatelib_thermostatSchedule_noEvents">无事件</string>
+  <string name="climatelib_thermostatSchedule_hold">保持</string>
+  <string name="climatelib_thermostatSchedule_running">正在运行</string>
+  <string name="climatelib_thermostatSchedule_run">运行</string>
+  <string name="climatelib_thermostatSchedule_override">临时</string>
+  <string name="climatelib_thermostatSchedule_next">下一步%1$s - %2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">保持</string>
+  <string name="climatelib_labelMode">模式</string>
+  <string name="climatelib_labelFan">风扇</string>
+  <string name="climatelib_labelSchedule">计划</string>
+  <string name="climatelib_noScheduleEvents">不存在计划事件。您是否想现在创建计划事件？</string>
+  <string name="climatelib_popupCancel">取消</string>
+  <string name="climatelib_popupCreate">创建</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">气候计划</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">计划事件</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">密码不正确</string>
+  <string name="climatelib_climateSchedules_weekdays">工作日</string>
+  <string name="climatelib_climateSchedules_weekend">周末</string>
+  <string name="climatelib_climateSchedules_everyday">每日</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s, %2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">无计划事件</string>
+  <string name="climatelib_climateSchedules_mon">星期一</string>
+  <string name="climatelib_climateSchedules_tue">星期二</string>
+  <string name="climatelib_climateSchedules_wed">星期三</string>
+  <string name="climatelib_climateSchedules_thu">星期四</string>
+  <string name="climatelib_climateSchedules_fri">星期五</string>
+  <string name="climatelib_climateSchedules_sat">星期六</string>
+  <string name="climatelib_climateSchedules_sun">星期日</string>
+  <string name="climatelib_climate">气候</string>
+</resources>

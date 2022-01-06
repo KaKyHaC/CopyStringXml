@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">Fiók</string>
+  <string name="naxaccountdetail_edit_name">Név szerkesztése</string>
+  <string name="naxaccountdetail_signIn">Bejelentkezés</string>
+  <string name="naxaccountdetail_remove">Eltávolítás</string>
+  <string name="naxaccountdetail_remove_yes">Igen, eltávolítom</string>
+  <string name="naxaccountdetail_removeAccount_warning">A(z) %s fiók a továbbiakban nem lesz elérhető a Crestron Home számára.\n\nBiztos, hogy folytatja?</string>
+</resources>

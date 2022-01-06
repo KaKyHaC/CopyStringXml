@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">Desligar todas as mídias</string>
+  <string name="activemedia_activeMedia">Mídia ativa (%d)</string>
+  <string name="activemedia_audio">ÁUDIO</string>
+  <string name="activemedia_video">VÍDEO</string>
+  <string name="activemedia_multiple_displays">Múltiplas exibições</string>
+  <string name="activemedia_left_display">Exibição à esquerda</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">Tem certeza de que deseja desligar toda a casa?</string>
+</resources>

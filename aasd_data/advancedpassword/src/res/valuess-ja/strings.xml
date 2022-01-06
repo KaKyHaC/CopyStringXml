@@ -1,0 +1,20 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">パスワードが正しくありません </string>
+  <string name="advancedpassword_passwordHint">スケジュールされたイベントを編集するためのパスワードを入力します。
+</string>
+  <string name="advancedpassword_settingsPasswordHint">
+これは保護されたセクションです。最初にパスワードを入力してください。</string>
+  <string name="advancedpassword_editScenesPasswordHint">
+これは保護されたセクションです。最初にパスワードを入力してください。</string>
+  <string name="advancedpassword_title">パスワードを入力してください</string>
+  <string name="advancedpassword_advancedUserPassword">高度なユーザーパスワード</string>
+  <string name="advancedpassword_advancedUserPasswordHint">
+アドバンストユーザーのパスワードについては、Crestronの正規販売店にお問い合わせください。</string>
+  <string name="advancedpassword_warning_ok">OK </string>
+  <string name="advancedpassword_warning_subtitle">間違ったパスワードを複数回入力すると、アカウントは一時的にロックアウトされます。しばらくしてから再試行するか、Crestronの正規販売店にお問い合わせください。</string>
+  <string name="advancedpassword_warning_title">間違ったパスワードを入力しました。
+</string>
+  <string name="advancedpassword_cloud_claim_hint">ホームの要求を続けるには、高度なパスワードを入力してください。高度なパスワードについては、クレストロン社の認定販売店にお問い合わせください。</string>
+  <string name="advancedpassword_cloud_claim_skip">現時点では、高度なユーザーパスワードを使用せずに、％sして自宅に進むことができます。</string>
+  <string name="advancedpassword_skip_this_step">このステップを飛ばします</string>
+</resources>

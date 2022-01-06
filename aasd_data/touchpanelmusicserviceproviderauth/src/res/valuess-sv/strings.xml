@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tsw_auth_scan_code">Skanna koden nedan med din telefon för att lägga till ett konto.</string>
+  <string name="use_this_code">Använd den här koden</string>
+</resources>

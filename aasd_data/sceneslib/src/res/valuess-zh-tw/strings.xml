@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">創建新的</string>
+  <string name="sceneslib_edit">編輯</string>
+  <string name="sceneslib_reorder">重新排序</string>
+  <string name="sceneslib_max_scenes_reached">已達到此房間的最大場景數量。點擊 \“編輯”\，更改或刪除現有場景。</string>
+  <string name="sceneslib_unsaved_scene_message">您有未保存的場景。要保存此場景嗎？</string>
+  <string name="sceneslib_progress_lost_message">您確定要退出此屏幕以致於會失去進度嗎？</string>
+  <string name="sceneslib_generic_scene_name">我的場景 %d</string>
+  <string name="sceneslib_unexpected_error_message">發生意外錯誤，無法保存此場景。</string>
+  <string name="sceneslib_success_message">場景創建成功。</string>
+  <string name="sceneslib_update_success_message">場景更新成功。</string>
+  <string name="sceneslib_error_invalid_name">指定場景的名稱無效，無法保存此場景。</string>
+  <string name="sceneslib_error_duplicate_name">指定場景的名稱已被佔用，無法保存此場景。</string>
+  <string name="sceneslib_error_name_too_long">指定場景的名稱過長，無法保存此場景。</string>
+  <string name="sceneslib_error_invalid_chars_in_name">指定場景的名稱包含無效字符，無法保存此場景。</string>
+  <string name="sceneslib_error_read_only">指定場景的名稱不可編輯，無法保存此場景。</string>
+  <string name="sceneslib_error_cannot_delete">發生意外錯誤，無法刪除該場景。</string>
+  <string name="sceneslib_error_cannot_delete_built_in">該場景由系統提供，無法刪除。</string>
+  <string name="sceneslib_error_cannot_delete_in_use">該場景正用於系統中其他地方的程式，不可刪除。</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">該 場景由系統提供，當房間裡有任何燈盞時，不可刪除。</string>
+  <string name="sceneslib_error_max_scene_count_reached">此房間中的最大場景數量已達到最大值，新的場景無法保存。</string>
+  <string name="sceneslib_error_invalid_ramp_time">選擇的燈光暗淡時間無效，無法保存此場景。</string>
+</resources>

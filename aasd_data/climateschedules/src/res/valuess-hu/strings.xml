@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">Ütemezett események</string>
+  <string name="climateschedules_noSchedulesTitle">Nincs ütemezett esemény</string>
+  <string name="climateschedules_noSchedulesDescription">Automatizálhatja a termosztátjait és létrehozhat egyéni ütemezett eseményeket az egyes termosztátok számára.</string>
+  <string name="climateschedules_emptyLayout_createNew">Új ütemezési esemény létrehozása</string>
+  <string name="climateschedules_createNew">+ Új ütemezett esemény létrehozása</string>
+</resources>

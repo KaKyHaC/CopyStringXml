@@ -1,0 +1,26 @@
+<resources>
+  <string name="claimhome_friendlyNameOrLocation">わかりやすい名前／場所</string>
+  <string name="claimhome_ipAddressOrHostName">IPアドレス／ホスト名</string>
+  <string name="claimhome_password">ユーザーインターフェースのパスワード</string>
+  <string name="claimhome_port">ポート</string>
+  <string name="claimhome_connect">接続</string>
+  <string name="claimhome_localPort">ローカルポート
+</string>
+  <string name="claimhome_resetToDefault">初期設定にリセットします</string>
+  <string name="claimhome_addTitle">新しい家を追加する
+</string>
+  <string name="claimhome_addSubtitle">新しいCrestronホームの詳細を入力し、[接続]をタップして開始します。</string>
+  <string name="claimhome_editTitle">％sを編集</string>
+  <string name="claimhome_editSubtitle">Crestronの家に関する詳細を編集します。</string>
+  <string name="claimhome_errorEmpty">続行するには％sを入力してください。
+</string>
+  <string name="claimhome_errorGeneral">このホームに接続できません。</string>
+  <string name="claimhome_incorrectPassword">パスワードが無効です。</string>
+  <string name="claimhome_localConnectionSettings">ローカルネットワークに接続を設定する　</string>
+  <string name="claimhome_discover">発見
+</string>
+  <string name="claimhome_invalidPasswordPopUp">
+パスワードが変更されました。％sの新しいパスワードを再入力してください</string>
+  <string name="claimhome_sameHomeWarning">同じIP アドレス/ハウス名のホームがすでにあります。本当にこのホームを追加しますか？</string>
+  <string name="claimhome_localPortExplanation">承認を得たクレストロンの販売店に指示された場合にのみ、変更してください。</string>
+</resources>

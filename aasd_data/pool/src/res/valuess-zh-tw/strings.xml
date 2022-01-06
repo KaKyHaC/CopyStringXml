@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">場景</string>
+  <string name="pool_setTo">設定至</string>
+  <string name="pool_controls">控制</string>
+  <string name="pool_off">關閉</string>
+  <string name="pool_low">低</string>
+  <string name="pool_med">中</string>
+  <string name="pool_high">高</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">沒有可用控件。</string>
+</resources>

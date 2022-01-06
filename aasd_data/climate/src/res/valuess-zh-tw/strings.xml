@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">氣候控件</string>
+  <string name="climate_current_temperature">當前溫度</string>
+  <string name="climate_mode">模式</string>
+  <string name="climate_schedule">排程</string>
+  <string name="climate_fan">風扇</string>
+  <string name="climate_floor_heating">地板正在加熱</string>
+  <string name="climate_humidity_controls">濕度控件</string>
+  <string name="climate_humidify">濕度至</string>
+  <string name="climate_floor_control">地板控制</string>
+  <string name="climate_currentHumidity_title">當前濕度</string>
+  <string name="climate_humidityControl_title">濕度控制</string>
+</resources>

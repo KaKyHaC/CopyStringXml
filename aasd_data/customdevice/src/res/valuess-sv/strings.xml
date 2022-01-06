@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_labelUnavailable">Text ej tillgänglig</string>
+  <string name="min_validation_text">Värdet kan inte vara under %s</string>
+  <string name="max_validate_text">Värdet kan inte vara över %s</string>
+  <string name="stepsize_validate_text">Värdet måste anges med %s i taget</string>
+</resources>

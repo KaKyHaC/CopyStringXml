@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Esemény neve (pl. nyári klíma ütemezés)</string>
+  <string name="climateschedule_scheduleNameTitleLabel">Név</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">Új klíma ütemezett esemény</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">Ütemezett esemény szerkesztése</string>
+  <string name="climateschedule_scheduleActiveDays">AKTÍV NAPOK</string>
+  <string name="climateschedule_activeDays_sunday">VA</string>
+  <string name="climateschedule_activeDays_monday">HÉ</string>
+  <string name="climateschedule_activeDays_tuesday">KE</string>
+  <string name="climateschedule_activeDays_wednesday">SZE</string>
+  <string name="climateschedule_activeDays_thursday">KE</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">VA</string>
+  <string name="climateschedule_activeDays">AKTÍV NAPOK</string>
+  <string name="climateschedule_save">Mentés</string>
+  <string name="climateschedule_deleteSchedule">Törlés</string>
+  <string name="climateschedule_copyToAnotherThermostat">Másolás egy másik termosztátra</string>
+  <string name="climateschedule_scheduleEventError">Hiba történt, kérjük, próbálja meg újra.</string>
+  <string name="climateschedule_editTitle">SZERKESZTÉS</string>
+  <string name="climateschedule_deleteWarning">Biztos, hogy törölni szeretné a(z) %s eseményt?</string>
+  <string name="climateschedule_invalidScheduleNameError">Érvénytelen ütemezési eseménynév</string>
+  <string name="climateschedule_duplicateScheduleNameError">Már létezik ilyen nevű ütemezési esemény</string>
+  <string name="climateschedule_discardChangesWarning">Nem mentett módosításokkal rendelkezik. Elveti a módosításokat?</string>
+  <string name="climateschedule_discard">Elvetés</string>
+  <string name="climateschedule_saveChangesWarning">Menti a módosításokat?</string>
+  <string name="climateschedule_setpointsTitle">BEÁLLÍTOTT PONTOK</string>
+  <string name="climateschedule_scheduleStatusTitle">ÜTEMEZÉSI ÁLLAPOT</string>
+  <string name="climateschedule_scheduleStatusItem">Ütemezés engedélyezve</string>
+  <string name="climateschedule_timePicker_header">INDÍTÁS</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">GYORSMŰVELETEK</string>
+  <string name="home_home_controls">OTTHONVEZÉRLŐK</string>
+  <string name="home_lock_all">Összes zárása</string>
+  <string name="home_unlock_all">Összes nyitása</string>
+  <string name="home_security_system">Biztonsági rendszer</string>
+  <string name="home_climate">Klíma</string>
+  <string name="home_locks">Ajtózárak</string>
+  <string name="home_cameras">Kamerák</string>
+  <string name="home_access">Ház hozzáférés</string>
+</resources>

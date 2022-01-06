@@ -1,0 +1,6 @@
+<resources>
+  <string name="homeaccess_houseLabel">เข้าบ้าน</string>
+  <string name="homeaccess_lockTitle">ล็อก</string>
+  <string name="homeaccess_garageTitle">ประตูโรงรถ</string>
+  <string name="homeaccess_gateTitle">ประตู</string>
+</resources>

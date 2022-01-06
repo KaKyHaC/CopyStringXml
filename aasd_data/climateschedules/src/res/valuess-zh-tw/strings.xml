@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">已排程事件</string>
+  <string name="climateschedules_noSchedulesTitle">沒有排程的事件</string>
+  <string name="climateschedules_noSchedulesDescription">使您的調溫器自動化，並為每個調溫器創建客制化的計劃事件。</string>
+  <string name="climateschedules_emptyLayout_createNew">創建新的計劃事件</string>
+  <string name="climateschedules_createNew">+ 創建新的預定事件</string>
+</resources>

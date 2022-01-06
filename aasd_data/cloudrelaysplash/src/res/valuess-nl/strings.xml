@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaysplash_greeting">Hallo</string>
+  <string name="cloudrelaysplash_copyright_line1">©2020 Crestron Electronics, Inc.</string>
+  <string name="cloudrelaysplash_copyright_line2">Alle rechten voorbehouden.</string>
+</resources>

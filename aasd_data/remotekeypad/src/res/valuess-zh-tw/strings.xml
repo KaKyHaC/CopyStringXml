@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="remotekeypad_hyphen">-</string>
+  <string name="remotekeypad_guide">指南</string>
+  <string name="remotekeypad_clear">清除</string>
+  <string name="remotekeypad_enter">輸入</string>
+  <string name="remotekeypad_notAvailable">鍵盤面板不可用</string>
+</resources>

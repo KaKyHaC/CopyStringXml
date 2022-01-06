@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">חשבון</string>
+  <string name="naxaccountdetail_edit_name">ערוך</string>
+  <string name="naxaccountdetail_signIn">כניסה</string>
+  <string name="naxaccountdetail_remove">הסר</string>
+  <string name="naxaccountdetail_remove_yes">כן, הסר</string>
+  <string name="naxaccountdetail_removeAccount_warning">חשבון %s זה לא יהיה נגיש יותר על ידי Crestron Home\n\n. האם ברצונך להמשיך?</string>
+</resources>

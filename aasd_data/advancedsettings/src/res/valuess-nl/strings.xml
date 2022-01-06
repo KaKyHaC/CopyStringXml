@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">TOON BEDIENING</string>
+  <string name="advancedSettings_roomVisibilityControl_label">TOON KAMERS</string>
+  <string name="advancedSettings_settings_home_access_label">Toegang tot huis</string>
+  <string name="advancedSettings_settings_cameras_label">CAMERA‘S</string>
+  <string name="advancedSettings_settings_security_label">Beveiliging</string>
+  <string name="advancedSettings_back_description">instellingen terug knop</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">AUDIO-ONDERBREKINGEN &amp; BELLEN</string>
+  <string name="advancedSettings_settings_events_sound_label">Evenementen en geluiden</string>
+  <string name="advancedSettings_settings_change_theme_label">Beeldscherm</string>
+  <string name="advancedSettings_settings_change_theme_title">Thema veranderen</string>
+  <string name="advancedSettings_toolbar">Geavanceerde instellingen</string>
+  <string name="advancedSettings_showDoNotSiasturb">Niet storen weergeven</string>
+  <string name="advancedSettings_colorTuning_label">Kleurafstemming</string>
+  <string name="advancedSettings_tunableLighting_label">Afstembare verlichting</string>
+  <string name="advancedSettings_circadianSettings_label">Circadiane instellingen</string>
+</resources>

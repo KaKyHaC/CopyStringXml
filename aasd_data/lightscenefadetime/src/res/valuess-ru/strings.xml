@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Время затемнения</string>
+  <string name="sceneFadeTime_header">установка времени затухания освещения</string>
+</resources>

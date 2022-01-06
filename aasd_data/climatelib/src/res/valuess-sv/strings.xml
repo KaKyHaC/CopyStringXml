@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s klimat</string>
+  <string name="climatelib_noActiveThermostats_upperCase">INGA AKTIVA TERMOSTATER</string>
+  <string name="climatelib_noActiveThermostats">Ingen aktiv termostat</string>
+  <string name="climatelib_status_multiple_running">flera termostater körs</string>
+  <string name="climatelib_status_heating_to_temperature">Värmer till %s</string>
+  <string name="climatelib_status_cooling_to_temperature">Kyler ned till %s</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1 fº</string>
+  <string name="climatelib_temperature_celsius">%.1 fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%d ºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1 fº</string>
+  <string name="climatelib_thermostat_status_decreasing">KYLER NED TILL %.1 fº, H.C. PÅ (56 %%)</string>
+  <string name="climatelib_thermostat_status_increasing">VÄRMER TILL %.1 fº, H.C. PÅ (56 %%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">H.C. PÅ (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H. PÅ (%s)</string>
+  <string name="climatelib_thermostat_state_offline">Offline</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">STÄLL IN KYLNING</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">STÄLL IN VÄRMNING</string>
+  <string name="climatelib_thermostat_setpoint_single">BÖRVÄRDE</string>
+  <string name="climatelib_set_point">BÖRVÄRDE</string>
+  <string name="climatelib_heat_set_point">VÄRME TILL</string>
+  <string name="climatelib_cool_set_point">KYLA TILL</string>
+  <string name="climatelib_single_set_point">ENKEL AUTO</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">KYLA TILL %s</string>
+  <string name="climatelib_thermostat_heatTo">VÄRME TILL %s</string>
+  <string name="climatelib_thermostat_setTo">STÄLL IN TILL %s</string>
+  <string name="climatelib_state_off">Av</string>
+  <string name="climatelib_state_on">På</string>
+  <string name="climatelib_thermostatMode_heat">Värme</string>
+  <string name="climatelib_thermostatMode_cool">Kyla</string>
+  <string name="climatelib_thermostatMode_single_auto">Enkel auto</string>
+  <string name="climatelib_thermostatMode_dual_auto">Dubbel auto</string>
+  <string name="climatelib_thermostatMode_aux_heat">Extravärme</string>
+  <string name="climatelib_thermostatMode_autoMode">AUTO LÄGE</string>
+  <string name="climatelib_thermostatMode_dualMode">DUBBELLÄGE</string>
+  <string name="climatelib_thermostatFan_auto">Auto</string>
+  <string name="climatelib_thermostatFan_low">Låg</string>
+  <string name="climatelib_thermostatFan_medium">Medium</string>
+  <string name="climatelib_thermostatFan_high">Hög</string>
+  <string name="climatelib_thermostatFan_circulate">Cirkulera</string>
+  <string name="climatelib_thermostatFan_circulateLow">Låg cirkulation</string>
+  <string name="climatelib_thermostatFan_circulateMedium">Medel cirkulation</string>
+  <string name="climatelib_thermostatFan_none">Ingen</string>
+  <string name="climatelib_thermostatSchedule_noEvents">Inga händelser</string>
+  <string name="climatelib_thermostatSchedule_hold">Vänta</string>
+  <string name="climatelib_thermostatSchedule_running">Kör</string>
+  <string name="climatelib_thermostatSchedule_run">Kör</string>
+  <string name="climatelib_thermostatSchedule_override">Tillfällig</string>
+  <string name="climatelib_thermostatSchedule_next">NÄSTA %1$s - %2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">Väntar</string>
+  <string name="climatelib_labelMode">LÄGE</string>
+  <string name="climatelib_labelFan">FLÄKT</string>
+  <string name="climatelib_labelSchedule">SCHEMA</string>
+  <string name="climatelib_noScheduleEvents">Inga schemalagda händelser existerar. Vill du schemalägga några händelser nu?</string>
+  <string name="climatelib_popupCancel">Avbryt</string>
+  <string name="climatelib_popupCreate">Skapa</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">KLIMATSCHEMA</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">Schemalagda händelser</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">Felaktigt lösenord</string>
+  <string name="climatelib_climateSchedules_weekdays">VECKODAGAR</string>
+  <string name="climatelib_climateSchedules_weekend">HELGER</string>
+  <string name="climatelib_climateSchedules_everyday">VARJE DAG</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s, %2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">Inga schemalagda händelser</string>
+  <string name="climatelib_climateSchedules_mon">MÅN.</string>
+  <string name="climatelib_climateSchedules_tue">TIS.</string>
+  <string name="climatelib_climateSchedules_wed">ONS.</string>
+  <string name="climatelib_climateSchedules_thu">TORS.</string>
+  <string name="climatelib_climateSchedules_fri">FRE.</string>
+  <string name="climatelib_climateSchedules_sat">LÖR.</string>
+  <string name="climatelib_climateSchedules_sun">SÖN.</string>
+  <string name="climatelib_climate">Klimat</string>
+</resources>

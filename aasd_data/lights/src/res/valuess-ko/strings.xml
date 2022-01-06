@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">환경 설정</string>
+  <string name="lights_controlsTitle">제어</string>
+  <string name="lights_controlsMasterControl">모든 조명</string>
+  <string name="create_new_scene">새 장면 생성</string>
+  <string name="lights_noScenesInfo">이 룸에는 시각적인 조명 장면이 보이지 않습니다.</string>
+</resources>

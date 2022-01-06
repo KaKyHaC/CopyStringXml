@@ -1,0 +1,4 @@
+<resources>
+  <string name="addMoreLights_title">Mehr Lichtquellen hinzufügen</string>
+  <string name="addMoreLights_subtitle">%s Szene</string>
+</resources>

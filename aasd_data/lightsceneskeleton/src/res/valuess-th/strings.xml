@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">สร้างฉากใหม่</string>
+  <string name="lightSceneCreate_add_lights">เพิ่มแสง</string>
+  <string name="lightSceneCreate_add_more_lights">เพิ่มแสงเพิ่มเติม</string>
+  <string name="lightSceneCreate_save">บันทึก</string>
+  <string name="lightSceneCreate_set_scene_options">ตัวเลือกการเลือกฉาก</string>
+  <string name="lightSceneCreate_fade_time">เวลาในการจางลง</string>
+  <string name="lightSceneCreate_scene_visibility">การมองเห็นฉาก</string>
+  <string name="lightSceneCreate_subtitle_template">%d จาก %d ฉาก</string>
+</resources>

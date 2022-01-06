@@ -1,0 +1,5 @@
+<resources>
+  <string name="mobileclaimhome_homeSettings">НАСТРОЙКИ ДОМА</string>
+  <string name="mobileclaimhome_remoteAccessSettings">НАСТРОЙКИ УДАЛЕННОГО ДОСТУПА</string>
+  <string name="mobileclaimhome_port">Порт</string>
+</resources>

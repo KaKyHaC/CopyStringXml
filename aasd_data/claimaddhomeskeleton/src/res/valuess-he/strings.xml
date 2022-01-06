@@ -1,0 +1,16 @@
+<resources>
+  <string name="claimaddhome_friendlyNameOrLocation">שם ידידותי/מיקום</string>
+  <string name="claimaddhome_ipAddressOrHostName">כתובת IP / שם מארח</string>
+  <string name="claimaddhome_password">סיסמת ממשק משתמש</string>
+  <string name="claimaddhome_connect">התחבר</string>
+  <string name="claimaddhome_addTitle">הוסף בית חדש</string>
+  <string name="claimaddhome_addSubtitle">הזן פרטים על בית Crestron החדש שלך והקש על התחבר כדי להתחיל.</string>
+  <string name="claimaddhome_editTitle">ערוך  %s</string>
+  <string name="claimaddhome_editSubtitle">ערוך פרטים על בית Crestron שלך.</string>
+  <string name="claimaddhome_errorNotEmpty">אנא הזן %s כדי להמשיך.</string>
+  <string name="claimaddhome_errorGeneral">לא ניתן להתחבר לבית הזה.</string>
+  <string name="claimaddhome_incorrectPassword">סיסמה שגויה</string>
+  <string name="claimaddhome_localConnectionSettings">הגדרות תקשורת מקומית</string>
+  <string name="claimaddhome_discover">גלה</string>
+  <string name="claimaddhome_invalidPasswordPopUp">הסיסמה שונתה, הזן מחדש את הסיסמה החדשה עבור %s</string>
+</resources>

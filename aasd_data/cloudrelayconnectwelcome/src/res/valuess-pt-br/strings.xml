@@ -1,0 +1,14 @@
+<resources>
+  <string name="cloudrelayconenctwelcome_welcome">Seja bem-vindo.</string>
+  <string name="cloudrelayconenctwelcome_claim_my_home">Reivindicar minha casa</string>
+  <string name="cloudrelayconenctwelcome_claim_enabled_disclaimer">Continue a reivindicar sua Crestron Home em seguida e comece a usar nossa experiência de conexão remota mais segura.</string>
+  <string name="cloudrelayconenctwelcome_claim_disabled_disclaimer">Para reivindicar seu sistema Crestron Home, você precisa estar na mesma rede local que o seu sistema Crestron Home.</string>
+  <string name="cloudrelayconenctwelcome_not_now">Agora não.</string>
+  <string name="cloudrelayconenctwelcome_warning_ok">ok</string>
+  <string name="cloudrelayconenctwelcome_warning_subtitle">Uma versão mais recente do firmware Crestron Home é necessária para que este recurso funcione.\n\n Por favor, entre em contato com seu revendedor Crestron para que ele instale este novo firmware em seu processador Crestron Home.</string>
+  <string name="cloudrelayconenctwelcome_warning_title">É necessário fazer uma atualização do sistema operacional Crestron Home.</string>
+  <string name="cloudrelayconenctwelcome_sign_out_user">Tem certeza de que deseja sair da sessão?</string>
+  <string name="cloudrelayconenctwelcome_user_signed_out">Você está desconectado</string>
+  <string name="cloudrelayconenctwelcome_no">Não</string>
+  <string name="cloudrelayconenctwelcome_yes">SIM</string>
+</resources>

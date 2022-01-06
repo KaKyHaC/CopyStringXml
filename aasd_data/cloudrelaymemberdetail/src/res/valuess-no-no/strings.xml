@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">tilordne brukerrolle</string>
+  <string name="cloudrelaymemberdetail_user">Bruker</string>
+  <string name="cloudrelaymemberdetail_owner">Eier</string>
+  <string name="cloudrelaymemberdetail_remove_user">Fjern bruker</string>
+  <string name="cloudrelaymemberdetail_house_access">Hustilgang</string>
+  <string name="cloudrelaymemberdetail_enable_access">Aktiver tilgang</string>
+  <string name="cloudrelaymemberdetail_remove">Fjerne</string>
+  <string name="cloudrelaymemberdetail_cancel">AVBRYT</string>
+  <string name="cloudrelaymemberdetail_remove_warning">Er du sikker på at du vil fjerne denne brukeren?</string>
+</resources>

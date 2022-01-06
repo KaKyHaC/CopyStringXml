@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Numele evenimentului, de ex. Programare climatică de vară</string>
+  <string name="climateschedule_scheduleNameTitleLabel">Nume</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">Noul eveniment climatic programat</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">Editați evenimentul programat</string>
+  <string name="climateschedule_scheduleActiveDays">ZILE ACTIVE</string>
+  <string name="climateschedule_activeDays_sunday">S</string>
+  <string name="climateschedule_activeDays_monday">M</string>
+  <string name="climateschedule_activeDays_tuesday">T</string>
+  <string name="climateschedule_activeDays_wednesday">W</string>
+  <string name="climateschedule_activeDays_thursday">T</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">S</string>
+  <string name="climateschedule_activeDays">ZILE ACTIVE</string>
+  <string name="climateschedule_save">Salvare</string>
+  <string name="climateschedule_deleteSchedule">ŞTERGERE</string>
+  <string name="climateschedule_copyToAnotherThermostat">Copiați într-un alt termostat</string>
+  <string name="climateschedule_scheduleEventError">Ceva nu a funcționat bine, vă rugăm să încercați din nou.</string>
+  <string name="climateschedule_editTitle">EDITAȚI</string>
+  <string name="climateschedule_deleteWarning">Sunteți sigur(ă) că doriți să ștergeți evenimentul %s?</string>
+  <string name="climateschedule_invalidScheduleNameError">Acest nume al evenimentului programat nu este valid</string>
+  <string name="climateschedule_duplicateScheduleNameError">Numele pentru acest eveniment programat există deja</string>
+  <string name="climateschedule_discardChangesWarning">Aveți modificări nesalvate. Renunțați la modificări?</string>
+  <string name="climateschedule_discard">Renunțați</string>
+  <string name="climateschedule_saveChangesWarning">Doriți să salvați modificările?</string>
+  <string name="climateschedule_setpointsTitle">SETAȚI PUNCTELE</string>
+  <string name="climateschedule_scheduleStatusTitle">STAREA PROGRAMĂRII</string>
+  <string name="climateschedule_scheduleStatusItem">Programarea activată</string>
+  <string name="climateschedule_timePicker_header">START</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">Pripojené</string>
+  <string name="connectivitybar_disconnectedStatus">Pripájanie k domácnosti...</string>
+</resources>

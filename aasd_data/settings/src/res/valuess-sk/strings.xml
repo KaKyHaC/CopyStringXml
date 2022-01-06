@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Časový limit virtuálneho panela nástrojov</string>
+  <string name="settings_hardkey_wakes_lcd">Tlačidlo s vyhradeným účelom prebudí LCD displej</string>
+  <string name="settings_master_volume">Hlavná hlasitosť</string>
+  <string name="settings_hardkey_behavior">OVLÁDANIE TLAČIDIEL NA PANELI HORE/DOLE</string>
+  <string name="settings_hardkey_no_function">Žiadna funkcia</string>
+  <string name="settings_hardkey_lights">Osvetlenie (Zosilniť/zoslabiť v miestnosti)</string>
+  <string name="settings_hardkey_shades">Clony (Zdvihnúť/spustiť v miestnosti)</string>
+  <string name="settings_hardkey_media">Médiá (Zvýšiť/znížiť hlasitosť v miestnosti)</string>
+  <string name="settings_advanced_settings_toolbar">Rozšírené nastavenia</string>
+</resources>

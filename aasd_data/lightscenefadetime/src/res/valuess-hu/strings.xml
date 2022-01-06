@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Halványulás ideje</string>
+  <string name="sceneFadeTime_header">világítás elhalványulási idejének beállítása</string>
+</resources>

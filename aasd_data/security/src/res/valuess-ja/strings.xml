@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">セキュリティ</string>
+  <string name="security_panicActionsTitle">アクション　</string>
+  <string name="security_panicActionsSubtitle">各アクションを起動するために、1秒間押し続けてください</string>
+  <string name="security_navigationButtonsTitle">ナビゲーションボタン　</string>
+  <string name="security_selectNavigationButton">選択</string>
+  <string name="security_keypadTitle">キーパッド　</string>
+  <string name="security_keypadSubtitle">4桁のコードと、実行したいアクションに対応する数字を入力してください</string>
+  <string name="security_displayTextTitle">ディスプレイテキスト　　</string>
+</resources>

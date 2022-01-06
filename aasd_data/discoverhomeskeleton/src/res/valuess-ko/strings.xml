@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">다시 시도</string>
+  <string name="discoverhome_discovering">발견하기</string>
+  <string name="discoverhome_notCompatibleMessage">PYNG는 CRESTRON 홈과 호환되지 않습니다.</string>
+  <string name="discoverhome_titleFound">이 네트워크에서 홈을 찾았습니다.</string>
+  <string name="discoverhome_titleNotFound">새 홈을 찾을 수 없습니다.</string>
+  <string name="discoverhome_subtitleFound">추가 프로세스를 시작할 홈을 선택하십시오.</string>
+  <string name="discoverhome_subtitleNotFound">이 네트워크에 사용 가능한 홈이 없습니다. 네트워크 연결을 확인한 후 다시 시도하십시오.</string>
+</resources>

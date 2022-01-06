@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">Um único quarto é selecionado</string>
+  <string name="multiroom_singleRoomDescription">Você pode ouvir a mesma música em mais de um quarto em sua casa.</string>
+  <string name="multiroom_playInMultipleRooms">Reproduzir em quartos múltiplos</string>
+  <string name="multiroom_manageRoomsAndGroups">Gerenciar quartos e grupos</string>
+  <string name="multiroom_sourceNotPlaying">Fonte não reproduzida</string>
+</resources>

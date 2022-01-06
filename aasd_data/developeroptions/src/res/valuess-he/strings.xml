@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">הפעל אפשרויות המפתחים</string>
+  <string name="reset_logging_after_24_hours">אפס את רישום הרישום לאחר 24 שעות</string>
+  <string name="developer_options">אפשרויות מפתח</string>
+  <string name="logging_level">רמת רישום</string>
+  <string name="logging">רישום</string>
+  <string name="network_logging">רישום רשת</string>
+  <string name="detailed_logging">רישום מפורט</string>
+</resources>

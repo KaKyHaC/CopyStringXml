@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesDevices_title">Hendelser og lyder</string>
+  <string name="naxChimesDevices_volumeTitle">Hendelsesvolum</string>
+  <string name="naxChimesDevices_noEventsFound">Ingen arrangementer er tilgjengelige</string>
+</resources>

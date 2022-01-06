@@ -1,0 +1,35 @@
+<resources>
+  <string name="mediacompositelib_audioTitle">音频</string>
+  <string name="mediacompositelib_videoTitle">视频</string>
+  <string name="mediacompositelib_sourceOff">关</string>
+  <string name="mediacompositelib_sourceOn">%s开</string>
+  <string name="mediacompositelib_videSourcesNotAllowed">此房间在分组中。不允许使用视频源。</string>
+  <string name="mediacompositelib_sourceStatus">%s已开启。</string>
+  <string name="mediacompositelib_forwardRewindSpeed">%dx</string>
+  <string name="mediacompositelib_noNowPlayingInfo">当前无可用的播放信息。</string>
+  <string name="mediacompositelib_sourceProblematic">关闭，\n分组开启</string>
+  <string name="mediacompositelib_remotes_back">返回</string>
+  <string name="mediacompositelib_remotes_popupMenu">弹出菜单</string>
+  <string name="mediacompositelib_remotes_home">房间</string>
+  <string name="mediacompositelib_remotes_discMinus">碟片-</string>
+  <string name="mediacompositelib_remotes_discPlus">碟片+</string>
+  <string name="mediacompositelib_remotes_letterA">A</string>
+  <string name="mediacompositelib_remotes_letterB">B</string>
+  <string name="mediacompositelib_remotes_letterC">摄氏度</string>
+  <string name="mediacompositelib_remotes_letterD">D</string>
+  <string name="mediacompositelib_remotes_menu">菜单</string>
+  <string name="mediacompositelib_remotes_exit">退出</string>
+  <string name="mediacompositelib_remotes_pagePlus">PG+</string>
+  <string name="mediacompositelib_remotes_pageMinus">PG-</string>
+  <string name="mediacompositelib_remotes_channelPlus">CH+</string>
+  <string name="mediacompositelib_remotes_channelMinus">CH-</string>
+  <string name="mediacompositelib_remotes_live">直播</string>
+  <string name="mediacompositelib_remotes_favorite">收藏</string>
+  <string name="mediacompositelib_remotes_info">信息</string>
+  <string name="mediacompositelib_remotes_onDemand">点播</string>
+  <string name="mediacompositelib_remotes_last">上一个</string>
+  <string name="mediacompositelib_remotes_guide">指南</string>
+  <string name="mediacompositelib_remotes_appleTv_home">TV</string>
+  <string name="mediacompositelib_remotes_empty" />
+  <string name="mediacompositelib_remotes_notAvailable">远程不可用。</string>
+</resources>

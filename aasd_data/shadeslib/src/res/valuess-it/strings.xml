@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">Ombre</string>
+  <string name="shadeslib_all_shades_closed">Chiuso</string>
+  <string name="shadeslib_all_shades_opened">Apri</string>
+  <string name="shadeslib_shades_title">%s sfumature</string>
+  <string name="shadeslib_shade_state_with_tilt">CON %d%% TILT</string>
+  <string name="shadeslib_shades_status_opened">Le tende sono aperte.</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (parzialmente non è connesso)</string>
+  <string name="shadeslib_position_open">%d%% APERTO</string>
+  <string name="shadeslib_shades_closed">Chiuso</string>
+  <string name="shadeslib_shades_open">Apri</string>
+  <string name="shadeslib_shades_opening">APERTURA...</string>
+  <string name="shadeslib_shades_closing">CHIUSURA...</string>
+</resources>

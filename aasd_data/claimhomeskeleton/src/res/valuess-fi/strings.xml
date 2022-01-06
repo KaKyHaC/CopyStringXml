@@ -1,0 +1,21 @@
+<resources>
+  <string name="claimhome_friendlyNameOrLocation">Kutsumanimi/sijainti</string>
+  <string name="claimhome_ipAddressOrHostName">IP-osoite/isäntänimi</string>
+  <string name="claimhome_password">Käyttöliittymän salasana</string>
+  <string name="claimhome_port">Portti</string>
+  <string name="claimhome_connect">Yhdistä</string>
+  <string name="claimhome_localPort">Paikallinen portti</string>
+  <string name="claimhome_resetToDefault">Nollaa oletusasetuksiin</string>
+  <string name="claimhome_addTitle">Add new home</string>
+  <string name="claimhome_addSubtitle">Enter details about your new Crestron home and tap Connect to get started.</string>
+  <string name="claimhome_editTitle">Edit %s</string>
+  <string name="claimhome_editSubtitle">Edit details about your Crestron home.</string>
+  <string name="claimhome_errorEmpty">Please enter %s to continue.</string>
+  <string name="claimhome_errorGeneral">Yhdistäminen tähän kotiin epäonnistui.</string>
+  <string name="claimhome_incorrectPassword">Väärä salasana.</string>
+  <string name="claimhome_localConnectionSettings">LOCAL CONNECTION SETTINGS</string>
+  <string name="claimhome_discover">Discover</string>
+  <string name="claimhome_invalidPasswordPopUp">The password has been changed, re-enter the new password for %s</string>
+  <string name="claimhome_sameHomeWarning">Samalla IP-osoitteella/isäntänimellä oleva koti on jo olemassa. Haluatko varmasti lisätä tämän kodin?</string>
+  <string name="claimhome_localPortExplanation">Muuta vain, jos valtuutettu Crestron-myyjäsi neuvoo tekemään niin.</string>
+</resources>

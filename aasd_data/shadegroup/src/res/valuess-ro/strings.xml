@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">JALUZELE</string>
+  <string name="shadegroup_batteryOk">Bateria este în regulă</string>
+  <string name="shadegroup_batteryLow">Bateria este descărcată</string>
+</resources>

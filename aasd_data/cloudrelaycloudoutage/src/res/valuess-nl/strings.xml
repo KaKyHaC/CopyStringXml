@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">Cloudverbinding is verbroken...</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">Thuisbediening kan momenteel niet worden geladen. Ook al is de cloudverbinding tijdelijk niet beschikbaar zolang u zich op uw lokale WAP bevindt, u kunt nog steeds lokaal verbinding maken.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">Probeer lokaal verbinding te maken</string>
+</resources>

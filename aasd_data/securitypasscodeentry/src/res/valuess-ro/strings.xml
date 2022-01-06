@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">Introduceți codul de securitate</string>
+  <string name="securitypasscodeentry_saveMessage">Salvați codul pentru acest dispozitiv. Nu vi\ se va mai cere să introduceți din nou acest cod.</string>
+  <string name="securitypasscodeentry_invalidPasscode">Cod greșit. Vă rugăm să încercați din nou.</string>
+  <string name="securitypasscodeentry_passcodeRequired">Căsuța codului este goală. Vă rugăm să introduceți codul corect.</string>
+</resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Выбор Wifi Обратное действие</string>
+  <string name="touchpanelWifiSelection_title">Выбор Wifi</string>
+  <string name="touchpanelWifiSelection_Discovering">Обнаружение</string>
+  <string name="touchpanelWifiSelection_tryAgain">ПОПРОБУЙТЕ СНОВА</string>
+  <string name="touchpanelWifiSelection_titleFound">Подключитесь к точке доступа WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleFound">Выберите точку доступа.</string>
+  <string name="touchpanelWifiSelection_titleNotFound">Точка доступа WiFi не найдена</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">Точки доступа WiFi не найдены. Проверьте подключение к сети и повторите попытку.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">Поиск точек доступа WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">Дождитесь завершения сканирования</string>
+</resources>

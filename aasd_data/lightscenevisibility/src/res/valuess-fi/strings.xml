@@ -1,0 +1,4 @@
+<resources>
+  <string name="lightSceneVisibility_title">Profiilin näkyvyys</string>
+  <string name="lightSceneVisibility_subtitle">%s scene</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">ユーザーの役割を割り振ります</string>
+  <string name="cloudrelaymemberdetail_user">ユーザー </string>
+  <string name="cloudrelaymemberdetail_owner">オーナー</string>
+  <string name="cloudrelaymemberdetail_remove_user">ユーザーを削除します</string>
+  <string name="cloudrelaymemberdetail_house_access">交通手段 </string>
+  <string name="cloudrelaymemberdetail_enable_access">アクセスを有効にする</string>
+  <string name="cloudrelaymemberdetail_remove">削除</string>
+  <string name="cloudrelaymemberdetail_cancel">キャンセル</string>
+  <string name="cloudrelaymemberdetail_remove_warning">このユーザーを確実に削除したいですか？</string>
+</resources>

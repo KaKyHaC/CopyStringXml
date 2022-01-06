@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_labelUnavailable">Szöveg nem elérhető</string>
+  <string name="min_validation_text">Az érték nem lehet %s alatt</string>
+  <string name="max_validate_text">Az érték nem lehet %s fölött</string>
+  <string name="stepsize_validate_text">Az értéket %s egységenként kell beállítani</string>
+</resources>

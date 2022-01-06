@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">MOSTRAR CONTROLES</string>
+  <string name="advancedSettings_roomVisibilityControl_label">MOSTRAR HABITACIONES</string>
+  <string name="advancedSettings_settings_home_access_label">Acceso a la casa</string>
+  <string name="advancedSettings_settings_cameras_label">Cámaras</string>
+  <string name="advancedSettings_settings_security_label">Seguridad</string>
+  <string name="advancedSettings_back_description">botón de retroceso de ajustes</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">TIMBRES E INTERRUPCIONES DE AUDIO</string>
+  <string name="advancedSettings_settings_events_sound_label">Eventos y sonidos</string>
+  <string name="advancedSettings_settings_change_theme_label">PANTALLA</string>
+  <string name="advancedSettings_settings_change_theme_title">Cambiar tema</string>
+  <string name="advancedSettings_toolbar">Ajustes avanzados</string>
+  <string name="advancedSettings_showDoNotSiasturb">Mostrar No molestar</string>
+  <string name="advancedSettings_colorTuning_label">Ajuste de color</string>
+  <string name="advancedSettings_tunableLighting_label">Iluminación ajustable</string>
+  <string name="advancedSettings_circadianSettings_label">Ajustes circadianos</string>
+</resources>

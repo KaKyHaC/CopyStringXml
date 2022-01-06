@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">Molanslutningen är nere...</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">Det går inte att ladda hemkontroller just nu. Även fast molnanslutningen är nere kan du fortfarande ansluta dig lokalt så länge som du är på din lokala WAP. </string>
+  <string name="cloudrelaycloudoutage_connection_locally">Försök ansluta lokalt</string>
+</resources>

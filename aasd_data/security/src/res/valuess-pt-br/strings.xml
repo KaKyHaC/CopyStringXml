@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">Segurança</string>
+  <string name="security_panicActionsTitle">AÇÕES</string>
+  <string name="security_panicActionsSubtitle">Pressione e segure por 1 segundo para ativar cada ação.</string>
+  <string name="security_navigationButtonsTitle">BOTÕES DE NAVEGAÇÃO</string>
+  <string name="security_selectNavigationButton">Selecionar</string>
+  <string name="security_keypadTitle">TECLADO</string>
+  <string name="security_keypadSubtitle">Digite o código de 4 dígitos e um dígito correspondente à ação que você deseja executar.</string>
+  <string name="security_displayTextTitle">EXIBIR TEXTO</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">คุณ</string>
+  <string name="cloud_relay_users_no_user">ไม่มีผู้ใช้งาน</string>
+  <string name="cloud_relay_users_add_new_user">+ เพิ่มผู้ใช้งานใหม่</string>
+  <string name="cloud_relay_users_reclaim_home">ขอรับสิทธิ์สำหรับบ้านนี้อีกครั้ง</string>
+  <string name="cloud_relay_users_role_format">%s (คำเชิญกำลังประมวลผล)</string>
+  <string name="cloud_relay_users_info_unavailable">"ไม่มีข้อมูลของผู้ใช้ โปรดลองอีกครั้งในภายหลัง"</string>
+</resources>

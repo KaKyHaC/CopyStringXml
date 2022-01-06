@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">תאורה</string>
+  <string name="lightslib_lights_title">%s אורות</string>
+  <string name="lightslib_lights_status_on">אורות דולקים.</string>
+  <string name="lightslib_lights_turning_off">כיבוי...</string>
+  <string name="lightslib_lights_turning_on">כיבוי</string>
+  <string name="lightslib_add_lights_title">תוסיף אורות ל-  \"%s\"</string>
+  <string name="lightslib_controlsTitle">פקדים</string>
+  <string name="lightslib_sceneNameScene">%s זירה</string>
+  <string name="lightslib_tunableLightNotFound">משהו השתבש. לא ניתן למצוא טעינת אורות  זו.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">לשמור כהגדרות בסיס גלובליות?</string>
+  <string name="lightslib_whiteTuningProgressLost">לשמור כהגדרות בסיס עבור האור הזה?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">האם אתה בטוח שברצונך להחיל את ההגדרות האלה על החדר הזה?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">זה יעקוף כל הגדרות אחרות שהוחלו בעבר.</string>
+  <string name="lightslib_saveTunableSettingsError">שגיאה בלתי צפויה התרחשה. לא ניתן היה לשמור את ההגדרות הניתנות לכוונון.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">ההגדרות הניתנות לכוונון נשמרו בהצלחה.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">שגיאה בלתי צפויה התרחשה. לא ניתן היה להגדיר את הגדרות הכוונון לכל האורות בחדר.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">ההגדרות הניתנות לכוונון הוגדרו בהצלחה לכל האורות בחדר.</string>
+  <string name="lightslib_saveAsGlobalSettings">שמור כהגדרות בסיס גלובליות</string>
+  <string name="lightslib_save">שמור</string>
+  <string name="lightslib_circadianSettingsProgressLost">לשמור את ההגדרות הנוכחיות כמקצב הצירקדי?</string>
+  <string name="lightslib_saveCircadianSettingsError">שגיאה בלתי צפויה התרחשה. לא ניתן היה לשמור את הגדרות המקצב הצירקדי.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">הגדרות המקצב הצירקדי נשמרו בהצלחה.</string>
+  <string name="lightslib_morningCircadianTitle">בוקר:AM 7:00 , %dK</string>
+  <string name="lightslib_noonCircadianTitle">צהריים,  %dK</string>
+  <string name="lightslib_eveningCircadianTitle">ערב: PM 7:00 , %dK</string>
+  <string name="lightslib_nightCircadianTitle">לילה: AM 10:45 , %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">הצבע האהוב הוסר.</string>
+  <string name="lightslib_addFavorite_confirmation">הצבע האהוב הוסף.</string>
+</resources>

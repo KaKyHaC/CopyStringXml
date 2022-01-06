@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="autoupdate_updateStarted">Oppdatering startet.</string>
+  <string name="autoupdate_updateFailed">Oppdatering mislyktes.</string>
+  <string name="autoupdate_updateServerUnreachable">Kan ikke nå oppdateringsserveren.</string>
+  <string name="autoupdate_updateSucceeded">Oppdateringen var vellykket.</string>
+</resources>

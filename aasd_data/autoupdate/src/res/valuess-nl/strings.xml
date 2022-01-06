@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="autoupdate_updateStarted">Update gestart.</string>
+  <string name="autoupdate_updateFailed">Update mislukt.</string>
+  <string name="autoupdate_updateServerUnreachable">Kan updateserver niet bereiken.</string>
+  <string name="autoupdate_updateSucceeded">Update gelukt.</string>
+</resources>

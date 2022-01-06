@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Timeout på Virtuellt verktygsfält</string>
+  <string name="settings_hardkey_wakes_lcd">Hardkey väcker LCD</string>
+  <string name="settings_master_volume">Huvudvolym</string>
+  <string name="settings_hardkey_behavior">BETEENDE PÅ PANELKNAPP UPP/NED</string>
+  <string name="settings_hardkey_no_function">Ingen funktion</string>
+  <string name="settings_hardkey_lights">Lampor (Rum öka/sänk)</string>
+  <string name="settings_hardkey_shades">Rullgardiner (Rum öka/sänk)</string>
+  <string name="settings_hardkey_media">Media (Rum volym+/volym-)</string>
+  <string name="settings_advanced_settings_toolbar">Avancerade inställningar</string>
+</resources>

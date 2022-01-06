@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelay_onboarding_sign_up">Tilaa</string>
+  <string name="cloudrelay_onboarding_not_now">Ei nyt</string>
+  <string name="cloudrelay_onboarding_trouble_sign_in">Ongelmia sisään kirjautumisen kanssa?</string>
+  <string name="cloudrelay_onboarding_yes_let_begin">Kyllä, aloitetaan</string>
+  <string name="cloudrelay_connect_user_roles">Käyttäjäroolit ja käyttöoikeudet</string>
+  <string name="cloudrelay_onboarding_cancel">Peruuta</string>
+  <string name="cloudrelay_onboarding_continue">Jatka</string>
+  <string name="cloudrelay_onboarding_waring">Ymmärrämme, ettet ole valmis tilaamaan palvelua juuri nyt. Voit tehdä sen myöhemmin.</string>
+  <string name="cloudrelay_connect_user_roles_description">Kodinomistajana voit helposti myöntää käyttöoikeuden luottamillesi ihmisille ja asettaa käyttäjärooleja. Voit kumota käyttöoikeudet milloin tahansa...</string>
+  <string name="cloudrelay_connect_anywhere_securely">Yhdistä turvallisesti missä tahansa</string>
+  <string name="cloudrelay_connect_anywhere_securely_description">Olemme kehittäneet kaikkien aikojen turvallisimman ja parhaiten suojatun, etäyhteydellä toimivan käyttökokemuksen Crestron Home -kodillesi. Yhdistä kotiisi ja hallitse sitä turvallisesti missä tahansa.</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+  <string name="naxprovidercreation_enter_name">Meno užívateľa</string>
+  <string name="naxprovidercreation_description">Zadajte meno nového používateľa %s.</string>
+  <string name="naxprovidercreation_title">Pridať používateľa %s</string>
+  <string name="naxprovidercreation_add_user">Pridať používateľa</string>
+  <string name="naxprovidercreation_creating_account">Vytvoriť konto...</string>
+  <string name="naxprovidercreation_account_added">Účet bol pridaný.</string>
+  <string name="naxprovidercreation_create_failed">Prihlásenie zlyhalo. %s</string>
+</resources>

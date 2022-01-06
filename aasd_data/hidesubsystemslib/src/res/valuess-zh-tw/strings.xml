@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">房屋通達</string>
+  <string name="hide_subsystem_lights">燈光</string>
+  <string name="hide_subsystem_media">媒體</string>
+  <string name="hide_subsystem_pools">泳池和水療</string>
+  <string name="hide_subsystem_climate">氣候</string>
+  <string name="hide_subsystem_shades">百葉窗</string>
+  <string name="hide_subsystem_security">保全</string>
+  <string name="hide_subsystem_cameras">攝影機</string>
+  <string name="hide_subsystem_customdevices">自定義設備</string>
+</resources>

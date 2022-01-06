@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">Todos os quartos</string>
+  <string name="roomslib_favorite_rooms">Favoritos</string>
+  <string name="roomslib_other_rooms">Outros quartos</string>
+  <string name="ok_text">OK</string>
+  <string name="renameroom_voice">Para que seu serviço de voz entenda este novo nome do quarto, por favor, peça a ele para redescobrir seus dispositivos.</string>
+  <string name="duplicate_name">Duplicar nome</string>
+  <string name="invalid_name">Nome inválido</string>
+  <string name="unknown_error">Erro desconhecido</string>
+  <string name="read_only">Somente leitura</string>
+  <string name="renameRoom">Renomear quarto</string>
+  <string name="roomslib_do_not_disturb_toast_on">O modo "Não perturbar" está ligado.</string>
+  <string name="roomslib_do_not_disturb_toast_off">O modo "Não perturbar" está desligado.</string>
+  <string name="roomslib_this_room">Este quarto</string>
+  <string name="roomslib_selectRoom_colorTuning">Sintonização de cores</string>
+  <string name="roomslib_selectRoom_circadianLighting">Iluminação circadiana</string>
+</resources>

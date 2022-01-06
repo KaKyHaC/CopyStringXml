@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">Cenas</string>
+  <string name="pool_setTo">DEFINIR PARA</string>
+  <string name="pool_controls">CONTROLES</string>
+  <string name="pool_off">DESATIVADO</string>
+  <string name="pool_low">BAIXO</string>
+  <string name="pool_med">MÉDIO</string>
+  <string name="pool_high">ALTO</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">Nenhum controle disponível.</string>
+</resources>

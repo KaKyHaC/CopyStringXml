@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">帘幕</string>
+  <string name="shadegroup_batteryOk">电池正常</string>
+  <string name="shadegroup_batteryLow">电池电量低</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">緊急行動　</string>
+  <string name="room_room_services">ルームサービス　</string>
+  <string name="renameroomgroup_popupCancelButton">キャンセル</string>
+  <string name="renameroomgroup_popupCreateButton">名前の変更</string>
+  <string name="renameroomgroup_popupTitle">部屋の名前をつけかえる　</string>
+</resources>

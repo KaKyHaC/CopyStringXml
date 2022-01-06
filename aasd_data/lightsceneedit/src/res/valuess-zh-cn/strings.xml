@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">编辑照明场景</string>
+  <string name="lightSceneEdit_scenesCategory">场景</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">没有删除指定的场景。</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">指定的场景不可编辑。</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">确定</string>
+</resources>

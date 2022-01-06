@@ -1,0 +1,6 @@
+<resources>
+  <string name="naxaccountedit_editTitle">Επεξεργασία ονόματος λογαριασμού</string>
+  <string name="naxaccountedit_accountLabel">ΛΟΓΑΡΙΑΣΜΟΣ</string>
+  <string name="naxaccountedit_editNameLabel">ONOMA</string>
+  <string name="naxaccountedit_done">Τέλος</string>
+</resources>

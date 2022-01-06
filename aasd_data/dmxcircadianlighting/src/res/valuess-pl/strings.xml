@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">Sterowanie</string>
+  <string name="circadianLights_saveButtonText">Zapisz bieżące ustawienia jako cykl dobowy</string>
+</resources>

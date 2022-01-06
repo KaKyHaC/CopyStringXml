@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">Vy</string>
+  <string name="cloud_relay_users_no_user">Nie sú k dispozícii žiadni používatelia.</string>
+  <string name="cloud_relay_users_add_new_user">+ Pridať nového používateľa</string>
+  <string name="cloud_relay_users_reclaim_home">Opätovne prihlásiť túto domácnosť</string>
+  <string name="cloud_relay_users_role_format">%s (pozvánka čaká na vybavenie)</string>
+  <string name="cloud_relay_users_info_unavailable">„Informácie o používateľovi nie sú k dispozícii, skúste to, prosím, neskôr“</string>
+</resources>

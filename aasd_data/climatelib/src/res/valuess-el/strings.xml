@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s κλίμα</string>
+  <string name="climatelib_noActiveThermostats_upperCase">ΔΕΝ ΥΠΑΡΧΟΥΝ ΕΝΕΡΓΟΠΟΙΗΜΕΝΟΙ ΘΕΡΜΟΣΤΑΤΕΣ</string>
+  <string name="climatelib_noActiveThermostats">Δεν υπάρχουν ενεργοποιημένοι θερμοστάτες</string>
+  <string name="climatelib_status_multiple_running">λειτουργούν πολλαπλοί θερμοστάτες</string>
+  <string name="climatelib_status_heating_to_temperature">Θέρμανση έως %s</string>
+  <string name="climatelib_status_cooling_to_temperature">Ψύξη έως %s</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%dºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">ΨΥΞΗ ΕΩΣ %.1fº ΕΝΕΡΓΟΠΟΙΗΣΗ ΘΕΡΜΑΝΣΗΣ-ΨΥΞΗΣ (56%%)</string>
+  <string name="climatelib_thermostat_status_increasing">ΘΕΡΜΑΝΣΗ ΕΩΣ %.1fº ΕΝΕΡΓΟΠΟΙΗΣΗ ΘΕΡΜΑΝΣΗΣ-ΨΥΞΗΣ (56%%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">ΕΝΕΡΓΟΠΟΙΗΣΗ ΘΕΡΜΑΝΣΗΣ-ΨΥΞΗΣ ΕΩΣ (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">ΘΕΡΜΑΝΣΗ ΔΑΠΕΔΟΥ ΕΩΣ (%s)</string>
+  <string name="climatelib_thermostat_state_offline">Εκτός σύνδεσης</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">ΡΥΘΜΙΣΗ ΨΥΞΗΣ</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">ΡΥΘΜΙΣΗ ΘΕΡΜΑΝΣΗΣ</string>
+  <string name="climatelib_thermostat_setpoint_single">ΣΗΜΕΙΟ ΡΥΘΜΙΣΗΣ</string>
+  <string name="climatelib_set_point">ΣΗΜΕΙΟ ΡΥΘΜΙΣΗΣ</string>
+  <string name="climatelib_heat_set_point">ΘΕΡΜΑΝΣΗ ΕΩΣ</string>
+  <string name="climatelib_cool_set_point">ΨΥΞΗ ΕΩΣ</string>
+  <string name="climatelib_single_set_point">ΕΝΙΑΙΑ ΑΥΤΟΜΑΤΗ</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">ΨΥΞΗ ΕΩΣ %s</string>
+  <string name="climatelib_thermostat_heatTo">ΘΕΡΜΑΝΣΗ ΕΩΣ %s</string>
+  <string name="climatelib_thermostat_setTo">ΡΥΘΜΙΣΗ ΕΩΣ %s</string>
+  <string name="climatelib_state_off">Απενεργοποίηση</string>
+  <string name="climatelib_state_on">Ενεργοποίηση</string>
+  <string name="climatelib_thermostatMode_heat">Θερμότητα</string>
+  <string name="climatelib_thermostatMode_cool">Ψύξη</string>
+  <string name="climatelib_thermostatMode_single_auto">Ενιαία αυτόματη</string>
+  <string name="climatelib_thermostatMode_dual_auto">Διπλή αυτόματη</string>
+  <string name="climatelib_thermostatMode_aux_heat">Βοηθητική θέρμανση</string>
+  <string name="climatelib_thermostatMode_autoMode">ΑΥΤΟΜΑΤΗ ΛΕΙΤΟΥΡΓΙΑ</string>
+  <string name="climatelib_thermostatMode_dualMode">ΔΙΠΛΗ ΛΕΙΤΟΥΡΓΙΑ</string>
+  <string name="climatelib_thermostatFan_auto">Αυτόματα</string>
+  <string name="climatelib_thermostatFan_low">Χαμηλή</string>
+  <string name="climatelib_thermostatFan_medium">Μεσαία</string>
+  <string name="climatelib_thermostatFan_high">Υψηλή</string>
+  <string name="climatelib_thermostatFan_circulate">Κυκλοφορία</string>
+  <string name="climatelib_thermostatFan_circulateLow">Χαμηλή κυκλοφορία</string>
+  <string name="climatelib_thermostatFan_circulateMedium">Μεσαία κυκλοφορία</string>
+  <string name="climatelib_thermostatFan_none">Κανένα</string>
+  <string name="climatelib_thermostatSchedule_noEvents">Δεν υπάρχουν συμβάντα</string>
+  <string name="climatelib_thermostatSchedule_hold">Κράτημα</string>
+  <string name="climatelib_thermostatSchedule_running">Λειτουργία</string>
+  <string name="climatelib_thermostatSchedule_run">Εκτέλεση</string>
+  <string name="climatelib_thermostatSchedule_override">Προσωρινό</string>
+  <string name="climatelib_thermostatSchedule_next">ΕΠΟΜΕΝΟ%1$s -%2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">Κρατημένο</string>
+  <string name="climatelib_labelMode">ΛΕΙΤΟΥΡΓΙΑ</string>
+  <string name="climatelib_labelFan">ΑΝΕΜΙΣΤΗΡΑΣ</string>
+  <string name="climatelib_labelSchedule">ΧΡΟΝΟΔΙΑΓΡΑΜΜΑ</string>
+  <string name="climatelib_noScheduleEvents">Δεν υπάρχουν προγραμματισμένα συμβάντα. Θέλετε να δημιουργήσετε προγραμματισμένα συμβάντα τώρα;</string>
+  <string name="climatelib_popupCancel">Άκυρο</string>
+  <string name="climatelib_popupCreate">Δημιουργία</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">ΧΡΟΝΟΔΙΑΓΡΑΜΜΑ ΚΛΙΜΑΤΟΣ</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">Προγραμματισμένα συμβάντα</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">Λάθος κωδικός πρόσβασης</string>
+  <string name="climatelib_climateSchedules_weekdays">ΚΑΘΗΜΕΡΙΝΕΣ</string>
+  <string name="climatelib_climateSchedules_weekend">ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ</string>
+  <string name="climatelib_climateSchedules_everyday">ΚΑΘΕ ΗΜΕΡΑ</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s,%2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">Δεν υπάρχουν προγραμματισμένα συμβάντα</string>
+  <string name="climatelib_climateSchedules_mon">ΔΕΥ</string>
+  <string name="climatelib_climateSchedules_tue">ΤΡΙ</string>
+  <string name="climatelib_climateSchedules_wed">ΤΕΤ</string>
+  <string name="climatelib_climateSchedules_thu">ΠΕΜ</string>
+  <string name="climatelib_climateSchedules_fri">ΠΑΡ</string>
+  <string name="climatelib_climateSchedules_sat">ΣΑΒ</string>
+  <string name="climatelib_climateSchedules_sun">ΚΥΡ</string>
+  <string name="climatelib_climate">Κλίμα</string>
+</resources>

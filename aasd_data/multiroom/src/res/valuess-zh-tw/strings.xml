@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">已選擇單人房間</string>
+  <string name="multiroom_singleRoomDescription">您可以在家中的多個房間聆聽相同的音樂。</string>
+  <string name="multiroom_playInMultipleRooms">在多個房間裡播放</string>
+  <string name="multiroom_manageRoomsAndGroups">管理多個房間和群組</string>
+  <string name="multiroom_sourceNotPlaying">音訊源沒有播放</string>
+</resources>

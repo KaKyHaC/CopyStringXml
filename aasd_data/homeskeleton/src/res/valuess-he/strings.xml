@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">פעולות מהירות</string>
+  <string name="home_home_controls">בקרות ביתיות</string>
+  <string name="home_lock_all">נעל הכול</string>
+  <string name="home_unlock_all">שחרר נעילה של הכול</string>
+  <string name="home_security_system">מערכת אבטחה</string>
+  <string name="home_climate">אקלים</string>
+  <string name="home_locks">מנעולי דלתות</string>
+  <string name="home_cameras">מצלמות</string>
+  <string name="home_access">גישה לבית</string>
+</resources>

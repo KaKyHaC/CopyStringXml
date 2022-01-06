@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">ELEMENTOS DE OSCURECIMIENTO</string>
+  <string name="shadegroup_batteryOk">La batería está bien </string>
+  <string name="shadegroup_batteryLow">Batería baja</string>
+</resources>

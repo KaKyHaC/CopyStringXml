@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Password errata</string>
+  <string name="advancedpassword_passwordHint">Inserisci la password per modificare gli eventi programmati</string>
+  <string name="advancedpassword_settingsPasswordHint">Questa è una sezione protetta, si prega di inserire prima la password,</string>
+  <string name="advancedpassword_editScenesPasswordHint">Questa è una sezione protetta, si prega di inserire prima la password,</string>
+  <string name="advancedpassword_title">Inserisci la password</string>
+  <string name="advancedpassword_advancedUserPassword">Password utente avanzato</string>
+  <string name="advancedpassword_advancedUserPasswordHint">Contatta il tuo distributtore di Crestron autorizzato per la password utente avanzata. </string>
+  <string name="advancedpassword_warning_ok">OK</string>
+  <string name="advancedpassword_warning_subtitle">Se inserisci una password non corretta varie volte, il tuo account sarà momentaneamente bloccato. Dopo poco tempo tenta di nuovo o contatta il tuo distributtore autorizzato della Crestron.</string>
+  <string name="advancedpassword_warning_title">Hai inserito una password incorretta.</string>
+  <string name="advancedpassword_cloud_claim_hint">Per continuare il richiamo del tuo Home, inserisci la password d'utente avanzata. Contatta il tuo distrubutore Crestron autorizzato per la password d'utente avanzata.</string>
+  <string name="advancedpassword_cloud_claim_skip">Puoi %s e procedere con la tua Home senza utilizzare una password d'utente avanzata in questo momento.</string>
+  <string name="advancedpassword_skip_this_step">oltrepassa questo passaggio</string>
+</resources>

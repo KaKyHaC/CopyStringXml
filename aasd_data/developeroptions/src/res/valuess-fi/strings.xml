@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">Enable Developer Options</string>
+  <string name="reset_logging_after_24_hours">Reset Logging After 24 hours</string>
+  <string name="developer_options">Developer Options</string>
+  <string name="logging_level">Logging Level</string>
+  <string name="logging">Logging</string>
+  <string name="network_logging">Network Logging</string>
+  <string name="detailed_logging">Detailed Logging</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">ソースを選ぶ　</string>
+  <string name="source_selection_problem_source">グループのすべての部屋を利用できません　</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">SETĂRILE DIFUZORULUI</string>
+  <string name="mediamore_additionalFunctions">FUNCȚII SUPLIMENTARE</string>
+  <string name="mediamore_advancedSettings">Setări avansate</string>
+  <string name="mediamore_noInfo">Nu sunt informații disponibile.</string>
+</resources>

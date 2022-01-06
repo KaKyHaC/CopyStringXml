@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s in %s</string>
+  <string name="nowplayingbar_multiple_media">meerdere media</string>
+  <string name="nowplayingbar_rooms">%d kamers</string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">Volumeregelaars niet beschikbaar</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">Schakel deze mediaruimte in</string>
+</resources>

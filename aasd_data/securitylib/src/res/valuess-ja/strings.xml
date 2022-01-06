@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">セキュリティ</string>
+  <string name="securitylib_securitySystem">セキュリティーシステム　</string>
+  <string name="securitylib_securitySystemWithName">セキュリティシステム %s</string>
+  <string name="securitylib_alarm_alarm">アラーム</string>
+  <string name="securitylib_alarm_fire">火</string>
+  <string name="securitylib_alarm_burglary">強盗</string>
+  <string name="securitylib_alarm_medical">
+医学</string>
+  <string name="securitylib_alarm_tamper">改ざん</string>
+  <string name="securitylib_arming_armedStay">アームドステイ</string>
+  <string name="securitylib_arming_exitDelayActive">ディレイアクティブを終了します</string>
+  <string name="securitylib_arming_disarmed">武装解除された</string>
+  <string name="securitylib_arming_ready">準備完了</string>
+  <string name="securitylib_arming_armedAway">アームドアウェイ</string>
+  <string name="securitylib_arming_notReady">未完成</string>
+  <string name="securitylib_arming_entryDelayActive">ディレイアクティブにエントリーします</string>
+  <string name="securitylib_arming_armedStayInstant">アームドステイの瞬間</string>
+  <string name="securitylib_arming_armedAwayInstant">アームドアウェイの瞬間</string>
+  <string name="securitylib_arming_armedBypass">アームドバイパス</string>
+  <string name="securitylib_arming_armedBypassInstant">アームドバイパスの瞬間</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">botón de retroceso de ajustes</string>
+  <string name="touchPanelsettings_toolbar">Configuración</string>
+  <string name="touchPanelsettings_toolbar_default_room">Habitación predeterminada</string>
+  <string name="touchPanelsettings_room_list">LISTA DE HABITACIONES</string>
+  <string name="touchPanelsettings_display">PANTALLA</string>
+  <string name="touchPanelsettings_automode_brightness">Luminosidad en modo automático</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">Tiempo de espera de visualización</string>
+  <string name="touchPanelsettings_screensaver">Protector de pantalla</string>
+  <string name="touchPanelsettings_media_volume">Volumen de medios</string>
+  <string name="touchPanelsettings_home">INICIO</string>
+  <string name="touchPanelsettings_advanced_settings">Ajustes avanzados</string>
+  <string name="touchPanelsettings_edit_home">Editar hogar</string>
+  <string name="touchPanelsettings_info">INFO</string>
+  <string name="touchPanelsettings_firmware_version">Versión de firmware</string>
+  <string name="touchPanelsettings_ui_version">Versión de IU</string>
+  <string name="touchPanelsettings_volume">VOLUMEN</string>
+  <string name="touchPanelsettings_edit_home_popup_message">No cambie estos ajustes a menos que lo indique su distribuidor Crestron</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">Continuar</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">Cancelar</string>
+  <string name="touchPanelsettings_timeout_text_never">Nunca</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s segundos</string>
+  <string name="touchPanelsettings_timeout_text_minute">1 minuto</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s minutos</string>
+  <string name="touchPanelsettings_timeout_text_hour">1 hora</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s horas</string>
+  <string name="touchPanelsettings_access_points">Punto de acceso WiFi</string>
+  <string name="touchPanelsettings_intercom">INTERCOMUNICADOR E INTERRUPCIONES</string>
+  <string name="touchPanelsettings_do_not_disturb">No molestar</string>
+  <string name="touchPanelsettings_play_test">Prueba de reproducción</string>
+  <string name="touchPanelsettings_speakervolume_label">Volumen del parlante</string>
+</resources>

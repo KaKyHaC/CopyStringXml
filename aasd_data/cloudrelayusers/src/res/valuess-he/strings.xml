@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">הנך</string>
+  <string name="cloud_relay_users_no_user">אין משתמשים זמינים</string>
+  <string name="cloud_relay_users_add_new_user">+ הוסיף משתמש חדש</string>
+  <string name="cloud_relay_users_reclaim_home">תחזיר את הבית הזה</string>
+  <string name="cloud_relay_users_role_format">%s (ההזמנה בהמתנה)</string>
+  <string name="cloud_relay_users_info_unavailable">"מידע על המשתמש אינו זמין, אנא נסה מאוחר יותר"</string>
+</resources>

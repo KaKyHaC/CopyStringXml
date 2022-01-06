@@ -1,0 +1,4 @@
+<resources>
+  <string name="lightSceneVisibility_title">Видимость зоны</string>
+  <string name="lightSceneVisibility_subtitle">%s место</string>
+</resources>

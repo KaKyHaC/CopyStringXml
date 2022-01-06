@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">Συμβάντα &amp;Ήχοι</string>
+  <string name="interrupts_back_description">κουμπί επιστροφής συμβάντων</string>
+  <string name="interrupts_not_available">Δεν υπάρχουν διαθέσιμα συμβάντα.</string>
+</resources>

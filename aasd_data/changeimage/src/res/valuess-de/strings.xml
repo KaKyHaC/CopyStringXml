@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Verschieben und Skalieren</string>
+  <string name="changeimage_cellularWarning">
+Wenn keine Wi-Fi-Verbindung besteht, kann das Hochladen von Fotos deutlich länger dauern.</string>
+  <string name="changeimage_cancel">Abbrechen</string>
+  <string name="changeimage_choose">Wählen</string>
+</resources>

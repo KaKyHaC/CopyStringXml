@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">Skúsiť znova</string>
+  <string name="discoverhome_discovering">Rozpoznávanie</string>
+  <string name="discoverhome_notCompatibleMessage">PYNG NIE JE KOMPATIBILNÝ SO SYSTÉMOM CRESTRON HOME</string>
+  <string name="discoverhome_titleFound">Domácnosti nájdené v tejto sieti</string>
+  <string name="discoverhome_titleNotFound">Nenašli sa žiadne nové domácnosti</string>
+  <string name="discoverhome_subtitleFound">Ak chcete začať proces pridávania, vyberte domácnosť.</string>
+  <string name="discoverhome_subtitleNotFound">V tejto sieti nie sú k dispozícii žiadne domácnosti. Skontrolujte prosím svoje sieťové pripojenie a skúste to znova.</string>
+</resources>

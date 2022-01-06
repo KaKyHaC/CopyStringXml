@@ -1,0 +1,35 @@
+<resources>
+  <string name="mediacompositelib_audioTitle">เสียง</string>
+  <string name="mediacompositelib_videoTitle">วิดีโอ</string>
+  <string name="mediacompositelib_sourceOff">ปิด</string>
+  <string name="mediacompositelib_sourceOn">%s เปิด</string>
+  <string name="mediacompositelib_videSourcesNotAllowed">ห้องอยู่ในกลุ่ม ไม่มี</string>
+  <string name="mediacompositelib_sourceStatus">%s เปิดอยู่</string>
+  <string name="mediacompositelib_forwardRewindSpeed">%dx</string>
+  <string name="mediacompositelib_noNowPlayingInfo">ไม่มีข้อมูลที่กำลังเล่นอยู่ที่ใช้งานได้</string>
+  <string name="mediacompositelib_sourceProblematic">ปิด,\nเปิดกลุ่ม</string>
+  <string name="mediacompositelib_remotes_back">ย้อนกลับ</string>
+  <string name="mediacompositelib_remotes_popupMenu">เมนูป๊อปอัพ</string>
+  <string name="mediacompositelib_remotes_home">บ้าน</string>
+  <string name="mediacompositelib_remotes_discMinus">DISC -</string>
+  <string name="mediacompositelib_remotes_discPlus">DISC +</string>
+  <string name="mediacompositelib_remotes_letterA">A</string>
+  <string name="mediacompositelib_remotes_letterB">B</string>
+  <string name="mediacompositelib_remotes_letterC">C</string>
+  <string name="mediacompositelib_remotes_letterD">D</string>
+  <string name="mediacompositelib_remotes_menu">เมนู</string>
+  <string name="mediacompositelib_remotes_exit">ออก</string>
+  <string name="mediacompositelib_remotes_pagePlus">PG+</string>
+  <string name="mediacompositelib_remotes_pageMinus">PG-</string>
+  <string name="mediacompositelib_remotes_channelPlus">CH+</string>
+  <string name="mediacompositelib_remotes_channelMinus">CH-</string>
+  <string name="mediacompositelib_remotes_live">ถ่ายทอดสด</string>
+  <string name="mediacompositelib_remotes_favorite">FAV</string>
+  <string name="mediacompositelib_remotes_info">ข้อมูล</string>
+  <string name="mediacompositelib_remotes_onDemand">ตามความต้องการ</string>
+  <string name="mediacompositelib_remotes_last">สุดท้าย</string>
+  <string name="mediacompositelib_remotes_guide">คำแนะนำ</string>
+  <string name="mediacompositelib_remotes_appleTv_home">ทีวี</string>
+  <string name="mediacompositelib_remotes_empty" />
+  <string name="mediacompositelib_remotes_notAvailable">ไม่มีรีโมทที่ใช้งานได้</string>
+</resources>

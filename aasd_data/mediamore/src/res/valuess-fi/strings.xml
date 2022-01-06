@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">SPEAKER SETTINGS</string>
+  <string name="mediamore_additionalFunctions">ADDITIONAL FUNCTIONS</string>
+  <string name="mediamore_advancedSettings">Lisäasetukset</string>
+  <string name="mediamore_noInfo">No information available.</string>
+</resources>

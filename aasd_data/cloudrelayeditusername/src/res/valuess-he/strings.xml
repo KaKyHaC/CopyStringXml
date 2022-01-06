@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">ערוך</string>
+  <string name="cloudrelayeditusername_subtitle">ערוך שם</string>
+  <string name="cloudrelayeditusername_accountLabel">חשבון</string>
+  <string name="cloudrelayeditusername_editNameLabel">שם</string>
+  <string name="cloudrelayeditusername_done">סיום</string>
+</resources>

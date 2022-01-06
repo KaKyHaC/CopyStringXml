@@ -1,0 +1,19 @@
+<resources>
+  <string name="intercom_incoming_call">ícone de chamada recebida</string>
+  <string name="intercom_answer_description">botão de atendimento de chamada</string>
+  <string name="intercom_dismiss_description">botão de rejeitar a chamada</string>
+  <string name="intercom_answer_text">Atender</string>
+  <string name="intercom_actions_text">Ações</string>
+  <string name="intercom_actions_description">botão de ações de chamada</string>
+  <string name="intercom_dismiss_text">Rejeitar</string>
+  <string name="intercom_calling">%s intercomunicador a ligar...</string>
+  <string name="intercom_talking">Falando com o intercomunicador de %s</string>
+  <string name="intercom_answer">Atender</string>
+  <string name="intercom_end">Terminar</string>
+  <string name="intercom_dismiss">Rejeitar</string>
+  <string name="intercom_mute">Silenciar microfone</string>
+  <string name="intercom_unmute">Reativar microfone</string>
+  <string name="intercom_quickActions_title">Ações rápidas</string>
+  <string name="intercom_noQuickActions_message">Nenhuma ação rápida suportada para esta casa</string>
+  <string name="intercom_noQuickActions_confirm">Rejeitar</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Create new scene</string>
+  <string name="lightSceneCreate_add_lights">Add lights</string>
+  <string name="lightSceneCreate_add_more_lights">Add more lights</string>
+  <string name="lightSceneCreate_save">Save</string>
+  <string name="lightSceneCreate_set_scene_options">SET SCENE OPTIONS</string>
+  <string name="lightSceneCreate_fade_time">Fade time</string>
+  <string name="lightSceneCreate_scene_visibility">Scene visibility</string>
+  <string name="lightSceneCreate_subtitle_template">%d OF %d SCENES</string>
+</resources>

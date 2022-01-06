@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">assign user role</string>
+  <string name="cloudrelayadduser_user">משתמש</string>
+  <string name="cloudrelayadduser_owner">בעלים</string>
+  <string name="cloudrelayadduser_username">שם משתמש</string>
+  <string name="cloudrelayadduser_email">דוא"ל</string>
+  <string name="cloudrelayadduser_yes">כן</string>
+  <string name="cloudrelayadduser_no">לא</string>
+  <string name="cloudrelayadduser_invite_warning">לא סיימת לשלוח הזמנות. האם להמשיך לערוך?</string>
+  <string name="cloudrelayadduser_send_invite">שלח הזמנה</string>
+  <string name="cloudrelayadduser_invite_sent">הזמנה נשלחה...</string>
+  <string name="cloudrelayadduser_add_new_user">הוסף משתמש חדש</string>
+</resources>

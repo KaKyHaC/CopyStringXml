@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_v2_actions_header_text">Aktionen</string>
+  <string name="security_v2_toolbarTitle">Sicherheit</string>
+  <string name="security_v2_panicActionsTitle">AKTIONEN</string>
+  <string name="security_v2_panicActionsSubtitle">Drücken und 1 Sekunde lang halten, um jede Aktion auszulösen</string>
+  <string name="security_v2_navigationButtonsTitle">NAVIGATIONSSCHALTFLÄCHEN</string>
+  <string name="security_v2_selectNavigationButton">Auswählen</string>
+  <string name="security_v2_keypadTitle">TASTENFELD</string>
+  <string name="security_v2_keypadSubtitle">Geben Sie den 4-stelligen Code und eine Ziffer ein, die der gewünschten Aktion entspricht.</string>
+  <string name="security_v2_displayTextTitle">TEXTANZEIGE</string>
+</resources>

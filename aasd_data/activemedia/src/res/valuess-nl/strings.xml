@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">Schakel alle media uit</string>
+  <string name="activemedia_activeMedia">Actieve media (%d)</string>
+  <string name="activemedia_audio">Audio</string>
+  <string name="activemedia_video">VIDEO</string>
+  <string name="activemedia_multiple_displays">Meerdere schermen</string>
+  <string name="activemedia_left_display">Linker scherm</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">Weet je zeker dat je het hele huis wilt uitschakelen?</string>
+</resources>

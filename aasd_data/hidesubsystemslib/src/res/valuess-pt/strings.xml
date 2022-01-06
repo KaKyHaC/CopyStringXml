@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">Acesso à Casa</string>
+  <string name="hide_subsystem_lights">Luzes</string>
+  <string name="hide_subsystem_media">Multimédia</string>
+  <string name="hide_subsystem_pools">Piscinas &amp; Spa</string>
+  <string name="hide_subsystem_climate">Climatização</string>
+  <string name="hide_subsystem_shades">Estores</string>
+  <string name="hide_subsystem_security">Segurança</string>
+  <string name="hide_subsystem_cameras">Câmaras</string>
+  <string name="hide_subsystem_customdevices">Dispositivos personalizados</string>
+</resources>

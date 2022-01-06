@@ -1,0 +1,9 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">Premenovať skupinu</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">Zrušiť</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">Premenovať</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">Duplicitný názov</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">	
+Neplatný názov</string>
+  <string name="tvpresetsrenamegroup_unknownError">Operácia zlyhala</string>
+</resources>

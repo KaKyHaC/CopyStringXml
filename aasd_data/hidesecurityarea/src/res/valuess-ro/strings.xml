@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">AFIȘEAZĂ ZONELE</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">Ascundeți zonele de securitate cu butonul „Înapoi”</string>
+</resources>

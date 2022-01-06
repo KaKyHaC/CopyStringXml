@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesSelection_helpText_text">为此事件选择声音。此声音适用于所有区域，在这些区域中，启用了此事件。</string>
+</resources>

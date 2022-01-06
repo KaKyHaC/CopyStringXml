@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsnewgroup_popupTitle">Nytt gruppenavn</string>
+  <string name="tvpresetsnewgroup_popupCancelButton">AVBRYT</string>
+  <string name="tvpresetsnewgroup_popupCreateButton">Skape</string>
+  <string name="tvpresetsnewgroup_duplicateNameError">Duplikatnavn</string>
+  <string name="tvpresetsnewgroup_invalidNameError">Ugyldig navn</string>
+  <string name="tvpresetsnewgroup_unknownError">Operasjonen feilet</string>
+</resources>

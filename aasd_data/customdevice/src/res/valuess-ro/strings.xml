@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_labelUnavailable">Textul nu este disponibil</string>
+  <string name="min_validation_text">Valoarea nu poate fi sub %s</string>
+  <string name="max_validate_text">Valoarea nu poate fi peste %s</string>
+  <string name="stepsize_validate_text">Valoarea trebuie să fie setată în trepte de creștere de %s</string>
+</resources>

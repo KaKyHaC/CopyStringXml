@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_labelUnavailable">텍스트를 사용할 수 없습니다</string>
+  <string name="min_validation_text">값은 %s보다 작을 수 없습니다</string>
+  <string name="max_validate_text">값은 %s보다 클 수 없습니다</string>
+  <string name="stepsize_validate_text">값은 %s 단위로 설정해야 합니다</string>
+</resources>

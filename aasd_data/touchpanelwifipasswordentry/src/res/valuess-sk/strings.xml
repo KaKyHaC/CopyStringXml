@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Výber siete Wi-Fi — Spätná akcia</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">Pridať nový prístupový bod</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">Dotykom pridáte nastavenia protokolu WAP. </string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">Zadajte heslo pre túto sieť a ťuknite na položku „Pripojiť“.</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">NASTAVENIA PRIPOJENIA KU PROTOKOLU WAP</string>
+  <string name="touchpanelWifiPasswordEntry_connect">Pripojiť</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">NÁZOV (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">HESLO</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">BEZPEČNOSŤ</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">Pripojenie k protokolu WAP</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">Pripojené k protokolu WAP</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">Pripojený kábel siete Ethernet</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">Pripojenie k protokolu WAP zlyhalo</string><string name="touchpanelEncryptionSelection_title">Nastavenia šifrovania siete Wi-Fi</string></resources>

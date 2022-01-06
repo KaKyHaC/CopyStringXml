@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Flyt og skaler</string>
+  <string name="changeimage_cellularWarning">Når der ikke er forbindelse via wi-fi, kan upload af billeder tage betydeligt længere tid.</string>
+  <string name="changeimage_cancel">Annuller</string>
+  <string name="changeimage_choose">Vælg</string>
+</resources>

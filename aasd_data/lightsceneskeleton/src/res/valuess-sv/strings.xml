@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Skapa ny scen</string>
+  <string name="lightSceneCreate_add_lights">Lägg till lampor</string>
+  <string name="lightSceneCreate_add_more_lights">Lägg till fler lampor</string>
+  <string name="lightSceneCreate_save">Spara</string>
+  <string name="lightSceneCreate_set_scene_options">ANGE SCENALTERNATIV</string>
+  <string name="lightSceneCreate_fade_time">Nedtoningstid</string>
+  <string name="lightSceneCreate_scene_visibility">Scensynlighet</string>
+  <string name="lightSceneCreate_subtitle_template">%d AV %d SCENER</string>
+</resources>

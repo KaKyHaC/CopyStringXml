@@ -1,0 +1,9 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">アカウント</string>
+  <string name="naxaccountdetail_edit_name">名前を編集する　</string>
+  <string name="naxaccountdetail_signIn">サインイン</string>
+  <string name="naxaccountdetail_remove">削除</string>
+  <string name="naxaccountdetail_remove_yes">はい、削除します</string>
+  <string name="naxaccountdetail_removeAccount_warning">この％sアカウントには、CrestronHome.\ n \ nからアクセスできなくなります。
+続けますか？</string>
+</resources>

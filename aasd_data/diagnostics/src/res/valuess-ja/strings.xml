@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">サポート診断</string>
+  <string name="diagnostics_loggingTitle">診断の送信ができません</string>
+  <string name="diagnostics_loggingDescription">Crestron Tech Supportからの指示がない限り、診断の送信を有効にしないでください。</string>
+  <string name="diagnostics_submitDiagnostics">サポート診断を送信します</string>
+  <string name="diagnostics_submitMessage">Crestronは、Crestronディーラーと協力する場合、またはCrestronカスタマーサポートから要求された場合にのみ、診断を送信することをお勧めします。 \ n \ n送信を押すと、ファイルの共有方法を選択できます。このファイルの送信先については、CrestronディーラーまたはCrestronカスタマーサポートの指示に従ってください。</string>
+  <string name="diagnostics_submit">送信</string>
+</resources>

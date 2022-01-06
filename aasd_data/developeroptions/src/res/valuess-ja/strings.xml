@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">開発者向けオプションを有効にする</string>
+  <string name="reset_logging_after_24_hours">24時間後にログをリセット</string>
+  <string name="developer_options">開発者用オプション　</string>
+  <string name="logging_level">ロギングレベル</string>
+  <string name="logging">ロギング</string>
+  <string name="network_logging">ネットワークログ</string>
+  <string name="detailed_logging">
+詳細なログ</string>
+</resources>

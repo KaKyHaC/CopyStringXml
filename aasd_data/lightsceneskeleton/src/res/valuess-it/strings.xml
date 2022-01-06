@@ -1,0 +1,11 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Crea una nuova scena</string>
+  <string name="lightSceneCreate_add_lights">Aggiungi le luci</string>
+  <string name="lightSceneCreate_add_more_lights">Aggiungi ulteriori luci</string>
+  <string name="lightSceneCreate_save">Salva</string>
+  <string name="lightSceneCreate_set_scene_options">IMPOSTA LE OPZIONI DI SCENA</string>
+  <string name="lightSceneCreate_fade_time">Tempo di dissolvenza</string>
+  <string name="lightSceneCreate_scene_visibility">Visibilità della scena</string>
+  <string name="lightSceneCreate_subtitle_template">	
+%d  DI SCENE %d </string>
+</resources>

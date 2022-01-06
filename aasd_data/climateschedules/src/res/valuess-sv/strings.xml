@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">Schemalagda händelser</string>
+  <string name="climateschedules_noSchedulesTitle">Inga schemalagda händelser</string>
+  <string name="climateschedules_noSchedulesDescription">Automatisera dina termostater och skapa anpassade schemalagda händelser för varje termostat.</string>
+  <string name="climateschedules_emptyLayout_createNew">Skapa ny schemalagd händelse</string>
+  <string name="climateschedules_createNew">+ Skapa ny schemalagd händelse</string>
+</resources>

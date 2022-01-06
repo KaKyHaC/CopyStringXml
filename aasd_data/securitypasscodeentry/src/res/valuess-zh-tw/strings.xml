@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">輸入安全代碼</string>
+  <string name="securitypasscodeentry_saveMessage">保存此設備的代碼。您 \ 將不會被要求再次輸入此代碼。</string>
+  <string name="securitypasscodeentry_invalidPasscode">錯誤代碼，請重試。</string>
+  <string name="securitypasscodeentry_passcodeRequired">代碼為空。請輸入正確代碼。</string>
+</resources>

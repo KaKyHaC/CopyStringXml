@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">영역 보기</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">보안 영역 다시 숨기기 버튼</string>
+</resources>

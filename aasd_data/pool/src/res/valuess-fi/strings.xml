@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">Profiilit</string>
+  <string name="pool_setTo">SET TO</string>
+  <string name="pool_controls">CONTROLS</string>
+  <string name="pool_off">POIS PÄÄLTÄ</string>
+  <string name="pool_low">Matala</string>
+  <string name="pool_med">Keskitaso</string>
+  <string name="pool_high">Korkea</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">No controls are available.</string>
+</resources>

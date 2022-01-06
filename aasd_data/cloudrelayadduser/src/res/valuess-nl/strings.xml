@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">gebruikersrol toewijzen</string>
+  <string name="cloudrelayadduser_user">Gebruiker</string>
+  <string name="cloudrelayadduser_owner">Eigenaar</string>
+  <string name="cloudrelayadduser_username">Naam gebruiker</string>
+  <string name="cloudrelayadduser_email">E-mail</string>
+  <string name="cloudrelayadduser_yes">Ja</string>
+  <string name="cloudrelayadduser_no">Nee</string>
+  <string name="cloudrelayadduser_invite_warning">U bent nog niet klaar met het verzenden van uitnodigingen. Doorgaan met bewerken?</string>
+  <string name="cloudrelayadduser_send_invite">Uitnodiging sturen</string>
+  <string name="cloudrelayadduser_invite_sent">Uitnodiging verzonden.</string>
+  <string name="cloudrelayadduser_add_new_user">Voeg een nieuwe gebruiker toe</string>
+</resources>

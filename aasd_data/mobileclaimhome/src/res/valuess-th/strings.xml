@@ -1,0 +1,5 @@
+<resources>
+  <string name="mobileclaimhome_homeSettings">การตั้งค่าหน้าหลัก</string>
+  <string name="mobileclaimhome_remoteAccessSettings">การตั้งค่าการเข้าถึงทางไกล</string>
+  <string name="mobileclaimhome_port">พอร์ต</string>
+</resources>

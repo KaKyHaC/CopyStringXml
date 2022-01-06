@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Nieprawidłowe hasło</string>
+  <string name="advancedpassword_passwordHint">Wprowadź hasło, aby edytować zaplanowane wydarzenia</string>
+  <string name="advancedpassword_settingsPasswordHint">Ta sekcja jest chroniona, wprowadź najpierw hasło.</string>
+  <string name="advancedpassword_editScenesPasswordHint">Ta sekcja jest chroniona, wprowadź najpierw hasło.</string>
+  <string name="advancedpassword_title">Wprowadź hasło</string>
+  <string name="advancedpassword_advancedUserPassword">Hasło użytkownika zaawansowanego</string>
+  <string name="advancedpassword_advancedUserPasswordHint">Skontaktuj się z autoryzowanym sprzedawcą Crestron w celu uzyskania hasła użytkownika zaawansowanego.</string>
+  <string name="advancedpassword_warning_ok">OK</string>
+  <string name="advancedpassword_warning_subtitle">Jeśli wprowadzisz nieprawidłowe hasło wielokrotnie, Twoje konto zostanie tymczasowo zablokowane. Spróbuj ponownie za chwilę lub skontaktuj się z autoryzowanym sprzedawcą Crestron.</string>
+  <string name="advancedpassword_warning_title">Wprowadzono nieprawidłowe hasło.</string>
+  <string name="advancedpassword_cloud_claim_hint">Aby kontynuować odbieranie domu, wprowadź zaawansowane hasło użytkownika. Skontaktuj się z autoryzowanym sprzedawcą Crestron w celu uzyskania hasła użytkownika zaawansowanego.</string>
+  <string name="advancedpassword_cloud_claim_skip">Możesz %si teraz przejść do domu bez używania zaawansowanego hasła użytkownika.</string>
+  <string name="advancedpassword_skip_this_step">pomiń ten krok</string>
+</resources>

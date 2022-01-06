@@ -1,0 +1,11 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">新しいシーンの作成</string>
+  <string name="lightSceneCreate_add_lights">ライトの追加</string>
+  <string name="lightSceneCreate_add_more_lights">ライトをさらに追加します</string>
+  <string name="lightSceneCreate_save">保存
+</string>
+  <string name="lightSceneCreate_set_scene_options">シーンのオプションを設定する　</string>
+  <string name="lightSceneCreate_fade_time">フェード時間</string>
+  <string name="lightSceneCreate_scene_visibility">シーンの見やすさ</string>
+  <string name="lightSceneCreate_subtitle_template">%d シーンの %d 　</string>
+</resources>

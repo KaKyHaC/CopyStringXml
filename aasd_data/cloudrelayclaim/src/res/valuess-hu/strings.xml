@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">A hozzáférés eltávolításra kerül az otthon minden meglévő felhasználója esetében. A felfedezés befejezését követően ismét biztosíthatja a hozzáférést az adott felhasználók számára.</string>
+  <string name="cloudrelayclaim_title">Felfedezés folytatása</string>
+  <string name="cloudrelayclaim_continue">Folytatás</string>
+  <string name="cloudrelayclaim_success">Koppintson a fenti „Felhasználók” gombra, ha hozzáférést szeretne biztosítani a családtagjai és barátai számára.</string>
+  <string name="cloudrelayclaim_warning_ok">ok</string>
+  <string name="cloudrelayclaim_warning_subtitle">Segítségért forduljon a Crestron márkakereskedőjéhez.</string>
+  <string name="cloudrelayclaim_warning_title">Az otthon felfedezése jelenleg nem lehetséges</string>
+</resources>

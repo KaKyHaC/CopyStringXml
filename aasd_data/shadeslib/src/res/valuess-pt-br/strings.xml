@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">Tons</string>
+  <string name="shadeslib_all_shades_closed">FECHADO</string>
+  <string name="shadeslib_all_shades_opened">ABERTO</string>
+  <string name="shadeslib_shades_title">%s Tons</string>
+  <string name="shadeslib_shade_state_with_tilt">COM %d%% TILT</string>
+  <string name="shadeslib_shades_status_opened">Os tons estão abertos.</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (PARCIALMENTE OFFLINE)</string>
+  <string name="shadeslib_position_open">%d%% ABERTO</string>
+  <string name="shadeslib_shades_closed">FECHADO</string>
+  <string name="shadeslib_shades_open">ABERTO</string>
+  <string name="shadeslib_shades_opening">ABRINDO...</string>
+  <string name="shadeslib_shades_closing">ENCERRANDO...</string>
+</resources>

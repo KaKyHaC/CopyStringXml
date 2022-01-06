@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">מזג עם %s</string>
+  <string name="managegroups_ungroupAll">פצל הכול</string>
+  <string name="managegroups_ungroupRoom">פצל  %s</string>
+  <string name="managegroups_mergeSelected">מזג נבחרים לקבוצה</string>
+</resources>

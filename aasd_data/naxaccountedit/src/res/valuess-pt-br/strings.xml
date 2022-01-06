@@ -1,0 +1,6 @@
+<resources>
+  <string name="naxaccountedit_editTitle">Editar nome da conta</string>
+  <string name="naxaccountedit_accountLabel">CONTA</string>
+  <string name="naxaccountedit_editNameLabel">NOME</string>
+  <string name="naxaccountedit_done">Feito</string>
+</resources>

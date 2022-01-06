@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s klimat</string>
+  <string name="climatelib_noActiveThermostats_upperCase">BRAK AKTYWNYCH TERMOSTATÓW</string>
+  <string name="climatelib_noActiveThermostats">Brak aktywnych termostatów</string>
+  <string name="climatelib_status_multiple_running">wiele termostatów w użyciu</string>
+  <string name="climatelib_status_heating_to_temperature">Ogrzewanie do %s</string>
+  <string name="climatelib_status_cooling_to_temperature">Ochładzanie do %s</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%dºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">OCHŁADZANIE DO %.1fº, H.C. WŁĄCZONE (56%%)</string>
+  <string name="climatelib_thermostat_status_increasing">OGRZEWANIE DO %.1fº, H.C. WŁĄCZONE (56%%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">H.C. WŁĄCZONE (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H. WŁĄCZONE (%s)</string>
+  <string name="climatelib_thermostat_state_offline">Offline</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">USTAW CHŁODZENIE</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">USTAW OGRZEWANIE</string>
+  <string name="climatelib_thermostat_setpoint_single">WARTOŚĆ ZADANA</string>
+  <string name="climatelib_set_point">USTAW PUNKT</string>
+  <string name="climatelib_heat_set_point">OGRZEJ DO</string>
+  <string name="climatelib_cool_set_point">OCHŁÓDŹ DO</string>
+  <string name="climatelib_single_set_point">Pojedyncze Auto</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">OCHŁÓDŹ DO %s</string>
+  <string name="climatelib_thermostat_heatTo">OGRZEJ DO %s</string>
+  <string name="climatelib_thermostat_setTo">USTAW NA %s</string>
+  <string name="climatelib_state_off">WYŁ.</string>
+  <string name="climatelib_state_on">WŁ.</string>
+  <string name="climatelib_thermostatMode_heat">OGRZEWANIE</string>
+  <string name="climatelib_thermostatMode_cool">CHŁODZENIE</string>
+  <string name="climatelib_thermostatMode_single_auto">Pojedyncze Auto</string>
+  <string name="climatelib_thermostatMode_dual_auto">Podwójne Auto</string>
+  <string name="climatelib_thermostatMode_aux_heat">OGRZ. DOD.</string>
+  <string name="climatelib_thermostatMode_autoMode">TRYB AUTOMATYCZNY</string>
+  <string name="climatelib_thermostatMode_dualMode">TRYB PODWÓJNY</string>
+  <string name="climatelib_thermostatFan_auto">Autom.</string>
+  <string name="climatelib_thermostatFan_low">Poziom niski</string>
+  <string name="climatelib_thermostatFan_medium">Poziom średni</string>
+  <string name="climatelib_thermostatFan_high">Poziom wysoki</string>
+  <string name="climatelib_thermostatFan_circulate">Cyrkuluj</string>
+  <string name="climatelib_thermostatFan_circulateLow">Słaba cyrkulacja</string>
+  <string name="climatelib_thermostatFan_circulateMedium">Średnia cyrkulacja</string>
+  <string name="climatelib_thermostatFan_none">Brak</string>
+  <string name="climatelib_thermostatSchedule_noEvents">Brak wydarzeń</string>
+  <string name="climatelib_thermostatSchedule_hold">Wstrzymaj</string>
+  <string name="climatelib_thermostatSchedule_running">Uruchomiono</string>
+  <string name="climatelib_thermostatSchedule_run">Uruchom</string>
+  <string name="climatelib_thermostatSchedule_override">Tymczasowe</string>
+  <string name="climatelib_thermostatSchedule_next">NASTĘPNIE%1$s - %2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">Wstrzymaj</string>
+  <string name="climatelib_labelMode">Tryb</string>
+  <string name="climatelib_labelFan">WENTYLATOR</string>
+  <string name="climatelib_labelSchedule">HARMONOGRAM</string>
+  <string name="climatelib_noScheduleEvents">W harmonogramie nie zaplanowano żadnych wydarzeń. Czy chcesz teraz utworzyć harmonogram wydarzeń?</string>
+  <string name="climatelib_popupCancel">Anuluj</string>
+  <string name="climatelib_popupCreate">Utwórz</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">HARMONOGRAM TEMPERATUR</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">Zaplanowane zdarzenia</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">Nieprawidłowe hasło</string>
+  <string name="climatelib_climateSchedules_weekdays">DNI POWSZEDNIE</string>
+  <string name="climatelib_climateSchedules_weekend">WEEKEND</string>
+  <string name="climatelib_climateSchedules_everyday">CODZIENNIE</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s, %2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">Brak zaplanowanych wydarzeń</string>
+  <string name="climatelib_climateSchedules_mon">PON.</string>
+  <string name="climatelib_climateSchedules_tue">WT.</string>
+  <string name="climatelib_climateSchedules_wed">ŚR.</string>
+  <string name="climatelib_climateSchedules_thu">CZW.</string>
+  <string name="climatelib_climateSchedules_fri">PT.</string>
+  <string name="climatelib_climateSchedules_sat">SOB.</string>
+  <string name="climatelib_climateSchedules_sun">NDZ.</string>
+  <string name="climatelib_climate">KLIMAT</string>
+</resources>

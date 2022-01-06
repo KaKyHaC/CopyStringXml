@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Wifi 선택 뒤로 가기 버튼</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">새 접속점 추가</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">눌러서 WAP 설정을 추가합니다.</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">이 네트워크의 암호를 입력하고 "연결"을 누릅니다.</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">WAP 연결 설정</string>
+  <string name="touchpanelWifiPasswordEntry_connect">연결</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">이름 (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">암호</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">보안</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">WAP 연결</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP 연결됨</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">이더넷 케이블 연결됨</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">WAP 연결 실패</string><string name="touchpanelEncryptionSelection_title">WiFi 암호화 설정</string></resources>

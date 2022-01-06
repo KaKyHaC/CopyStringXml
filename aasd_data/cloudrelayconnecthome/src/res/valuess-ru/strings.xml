@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayconnecthome_edit_home">Редактировать дом</string>
+  <string name="couldrelayconnecthome_edit_details">Редактирование сведений о вашем Crestron Home.</string>
+  <string name="cloudrelayconnecthome_home_settings">НАСТРОЙКИ ДОМА</string>
+  <string name="cloudrelayconnecthome_friendlyNameOrLocation">Псевдоним / местоположение</string>
+  <string name="cloudrelayconnecthome_password">Пароль пользовательского интерфейса</string>
+  <string name="cloudrelayconnecthome_localConnectionSettings">НАСТРОЙКИ ЛОКАЛЬНОГО ПОДКЛЮЧЕНИЯ</string>
+  <string name="cloudrelayconnecthome_ipAddressOrHostName">IP-адрес / имя хоста</string>
+  <string name="cloudrelayconnecthome_continue">Продолжить</string>
+</resources>

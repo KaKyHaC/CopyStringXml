@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">생체 편집</string>
+  <string name="circadianEdit_description">전기 조명은 인간의 생체 리듬에 미치는 영향을 최소화함으로써 인간의 건강을 지탱하는 방법으로 사용될 수 있습니다.</string>
+  <string name="circadianEdit_transitionsCategory">조명 전환점 편집</string>
+  <string name="circadianEdit_previewTransitionButton_start">생체 전환 미리보기</string>
+  <string name="circadianEdit_previewTransitionButton_end">생체 전환 미리보기 종료</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">아침</string>
+  <string name="circadianEdit_dayTransition">낮</string>
+  <string name="circadianEdit_eveningTransition">저녁</string>
+  <string name="circadianEdit_nightTransition">밤</string>
+  <string name="circadianEdit_minTime">12 AM</string>
+  <string name="circadianEdit_maxTime">11:59 PM</string>
+</resources>

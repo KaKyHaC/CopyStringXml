@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">Access will be removed from all existing users for this home. You may choose to give access back to those users once claiming is complete.</string>
+  <string name="cloudrelayclaim_title">Continue claiming</string>
+  <string name="cloudrelayclaim_continue">Jatka</string>
+  <string name="cloudrelayclaim_success">Tap the “Users” button above to start giving access to your family and friends.</string>
+  <string name="cloudrelayclaim_warning_ok">OK</string>
+  <string name="cloudrelayclaim_warning_subtitle">Ota yhteys Crestron-myyjääsi saadaksesi apua.</string>
+  <string name="cloudrelayclaim_warning_title">Kotiasi ei voi lunastaa juuri nyt</string>
+</resources>

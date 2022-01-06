@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">빠른 조치</string>
+  <string name="home_home_controls">홈 컨트롤</string>
+  <string name="home_lock_all">모두 잠그기</string>
+  <string name="home_unlock_all">모두 잠금 해제</string>
+  <string name="home_security_system">보안 시스템</string>
+  <string name="home_climate">기후</string>
+  <string name="home_locks">도어 잠금</string>
+  <string name="home_cameras">카메라</string>
+  <string name="home_access">홈 액세스</string>
+</resources>

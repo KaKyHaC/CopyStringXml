@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">Tutte le stanze</string>
+  <string name="roomslib_favorite_rooms">Preferiti</string>
+  <string name="roomslib_other_rooms">Altre stanze</string>
+  <string name="ok_text">OK</string>
+  <string name="renameroom_voice">In modo che il tuo servizio vocale possa riconoscere questo nuovo nome della stanza, si prega di richiedere un nuovo controllo dei tuoi dispositivi.</string>
+  <string name="duplicate_name">Nome duplicato</string>
+  <string name="invalid_name">Nome non valido</string>
+  <string name="unknown_error">Errore sconosciuto</string>
+  <string name="read_only">Solo lettura</string>
+  <string name="renameRoom">Rinomima la stanza</string>
+  <string name="roomslib_do_not_disturb_toast_on">Modalità Non disturbare è accesa</string>
+  <string name="roomslib_do_not_disturb_toast_off">Modalità Non disturbare è spenta</string>
+  <string name="roomslib_this_room">Questa sala</string>
+  <string name="roomslib_selectRoom_colorTuning">Regolazione del colore</string>
+  <string name="roomslib_selectRoom_circadianLighting">Illuminazione circadiana</string>
+</resources>

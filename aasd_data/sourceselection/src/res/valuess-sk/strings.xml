@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">Vybrať zdroj</string>
+  <string name="source_selection_problem_source">Nie je k dispozícii vo všetkých miestnostiach v skupine</string>
+</resources>

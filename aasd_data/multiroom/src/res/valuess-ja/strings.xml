@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">個室を選択する　</string>
+  <string name="multiroom_singleRoomDescription">自宅の複数の部屋で同じ音楽を聴くことができます。　</string>
+  <string name="multiroom_playInMultipleRooms">複数のルームでプレイする　</string>
+  <string name="multiroom_manageRoomsAndGroups">ルームとグループを管理する　</string>
+  <string name="multiroom_sourceNotPlaying">ソースが再生されない　</string>
+</resources>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">Bild på kanalobjekt</string>
+  <string name="tvpresetsfavorite_favoritesChannels">FAVORITER</string>
+  <string name="tvpresetsfavorite_favoritesList">Lista över mediafavoriter</string>
+  <string name="tvpresetsfavorite_favoritesMore">Fler mediafavoriter</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">Redigera grupp</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">Ändra favoritgrupp</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">Ändra ny grupp</string>
+  <string name="tvpresetsfavorite_nowPlaying">NU SPELAS</string>
+  <string name="tvpresetsfavorite_upNext">NÄSTA</string>
+  <string name="tvpresetsfavorite_noInformation">Ingen information</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">Tryck på  \"⋯\" för att lägga till dina favoritkanaler</string>
+  <string name="tvpresetsfavorite_noProvider">Det finns inga favoritkanaler eftersom att leverantören inte är vald</string>
+</resources>

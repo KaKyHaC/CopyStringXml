@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_v2_actions_header_text">Akcje</string>
+  <string name="security_v2_toolbarTitle">Zabezpieczenia</string>
+  <string name="security_v2_panicActionsTitle">Akcje</string>
+  <string name="security_v2_panicActionsSubtitle">Naciśnij i przytrzymaj przez 1 sekundę, aby wywołać akcję</string>
+  <string name="security_v2_navigationButtonsTitle">PRZYCISKI NAWIGACYJNE</string>
+  <string name="security_v2_selectNavigationButton">Wybierz</string>
+  <string name="security_v2_keypadTitle">Klawiatura</string>
+  <string name="security_v2_keypadSubtitle">Wprowadź 4-cyfrowy kod i cyfrę odpowiadającą akcji, którą chcesz wykonać</string>
+  <string name="security_v2_displayTextTitle">WYŚWIETL TEKST</string>
+</resources>

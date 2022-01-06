@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">Kaihtimet</string>
+  <string name="shadeslib_all_shades_closed">Suljettu</string>
+  <string name="shadeslib_all_shades_opened">Avaa</string>
+  <string name="shadeslib_shades_title">%s Shades</string>
+  <string name="shadeslib_shade_state_with_tilt">WITH %d%% TILT</string>
+  <string name="shadeslib_shades_status_opened">Shades are open.</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (PARTIALLY OFFLINE)</string>
+  <string name="shadeslib_position_open">%d%% OPEN</string>
+  <string name="shadeslib_shades_closed">Suljettu</string>
+  <string name="shadeslib_shades_open">Avaa</string>
+  <string name="shadeslib_shades_opening">OPENING…</string>
+  <string name="shadeslib_shades_closing">CLOSING…</string>
+</resources>

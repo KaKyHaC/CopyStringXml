@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesDevices_title">กิจกรรม &amp; เสียง</string>
+  <string name="naxChimesDevices_volumeTitle">ระดับเสียงของกิจกรรม</string>
+  <string name="naxChimesDevices_noEventsFound">ไม่มีกิจกรรมที่ใช้งานได้</string>
+</resources>

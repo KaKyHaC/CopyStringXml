@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Luo uusi profiili</string>
+  <string name="lightSceneCreate_add_lights">Lisää valoja</string>
+  <string name="lightSceneCreate_add_more_lights">Lisää valoja</string>
+  <string name="lightSceneCreate_save">Tallenna</string>
+  <string name="lightSceneCreate_set_scene_options">SET SCENE OPTIONS</string>
+  <string name="lightSceneCreate_fade_time">Himmennysaika</string>
+  <string name="lightSceneCreate_scene_visibility">Profiilin näkyvyys</string>
+  <string name="lightSceneCreate_subtitle_template">%d OF %d SCENES</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">Selecteer bron</string>
+  <string name="source_selection_problem_source">Niet beschikbaar in alle kamers in de groep</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="account_selection_account_select">Konto Velg</string>
+  <string name="account_selection_add_account">Vil du legge til en annen konto?</string>
+  <string name="account_selection_go_provider_account">Gå til leverandørens kontooppsettside</string>
+</resources>

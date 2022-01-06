@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="endpointsettings_stereo">استريو</string>
+  <string name="endpointsettings_mono">أحادي</string>
+  <string name="endpointsettings_default">افتراضي</string>
+  <string name="endpointsettings_center">وسط</string>
+  <string name="endpointsettings_valueOneDecimal">%.1f%s</string>
+  <string name="endpointsettings_valueNoDecimals">%.0f%s</string>
+  <string name="endpointsettings_noConfigurableSettings">هذا الإخراج لا يحتوي على إعدادات صوتية قابلة للتكوين.</string>
+  <string name="endpointsettings_l">اليسار</string>
+  <string name="endpointsettings_r">اليمين</string>
+</resources>

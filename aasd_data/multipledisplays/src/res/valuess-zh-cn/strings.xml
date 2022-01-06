@@ -1,0 +1,6 @@
+<resources>
+  <string name="multiple_displays_no_controls">无可用的控件</string>
+  <string name="multiple_displays_scenes">场景</string>
+  <string name="multiple_displays_toolbartitle">视频</string>
+  <string name="multiple_displays_displaytitle">显示器</string>
+</resources>

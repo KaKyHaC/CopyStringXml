@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Wifi Valg Tilbake Handling</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">Legg til nytt tilgangspunkt</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">Berør for å legge til WAP-innstillinger.</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">Skriv inn passordet for dette nettverket og trykk på "Koble til".</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">INNSTILLINGER FOR WAP-KOBLING</string>
+  <string name="touchpanelWifiPasswordEntry_connect">KOBLE TIL</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">NAVN (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">Passord</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">SIKKERHET</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">WAP kobler til</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP tilkoblet</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">Ethernet-kabel tilkoblet</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">WAP-tilkobling mislyktes</string><string name="touchpanelEncryptionSelection_title">WiFi-krypteringsinnstillinger</string></resources>

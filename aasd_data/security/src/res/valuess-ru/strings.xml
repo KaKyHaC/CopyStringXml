@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">Безопасность</string>
+  <string name="security_panicActionsTitle">ДЕЙСТВИЯ</string>
+  <string name="security_panicActionsSubtitle">Нажмите и удерживайте в течение 1 секунды для запуска каждого действия</string>
+  <string name="security_navigationButtonsTitle">КНОПКИ НАВИГАЦИИ</string>
+  <string name="security_selectNavigationButton">Выбор</string>
+  <string name="security_keypadTitle">КЛАВИАТУРА</string>
+  <string name="security_keypadSubtitle">Введите четырехзначный код и цифру, соответствующую действию, которое вы хотите выполнить</string>
+  <string name="security_displayTextTitle">ОТОБРАЖАТЬ ТЕКСТ</string>
+</resources>

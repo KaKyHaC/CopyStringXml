@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">Nenašla sa žiadna sieť!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">Skontrolujte svoje káble na pripojenie k sieti Ethernet alebo sa pripojte bezdrôtovo.</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">Pripojenie k prístupovému bodu siete Wi-Fi</string>
+</resources>

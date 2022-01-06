@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mobilediscoverhome_downloadSgMessage">Ladda ned appen Smart Graphics för att kontrollera det här hemmet</string>
+  <string name="mobilediscoverhome_cancel">Avbryt</string>
+  <string name="mobilediscoverhome_downloadApp">Ladda ned app</string>
+</resources>

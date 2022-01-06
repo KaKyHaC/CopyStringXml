@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">사용자 이름을 입력하십시오</string>
+  <string name="providersignin_enter_password">비밀번호를 입력하십시오</string>
+  <string name="providersignin_description">이 구독을 추가하려면 %s 계정에 로그인하십시오.</string>
+  <string name="providersignin_user_name">사용자 이름</string>
+  <string name="providersignin_password">암호</string>
+  <string name="providersignin_title">로그인</string>
+  <string name="providersignin_save_user">사용자 저장 중...</string>
+  <string name="providersignin_account_added">계정이 추가되었습니다.</string>
+  <string name="providersignin_login_failed">로그인에 실패했습니다.</string>
+</resources>

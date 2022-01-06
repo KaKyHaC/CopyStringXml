@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">desemnați rolul utilizatorului</string>
+  <string name="cloudrelaymemberdetail_user">Utilizator</string>
+  <string name="cloudrelaymemberdetail_owner">Proprietar</string>
+  <string name="cloudrelaymemberdetail_remove_user">Ștergeți utilizatorul</string>
+  <string name="cloudrelaymemberdetail_house_access">Acces la casă</string>
+  <string name="cloudrelaymemberdetail_enable_access">Activați accesul</string>
+  <string name="cloudrelaymemberdetail_remove">Ștergeți</string>
+  <string name="cloudrelaymemberdetail_cancel">Revocare</string>
+  <string name="cloudrelaymemberdetail_remove_warning">Sunteți sigur(ă) că doriți să ștergeți acest utilizator?</string>
+</resources>

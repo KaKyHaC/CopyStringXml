@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">การเชื่อมต่อระบบคลาวด์ล้มเหลว</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">ไม่สามารถโหลดการควบคุมบ้านได้ในขณะนี้ ถึงแม้การเชื่อมต่อทางคลาวด์จะไม่สามารถใช้ได้ชั่วคราว แต่หากคุณเชื่อมต่อ WAP ในพื้นที่ก็ยังสามารถเชื่อมต่อได้</string>
+  <string name="cloudrelaycloudoutage_connection_locally">ลองเชื่อมต่อในพื้นที่</string>
+</resources>

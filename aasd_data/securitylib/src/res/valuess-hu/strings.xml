@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Biztonság</string>
+  <string name="securitylib_securitySystem">Biztonsági rendszer</string>
+  <string name="securitylib_securitySystemWithName">%s biztonsági rendszer</string>
+  <string name="securitylib_alarm_alarm">Riasztás</string>
+  <string name="securitylib_alarm_fire">Tűzeset</string>
+  <string name="securitylib_alarm_burglary">Betörés</string>
+  <string name="securitylib_alarm_medical">Orvosi</string>
+  <string name="securitylib_alarm_tamper">Szabotázs</string>
+  <string name="securitylib_arming_armedStay">Élesített tartózkodás</string>
+  <string name="securitylib_arming_exitDelayActive">Kilépési késleltetés aktív</string>
+  <string name="securitylib_arming_disarmed">Hatástalanítva</string>
+  <string name="securitylib_arming_ready">Kész</string>
+  <string name="securitylib_arming_armedAway">Távozó élesítés</string>
+  <string name="securitylib_arming_notReady">Nem áll készen</string>
+  <string name="securitylib_arming_entryDelayActive">Bemeneti késleltetés aktív</string>
+  <string name="securitylib_arming_armedStayInstant">Azonnali tartózkodó élesítés</string>
+  <string name="securitylib_arming_armedAwayInstant">Azonnali távozó élesítés</string>
+  <string name="securitylib_arming_armedBypass">Élesített megkerülés</string>
+  <string name="securitylib_arming_armedBypassInstant">Azonnali megkerülés élesítve</string>
+</resources>

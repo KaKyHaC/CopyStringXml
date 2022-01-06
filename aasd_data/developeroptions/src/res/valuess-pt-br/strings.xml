@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">Ativar opções do desenvolvedor</string>
+  <string name="reset_logging_after_24_hours">Redefinir login após 24 horas</string>
+  <string name="developer_options">Opções do desenvolvedor</string>
+  <string name="logging_level">Nível de login</string>
+  <string name="logging">Login</string>
+  <string name="network_logging">Fazer login em uma rede</string>
+  <string name="detailed_logging">Login detalhado</string>
+</resources>

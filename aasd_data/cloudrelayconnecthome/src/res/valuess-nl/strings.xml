@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayconnecthome_edit_home">Startpagina bewerken</string>
+  <string name="couldrelayconnecthome_edit_details">Bewerk details over uw Crestron Home.</string>
+  <string name="cloudrelayconnecthome_home_settings">THUISINSTELLINGEN</string>
+  <string name="cloudrelayconnecthome_friendlyNameOrLocation">Vriendelijke naam/locatie</string>
+  <string name="cloudrelayconnecthome_password">Wachtwoord gebruikersinterface</string>
+  <string name="cloudrelayconnecthome_localConnectionSettings">LOKALE VERBINDINGSINSTELLINGEN</string>
+  <string name="cloudrelayconnecthome_ipAddressOrHostName">IP-adres/hostnaam</string>
+  <string name="cloudrelayconnecthome_continue">Doorgaan</string>
+</resources>

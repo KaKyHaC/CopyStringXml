@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">Gi nytt navn til gruppen</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">AVBRYT</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">Gi nytt navn</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">Duplikatnavn</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">Ugyldig navn</string>
+  <string name="tvpresetsrenamegroup_unknownError">Operasjonen feilet</string>
+</resources>

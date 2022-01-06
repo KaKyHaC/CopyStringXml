@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="autoupdate_updateStarted">A frissítés elkezdődött.</string>
+  <string name="autoupdate_updateFailed">A frissítés sikertelen.</string>
+  <string name="autoupdate_updateServerUnreachable">A frissítési kiszolgáló nem érhető el.</string>
+  <string name="autoupdate_updateSucceeded">Sikeres frissítés.</string>
+</resources>

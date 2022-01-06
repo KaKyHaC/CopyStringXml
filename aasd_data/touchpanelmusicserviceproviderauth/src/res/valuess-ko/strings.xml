@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tsw_auth_scan_code">계정을 추가하려면 모바일 장치를 사용하여 아래 코드를 스캔하십시오.</string>
+  <string name="use_this_code">이 코드 사용</string>
+</resources>

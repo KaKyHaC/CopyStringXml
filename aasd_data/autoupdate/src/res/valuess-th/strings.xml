@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="autoupdate_updateStarted">เริ่มต้นอัพเดทแล้ว</string>
+  <string name="autoupdate_updateFailed">อัพเดทล้มเหลว</string>
+  <string name="autoupdate_updateServerUnreachable">ไม่สามารถเข้าถึงเซิร์ฟเวอร์ที่อัปเดต</string>
+  <string name="autoupdate_updateSucceeded">อัพเดทสำเร็จ</string>
+</resources>

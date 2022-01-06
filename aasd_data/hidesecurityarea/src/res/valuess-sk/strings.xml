@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">ZOBRAZIŤ OBLASTI</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">tlačidlo návratu do oblastí s utajeným zabezpečením</string>
+</resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">빛 가리개</string>
+  <string name="shadeslib_all_shades_closed">닫김</string>
+  <string name="shadeslib_all_shades_opened">열기</string>
+  <string name="shadeslib_shades_title">%s 빛가리개</string>
+  <string name="shadeslib_shade_state_with_tilt">%d%% 경사 보장</string>
+  <string name="shadeslib_shades_status_opened">빛가리개가 열려 있습니다.</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (부분적으로 오프라인)</string>
+  <string name="shadeslib_position_open">%d%% 열기</string>
+  <string name="shadeslib_shades_closed">닫김</string>
+  <string name="shadeslib_shades_open">열기</string>
+  <string name="shadeslib_shades_opening">열기 중...</string>
+  <string name="shadeslib_shades_closing">닫기 중...</string>
+</resources>

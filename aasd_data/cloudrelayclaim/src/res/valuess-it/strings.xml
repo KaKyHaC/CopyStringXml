@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">L'accesso verrà rimosso da tutti gli utenti esistenti per questa home. Puoi scegliere di rendere l'accesso a tali utenti una volta completata la richiesta.</string>
+  <string name="cloudrelayclaim_title">Continua a richiamare</string>
+  <string name="cloudrelayclaim_continue">Continua</string>
+  <string name="cloudrelayclaim_success">Tocca il pulsante "Utenti" sopra per iniziare a dare l'accesso alla tua famiglia e ai tuoi amici.</string>
+  <string name="cloudrelayclaim_warning_ok">OK</string>
+  <string name="cloudrelayclaim_warning_subtitle">Si prega di contattare il tuo distributore di Crestron per l'assistenza</string>
+  <string name="cloudrelayclaim_warning_title">Non è possibile richiamare la tua Home in questo momento</string>
+</resources>

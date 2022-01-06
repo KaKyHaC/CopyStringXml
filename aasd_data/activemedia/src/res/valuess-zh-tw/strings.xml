@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">關閉所有媒體</string>
+  <string name="activemedia_activeMedia">活動的媒體（%d）</string>
+  <string name="activemedia_audio">音訊</string>
+  <string name="activemedia_video">視訊</string>
+  <string name="activemedia_multiple_displays">多個顯示器</string>
+  <string name="activemedia_left_display">左顯示器</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">您確定要切斷整棟房子的電源嗎？</string>
+</resources>

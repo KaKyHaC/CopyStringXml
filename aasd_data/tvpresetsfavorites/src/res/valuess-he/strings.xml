@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">תמונת פריט בערוץ</string>
+  <string name="tvpresetsfavorite_favoritesChannels">מועדפים</string>
+  <string name="tvpresetsfavorite_favoritesList">רשימת המועדפים במדיה</string>
+  <string name="tvpresetsfavorite_favoritesMore">מדיה מועדפים</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">ארוך קבוצה</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">שנה קבוצה מועדפת</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">צור קבוצה חדשה</string>
+  <string name="tvpresetsfavorite_nowPlaying">מופעל עכשיו</string>
+  <string name="tvpresetsfavorite_upNext">הבא</string>
+  <string name="tvpresetsfavorite_noInformation">אין מידע</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">הקש על \"⋯\" כדי להוסיף את הערוצים המועדפים עליך</string>
+  <string name="tvpresetsfavorite_noProvider">אין ערוצים מועדפים כי הספק לא נבחר</string>
+</resources>

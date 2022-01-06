@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">แก้ไขชื่อ</string>
+  <string name="cloudrelayeditusername_subtitle">การเชื่อมต่อคลาวด์ทางไกล</string>
+  <string name="cloudrelayeditusername_accountLabel">บัญชี</string>
+  <string name="cloudrelayeditusername_editNameLabel">ชื่อ</string>
+  <string name="cloudrelayeditusername_done">เสร็จสิ้น</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+  <string name="defaultRoom_chooseDefaultRoom">اختيار الغرفة الافتراضية</string>
+  <string name="defaultRoom_category">اختيار الغرفة الافتراضية</string>
+  <string name="defaultRoom_emptyList">لم يتم تكوين أي غُرف. لا توجد أي غُرف في القائمة.</string>
+  <string name="defaultRoom_save">حفظ</string>
+  <string name="defaultroom_homeConfiguration">تكوين المنزل</string>
+</resources>

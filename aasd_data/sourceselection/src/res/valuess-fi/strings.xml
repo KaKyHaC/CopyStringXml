@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">Select source</string>
+  <string name="source_selection_problem_source">Not available in all rooms in the group</string>
+</resources>

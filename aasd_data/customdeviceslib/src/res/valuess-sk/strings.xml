@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">Hlavné usporiadanie %s bolo odstránené.</string>
+  <string name="customdevice_controlNotAvailable">OVLÁDANIE NIE JE K DISPOZÍCII</string>
+  <string name="customdevice_emptyAlertTitle">Information is not available.</string>
+  <string name="customdevice_emptyLayoutError">Žiadne usporiadanie s identifikátorom %s.</string>
+  <string name="customdevice_emptyMediaLayoutError">Pre zdroj s identifikátorom vlastníka %d nie je definované žiadne usporiadanie.</string>
+  <string name="customdevice_emptyAlertError">Žiadne usporiadanie s identifikátorom %s.</string>
+  <string name="customdevice_alertError">Pri otváraní upozornenia s identifikátorom %s došlo k chybe.</string>
+  <string name="customdevice_layoutError">Pri otváraní usporiadania s identifikátorom %s došlo k chybe.</string>
+  <string name="customdevice_emptySelectionList">Žiadne položky na zobrazenie pre %s.</string>
+  <string name="customdevice_setValueGenericError">Niečo sa pokazilo. Hodnotu nemožno zmeniť.</string>
+  <string name="customdevice_setValueError">Hodnotu nebolo možné zmeniť. %s</string>
+  <string name="customdevice_runCommandGenericError">Niečo sa pokazilo. Príkaz nemožno vykonať.</string>
+  <string name="customdevice_runCommandError">Príkaz nebolo možné vykonať. %s</string>
+  <string name="customdevice_thermostat_setpoint">NASTAVIŤ NA</string>
+  <string name="customdevice_thermostat_heatSetpoint">OHREV NA</string>
+  <string name="customdevice_thermostat_coolSetpoint">OCHLADZOVANIE NA</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">Navigačné pole je nesprávne nakonfigurované.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">Na ovládanie použite externú aplikáciu alebo zariadenie.</string>
+  <string name="customdevice_mediaEmptyScreen_title">Ovládanie nie je k dispozícii.</string>
+</resources>

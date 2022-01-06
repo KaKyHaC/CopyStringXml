@@ -1,0 +1,19 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">Actualizați informațiile dvs.</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">Deconectați-vă de la toate dispozitivele</string>
+  <string name="cloud_relay_user_detail_sign_out">Deconectați-vă</string>
+  <string name="cloud_relay_user_detail_delete_account">Ștergeți contul</string>
+  <string name="cloud_relay_user_detail_edit_name">Editați numele</string>
+  <string name="cloud_relay_user_detail_change_email">Schimbați adresa de e-mail</string>
+  <string name="cloud_relay_user_detail_change_password">Schimbați parola</string>
+  <string name="cloud_relay_user_detail_change_phone_number">Schimbați numărul de telefon</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">
+Apăsând pe „Da” vă vom deconecta cu eleganță de pe toate dispozitivele pe care ați fost conectat(ă) pentru utilizarea acestui cont. Toate sesiunile vor fi deconectate din sistem în decurs de 1-60 de minute.</string>
+  <string name="cloud_relay_user_detail_sign_out_user">Sunteți sigur(ă) că doriți să vă deconectați?</string>
+  <string name="cloud_relay_user_detail_delete_user_account">Sunteți sigur(ă) că doriți să ștergeți contul?</string>
+  <string name="cloud_relay_user_detail_account_deleted">Contul este șters</string>
+  <string name="cloud_relay_user_detail_user_signed_out">V-ați deconectat</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">Ștergerea contului va dura aproximativ15 sec. Încercați să vă conectați după 15 secunde dacă utilizați același cont.</string>
+  <string name="cloud_relay_user_detail_no">Nu</string>
+  <string name="cloud_relay_user_detail_yes">Da</string>
+</resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Wifi Selection Back Action</string>
+  <string name="touchpanelWifiSelection_title">Wifi Selection</string>
+  <string name="touchpanelWifiSelection_Discovering">Discovering</string>
+  <string name="touchpanelWifiSelection_tryAgain">YRITÄ UUDELLEEN</string>
+  <string name="touchpanelWifiSelection_titleFound">Connect to WiFi access point</string>
+  <string name="touchpanelWifiSelection_subtitleFound">Please select access point.</string>
+  <string name="touchpanelWifiSelection_titleNotFound">No WiFi access point found</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">There are no WiFi access points found. Please check your network connection and try again.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">Searching for WiFi access points</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">Please wait for the scan to complete</string>
+</resources>

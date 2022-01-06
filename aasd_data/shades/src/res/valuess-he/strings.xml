@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">תריסים</string>
+  <string name="shades_scenesTitle">סצנות</string>
+  <string name="shades_controlsTitle">פקדים</string>
+  <string name="shades_allShadesTitle">כל השמשיות</string>
+  <string name="shades_allShades_MoreLightTitle">יותר אר</string>
+  <string name="shades_allShades_LessLightTitle">פחות</string>
+  <string name="shades_stopRampText">עצור</string>
+</resources>

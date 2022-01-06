@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Выбор Wifi Обратное действие</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">Добавить новую точку доступа</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">Нажмите, чтобы добавить настройки для WAP.</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">Введите пароль для этой сети и нажмите "Подключить".</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">НАСТРОЙКИ WAP-СОЕДИНЕНИЯ</string>
+  <string name="touchpanelWifiPasswordEntry_connect">Подключиться</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">НАЗВАНИЕ (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">ПАРОЛЬ</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">БЕЗОПАСНОСТЬ</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">Подключение к WAP</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">Подключено к WAP</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">Кабель Ethernet подключен</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">Не удалось подключиться к WAP</string><string name="touchpanelEncryptionSelection_title">Настройки шифрования WiFi</string></resources>

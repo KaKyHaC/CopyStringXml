@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mobilediscoverhome_downloadSgMessage">Pobierz aplikację Smart Graphics, aby sterować tym domem</string>
+  <string name="mobilediscoverhome_cancel">Anuluj</string>
+  <string name="mobilediscoverhome_downloadApp">Pobierz aplikacje</string>
+</resources>

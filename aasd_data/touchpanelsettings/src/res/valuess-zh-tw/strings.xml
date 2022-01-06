@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">設置返回按鍵</string>
+  <string name="touchPanelsettings_toolbar">設定</string>
+  <string name="touchPanelsettings_toolbar_default_room">預設房間</string>
+  <string name="touchPanelsettings_room_list">房間清單</string>
+  <string name="touchPanelsettings_display">顯示器</string>
+  <string name="touchPanelsettings_automode_brightness">自動模式亮度</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">顯示超時</string>
+  <string name="touchPanelsettings_screensaver">螢幕保護程式</string>
+  <string name="touchPanelsettings_media_volume">媒體音量</string>
+  <string name="touchPanelsettings_home">房屋</string>
+  <string name="touchPanelsettings_advanced_settings">進階設定</string>
+  <string name="touchPanelsettings_edit_home">編輯住宅</string>
+  <string name="touchPanelsettings_info">資訊</string>
+  <string name="touchPanelsettings_firmware_version">硬體版本</string>
+  <string name="touchPanelsettings_ui_version">UI 版本</string>
+  <string name="touchPanelsettings_volume">音量</string>
+  <string name="touchPanelsettings_edit_home_popup_message">這些設定建在快思聰經銷商指示時才做更改。</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">繼續</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">取消</string>
+  <string name="touchPanelsettings_timeout_text_never">從不</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s 秒鐘</string>
+  <string name="touchPanelsettings_timeout_text_minute">1 分鐘</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s 分鐘</string>
+  <string name="touchPanelsettings_timeout_text_hour">1 小時</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s 小時</string>
+  <string name="touchPanelsettings_access_points">無線接入點</string>
+  <string name="touchPanelsettings_intercom">內部對講和中斷</string>
+  <string name="touchPanelsettings_do_not_disturb">請勿打擾</string>
+  <string name="touchPanelsettings_play_test">播放測試</string>
+  <string name="touchPanelsettings_speakervolume_label">揚聲器音量</string>
+</resources>

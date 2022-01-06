@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">Quelle auswählen</string>
+  <string name="source_selection_problem_source">Nicht in allen Räumen der Gruppe möglich.</string>
+</resources>

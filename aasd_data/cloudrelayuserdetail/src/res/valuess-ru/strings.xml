@@ -1,0 +1,18 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">Обновить информацию</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">Выход из системы со всех устройств</string>
+  <string name="cloud_relay_user_detail_sign_out">Выйти</string>
+  <string name="cloud_relay_user_detail_delete_account">Удалить аккаунт</string>
+  <string name="cloud_relay_user_detail_edit_name">Редактировать название</string>
+  <string name="cloud_relay_user_detail_change_email">Изменить электронную почту</string>
+  <string name="cloud_relay_user_detail_change_password">Изменить пароль</string>
+  <string name="cloud_relay_user_detail_change_phone_number">Изменить номер телефона</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">Нажатие кнопки "Да" приведет к постепенному выходу из системы со всех устройств, на которых вы были зарегистрированы с помощью этой учетной записи. Все сеансы будут завершены системой в течение 1-60 минут.</string>
+  <string name="cloud_relay_user_detail_sign_out_user">Вы уверены, что хотите выйти?</string>
+  <string name="cloud_relay_user_detail_delete_user_account">Вы уверены, что хотите удалить аккаунт?</string>
+  <string name="cloud_relay_user_detail_account_deleted">Аккаунт удален</string>
+  <string name="cloud_relay_user_detail_user_signed_out">Вы вышли из системы</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">Удаление аккаунта займет около 15 секунд. Если вы используете ту же учетную запись, попробуйте зарегистрироваться через 15 секунд.</string>
+  <string name="cloud_relay_user_detail_no">Нет</string>
+  <string name="cloud_relay_user_detail_yes">Да</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="account_selection_account_select">账户选择</string>
+  <string name="account_selection_add_account">您是否想添加另一账户？</string>
+  <string name="account_selection_go_provider_account">进入提供商的账户设置页面</string>
+</resources>

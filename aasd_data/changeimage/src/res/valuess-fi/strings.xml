@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Liikuta ja skaalaa</string>
+  <string name="changeimage_cellularWarning">When not connected via Wi-Fi photo uploads may take significantly longer.</string>
+  <string name="changeimage_cancel">Peruuta</string>
+  <string name="changeimage_choose">Valitse</string>
+</resources>

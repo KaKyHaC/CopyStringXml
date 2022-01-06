@@ -1,0 +1,5 @@
+<resources>
+  <string name="account_selection_account_select">Fiók kiválasztása</string>
+  <string name="account_selection_add_account">Hozzá szeretne adni egy másik fiókot?</string>
+  <string name="account_selection_go_provider_account">Ugorjon a szolgáltató fiók beállítási oldalára</string>
+</resources>

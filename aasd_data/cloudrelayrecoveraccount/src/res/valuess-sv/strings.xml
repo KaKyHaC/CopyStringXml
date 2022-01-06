@@ -1,0 +1,6 @@
+<resources>
+  <string name="cloudrelayrecoveraccount_update_info">uppdatera din info</string>
+  <string name="cloudrelayrecoveraccount_change_mail">Ändra e-postadress</string>
+  <string name="cloudrelayrecoveraccount_reset_password">Återställ lösenordet</string>
+  <string name="cloudrelayrecoveraccount_reset_number">Återställ telefonnummer</string>
+</resources>

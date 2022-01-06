@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Criar uma nova cena</string>
+  <string name="lightSceneCreate_add_lights">Adicionar luzes</string>
+  <string name="lightSceneCreate_add_more_lights">Adicionar mais luzes</string>
+  <string name="lightSceneCreate_save">Salvar</string>
+  <string name="lightSceneCreate_set_scene_options">DEFINIR OPÇÕES DE CENA</string>
+  <string name="lightSceneCreate_fade_time">Tempo de desvanecimento</string>
+  <string name="lightSceneCreate_scene_visibility">Visibilidade da cena</string>
+  <string name="lightSceneCreate_subtitle_template">%d OF %d CENAS</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Utwórz nową scenę</string>
+  <string name="lightSceneCreate_add_lights">Dodaj światła</string>
+  <string name="lightSceneCreate_add_more_lights">Dodaj więcej świateł</string>
+  <string name="lightSceneCreate_save">Zapisz</string>
+  <string name="lightSceneCreate_set_scene_options">USTAW OPCJE SCENERII</string>
+  <string name="lightSceneCreate_fade_time">Czas wygaszania</string>
+  <string name="lightSceneCreate_scene_visibility">Widoczność sceny</string>
+  <string name="lightSceneCreate_subtitle_template">%d Z %d SCENERII</string>
+</resources>

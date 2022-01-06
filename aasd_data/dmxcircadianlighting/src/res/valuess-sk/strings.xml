@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">Regulátory</string>
+  <string name="circadianLights_saveButtonText">Uložiť aktuálne nastavenia ako cirkadiánny cyklus</string>
+</resources>

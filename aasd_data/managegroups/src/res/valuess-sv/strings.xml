@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">Slå ihop med %s</string>
+  <string name="managegroups_ungroupAll">Dela upp alla</string>
+  <string name="managegroups_ungroupRoom">Dela upp %s</string>
+  <string name="managegroups_mergeSelected">Slå ihop valda till en grupp</string>
+</resources>

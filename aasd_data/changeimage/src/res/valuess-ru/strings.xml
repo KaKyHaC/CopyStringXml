@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Переместить и масштабировать</string>
+  <string name="changeimage_cellularWarning">При отсутствии подключения через Wi-Fi загрузка фотографий может занимать значительно больше времени.</string>
+  <string name="changeimage_cancel">Отмена</string>
+  <string name="changeimage_choose">Выбрать</string>
+</resources>

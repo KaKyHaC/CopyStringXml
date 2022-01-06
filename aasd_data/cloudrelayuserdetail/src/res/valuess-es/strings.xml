@@ -1,0 +1,18 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">Actualizar su información</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">Cerrar sesión en todos los dispositvos</string>
+  <string name="cloud_relay_user_detail_sign_out">Cerrar sesión</string>
+  <string name="cloud_relay_user_detail_delete_account">Eliminar cuenta</string>
+  <string name="cloud_relay_user_detail_edit_name">Editar nombre</string>
+  <string name="cloud_relay_user_detail_change_email">Cambiar correo electrónico</string>
+  <string name="cloud_relay_user_detail_change_password">Cambiar contraseña</string>
+  <string name="cloud_relay_user_detail_change_phone_number">Cambiar número de teléfono</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">Al tocar “Sí” se cerrarán las sesiones de todos los dispositivos donde haya iniciado sesión con esta cuenta. El sistema cerrará todas las sesiones en 1-60 minutos.</string>
+  <string name="cloud_relay_user_detail_sign_out_user">¿Confirma que desea cerrar sesión?</string>
+  <string name="cloud_relay_user_detail_delete_user_account">¿Confirma que desea eliminar la cuenta?</string>
+  <string name="cloud_relay_user_detail_account_deleted">La cuenta está eliminada</string>
+  <string name="cloud_relay_user_detail_user_signed_out">Usted cerró sesión</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">Eliminar la cuenta demorará aproximadamente 15 segundos. Intente registrarse si usa la misma cuenta luego de 15 segundos.</string>
+  <string name="cloud_relay_user_detail_no">No</string>
+  <string name="cloud_relay_user_detail_yes">Sí</string>
+</resources>

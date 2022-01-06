@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">Unir com %s</string>
+  <string name="managegroups_ungroupAll">Ungroup all</string>
+  <string name="managegroups_ungroupRoom">Desagrupar %s</string>
+  <string name="managegroups_mergeSelected">Unir os selecionados a um grupo</string>
+</resources>

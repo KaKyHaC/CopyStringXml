@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">Støtte diagnostikk</string>
+  <string name="diagnostics_loggingTitle">Aktiver innsending av diagnostikk</string>
+  <string name="diagnostics_loggingDescription">Vennligst ikke aktiver innsending av diagnostikk med mindre det er instruert av Crestron Tech Support</string>
+  <string name="diagnostics_submitDiagnostics">Send inn støttediagnostikk</string>
+  <string name="diagnostics_submitMessage">Crestron anbefaler kun å sende inn diagnostikk når du arbeider med din Crestron-forhandler eller forespurt av Crestrons kundestøtte. \n\nTrykk på send vil la deg velge hvordan du vil dele filen. Følg instruksjonene fra din Crestron-forhandler, eller Crestrons kundestøtte, angående hvor denne filen skal sendes.</string>
+  <string name="diagnostics_submit">Send inn</string>
+</resources>

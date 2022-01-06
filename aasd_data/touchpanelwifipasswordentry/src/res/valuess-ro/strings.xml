@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Acțiunea de selecție înapoi a WiFi-ului</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">Adăugați un nou punct de acces</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">Atingeți pentru a adăuga setările WAP.</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">Introduceți parola pentru această rețea și apăsați „Conectare” .</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">SETĂRILE CONEXIUNII WAP</string>
+  <string name="touchpanelWifiPasswordEntry_connect">Conectare</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">NUME (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">PAROLĂ</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">SECURITATE</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">Conectare la WAP</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP conectat</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">Cablu Ethernet conectat</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">Nu s-a reușit conexiunea WAP</string><string name="touchpanelEncryptionSelection_title">Setări de criptare WiFi</string></resources>

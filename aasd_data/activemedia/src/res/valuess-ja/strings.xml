@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">すべてのメディアを止める　</string>
+  <string name="activemedia_activeMedia">アクティブなメディア (%d)　</string>
+  <string name="activemedia_audio">音声　</string>
+  <string name="activemedia_video">ビデオ　</string>
+  <string name="activemedia_multiple_displays">多重ディスプレー　</string>
+  <string name="activemedia_left_display">左側のディスプレー　</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">家屋全体の電源を遮断しますか。　</string>
+</resources>

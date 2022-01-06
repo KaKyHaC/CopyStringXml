@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">创建新场景</string>
+  <string name="lightSceneCreate_add_lights">添加照明灯</string>
+  <string name="lightSceneCreate_add_more_lights">添加更多照明灯</string>
+  <string name="lightSceneCreate_save">保存</string>
+  <string name="lightSceneCreate_set_scene_options">设置场景选项</string>
+  <string name="lightSceneCreate_fade_time">渐变时间</string>
+  <string name="lightSceneCreate_scene_visibility">场景可见性</string>
+  <string name="lightSceneCreate_subtitle_template">%d场景的%d</string>
+</resources>

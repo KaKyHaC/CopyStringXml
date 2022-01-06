@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Securitate</string>
+  <string name="securitylib_securitySystem">Sistem de securitate</string>
+  <string name="securitylib_securitySystemWithName">Sisteme de securitate %s</string>
+  <string name="securitylib_alarm_alarm">Alarmă</string>
+  <string name="securitylib_alarm_fire">Incendiu</string>
+  <string name="securitylib_alarm_burglary">Efracție</string>
+  <string name="securitylib_alarm_medical">Medicală</string>
+  <string name="securitylib_alarm_tamper">Sabotaj</string>
+  <string name="securitylib_arming_armedStay">Armat/Activat în modul Stay</string>
+  <string name="securitylib_arming_exitDelayActive">Activare întârziată a modului Exit</string>
+  <string name="securitylib_arming_disarmed">Dezarmare</string>
+  <string name="securitylib_arming_ready">Pregătit</string>
+  <string name="securitylib_arming_armedAway">Armat în modul Away</string>
+  <string name="securitylib_arming_notReady">Nu este gata</string>
+  <string name="securitylib_arming_entryDelayActive">Activare întârziată a modului Entry</string>
+  <string name="securitylib_arming_armedStayInstant">Armat în modul Stay Instant</string>
+  <string name="securitylib_arming_armedAwayInstant">Armat în mod Away Instant</string>
+  <string name="securitylib_arming_armedBypass">Armat în modul Bypass</string>
+  <string name="securitylib_arming_armedBypassInstant">Armat în modul Bypass Instant</string>
+</resources>

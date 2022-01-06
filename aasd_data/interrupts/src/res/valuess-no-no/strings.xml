@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">Hendelser og lyder</string>
+  <string name="interrupts_back_description">tilbake-knapp for hendelser</string>
+  <string name="interrupts_not_available">Ingen arrangementer er tilgjengelige.</string>
+</resources>

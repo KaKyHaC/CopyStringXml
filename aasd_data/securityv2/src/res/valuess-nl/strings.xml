@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_v2_actions_header_text">Acties</string>
+  <string name="security_v2_toolbarTitle">Beveiliging</string>
+  <string name="security_v2_panicActionsTitle">Acties</string>
+  <string name="security_v2_panicActionsSubtitle">Houd 1 seconde ingedrukt om elke actie te activeren</string>
+  <string name="security_v2_navigationButtonsTitle">NAVIGATIE KNOPPEN</string>
+  <string name="security_v2_selectNavigationButton">Selecteren</string>
+  <string name="security_v2_keypadTitle">TOETSENBLOK</string>
+  <string name="security_v2_keypadSubtitle">Voer de 4-cijferige code in en een cijfer dat overeenkomt met de actie die u wilt uitvoeren</string>
+  <string name="security_v2_displayTextTitle">WEERGAVE TEKST</string>
+</resources>

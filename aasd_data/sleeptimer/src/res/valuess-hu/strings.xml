@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">A kikapcsolási időzítő beállítása a helyiség összes aktív médiájához.</string>
+  <string name="sleeptimer_disabledMsg">IDŐ BEÁLLÍTÁSA</string>
+  <string name="sleeptimer_enabledMsg">A(Z) %s KIKAPCSOL</string>
+  <string name="sleeptimer_controlTitle">Elalvási időzítő</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="remotekeypad_hyphen">-</string>
+  <string name="remotekeypad_guide">Veileder</string>
+  <string name="remotekeypad_clear">Slett</string>
+  <string name="remotekeypad_enter">ANGI</string>
+  <string name="remotekeypad_notAvailable">Tastaturet er ikke tilgjengelig.</string>
+</resources>

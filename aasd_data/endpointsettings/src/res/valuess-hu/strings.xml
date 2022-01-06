@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="endpointsettings_stereo">Sztereó</string>
+  <string name="endpointsettings_mono">Monó</string>
+  <string name="endpointsettings_default">Alapértelmezett</string>
+  <string name="endpointsettings_center">Közép</string>
+  <string name="endpointsettings_valueOneDecimal">%.1f%s</string>
+  <string name="endpointsettings_valueNoDecimals">%.0f%s</string>
+  <string name="endpointsettings_noConfigurableSettings">A kimenet nem rendelkezik konfigurálható hangbeállításokkkal.</string>
+  <string name="endpointsettings_l">B</string>
+  <string name="endpointsettings_r">J</string>
+</resources>

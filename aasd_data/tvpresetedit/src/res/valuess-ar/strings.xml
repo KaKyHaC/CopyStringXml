@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">المفضلات</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ إضافة قنوات مفضلة</string>
+  <string name="tvpresetedit_favoritesTitle">مفضلات %s</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">المفضلات</string>
+  <string name="tvpresetedit_moreItem_renameGroup">إعادة التسمية</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">حذف مجموعة</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">هل تريد بالتأكيد حذف هذه المجموعة؟</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">حذف</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">إلغاء</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">موافق</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">عذرًا، لا يمكن حذف آخر مجموعة</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">تم حذف هذه المجموعة بالفعل.</string>
+</resources>

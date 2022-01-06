@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Tempo scaduto della barra degli strumenti virtuale</string>
+  <string name="settings_hardkey_wakes_lcd">Hardkey si attiva LCD</string>
+  <string name="settings_master_volume">Volume principale</string>
+  <string name="settings_hardkey_behavior">COMPORTAMENTO DEI PULSANTI SU/GIÙ DEL PANNELLO</string>
+  <string name="settings_hardkey_no_function">Nessuna funzione</string>
+  <string name="settings_hardkey_lights">Luci (ambiente Alza/Abbassa)</string>
+  <string name="settings_hardkey_shades">Tende (ambiente Alza/Abbassa)</string>
+  <string name="settings_hardkey_media">Multimediale (ambiente Volume+/Volume-)</string>
+  <string name="settings_advanced_settings_toolbar">Impostazioni avanzate</string>
+</resources>

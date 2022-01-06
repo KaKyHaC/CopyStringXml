@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">รายการโปรด</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ เพิ่มช่องโปรด</string>
+  <string name="tvpresetedit_favoritesTitle">%s ที่ชอบ</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">รายการโปรด</string>
+  <string name="tvpresetedit_moreItem_renameGroup">เปลี่ยนชื่อ</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">ลบกลุ่ม</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">คุณแน่ใจหรือไม่ที่จะลบกลุ่มนี้</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">ลบ</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">ยกเลิก</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">ตกลง</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">ขออภัย ไม่สามารถลบกลุ่มสุดท้ายได้</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">กลุ่มนี้ถูกลบออกไปแล้ว</string>
+</resources>

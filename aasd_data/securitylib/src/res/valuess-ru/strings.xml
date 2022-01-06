@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Безопасность</string>
+  <string name="securitylib_securitySystem">Система безопасности</string>
+  <string name="securitylib_securitySystemWithName">Система безопасности %s</string>
+  <string name="securitylib_alarm_alarm">Сигнализация</string>
+  <string name="securitylib_alarm_fire">При пожаре</string>
+  <string name="securitylib_alarm_burglary">При взломе</string>
+  <string name="securitylib_alarm_medical">При медицинской помощи</string>
+  <string name="securitylib_alarm_tamper">При попытке взлома</string>
+  <string name="securitylib_arming_armedStay">Режим "В доме"</string>
+  <string name="securitylib_arming_exitDelayActive">Задержка выхода активирована</string>
+  <string name="securitylib_arming_disarmed">Отключено</string>
+  <string name="securitylib_arming_ready">Готово</string>
+  <string name="securitylib_arming_armedAway">Режим "Вне дома"</string>
+  <string name="securitylib_arming_notReady">Не готово</string>
+  <string name="securitylib_arming_entryDelayActive">Задержка входа активирована</string>
+  <string name="securitylib_arming_armedStayInstant">Мгновенный режим "В доме"</string>
+  <string name="securitylib_arming_armedAwayInstant">Мгновенный режим "Вне дома"</string>
+  <string name="securitylib_arming_armedBypass">Включено пассивное состояние </string>
+  <string name="securitylib_arming_armedBypassInstant">Мгновенное включение</string>
+</resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="endpointsettings_stereo">입체 음향</string>
+  <string name="endpointsettings_mono">단선율</string>
+  <string name="endpointsettings_default">기본 설정</string>
+  <string name="endpointsettings_center">가운데</string>
+  <string name="endpointsettings_valueOneDecimal">%.1f%s</string>
+  <string name="endpointsettings_valueNoDecimals">%.0f%s</string>
+  <string name="endpointsettings_noConfigurableSettings">이 출력에는 구성 가능한 오디오 설정이 없습니다.</string>
+  <string name="endpointsettings_l">좌측</string>
+  <string name="endpointsettings_r">우측</string>
+</resources>

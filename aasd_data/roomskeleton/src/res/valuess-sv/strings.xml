@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">SNABBA ÅTGÄRDER</string>
+  <string name="room_room_services">RUMSTJÄNSTER</string>
+  <string name="renameroomgroup_popupCancelButton">Avbryt</string>
+  <string name="renameroomgroup_popupCreateButton">Byt namn</string>
+  <string name="renameroomgroup_popupTitle">Byt namn på rum</string>
+</resources>

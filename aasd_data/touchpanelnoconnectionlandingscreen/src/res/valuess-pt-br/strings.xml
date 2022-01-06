@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">Nenhuma rede encontrada!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">Por favor, verifique seus cabos ethernet ou conecte-se à rede sem fio.</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">Conectar ao ponto de acesso Wi-Fi</string>
+</resources>

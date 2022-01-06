@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">innstillinger tilbake-knapp</string>
+  <string name="touchPanelsettings_toolbar">Innstillinger</string>
+  <string name="touchPanelsettings_toolbar_default_room">Standardrom</string>
+  <string name="touchPanelsettings_room_list">ROMLISTE</string>
+  <string name="touchPanelsettings_display">VISE</string>
+  <string name="touchPanelsettings_automode_brightness">Auto-modus lysstyrke</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">Tidsavbrudd for skjerm</string>
+  <string name="touchPanelsettings_screensaver">Skjermsparer</string>
+  <string name="touchPanelsettings_media_volume">Medievolum</string>
+  <string name="touchPanelsettings_home">HJEM</string>
+  <string name="touchPanelsettings_advanced_settings">Avanserte innstillinger</string>
+  <string name="touchPanelsettings_edit_home">Rediger Hjem</string>
+  <string name="touchPanelsettings_info">Info</string>
+  <string name="touchPanelsettings_firmware_version">Fastvare-versjon</string>
+  <string name="touchPanelsettings_ui_version">UI-versjon</string>
+  <string name="touchPanelsettings_volume">Volum</string>
+  <string name="touchPanelsettings_edit_home_popup_message">Endre disse innstillingene kun hvis du blir bedt om det av din Crestron-forhandler</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">Fortsette</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">AVBRYT</string>
+  <string name="touchPanelsettings_timeout_text_never">Aldri</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s sekunder</string>
+  <string name="touchPanelsettings_timeout_text_minute">1 minutt</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s minutter</string>
+  <string name="touchPanelsettings_timeout_text_hour">1 time</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s timer</string>
+  <string name="touchPanelsettings_access_points">WiFi-tilgangspunkt</string>
+  <string name="touchPanelsettings_intercom">INTERKOM OG AVBRYDELSER</string>
+  <string name="touchPanelsettings_do_not_disturb">Ikke forstyrr</string>
+  <string name="touchPanelsettings_play_test">Spilleprøve</string>
+  <string name="touchPanelsettings_speakervolume_label">Høyttalervolum</string>
+</resources>

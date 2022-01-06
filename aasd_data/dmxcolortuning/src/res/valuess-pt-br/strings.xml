@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Sintonização de cores</string>
+  <string name="dmxroomselection_controlsTitle">CONTROLES</string>
+  <string name="dmxcolortuning_description">Definir configurações de linha de base para este quarto. Com as configurações de linha de base, você define a cor e a temperatura desejadas para suas luminárias sintonizáveis.\n\nControles deslizantes e interruptores de intensidade são fornecidos para ajudá-lo na visualização da cor. Eles não são salvos nas configurações de linha de base.</string>
+</resources>

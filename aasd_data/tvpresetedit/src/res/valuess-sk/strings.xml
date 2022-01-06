@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">OBĽÚBENÉ</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ Pridať obľúbené kanály</string>
+  <string name="tvpresetedit_favoritesTitle">%s obľúbené</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">Obľúbené</string>
+  <string name="tvpresetedit_moreItem_renameGroup">Premenovať</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">Vymazať skupinu</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">Naozaj chcete túto skupinu odstrániť?</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">Vymazať</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">Zrušiť</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">OK</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">Ospravedlňujeme sa, posledná skupina sa nedá odstrániť.</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">Táto skupina už bola odstránená.</string>
+</resources>

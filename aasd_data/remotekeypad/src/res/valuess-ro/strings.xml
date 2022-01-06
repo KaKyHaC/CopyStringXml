@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="remotekeypad_hyphen">-</string>
+  <string name="remotekeypad_guide">GHID</string>
+  <string name="remotekeypad_clear">GOLEȘTE</string>
+  <string name="remotekeypad_enter">ENTER</string>
+  <string name="remotekeypad_notAvailable">Tastatura nu este disponibilă.</string>
+</resources>

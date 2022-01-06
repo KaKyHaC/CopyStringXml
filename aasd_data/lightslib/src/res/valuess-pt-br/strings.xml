@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">Luzes</string>
+  <string name="lightslib_lights_title">%s Luzes</string>
+  <string name="lightslib_lights_status_on">As luzes estão acesas.</string>
+  <string name="lightslib_lights_turning_off">DESLIGANDO...</string>
+  <string name="lightslib_lights_turning_on">LIGANDO…</string>
+  <string name="lightslib_add_lights_title">Adicionar luzes a \"%s\"</string>
+  <string name="lightslib_controlsTitle">CONTROLES</string>
+  <string name="lightslib_sceneNameScene">cena de %s</string>
+  <string name="lightslib_tunableLightNotFound">Algo deu errado. Esta carga leve não pode ser encontrada.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">Salvar como configurações de linha de base globais?</string>
+  <string name="lightslib_whiteTuningProgressLost">Salvar como configurações de linha de base para esta luz?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">Tem certeza de que deseja aplicar essas configurações a este quarto?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">Isso substituirá quaisquer outras configurações aplicadas anteriormente.</string>
+  <string name="lightslib_saveTunableSettingsError">Ocorreu um erro inesperado. As configurações sintonizáveis não puderam ser salvas.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">As configurações sintonizáveis foram salvas com sucesso.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">Ocorreu um erro inesperado. Não foi possível definir as configurações sintonizáveis para todas as luzes do quarto.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">As configurações sintonizáveis foram definidas para todas as luzes do quarto com sucesso.</string>
+  <string name="lightslib_saveAsGlobalSettings">Salvar como configurações globais de linha de base</string>
+  <string name="lightslib_save">Salvar</string>
+  <string name="lightslib_circadianSettingsProgressLost">Salvar as configurações atuais como ciclo circadiano?</string>
+  <string name="lightslib_saveCircadianSettingsError">Ocorreu um erro inesperado. As configurações circadianas não puderam ser salvas.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">As configurações circadianas foram salvas com sucesso.</string>
+  <string name="lightslib_morningCircadianTitle">Manhã:7:00 da manhã, %dK</string>
+  <string name="lightslib_noonCircadianTitle">Meio-dia, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">Fim da tarde:7:00 do fim da tarde, %dK</string>
+  <string name="lightslib_nightCircadianTitle">Noite:10:45 da noite %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">A cor favorita foi removida.</string>
+  <string name="lightslib_addFavorite_confirmation">A cor favorita foi adicionada.</string>
+</resources>

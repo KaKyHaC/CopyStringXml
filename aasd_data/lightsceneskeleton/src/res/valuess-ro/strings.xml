@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Creați o scenă nouă</string>
+  <string name="lightSceneCreate_add_lights">Adăugați lumini</string>
+  <string name="lightSceneCreate_add_more_lights">Adăugați mai multe lumini</string>
+  <string name="lightSceneCreate_save">Salvare</string>
+  <string name="lightSceneCreate_set_scene_options">SETAȚI OPȚIUNILE DE SCENĂ</string>
+  <string name="lightSceneCreate_fade_time">Perioadă de estompare</string>
+  <string name="lightSceneCreate_scene_visibility">Vizibilitatea scenei</string>
+  <string name="lightSceneCreate_subtitle_template">%d DIN %d SCENE</string>
+</resources>

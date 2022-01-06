@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">Aktiver utvikleralternativer</string>
+  <string name="reset_logging_after_24_hours">Tilbakestill logging etter 24 timer</string>
+  <string name="developer_options">Utviklermuligheter</string>
+  <string name="logging_level">Loggingsnivå</string>
+  <string name="logging">Hogst</string>
+  <string name="network_logging">Nettverkslogging</string>
+  <string name="detailed_logging">Detaljert logging</string>
+</resources>

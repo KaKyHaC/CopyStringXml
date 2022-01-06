@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">Kameraer</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">INGEN STRØM MED LAV NOK OPPLØSNING\n(MAKSIS 1920 x 1080)</string>
+  <string name="camerasLib_previewUnavailable">FORHÅNDSVISNING UTILGJENGELIG</string>
+  <string name="camerasLib_noPreviewAvailable">INGEN FORHÅNDSVISNING TILGJENGELIG</string>
+  <string name="camerasLib_noStreamAvailable">INGEN STRØM TILGJENGELIG</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">Kontroller</string>
+  <string name="circadianLights_saveButtonText">Lagre gjeldende innstillinger som Circadian cycle</string>
+</resources>

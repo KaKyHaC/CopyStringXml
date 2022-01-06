@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">גישה לבית</string>
+  <string name="hide_subsystem_lights">תאורה</string>
+  <string name="hide_subsystem_media">מדיה</string>
+  <string name="hide_subsystem_pools">בריכות וספא</string>
+  <string name="hide_subsystem_climate">אקלים</string>
+  <string name="hide_subsystem_shades">תריסים</string>
+  <string name="hide_subsystem_security">אבטחה</string>
+  <string name="hide_subsystem_cameras">מצלמות</string>
+  <string name="hide_subsystem_customdevices">התקנים מותאמים אישית</string>
+</resources>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Seguridad</string>
+  <string name="securitylib_securitySystem">Sistema de seguridad</string>
+  <string name="securitylib_securitySystemWithName">Sistema de seguridad %s</string>
+  <string name="securitylib_alarm_alarm">Alarma</string>
+  <string name="securitylib_alarm_fire">Fuego</string>
+  <string name="securitylib_alarm_burglary">Robo</string>
+  <string name="securitylib_alarm_medical">Médico</string>
+  <string name="securitylib_alarm_tamper">Manipulado</string>
+  <string name="securitylib_arming_armedStay">Activada en casa</string>
+  <string name="securitylib_arming_exitDelayActive">Retraso de salida activo</string>
+  <string name="securitylib_arming_disarmed">Desarmada</string>
+  <string name="securitylib_arming_ready">Lista</string>
+  <string name="securitylib_arming_armedAway">Activada fuera de casa</string>
+  <string name="securitylib_arming_notReady">No está lista</string>
+  <string name="securitylib_arming_entryDelayActive">Retraso de entrada activo</string>
+  <string name="securitylib_arming_armedStayInstant">Instante activado en casa</string>
+  <string name="securitylib_arming_armedAwayInstant">Instante activado fuera de casa</string>
+  <string name="securitylib_arming_armedBypass">Derivación armada</string>
+  <string name="securitylib_arming_armedBypassInstant">Instante de derivación activada</string>
+</resources>

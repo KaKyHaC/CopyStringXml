@@ -1,0 +1,15 @@
+<resources>
+  <string name="cloudrelayconenctwelcome_welcome">환영</string>
+  <string name="cloudrelayconenctwelcome_claim_my_home">내 홈 청구</string>
+  <string name="cloudrelayconenctwelcome_claim_enabled_disclaimer">다음에 Crestron 홈을 계속 신청하고 가장 안전한 원격 연결 환경을 사용해 보십시오.</string>
+  <string name="cloudrelayconenctwelcome_claim_disabled_disclaimer">Crestron 홈 시스템을 확보하려면 Crestron 홈 시스템과 동일한 로컬 네트워크에 있어야 합니다.</string>
+  <string name="cloudrelayconenctwelcome_not_now">지금은 아님</string>
+  <string name="cloudrelayconenctwelcome_warning_ok">확인</string>
+  <string name="cloudrelayconenctwelcome_warning_subtitle">이 기능이 작동하려면 최신 버전의 Crestron 홈 펌웨어가 필요합니다.\n\n
+                                Crestron 대리점에 연락하여 Crestron 홈 프로세서에 새 펌웨어를 설치하도록 요청하십시오.</string>
+  <string name="cloudrelayconenctwelcome_warning_title">Crestron 홈 OS 업데이트가 필요합니다.</string>
+  <string name="cloudrelayconenctwelcome_sign_out_user">정말 로그아웃하시겠습니까?</string>
+  <string name="cloudrelayconenctwelcome_user_signed_out">귀하는 로그아웃 했습니다</string>
+  <string name="cloudrelayconenctwelcome_no">아니요</string>
+  <string name="cloudrelayconenctwelcome_yes">예</string>
+</resources>

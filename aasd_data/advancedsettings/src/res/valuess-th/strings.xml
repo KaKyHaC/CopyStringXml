@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">แสดงการควบคุม</string>
+  <string name="advancedSettings_roomVisibilityControl_label">แสดงห้อง</string>
+  <string name="advancedSettings_settings_home_access_label">เข้าบ้าน</string>
+  <string name="advancedSettings_settings_cameras_label">กล้อง</string>
+  <string name="advancedSettings_settings_security_label">ความปลอดภัย</string>
+  <string name="advancedSettings_back_description">ปุ่มตั้งค่าด้านหลัง</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">เสียงการรบกวน &amp; กระดิ่ง</string>
+  <string name="advancedSettings_settings_events_sound_label">กิจกรรม &amp; เสียง</string>
+  <string name="advancedSettings_settings_change_theme_label">การแสดงผล</string>
+  <string name="advancedSettings_settings_change_theme_title">เปลี่ยนธีม</string>
+  <string name="advancedSettings_toolbar">การตั้งค่าขั้นสูง</string>
+  <string name="advancedSettings_showDoNotSiasturb">แสดงสถานะห้ามรบกวน</string>
+  <string name="advancedSettings_colorTuning_label">การปรับสี</string>
+  <string name="advancedSettings_tunableLighting_label">แสงที่ปรับจูนได้</string>
+  <string name="advancedSettings_circadianSettings_label">การตั้งค่านาฬิกาชีวภาพ</string>
+</resources>

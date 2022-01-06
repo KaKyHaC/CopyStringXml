@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">Nyanser</string>
+  <string name="shadeslib_all_shades_closed">LUKKET</string>
+  <string name="shadeslib_all_shades_opened">ÅPEN</string>
+  <string name="shadeslib_shades_title">%s nyanser</string>
+  <string name="shadeslib_shade_state_with_tilt">MED %d%% TILT</string>
+  <string name="shadeslib_shades_status_opened">Skyggene er åpne.</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (DELVIS OFFLINE)</string>
+  <string name="shadeslib_position_open">%d%% ÅPEN</string>
+  <string name="shadeslib_shades_closed">LUKKET</string>
+  <string name="shadeslib_shades_open">ÅPEN</string>
+  <string name="shadeslib_shades_opening">ÅPNING…</string>
+  <string name="shadeslib_shades_closing">LUKKING…</string>
+</resources>

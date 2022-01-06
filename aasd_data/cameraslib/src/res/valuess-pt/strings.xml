@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">Câmaras</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">SEM FLUXO COM RESOLUÇÃO BAIXA O SUFICIENTE\n (MÁXIMO IS1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">APRESENTAÇÃO NÃO DISPONÍVEL</string>
+  <string name="camerasLib_noPreviewAvailable">NENHUMA VISUALIZAÇÃO DISPONÍVEL</string>
+  <string name="camerasLib_noStreamAvailable">NENHUMA TRANSMISSÃO DISPONÍVEL</string>
+</resources>

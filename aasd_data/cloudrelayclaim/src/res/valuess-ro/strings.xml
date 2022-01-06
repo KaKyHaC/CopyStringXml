@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">
+Accesul va fi respins tuturor utilizatorilor existenți pentru această casă. Puteți alege să oferiți din nou accesul acestor utilizatori imediat ce revendicarea este completă.</string>
+  <string name="cloudrelayclaim_title">Continuați revendicarea</string>
+  <string name="cloudrelayclaim_continue">Continuați</string>
+  <string name="cloudrelayclaim_success">Apăsați butonul „Utilizatori” de mai sus pentru a începe să permiteți accesesul familiei și prietenilor.</string>
+  <string name="cloudrelayclaim_warning_ok">ok</string>
+  <string name="cloudrelayclaim_warning_subtitle">Vă rugăm să contactați dealerul dvs. Crestron pentru asistență.</string>
+  <string name="cloudrelayclaim_warning_title">Nu vă puteți revendica casa în acest moment</string>
+</resources>

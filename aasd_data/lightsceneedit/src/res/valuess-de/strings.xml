@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">Lichtszenen bearbeiten</string>
+  <string name="lightSceneEdit_scenesCategory">Szenen</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">Die angegebene Szene wird nicht gelöscht.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">Die angegebene Szene ist nicht bearbeitbar.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">OK</string>
+</resources>

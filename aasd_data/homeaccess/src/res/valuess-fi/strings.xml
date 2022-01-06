@@ -1,0 +1,6 @@
+<resources>
+  <string name="homeaccess_houseLabel">House access</string>
+  <string name="homeaccess_lockTitle">Lukot</string>
+  <string name="homeaccess_garageTitle">GARAGE DOORS</string>
+  <string name="homeaccess_gateTitle">GATES</string>
+</resources>

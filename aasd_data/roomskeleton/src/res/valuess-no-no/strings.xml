@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">HURTIGE HANDLINGER</string>
+  <string name="room_room_services">ROMTJENESTER</string>
+  <string name="renameroomgroup_popupCancelButton">AVBRYT</string>
+  <string name="renameroomgroup_popupCreateButton">Gi nytt navn</string>
+  <string name="renameroomgroup_popupTitle">Gi rommet nytt navn</string>
+</resources>

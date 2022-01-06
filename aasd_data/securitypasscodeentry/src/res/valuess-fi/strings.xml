@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">Enter Security Code</string>
+  <string name="securitypasscodeentry_saveMessage">Save code for this device. You\'ll not be asked to enter this code again.</string>
+  <string name="securitypasscodeentry_invalidPasscode">Väärä koodi. Yritä uudelleen.</string>
+  <string name="securitypasscodeentry_passcodeRequired">Code is empty. Please enter correct code.</string>
+</resources>

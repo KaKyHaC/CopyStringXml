@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">Applica a selezionato</string>
+  <string name="climateschedulethermostats_title">Lista del termostato</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">Tutti i termostati</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">L'evento è aggiunto con successo agli termostati selezionati</string>
+  <string name="climateschedulethermostats_eventsCopyError">Certe impostazioni non si possono coppiare su uno, o più, termostati
+ </string>
+</resources>

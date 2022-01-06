@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">LEGG TIL NYTT HJEM</string>
+  <string name="homelibskeleton_discoverHome">Oppdag hjemmet</string>
+  <string name="homelibskeleton_addManually">LEGG TIL MANUELT</string>
+  <string name="homelibskeleton_editHome">Rediger</string>
+  <string name="homelibskeleton_deleteHome">Slett</string>
+  <string name="homelibskeleton_deleteHomeWarning">Er du sikker på at du vil slette %s?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">Hvis du er den eneste eieren som sletter det, vil det føre til at alle andre brukere mister ekstern tilgang til dette hjemmet.</string>
+  <string name="homelibskeleton_cancel">AVBRYT</string>
+  <string name="homelibskeleton_ok">OK</string>
+</resources>

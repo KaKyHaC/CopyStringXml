@@ -1,0 +1,21 @@
+<resources>
+  <string name="claimhome_friendlyNameOrLocation">Vriendelijke naam/locatie</string>
+  <string name="claimhome_ipAddressOrHostName">IP-adres/hostnaam</string>
+  <string name="claimhome_password">Wachtwoord gebruikersinterface</string>
+  <string name="claimhome_port">Poort</string>
+  <string name="claimhome_connect">Verbinden</string>
+  <string name="claimhome_localPort">Lokale poort</string>
+  <string name="claimhome_resetToDefault">Stel standaardwaarden terug in</string>
+  <string name="claimhome_addTitle">Nieuw huis toevoegen</string>
+  <string name="claimhome_addSubtitle">Voer details over uw nieuwe Crestron-woning in en tik op Verbinden om aan de slag te gaan.</string>
+  <string name="claimhome_editTitle">Bewerk %s</string>
+  <string name="claimhome_editSubtitle">Bewerk details over uw Crestron-huis.</string>
+  <string name="claimhome_errorEmpty">Voer %s in om door te gaan.</string>
+  <string name="claimhome_errorGeneral">Kan geen verbinding maken met dit huis.</string>
+  <string name="claimhome_incorrectPassword">Onjuist wachtwoord.</string>
+  <string name="claimhome_localConnectionSettings">LOKALE VERBINDINGSINSTELLINGEN</string>
+  <string name="claimhome_discover">Ontdekken</string>
+  <string name="claimhome_invalidPasswordPopUp">Het wachtwoord is gewijzigd, voer het nieuwe wachtwoord opnieuw in voor %s</string>
+  <string name="claimhome_sameHomeWarning">Er is al een huis met hetzelfde IP-adres/hostnaam. Weet je zeker dat je deze woning wilt toevoegen?</string>
+  <string name="claimhome_localPortExplanation">Wijzig alleen als uw erkende Crestron-dealer dit aangeeft.</string>
+</resources>

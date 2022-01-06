@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">我的房屋</string>
+  <string name="homeswitcher_addHome">增加</string>
+  <string name="homeswitcher_online_status">此房屋已经连接并且已准备就绪。\n点击进入。</string>
+  <string name="homeswitcher_online_remote_status">点击进入。</string>
+  <string name="homeswitcher_offline_status">此房屋离线。\n点击进入。</string>
+  <string name="homeswitcher_offline">离线。</string>
+</resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="endpointsettings_stereo">สเตอริโอ</string>
+  <string name="endpointsettings_mono">โมโน</string>
+  <string name="endpointsettings_default">ค่าเริ่มต้น</string>
+  <string name="endpointsettings_center">เซ็นเตอร์</string>
+  <string name="endpointsettings_valueOneDecimal">%.1f%s</string>
+  <string name="endpointsettings_valueNoDecimals">%.0f%s</string>
+  <string name="endpointsettings_noConfigurableSettings">เอาท์พุตนี้ไม่มีการตั้งค่าเสียงที่ปรับตั้งค่าได้</string>
+  <string name="endpointsettings_l">L</string>
+  <string name="endpointsettings_r">R</string>
+</resources>

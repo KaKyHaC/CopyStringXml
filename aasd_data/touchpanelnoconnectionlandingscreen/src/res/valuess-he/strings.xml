@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">לא נמצאה רשת!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">אנא בדוק את כבלי ethernet שלך או התחבר באופן אלחוטי.</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">התחבר לנקודת גישה Wi-Fi</string>
+</resources>

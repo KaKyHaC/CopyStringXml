@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Powrót do wyboru WiFi</string>
+  <string name="touchpanelWifiSelection_title">Wybór sieci Wifi</string>
+  <string name="touchpanelWifiSelection_Discovering">Odkrywanie</string>
+  <string name="touchpanelWifiSelection_tryAgain">Spróbuj ponownie</string>
+  <string name="touchpanelWifiSelection_titleFound">Połącz się z punktem dostępu WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleFound">Wybierz punkt dostępu.</string>
+  <string name="touchpanelWifiSelection_titleNotFound">Nie znaleziono punktu dostępu WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">Nie znaleziono punktów dostępu WiFi. Sprawdź połączenie sieciowe i spróbuj ponownie.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">Wyszukiwanie punktów dostępu WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">Poczekaj na zakończenie skanowania</string>
+</resources>

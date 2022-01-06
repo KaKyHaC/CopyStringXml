@@ -1,0 +1,7 @@
+<resources>
+  <string name="multiple_displays_no_controls">
+コントロールは利用できません。</string>
+  <string name="multiple_displays_scenes">シーン </string>
+  <string name="multiple_displays_toolbartitle">ビデオ</string>
+  <string name="multiple_displays_displaytitle">ディスプレイ　</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="lightSceneReorder_reorder_lightning_scenes">סדר מחדש את סצנות הברקים</string>
+  <string name="lightSceneReorder_default_order">סדר ברירת מחדל</string>
+  <string name="lightSceneReorder_scenes_subtitle">סצנות</string>
+</resources>

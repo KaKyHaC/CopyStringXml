@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">채널 항목 이미지</string>
+  <string name="tvpresetsfavorite_favoritesChannels">즐겨찾기</string>
+  <string name="tvpresetsfavorite_favoritesList">미디어 즐겨찾기 목록</string>
+  <string name="tvpresetsfavorite_favoritesMore">추가 미디어 즐겨찾기</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">그룹 편집</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">즐겨찾기 그룹 변경</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">새 그룹 만들기</string>
+  <string name="tvpresetsfavorite_nowPlaying">지금 재생 중</string>
+  <string name="tvpresetsfavorite_upNext">다음</string>
+  <string name="tvpresetsfavorite_noInformation">정보 없음</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">\"⋯\"을 탭하여 즐겨찾기 채널에 추가하세요</string>
+  <string name="tvpresetsfavorite_noProvider">제공자가 선택되지 않았으므로 즐겨찾기 채널이 없습니다</string>
+</resources>

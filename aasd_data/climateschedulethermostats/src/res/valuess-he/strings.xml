@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">החל על נבחרים</string>
+  <string name="climateschedulethermostats_title">רשימת תרמוסטט</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">כל התרמוסטטים</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">האירוע הוחל בהצלחה על התרמוסטטים שנבחרו.</string>
+  <string name="climateschedulethermostats_eventsCopyError">לא ניתן היה להעתיק חלק מההגדרות לתרמוסטט אחד או יותר.</string>
+</resources>

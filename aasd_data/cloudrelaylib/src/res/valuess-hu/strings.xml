@@ -1,0 +1,4 @@
+<resources>
+  <string name="cloud_role_user">Felhasználó</string>
+  <string name="cloud_role_admin">Rendszergazda</string>
+</resources>

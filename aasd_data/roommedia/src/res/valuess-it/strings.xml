@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">Da remoto</string>
+  <string name="roommedia_more">Altro</string>
+  <string name="roommedia_playing">In riproduzione</string>
+  <string name="roommedia_browse">Sfoglia</string>
+  <string name="roommedia_multiRoom">Stanza multipla</string>
+  <string name="roommedia_favorites">Preferiti</string>
+  <string name="roommedia_keypad">Tastierino</string>
+  <string name="roommedia_media">Multimediale</string>
+  <string name="roommedia_warmingUp">RISCALDARE</string>
+  <string name="roommedia_coolingDown">CALMARSI</string>
+  <string name="roommedia_roomVideo">%s video</string>
+  <string name="roommedia_limitedControl">CONTROLLO LIMITATO. CONNESSIONE..</string>
+  <string name="roommedia_someRoomsAreOff">CERTE STANZE SONO CHIUSE</string>
+  <string name="roommedia_openInSonos">Apri in Sonos</string>
+  <string name="roommedia_account_status">Accesso non effettuato</string>
+  <string name="roommedia_noNowPlayingInformation">Non si sente niente</string>
+  <string name="roommedia_noAccountSelected">Seleziona l'account</string>
+  <string name="roommedia_pduPr_dialogHeader">Vuoi spegnere e riaccendere questo dispositivo?</string>
+  <string name="roommedia_pduPr_dialogMessage">Potrebbe richiedere qualche minuto per l'avvio del backup.</string>
+  <string name="roommedia_pduPr_digPowerCycle">Riavvio</string>
+  <string name="roommedia_pduPr_digCancel">Annulla</string>
+  <string name="roommedia_pduPr_toastMessage">Nessuna azione rapida per spegnere e riaccendere</string>
+</resources>

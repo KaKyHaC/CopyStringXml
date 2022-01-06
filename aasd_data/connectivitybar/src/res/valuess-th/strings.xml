@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">เชื่อมต่อแล้ว</string>
+  <string name="connectivitybar_disconnectedStatus">กำลังเชื่อมต่อกับบ้าน...</string>
+</resources>

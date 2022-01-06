@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">Toegang tot huis</string>
+  <string name="hide_subsystem_lights">Lichten</string>
+  <string name="hide_subsystem_media">Media</string>
+  <string name="hide_subsystem_pools">Zwembaden en spa</string>
+  <string name="hide_subsystem_climate">KLIMAAT</string>
+  <string name="hide_subsystem_shades">Zonneschermen</string>
+  <string name="hide_subsystem_security">Beveiliging</string>
+  <string name="hide_subsystem_cameras">CAMERA‘S</string>
+  <string name="hide_subsystem_customdevices">Aangepaste apparaten</string>
+</resources>

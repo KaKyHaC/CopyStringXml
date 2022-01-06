@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">O acesso será removido de todos os utilizadores existentes para esta casa. Pode optar por devolver o acesso a esses utilizadores assim que a reivindicação for concluída.</string>
+  <string name="cloudrelayclaim_title">Continue reivindicando</string>
+  <string name="cloudrelayclaim_continue">Continuar</string>
+  <string name="cloudrelayclaim_success">Toque no botão “Utilizadores” acima para começar a dar acesso à sua família e amigos.</string>
+  <string name="cloudrelayclaim_warning_ok">ok</string>
+  <string name="cloudrelayclaim_warning_subtitle">Entre em contacto com seu revendedor Crestron para obter assistência.</string>
+  <string name="cloudrelayclaim_warning_title">Senha de utilizador avançado</string>
+</resources>

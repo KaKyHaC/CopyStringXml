@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">Rullgardiner</string>
+  <string name="shadegroup_batteryOk">Batteri ok</string>
+  <string name="shadegroup_batteryLow">Batteri lågt</string>
+</resources>

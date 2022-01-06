@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">Sicurezza</string>
+  <string name="security_panicActionsTitle">Azioni</string>
+  <string name="security_panicActionsSubtitle">Tieni premuto per 1 secondo in modo da attivare ogni azione</string>
+  <string name="security_navigationButtonsTitle">PULSANTI DI NAVIGAZIONE</string>
+  <string name="security_selectNavigationButton">Selezionare</string>
+  <string name="security_keypadTitle">Tastierino</string>
+  <string name="security_keypadSubtitle">Inserisci il codice di 4 cifre e una cifra corrispondente all'azione che desideri eseguire</string>
+  <string name="security_displayTextTitle">MOSTRA IL TESTO</string>
+</resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">Üdvözli az Ön otthona!</string>
+  <string name="termsofuse_subtitle_one">A Crestronnál fontos számunkra az Ön adatainak védelme. Kérjük, tekintse át az alábbi linken megtalálható Crestron Adatvédelmi nyilatkozatot az általunk esetlegesen begyűjtött információtípusok megismeréséhez. Ha módosítani szeretné a rendszere adatvédelmi beállításait az információgyűjtés engedélyezése vagy letiltása céljából, kérjük, lépjen kapcsolatba a jogosult Crestron márkakereskedőjével, Crestron szolgáltatójával vagy a Crestron Electronicsszal a következő címen: support@crestron.com.</string>
+  <string name="termsofuse_subtitle_two">Az otthon felfedezésének folytatásához egyezzen bele a következőkbe:</string>
+  <string name="termsofuse_agreeAndContinue">Beleegyezés és folytatás</string>
+  <string name="termsofuse_termsOfUse">A mobilalkalmazásokra vonatkozó használati feltételek</string>
+  <string name="termsofuse_privacyStatement">Adatvédelmi nyilatkozat</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">Beleegyezek a Crestron következő dokumentumaiba: %s és %s.</string>
+</resources>

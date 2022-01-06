@@ -1,0 +1,5 @@
+<resources>
+  <string name="mobileclaimhome_homeSettings">ホームを設定する　</string>
+  <string name="mobileclaimhome_remoteAccessSettings">リモートアクセスを設定する　</string>
+  <string name="mobileclaimhome_port">ポート</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="landing_screen_discover_home">發現住宅</string>
+  <string name="landing_screen_add_manually">手動新增</string>
+  <string name="landing_screen_waps_selection_button_title">連接到Wi-Fi 接入點</string>
+</resources>

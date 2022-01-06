@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">Udalosti a zvuky</string>
+  <string name="interrupts_back_description">tlačidlo návratu k udalostiam</string>
+  <string name="interrupts_not_available">Nie sú k dispozícii žiadne udalosti.</string>
+</resources>

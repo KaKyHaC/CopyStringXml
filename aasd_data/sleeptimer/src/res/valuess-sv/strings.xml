@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">Konfigurera timern för vila och avstängning för all aktiv media i det här rummet.</string>
+  <string name="sleeptimer_disabledMsg">ANGE TIDEN</string>
+  <string name="sleeptimer_enabledMsg">%s KOMMER ATT STÄNGAS AV</string>
+  <string name="sleeptimer_controlTitle">Timer för vila</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">assegna un ruolo all'utente</string>
+  <string name="cloudrelaymemberdetail_user">Utente</string>
+  <string name="cloudrelaymemberdetail_owner">Proprietario</string>
+  <string name="cloudrelaymemberdetail_remove_user">rimuovi l'utente</string>
+  <string name="cloudrelaymemberdetail_house_access">Accesso alla casa</string>
+  <string name="cloudrelaymemberdetail_enable_access">Attiva l'accesso</string>
+  <string name="cloudrelaymemberdetail_remove">Rimuovere</string>
+  <string name="cloudrelaymemberdetail_cancel">Annulla</string>
+  <string name="cloudrelaymemberdetail_remove_warning">Sei sicuro di voler rimuovere questo utente?</string>
+</resources>

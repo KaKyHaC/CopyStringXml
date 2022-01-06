@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">Мои дома</string>
+  <string name="homeswitcher_addHome">Добавить</string>
+  <string name="homeswitcher_online_status">Этот дом подключен и готов.\nНажмите, чтобы войти.</string>
+  <string name="homeswitcher_online_remote_status">Нажмите для ввода.</string>
+  <string name="homeswitcher_offline_status">Этот дом находится не в сети.\nНажмите, чтобы войти.</string>
+  <string name="homeswitcher_offline">НЕ В СЕТИ.</string>
+</resources>

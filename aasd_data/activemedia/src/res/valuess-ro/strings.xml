@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">Opriți tot sistemul media</string>
+  <string name="activemedia_activeMedia">Activați sistemul media (%d)</string>
+  <string name="activemedia_audio">AUDIO</string>
+  <string name="activemedia_video">VIDEO</string>
+  <string name="activemedia_multiple_displays">Afișaje multiple</string>
+  <string name="activemedia_left_display">Afișajul din stânga</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">Sunteți sigur(ă) că doriți să opriți curentul în întreaga casă?</string>
+</resources>

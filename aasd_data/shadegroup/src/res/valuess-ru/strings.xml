@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">ЗАТЕНЕНИЯ</string>
+  <string name="shadegroup_batteryOk">Аккумулятор в норме</string>
+  <string name="shadegroup_batteryLow">Аккумулятор разряжен</string>
+</resources>

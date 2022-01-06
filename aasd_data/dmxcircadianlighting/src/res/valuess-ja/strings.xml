@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">コントロール</string>
+  <string name="circadianLights_saveButtonText">現在の設定を24時間周期として保存します</string>
+</resources>

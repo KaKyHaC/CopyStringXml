@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">CAMERA‘S</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">GEEN STREAM MET EEN LAAG GENOEG RESOLUTIE\n(MAXIMUM IS1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">VOORBEELD NIET BESCHIKBAAR</string>
+  <string name="camerasLib_noPreviewAvailable">GEEN VOORBEELD BESCHIKBAAR</string>
+  <string name="camerasLib_noStreamAvailable">GEEN STREAM BESCHIKBAAR</string>
+</resources>

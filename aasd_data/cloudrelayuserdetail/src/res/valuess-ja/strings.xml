@@ -1,0 +1,23 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">
+情報を更新する</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">すべてのデバイスからサインアウトする</string>
+  <string name="cloud_relay_user_detail_sign_out">サインアウト</string>
+  <string name="cloud_relay_user_detail_delete_account">
+アカウントを削除する</string>
+  <string name="cloud_relay_user_detail_edit_name">名前を編集する　</string>
+  <string name="cloud_relay_user_detail_change_email">
+メールアドレスを変更</string>
+  <string name="cloud_relay_user_detail_change_password">パスワードの変更</string>
+  <string name="cloud_relay_user_detail_change_phone_number">電話番号を変更する
+</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">「はい」をタップすると、このアカウントを使用してサインインしているすべてのデバイスから正常にサインアウトします。すべてのセッションは、1〜60分以内にシステムによってログアウトされます。</string>
+  <string name="cloud_relay_user_detail_sign_out_user">本当にサインアウトしたいですか？</string>
+  <string name="cloud_relay_user_detail_delete_user_account">
+アカウントを削除してもよろしいですか？</string>
+  <string name="cloud_relay_user_detail_account_deleted">アカウントが削除されました</string>
+  <string name="cloud_relay_user_detail_user_signed_out">あなたの外出は記録されます。 </string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">アカウントの削除には約15秒かかります。 15秒後に同じアカウントを使用する場合は、サインアップしてみてください。</string>
+  <string name="cloud_relay_user_detail_no">いいえ</string>
+  <string name="cloud_relay_user_detail_yes">はい</string>
+</resources>

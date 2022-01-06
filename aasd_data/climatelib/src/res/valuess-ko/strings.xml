@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s 기후</string>
+  <string name="climatelib_noActiveThermostats_upperCase">사용 중인 자동온도조절장치 없음</string>
+  <string name="climatelib_noActiveThermostats">사용 중인 자동온도조절기 없음</string>
+  <string name="climatelib_status_multiple_running">다중 자동온도조절기가 실행 중입니다.</string>
+  <string name="climatelib_status_heating_to_temperature">%s로 가열</string>
+  <string name="climatelib_status_cooling_to_temperature">%s로 냉각</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%dºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">%.1fº로 냉각, 습도조절기 켜기 (56%%)</string>
+  <string name="climatelib_thermostat_status_increasing">%.1fº로 가열, 습도조절기 켜기 (56%%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">습도조절기 켜기 (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H. 켜기 (%s)</string>
+  <string name="climatelib_thermostat_state_offline">오프라인</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">냉각 설정</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">난뱡 설정</string>
+  <string name="climatelib_thermostat_setpoint_single">설정점</string>
+  <string name="climatelib_set_point">설정 점</string>
+  <string name="climatelib_heat_set_point">가열 온도</string>
+  <string name="climatelib_cool_set_point">냉각 온도</string>
+  <string name="climatelib_single_set_point">단일 자동</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">%s으로 냉각</string>
+  <string name="climatelib_thermostat_heatTo">%s으로 난방</string>
+  <string name="climatelib_thermostat_setTo">%s로 설정</string>
+  <string name="climatelib_state_off">꺼짐</string>
+  <string name="climatelib_state_on">켜짐</string>
+  <string name="climatelib_thermostatMode_heat">가열</string>
+  <string name="climatelib_thermostatMode_cool">냉각</string>
+  <string name="climatelib_thermostatMode_single_auto">단일 자동</string>
+  <string name="climatelib_thermostatMode_dual_auto">이중 자동</string>
+  <string name="climatelib_thermostatMode_aux_heat">보조 가열</string>
+  <string name="climatelib_thermostatMode_autoMode">자동 모드</string>
+  <string name="climatelib_thermostatMode_dualMode">이중 모드</string>
+  <string name="climatelib_thermostatFan_auto">자동</string>
+  <string name="climatelib_thermostatFan_low">낮음</string>
+  <string name="climatelib_thermostatFan_medium">중간</string>
+  <string name="climatelib_thermostatFan_high">높음</string>
+  <string name="climatelib_thermostatFan_circulate">순환</string>
+  <string name="climatelib_thermostatFan_circulateLow">순환 낮음</string>
+  <string name="climatelib_thermostatFan_circulateMedium">순환 중간</string>
+  <string name="climatelib_thermostatFan_none">없음</string>
+  <string name="climatelib_thermostatSchedule_noEvents">이벤트 없음</string>
+  <string name="climatelib_thermostatSchedule_hold">유지</string>
+  <string name="climatelib_thermostatSchedule_running">실행 중</string>
+  <string name="climatelib_thermostatSchedule_run">실행</string>
+  <string name="climatelib_thermostatSchedule_override">임시</string>
+  <string name="climatelib_thermostatSchedule_next">다음 %1$s - %2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">유지 중</string>
+  <string name="climatelib_labelMode">모드</string>
+  <string name="climatelib_labelFan">팬</string>
+  <string name="climatelib_labelSchedule">예약</string>
+  <string name="climatelib_noScheduleEvents">예약 이벤트가 없습니다. 지금 예약 이벤트를 만드시겠습니까?</string>
+  <string name="climatelib_popupCancel">취소</string>
+  <string name="climatelib_popupCreate">생성</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">기후 일정</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">예약 이벤트</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">잘못된 암호</string>
+  <string name="climatelib_climateSchedules_weekdays">평일</string>
+  <string name="climatelib_climateSchedules_weekend">주말</string>
+  <string name="climatelib_climateSchedules_everyday">매일</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s, %2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">예약 이벤트 없음</string>
+  <string name="climatelib_climateSchedules_mon">월</string>
+  <string name="climatelib_climateSchedules_tue">화</string>
+  <string name="climatelib_climateSchedules_wed">수</string>
+  <string name="climatelib_climateSchedules_thu">목</string>
+  <string name="climatelib_climateSchedules_fri">금</string>
+  <string name="climatelib_climateSchedules_sat">토</string>
+  <string name="climatelib_climateSchedules_sun">일</string>
+  <string name="climatelib_climate">기후</string>
+</resources>

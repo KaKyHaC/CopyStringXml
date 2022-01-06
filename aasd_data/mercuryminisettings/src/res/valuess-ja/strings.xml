@@ -1,0 +1,6 @@
+<resources>
+  <string name="mercuryminisettings_brightness">輝度 </string>
+  <string name="mercuryminisettings_touchToWake_title">触れるだけで起動します </string>
+  <string name="mercuryminisettings_ipAddress_title">IPアドレス </string>
+  <string name="mercuryminisettings_interrupt_label">中断 </string>
+</resources>

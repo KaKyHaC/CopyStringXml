@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">Acces la casă</string>
+  <string name="hide_subsystem_lights">Lumini</string>
+  <string name="hide_subsystem_media">Media</string>
+  <string name="hide_subsystem_pools">Piscine și Spa</string>
+  <string name="hide_subsystem_climate">CLIMAT</string>
+  <string name="hide_subsystem_shades">Jaluzele</string>
+  <string name="hide_subsystem_security">Securitate</string>
+  <string name="hide_subsystem_cameras">APARATE FOTO</string>
+  <string name="hide_subsystem_customdevices">Dispozitive personalizate</string>
+</resources>

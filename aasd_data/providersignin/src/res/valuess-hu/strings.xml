@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Adja meg a felhasználónevét</string>
+  <string name="providersignin_enter_password">Adja meg a jelszavát</string>
+  <string name="providersignin_description">Az előfizetés hozzáadásához jelentkezzen be a(z) %s diókjába.</string>
+  <string name="providersignin_user_name">FELHASZNÁLÓNÉV</string>
+  <string name="providersignin_password">JELSZÓ</string>
+  <string name="providersignin_title">Bejelentkezés</string>
+  <string name="providersignin_save_user">Felhasználó mentése...</string>
+  <string name="providersignin_account_added">Fiók hozzáadva.</string>
+  <string name="providersignin_login_failed">Sikertelen bejelentkezés.</string>
+</resources>

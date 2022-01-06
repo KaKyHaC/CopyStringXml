@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Tempo di dissolvenza</string>
+  <string name="sceneFadeTime_header">imposta il tempo di dissolvenza dell'illuminazione</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">虚拟工具栏超时</string>
+  <string name="settings_hardkey_wakes_lcd">硬键唤醒LCD</string>
+  <string name="settings_master_volume">主音量</string>
+  <string name="settings_hardkey_behavior">向上/向下面板按钮行为</string>
+  <string name="settings_hardkey_no_function">无功能</string>
+  <string name="settings_hardkey_lights">灯光（房间升起/降下）</string>
+  <string name="settings_hardkey_shades">帘幕（房间升起/降下）</string>
+  <string name="settings_hardkey_media">媒体（房间音量+/音量-）</string>
+  <string name="settings_advanced_settings_toolbar">高级设置</string>
+</resources>

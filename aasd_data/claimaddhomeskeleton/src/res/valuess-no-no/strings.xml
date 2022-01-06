@@ -1,0 +1,16 @@
+<resources>
+  <string name="claimaddhome_friendlyNameOrLocation">Kallenavn / sted</string>
+  <string name="claimaddhome_ipAddressOrHostName">IP-adresse/vertsnavn</string>
+  <string name="claimaddhome_password">Passord for brukergrensesnitt</string>
+  <string name="claimaddhome_connect">KOBLE TIL</string>
+  <string name="claimaddhome_addTitle">Legg til nytt hjem</string>
+  <string name="claimaddhome_addSubtitle">Skriv inn detaljer om ditt nye Crestron-hjem og trykk på Koble til for å komme i gang.</string>
+  <string name="claimaddhome_editTitle">Rediger %s</string>
+  <string name="claimaddhome_editSubtitle">Rediger detaljer om Crestron-hjemmet ditt.</string>
+  <string name="claimaddhome_errorNotEmpty">Vennligst skriv inn %s for å fortsette.</string>
+  <string name="claimaddhome_errorGeneral">Kan ikke koble til dette hjemmet.</string>
+  <string name="claimaddhome_incorrectPassword">Feil passord.</string>
+  <string name="claimaddhome_localConnectionSettings">LOKALE TILKOBLINGSINNSTILLINGER</string>
+  <string name="claimaddhome_discover">Oppdage</string>
+  <string name="claimaddhome_invalidPasswordPopUp">Passordet er endret, skriv inn det nye passordet for %s på nytt</string>
+</resources>

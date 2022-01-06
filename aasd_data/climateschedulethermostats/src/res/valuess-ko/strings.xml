@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">선택 적용</string>
+  <string name="climateschedulethermostats_title">자동온도조절기 목록</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">모든 자동온도조절기</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">이벤트가 선택한 자동온도조절기에 성공적으로 적용되었습니다.</string>
+  <string name="climateschedulethermostats_eventsCopyError">일부 설정을 하나 이상의 온자동온도조절기에 복사할 수 없습니다.</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">Események és hangok</string>
+  <string name="interrupts_back_description">események vissza gomb</string>
+  <string name="interrupts_not_available">Nincs elérhető esemény.</string>
+</resources>

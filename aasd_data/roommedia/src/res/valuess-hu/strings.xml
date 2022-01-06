@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">Távoli</string>
+  <string name="roommedia_more">Több</string>
+  <string name="roommedia_playing">Lejátszás folyamatban</string>
+  <string name="roommedia_browse">Tallózás</string>
+  <string name="roommedia_multiRoom">Több helyiség</string>
+  <string name="roommedia_favorites">Kedvencek</string>
+  <string name="roommedia_keypad">Billentyűzet</string>
+  <string name="roommedia_media">Média</string>
+  <string name="roommedia_warmingUp">FELMELEGÍTÉS</string>
+  <string name="roommedia_coolingDown">LEHŰTÉS</string>
+  <string name="roommedia_roomVideo">%s videó</string>
+  <string name="roommedia_limitedControl">KORLÁTOZOTT VEZÉRLÉS. CSATLAKOZÁS...</string>
+  <string name="roommedia_someRoomsAreOff">EGYES HELYISÉGEK KI VANNAK KAPCSOLVA</string>
+  <string name="roommedia_openInSonos">Megnyitás a Sonosban</string>
+  <string name="roommedia_account_status">Nincs bejelentkezve</string>
+  <string name="roommedia_noNowPlayingInformation">Nincs lejátszott dal</string>
+  <string name="roommedia_noAccountSelected">Fiók kiválasztása</string>
+  <string name="roommedia_pduPr_dialogHeader">Biztos, hogy újra szeretné indítani az eszközt?</string>
+  <string name="roommedia_pduPr_dialogMessage">Az újraindítás több percet is igénybe vehet.</string>
+  <string name="roommedia_pduPr_digPowerCycle">Újraindítás</string>
+  <string name="roommedia_pduPr_digCancel">Mégse</string>
+  <string name="roommedia_pduPr_toastMessage">Nincs gyorsművelet az újraindításhoz</string>
+</resources>

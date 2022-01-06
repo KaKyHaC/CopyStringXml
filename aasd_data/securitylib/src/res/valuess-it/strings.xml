@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Sicurezza</string>
+  <string name="securitylib_securitySystem">Sistema di sicurezza</string>
+  <string name="securitylib_securitySystemWithName">Sistema di sicurezza %s</string>
+  <string name="securitylib_alarm_alarm">Allarme</string>
+  <string name="securitylib_alarm_fire">Incendio</string>
+  <string name="securitylib_alarm_burglary">Furto</string>
+  <string name="securitylib_alarm_medical">Medico</string>
+  <string name="securitylib_alarm_tamper">Manomissione</string>
+  <string name="securitylib_arming_armedStay">Inserita l'opzione Stay</string>
+  <string name="securitylib_arming_exitDelayActive">Uscita Delay attiva</string>
+  <string name="securitylib_arming_disarmed">Disarmato</string>
+  <string name="securitylib_arming_ready">Pronto</string>
+  <string name="securitylib_arming_armedAway">Inserito sull'opzione Away</string>
+  <string name="securitylib_arming_notReady">Non è pronto.</string>
+  <string name="securitylib_arming_entryDelayActive">Entrata Delay attiva</string>
+  <string name="securitylib_arming_armedStayInstant">Inserita l'opzione Stay immediata</string>
+  <string name="securitylib_arming_armedAwayInstant">Inserita l'opzione Away immediata</string>
+  <string name="securitylib_arming_armedBypass">Inserito il bipasso</string>
+  <string name="securitylib_arming_armedBypassInstant">Inserito il bipasso immediato</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">灯光</string>
+  <string name="lightslib_lights_title">%s灯具</string>
+  <string name="lightslib_lights_status_on">灯已打开。</string>
+  <string name="lightslib_lights_turning_off">正在关闭...</string>
+  <string name="lightslib_lights_turning_on">正在打开...</string>
+  <string name="lightslib_add_lights_title">将灯具添加到\"%s\"中</string>
+  <string name="lightslib_controlsTitle">控件</string>
+  <string name="lightslib_sceneNameScene">%s场景</string>
+  <string name="lightslib_tunableLightNotFound">出错。无法找到灯具负载。</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">另存为全局基线设置？</string>
+  <string name="lightslib_whiteTuningProgressLost">为此灯具另存为基线设置？</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">您是否想为此房间应用这些设置？</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">这将越过任何其他之前应用的设置。</string>
+  <string name="lightslib_saveTunableSettingsError">发生意外错误。无法保存可微调设置。</string>
+  <string name="lightslib_saveTunableSettingsSuccess">可微调设置保存成功。</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">发生意外错误。无法为房间内的所有灯具进行可微调设置。</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">为房间内的所有灯具完成可微调设置。</string>
+  <string name="lightslib_saveAsGlobalSettings">另存为全局基线设置</string>
+  <string name="lightslib_save">保存</string>
+  <string name="lightslib_circadianSettingsProgressLost">将当前设置另存为日周期？</string>
+  <string name="lightslib_saveCircadianSettingsError">发生意外错误。无法保存昼夜设置。</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">昼夜设置保存成功。</string>
+  <string name="lightslib_morningCircadianTitle">早晨：7:00 AM，%dK</string>
+  <string name="lightslib_noonCircadianTitle">中午，%dK</string>
+  <string name="lightslib_eveningCircadianTitle">晚上：7:00 PM，%dK</string>
+  <string name="lightslib_nightCircadianTitle">夜间：10:45 AM，%dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">已移除最喜欢的颜色。</string>
+  <string name="lightslib_addFavorite_confirmation">已添加最喜欢的颜色。</string>
+</resources>

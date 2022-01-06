@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayconnecthome_edit_home">Edit Home</string>
+  <string name="couldrelayconnecthome_edit_details">Muokkaa Crestron Home -kotisi tietoja.</string>
+  <string name="cloudrelayconnecthome_home_settings">HOME SETTINGS</string>
+  <string name="cloudrelayconnecthome_friendlyNameOrLocation">Kutsumanimi/sijainti</string>
+  <string name="cloudrelayconnecthome_password">Käyttöliittymän salasana</string>
+  <string name="cloudrelayconnecthome_localConnectionSettings">LOCAL CONNECTION SETTINGS</string>
+  <string name="cloudrelayconnecthome_ipAddressOrHostName">IP-osoite/isäntänimi</string>
+  <string name="cloudrelayconnecthome_continue">Jatka</string>
+</resources>

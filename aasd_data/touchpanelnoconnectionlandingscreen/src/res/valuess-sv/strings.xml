@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">Inget nätverk hittades!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">Kontrollera dina ethernet-kablar eller anslut via Wi-Fi.</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">Anslut till en Wi-Fi-åtkomstpunkt</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="dmxroomselection_room_select">Huoneen valinta</string>
+  <string name="source_selection_room_not_available">Room is not available.</string>
+</resources>

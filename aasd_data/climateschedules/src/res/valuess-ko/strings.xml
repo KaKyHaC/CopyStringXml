@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">예약 이벤트</string>
+  <string name="climateschedules_noSchedulesTitle">예약 이벤트 없음</string>
+  <string name="climateschedules_noSchedulesDescription">자동온도조절기를 자동화하고 각 자동온조절기에 대해 사용자정의된 예약 이벤트를 생성하십시오.</string>
+  <string name="climateschedules_emptyLayout_createNew">새 예약 이벤트 생성</string>
+  <string name="climateschedules_createNew">+ 새 예약 이벤트 생성</string>
+</resources>

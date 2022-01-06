@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">Channel item image</string>
+  <string name="tvpresetsfavorite_favoritesChannels">Suosikit</string>
+  <string name="tvpresetsfavorite_favoritesList">Media favorites list</string>
+  <string name="tvpresetsfavorite_favoritesMore">Media favorites more</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">Edit group</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">Change favorite group</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">Create new group</string>
+  <string name="tvpresetsfavorite_nowPlaying">Soi nyt</string>
+  <string name="tvpresetsfavorite_upNext">UP NEXT</string>
+  <string name="tvpresetsfavorite_noInformation">No information</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">Tap \"⋯\" to add your favorite channels</string>
+  <string name="tvpresetsfavorite_noProvider">There are no favorite channels because the provider isn\'t selected</string>
+</resources>

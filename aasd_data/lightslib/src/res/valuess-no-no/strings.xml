@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">Lys</string>
+  <string name="lightslib_lights_title">%s lys</string>
+  <string name="lightslib_lights_status_on">Lysene er på.</string>
+  <string name="lightslib_lights_turning_off">SLÅ AV…</string>
+  <string name="lightslib_lights_turning_on">SLÅ PÅ…</string>
+  <string name="lightslib_add_lights_title">Legg til lys i \"%s\"</string>
+  <string name="lightslib_controlsTitle">KONTROLLER</string>
+  <string name="lightslib_sceneNameScene">%s scene</string>
+  <string name="lightslib_tunableLightNotFound">Noe gikk galt. Denne lette lasten ble ikke funnet.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">Lagre som globale grunnlinjeinnstillinger?</string>
+  <string name="lightslib_whiteTuningProgressLost">Lagre som grunnlinjeinnstillinger for denne lampen?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">Er du sikker på at du vil bruke disse innstillingene på dette rommet?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">Dette vil overstyre alle andre tidligere brukte innstillinger.</string>
+  <string name="lightslib_saveTunableSettingsError">En uventet feil har oppstått. De justerbare innstillingene kunne ikke lagres.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">De justerbare innstillingene er lagret.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">En uventet feil har oppstått. De justerbare innstillingene kunne ikke stilles til alle lysene i rommet.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">De justerbare innstillingene er satt til alle lysene i rommet.</string>
+  <string name="lightslib_saveAsGlobalSettings">Lagre som globale grunnlinjeinnstillinger</string>
+  <string name="lightslib_save">Lagre</string>
+  <string name="lightslib_circadianSettingsProgressLost">Lagre gjeldende innstillinger som døgnsyklus?</string>
+  <string name="lightslib_saveCircadianSettingsError">En uventet feil har oppstått. Døgntidsinnstillingene kunne ikke lagres.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">Døgntidsinnstillingene ble lagret.</string>
+  <string name="lightslib_morningCircadianTitle">Morgen: 7:00, %dK</string>
+  <string name="lightslib_noonCircadianTitle">Middag, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">Kveld: 19:00, %dK</string>
+  <string name="lightslib_nightCircadianTitle">Natt: 10:45, %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">Favorittfarge fjernet.</string>
+  <string name="lightslib_addFavorite_confirmation">Favorittfarge lagt til.</string>
+</resources>

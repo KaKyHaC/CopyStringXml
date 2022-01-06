@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">Név szerkesztése</string>
+  <string name="cloudrelayeditusername_subtitle">Távoli felhőalapú kapcsolat</string>
+  <string name="cloudrelayeditusername_accountLabel">Fiók</string>
+  <string name="cloudrelayeditusername_editNameLabel">Név</string>
+  <string name="cloudrelayeditusername_done">Kész</string>
+</resources>

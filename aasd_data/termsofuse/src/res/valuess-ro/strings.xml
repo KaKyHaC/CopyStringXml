@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">Bine ați venit în casa dvs.</string>
+  <string name="termsofuse_subtitle_one">
+În compania Crestron, confidențialitatea dvs. este importantă pentru noi. Vă rugăm să citiți Declarația de confidențialitate a companiei Crestron\'s, accesând linkul de mai jos pentru a vedea tipurile de informații pe care le putem colecta. Dacă doriți să modificați setările de confidențialitate ale sistemului dvs. pentru a activa sau dezactiva colectarea de informații, vă rugăm să contactați dealerul dvs. autorizat Crestron sau furnizorul de servicii Crestron, sau Crestron Electronics, Inc. la %s.</string>
+  <string name="termsofuse_subtitle_two">Pentru a continua explorarea casei, vă rugăm să fiți de acord cu următoarele:</string>
+  <string name="termsofuse_agreeAndContinue">Acceptați și continuați</string>
+  <string name="termsofuse_termsOfUse">Termeni și condiții pentru aplicațiile mobile</string>
+  <string name="termsofuse_privacyStatement">Declarație de confidențialitate</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">Sunt de acord cu Crestron\'s și %s.</string>
+</resources>

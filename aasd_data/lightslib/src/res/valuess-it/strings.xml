@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">Luci</string>
+  <string name="lightslib_lights_title">% di luci</string>
+  <string name="lightslib_lights_status_on">Le luci sono accese.</string>
+  <string name="lightslib_lights_turning_off">ACCENSIONE…</string>
+  <string name="lightslib_lights_turning_on">SPEGNIMENTO…</string>
+  <string name="lightslib_add_lights_title">Aggiungi le luci a \"%s\"</string>
+  <string name="lightslib_controlsTitle">Comandi</string>
+  <string name="lightslib_sceneNameScene">% scene</string>
+  <string name="lightslib_tunableLightNotFound">Qualcosa non ha funzionato. Non si riesce a trovare questo caricamento di luce</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">Vuoi salvarlo come impostazioni di base globali?</string>
+  <string name="lightslib_whiteTuningProgressLost">Vuoi salvarlo come impostazioni di base per questa luce?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">Sei sicuro di voler applicare queste impostazioni per questa stanza?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">Questo sovrascriverà qualsiasi altra impostazione applicata in precedenza.</string>
+  <string name="lightslib_saveTunableSettingsError">Si è verificato un errore imprevisto. Non è possibile salvare le impostazioni regolabili.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">Le impostazioni regolabili sono salvete con successo.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">Si è verificato un errore imprevisto. Non è possibile attivare le impostazioni regolabili su tutte le luci della stanza. </string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">Le impostazioni regolabili per tutte le luci della stanza sono salvete con successo.</string>
+  <string name="lightslib_saveAsGlobalSettings">Salva come impostazioni di base globali </string>
+  <string name="lightslib_save">Salva</string>
+  <string name="lightslib_circadianSettingsProgressLost">Vuoi salvere le impostazioni attuali come ciclo circadiaco?</string>
+  <string name="lightslib_saveCircadianSettingsError">Si è verificato un errore imprevisto. Non è possibile salvare le impostazioni circadiache.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">Le impostazioni circadiache sono salvete con successo.</string>
+  <string name="lightslib_morningCircadianTitle">Mattina: 7:00, %dK</string>
+  <string name="lightslib_noonCircadianTitle">Mezzogiorno, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">Sera; 19:00, %dK</string>
+  <string name="lightslib_nightCircadianTitle">Notte: 22:45,  %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">Rimossi i colori preferiti</string>
+  <string name="lightslib_addFavorite_confirmation">Aggiunti i colori preferiti</string>
+</resources>

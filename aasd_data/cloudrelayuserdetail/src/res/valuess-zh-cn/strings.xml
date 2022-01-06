@@ -1,0 +1,18 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">更新您的信息</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">从所有设备退出</string>
+  <string name="cloud_relay_user_detail_sign_out">注销</string>
+  <string name="cloud_relay_user_detail_delete_account">删除账户</string>
+  <string name="cloud_relay_user_detail_edit_name">编辑名称</string>
+  <string name="cloud_relay_user_detail_change_email">更改电子邮件</string>
+  <string name="cloud_relay_user_detail_change_password">更改密码</string>
+  <string name="cloud_relay_user_detail_change_phone_number">更改电话号码</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">点击“是”会降您从您使用此账户登录的所有设备退出。系统将在1-60分钟内退出所有会话。</string>
+  <string name="cloud_relay_user_detail_sign_out_user">你是否想注销？</string>
+  <string name="cloud_relay_user_detail_delete_user_account">您是否想删除账户？</string>
+  <string name="cloud_relay_user_detail_account_deleted">账户已删除</string>
+  <string name="cloud_relay_user_detail_user_signed_out">您已退出</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">账户删除需要花费约15秒。如果在15秒后使用同一账户，请尝试注册。</string>
+  <string name="cloud_relay_user_detail_no">否</string>
+  <string name="cloud_relay_user_detail_yes">是</string>
+</resources>

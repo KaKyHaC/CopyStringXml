@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">조명 장면 편집</string>
+  <string name="lightEditSingleScene_set_scene_options">장면 옵션 설정</string>
+  <string name="lightEditSingleScene_delete_scene">이 장면 삭제</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">정말 이 장면을 삭제하시겠습니까?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">삭제</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">취소</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">죄송합니다, 이 장면은 삭제할 수 없습니다.</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">확인</string>
+  <string name="lightEditSingleScene_dismiss">무시</string>
+  <string name="lightEditSingleScene_cannot_edit">죄송합니다, 이 장면의 이름과 아이콘을 편집할 수 없습니다.</string>
+</resources>

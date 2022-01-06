@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">Zonneschermen</string>
+  <string name="shades_scenesTitle">Plannen</string>
+  <string name="shades_controlsTitle">Controles</string>
+  <string name="shades_allShadesTitle">ALLE KLEUREN</string>
+  <string name="shades_allShades_MoreLightTitle">Meer licht</string>
+  <string name="shades_allShades_LessLightTitle">Minder licht</string>
+  <string name="shades_stopRampText">Stoppen</string>
+</resources>

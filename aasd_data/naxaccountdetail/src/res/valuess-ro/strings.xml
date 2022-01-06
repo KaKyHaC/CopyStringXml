@@ -1,0 +1,9 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">CONT</string>
+  <string name="naxaccountdetail_edit_name">Editați numele</string>
+  <string name="naxaccountdetail_signIn">Înregistrare</string>
+  <string name="naxaccountdetail_remove">Ștergeți</string>
+  <string name="naxaccountdetail_remove_yes">Da, șterge</string>
+  <string name="naxaccountdetail_removeAccount_warning">
+Acest cont %s nu va mai fi accesibil de către aplicația Crestron Home.\n\n Doriți să continuați?</string>
+</resources>

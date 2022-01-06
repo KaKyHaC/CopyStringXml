@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">主體佈局的 %s 已被刪除。</string>
+  <string name="customdevice_controlNotAvailable">沒有可用的控制</string>
+  <string name="customdevice_emptyAlertTitle">沒有可用的資訊。</string>
+  <string name="customdevice_emptyLayoutError">沒有 ID 為 %s 的佈局。</string>
+  <string name="customdevice_emptyMediaLayoutError">沒有為擁有者ID 為 %d 的源代碼佈局。</string>
+  <string name="customdevice_emptyAlertError">沒有 ID 為 %s 的佈局。</string>
+  <string name="customdevice_alertError">開啟 ID 為 %s 的提醒時出錯。</string>
+  <string name="customdevice_layoutError">開啟 ID 為 %s 的佈局時出錯。</string>
+  <string name="customdevice_emptySelectionList">沒有要顯示 %s 的項目。</string>
+  <string name="customdevice_setValueGenericError">出了些問題。無法更改這一數值。</string>
+  <string name="customdevice_setValueError">無法更改這一數值。%s</string>
+  <string name="customdevice_runCommandGenericError">出了些問題。無法執行該命令。</string>
+  <string name="customdevice_runCommandError">無法執行命令。%s</string>
+  <string name="customdevice_thermostat_setpoint">設定至</string>
+  <string name="customdevice_thermostat_heatSetpoint">升溫至</string>
+  <string name="customdevice_thermostat_coolSetpoint">降溫至</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C 攝氏度</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F 華氏度</string>
+  <string name="customdevice_tileError">導航欄位配置錯誤。</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">請使用外部應用程式或設備進行控制。</string>
+  <string name="customdevice_mediaEmptyScreen_title">沒有可用控制</string>
+</resources>

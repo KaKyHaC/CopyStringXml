@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">БЫСТРЫЕ ДЕЙСТВИЯ</string>
+  <string name="home_home_controls">ДОМАШНИЕ КОНТРОЛЁРЫ</string>
+  <string name="home_lock_all">Заблокировать все</string>
+  <string name="home_unlock_all">Разблокировать все</string>
+  <string name="home_security_system">Система безопасности</string>
+  <string name="home_climate">Климат</string>
+  <string name="home_locks">Замки дверей</string>
+  <string name="home_cameras">Камеры</string>
+  <string name="home_access">Доступ к дому</string>
+</resources>

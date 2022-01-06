@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">Вы</string>
+  <string name="cloud_relay_users_no_user">Пользователи недоступны.</string>
+  <string name="cloud_relay_users_add_new_user">+ Добавить нового пользователя</string>
+  <string name="cloud_relay_users_reclaim_home">Восстановить этот дом</string>
+  <string name="cloud_relay_users_role_format">%s (Приглашение в стадии рассмотрения)</string>
+  <string name="cloud_relay_users_info_unavailable">"Информация о пользователе недоступна, попробуйте позже"</string>
+</resources>

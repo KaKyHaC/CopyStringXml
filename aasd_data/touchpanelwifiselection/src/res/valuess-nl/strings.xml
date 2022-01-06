@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Wifi Selectie Terug Actie</string>
+  <string name="touchpanelWifiSelection_title">Wifi-selectie</string>
+  <string name="touchpanelWifiSelection_Discovering">Ontdekken</string>
+  <string name="touchpanelWifiSelection_tryAgain">OPNIEUW PROBEREN</string>
+  <string name="touchpanelWifiSelection_titleFound">Maak verbinding met wifi-toegangspunt</string>
+  <string name="touchpanelWifiSelection_subtitleFound">Selecteer een toegangspunt.</string>
+  <string name="touchpanelWifiSelection_titleNotFound">Geen wifi-toegangspunt gevonden</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">Er zijn geen wifi-toegangspunten gevonden. Controleer uw netwerkverbinding en probeer het opnieuw.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">Zoeken naar wifi-toegangspunten</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">Wacht tot de scan is voltooid</string>
+</resources>

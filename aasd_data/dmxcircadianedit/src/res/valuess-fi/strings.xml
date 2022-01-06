@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">Muokkaa vuorokausia</string>
+  <string name="circadianEdit_description">Electric lights can be used in ways to support human health by minimizing their effects on the human circadian rhythm.</string>
+  <string name="circadianEdit_transitionsCategory">muokkaa valojen siirtymäkohtia</string>
+  <string name="circadianEdit_previewTransitionButton_start">Esikatsele vuorokausisiirtymää</string>
+  <string name="circadianEdit_previewTransitionButton_end">End Circadian transition preview</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">Aamu</string>
+  <string name="circadianEdit_dayTransition">Päivä</string>
+  <string name="circadianEdit_eveningTransition">Ilta</string>
+  <string name="circadianEdit_nightTransition">Yö</string>
+  <string name="circadianEdit_minTime">12 AM</string>
+  <string name="circadianEdit_maxTime">11:59 PM</string>
+</resources>

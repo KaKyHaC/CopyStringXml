@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">Zmień nazwę</string>
+  <string name="cloudrelayeditusername_subtitle">Zdalne połączenie z chmurą</string>
+  <string name="cloudrelayeditusername_accountLabel">Konto</string>
+  <string name="cloudrelayeditusername_editNameLabel">Nazwa</string>
+  <string name="cloudrelayeditusername_done">Gotowe</string>
+</resources>

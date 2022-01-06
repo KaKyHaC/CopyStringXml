@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesDevices_title">Események és hangok</string>
+  <string name="naxChimesDevices_volumeTitle">Esemény hangerő</string>
+  <string name="naxChimesDevices_noEventsFound">Nincs elérhető esemény</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">이동 및 크기 변경</string>
+  <string name="changeimage_cellularWarning">Wi-Fi를 통해 연결하지 않으면 사진 업로드가 상당히 오래 걸릴 수 있습니다.</string>
+  <string name="changeimage_cancel">취소</string>
+  <string name="changeimage_choose">선택</string>
+</resources>

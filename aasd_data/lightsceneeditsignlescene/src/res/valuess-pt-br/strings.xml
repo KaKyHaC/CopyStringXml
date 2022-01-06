@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">Editar cenas de iluminação</string>
+  <string name="lightEditSingleScene_set_scene_options">DEFINIR OPÇÕES DE CENA</string>
+  <string name="lightEditSingleScene_delete_scene">Apagar esta cena</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">Tem certeza de que deseja apagar esta cena?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">Eliminar</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">CANCELAR</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">Desculpe, esta cena não pode ser apagada.</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">OK</string>
+  <string name="lightEditSingleScene_dismiss">Descartar</string>
+  <string name="lightEditSingleScene_cannot_edit">Desculpe, o nome e o ícone desta cena não podem ser editados.</string>
+</resources>

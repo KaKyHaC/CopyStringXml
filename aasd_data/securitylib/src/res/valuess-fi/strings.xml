@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Suojaus</string>
+  <string name="securitylib_securitySystem">Turvajärjestelmä</string>
+  <string name="securitylib_securitySystemWithName">Security system %s</string>
+  <string name="securitylib_alarm_alarm">Hälytys</string>
+  <string name="securitylib_alarm_fire">Tulipalo</string>
+  <string name="securitylib_alarm_burglary">Burglary</string>
+  <string name="securitylib_alarm_medical">Medical</string>
+  <string name="securitylib_alarm_tamper">Peukalointi</string>
+  <string name="securitylib_arming_armedStay">Hälytys päällä, pysy</string>
+  <string name="securitylib_arming_exitDelayActive">Poistumisviive aktiivinen</string>
+  <string name="securitylib_arming_disarmed">Hälytys pois päältä</string>
+  <string name="securitylib_arming_ready">Valmis</string>
+  <string name="securitylib_arming_armedAway">Hälytys päällä, poissa</string>
+  <string name="securitylib_arming_notReady">Ei valmis</string>
+  <string name="securitylib_arming_entryDelayActive">Sisääntuloviive aktiivinen</string>
+  <string name="securitylib_arming_armedStayInstant">Hälytys päällä, pysy, välitön</string>
+  <string name="securitylib_arming_armedAwayInstant">Hälytys päällä, poissa, välitön</string>
+  <string name="securitylib_arming_armedBypass">Hälytys päällä, ohita</string>
+  <string name="securitylib_arming_armedBypassInstant">Hälytys päällä, ohita, välitön</string>
+</resources>

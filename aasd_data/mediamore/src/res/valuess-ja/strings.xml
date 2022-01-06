@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">スピーカー設定</string>
+  <string name="mediamore_additionalFunctions">追加機能</string>
+  <string name="mediamore_advancedSettings">上級の設定 </string>
+  <string name="mediamore_noInfo">
+利用可能な情報はありません。</string>
+</resources>

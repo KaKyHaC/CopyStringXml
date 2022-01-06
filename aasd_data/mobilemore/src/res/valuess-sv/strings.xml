@@ -1,0 +1,7 @@
+<resources>
+  <string name="mobilemore_support">Support</string>
+  <string name="mobilemore_diagnostics">Skicka supportdiagnostik</string>
+  <string name="mobilemore_house_settings">Husinställningar</string>
+  <string name="mobilemore_settings">Redigera hem</string>
+  <string name="mobilemore_advanced_settings">Avancerade inställningar</string>
+</resources>

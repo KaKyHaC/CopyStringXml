@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">％sとマージ
+</string>
+  <string name="managegroups_ungroupAll">すべてのグループ化を解除</string>
+  <string name="managegroups_ungroupRoom">グループ化を解除%s</string>
+  <string name="managegroups_mergeSelected">選択したものをグループにマージ</string>
+</resources>

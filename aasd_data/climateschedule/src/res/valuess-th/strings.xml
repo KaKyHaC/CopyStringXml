@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">ชื่อกิจกรรม เช่น ตารางเวลาอุณหภูมิสำหรับหน้าร้อน</string>
+  <string name="climateschedule_scheduleNameTitleLabel">ชื่อ</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">กิจกรรมอุณหภูมิใหม่ที่กำหนดเวลาไว้</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">แก้ไขกิจกรรมที่กำหนดเวลาไว้</string>
+  <string name="climateschedule_scheduleActiveDays">วันที่ใช้</string>
+  <string name="climateschedule_activeDays_sunday">อา.</string>
+  <string name="climateschedule_activeDays_monday">จ.</string>
+  <string name="climateschedule_activeDays_tuesday">อ.</string>
+  <string name="climateschedule_activeDays_wednesday">พ.</string>
+  <string name="climateschedule_activeDays_thursday">อ.</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">อา.</string>
+  <string name="climateschedule_activeDays">วันที่ใช้</string>
+  <string name="climateschedule_save">บันทึก</string>
+  <string name="climateschedule_deleteSchedule">ลบ</string>
+  <string name="climateschedule_copyToAnotherThermostat">คัดลอกไปที่เทอร์โมสตัทอื่น</string>
+  <string name="climateschedule_scheduleEventError">มีข้อผิดพลาด โปรดลองใหม่อีกครั้ง</string>
+  <string name="climateschedule_editTitle">แก้ไข</string>
+  <string name="climateschedule_deleteWarning">แน่ใจหรือว่าต้องการลบกิจกรรม %s</string>
+  <string name="climateschedule_invalidScheduleNameError">ชื่อกิจกรรมที่กำหนดเวลาไว้ไม่ถูกต้อง</string>
+  <string name="climateschedule_duplicateScheduleNameError">ชื่อกิจกรรมที่กำหนดเวลาไว้นี้มีอยู่แล้ว</string>
+  <string name="climateschedule_discardChangesWarning">คุณมีการเปลี่ยนแปลงที่ยังไม่บันทึก ยกเลิกการเปลี่ยนแปลงหรือไม่</string>
+  <string name="climateschedule_discard">ยกเลิก</string>
+  <string name="climateschedule_saveChangesWarning">ต้องการบันทึกการเปลี่ยนแปลงหรือไม่</string>
+  <string name="climateschedule_setpointsTitle">กำหนดจุด</string>
+  <string name="climateschedule_scheduleStatusTitle">สถานะตารางเวลา</string>
+  <string name="climateschedule_scheduleStatusItem">เปิดการกำหนดเวลาแล้ว</string>
+  <string name="climateschedule_timePicker_header">เริ่ม</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

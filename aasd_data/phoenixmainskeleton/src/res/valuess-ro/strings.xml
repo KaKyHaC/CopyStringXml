@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Phoenix</string>
+  <string name="app_home">ACASĂ</string>
+  <string name="app_rooms">ÎNCĂPERI</string>
+  <string name="app_more">Mai multe</string>
+  <string name="app_home_is_busy">Casa dvs. este ocupată, vă rugăm să așteptați</string>
+</resources>

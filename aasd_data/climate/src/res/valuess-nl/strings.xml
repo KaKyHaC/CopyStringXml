@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">KLIMAATBEHEERSING</string>
+  <string name="climate_current_temperature">HUIDIGE TEMP.</string>
+  <string name="climate_mode">MODUS</string>
+  <string name="climate_schedule">PROGRAMMA</string>
+  <string name="climate_fan">VENTILATOR</string>
+  <string name="climate_floor_heating">Vloerverwarming</string>
+  <string name="climate_humidity_controls">VOCHTIGHEIDSCONTROLES</string>
+  <string name="climate_humidify">BEVOCHTIGEN NAAR</string>
+  <string name="climate_floor_control">Vloerbediening</string>
+  <string name="climate_currentHumidity_title">Huidige vochtigheid</string>
+  <string name="climate_humidityControl_title">Vochtigheidsregeling</string>
+</resources>

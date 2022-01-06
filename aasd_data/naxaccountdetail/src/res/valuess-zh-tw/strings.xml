@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">帳戶</string>
+  <string name="naxaccountdetail_edit_name">編輯名稱</string>
+  <string name="naxaccountdetail_signIn">登入</string>
+  <string name="naxaccountdetail_remove">移除</string>
+  <string name="naxaccountdetail_remove_yes">是的，刪除</string>
+  <string name="naxaccountdetail_removeAccount_warning">Crestron Home （快思聰智家）將不再訪問此 %s 帳戶。\n\n 是否要繼續？</string>
+</resources>

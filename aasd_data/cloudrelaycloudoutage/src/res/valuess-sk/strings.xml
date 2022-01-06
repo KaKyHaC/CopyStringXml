@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">Cloudové pripojenie je nefunkčné...</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">V tomto okamihu nie je možné načítať ovládacie prvky domovskej obrazovky. Aj keď je cloudové pripojenie dočasne nefunkčné, pokiaľ ste pripojení na lokálnom protokole WAP, môžete sa stále pripojiť lokálne.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">Pokus o lokálne pripojenie</string>
+</resources>

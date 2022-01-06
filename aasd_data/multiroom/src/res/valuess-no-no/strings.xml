@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">Et enkeltrom er valgt</string>
+  <string name="multiroom_singleRoomDescription">Du kan lytte til den samme musikken i mer enn ett rom i hjemmet ditt.</string>
+  <string name="multiroom_playInMultipleRooms">Spill i flere rom</string>
+  <string name="multiroom_manageRoomsAndGroups">Administrer rom og grupper</string>
+  <string name="multiroom_sourceNotPlaying">Kilden spilles ikke</string>
+</resources>

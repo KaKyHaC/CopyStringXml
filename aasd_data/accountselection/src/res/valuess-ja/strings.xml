@@ -1,0 +1,5 @@
+<resources>
+  <string name="account_selection_account_select">アカウント選択</string>
+  <string name="account_selection_add_account">別のアカウントを追加しますか？</string>
+  <string name="account_selection_go_provider_account">プロバイダーのアカウント設定ページに移動します</string>
+</resources>

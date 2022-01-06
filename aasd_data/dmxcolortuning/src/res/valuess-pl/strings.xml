@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Ustawienia koloru</string>
+  <string name="dmxroomselection_controlsTitle">STEROWANIE</string>
+  <string name="dmxcolortuning_description">Zdefiniuj ustawienia podstawowe dla tego pomieszczenia. Dzięki ustawieniom podstawowym możesz zdefiniować żądany kolor i temperaturę dla opraw oświetleniowych.\n\n Suwaki i przełączniki intensywności pomagają w wizualizacji koloru. Nie są zapisywane w ustawieniach podstawowych.</string>
+</resources>

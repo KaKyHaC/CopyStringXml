@@ -1,0 +1,16 @@
+<resources>
+  <string name="claimaddhome_friendlyNameOrLocation">Kutsumanimi/sijainti</string>
+  <string name="claimaddhome_ipAddressOrHostName">IP-osoite/isäntänimi</string>
+  <string name="claimaddhome_password">Käyttöliittymän salasana</string>
+  <string name="claimaddhome_connect">Yhdistä</string>
+  <string name="claimaddhome_addTitle">Add new home</string>
+  <string name="claimaddhome_addSubtitle">Enter details about your new Crestron home and tap Connect to get started.</string>
+  <string name="claimaddhome_editTitle">Edit %s</string>
+  <string name="claimaddhome_editSubtitle">Edit details about your Crestron home.</string>
+  <string name="claimaddhome_errorNotEmpty">Please enter %s to continue.</string>
+  <string name="claimaddhome_errorGeneral">Yhdistäminen tähän kotiin epäonnistui.</string>
+  <string name="claimaddhome_incorrectPassword">Väärä salasana.</string>
+  <string name="claimaddhome_localConnectionSettings">LOCAL CONNECTION SETTINGS</string>
+  <string name="claimaddhome_discover">Discover</string>
+  <string name="claimaddhome_invalidPasswordPopUp">The password has been changed, re-enter the new password for %s</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Perioadă de estompare</string>
+  <string name="sceneFadeTime_header">setați timpul de estompare a luminii</string>
+</resources>

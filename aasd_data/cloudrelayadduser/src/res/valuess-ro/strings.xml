@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">desemnați rolul utilizatorului</string>
+  <string name="cloudrelayadduser_user">Utilizator</string>
+  <string name="cloudrelayadduser_owner">Proprietar</string>
+  <string name="cloudrelayadduser_username">Nume de utilizator</string>
+  <string name="cloudrelayadduser_email">adresă de e-mail </string>
+  <string name="cloudrelayadduser_yes">Da</string>
+  <string name="cloudrelayadduser_no">Nu</string>
+  <string name="cloudrelayadduser_invite_warning">Nu ați finalizat trimiterea invitațiilor. Continuați să editați?</string>
+  <string name="cloudrelayadduser_send_invite">Trimiteți invitație</string>
+  <string name="cloudrelayadduser_invite_sent">Invitație trimisă.</string>
+  <string name="cloudrelayadduser_add_new_user">Adăugați un utilizator nou</string>
+</resources>

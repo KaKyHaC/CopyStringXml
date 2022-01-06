@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">priradenie roly používateľa</string>
+  <string name="cloudrelaymemberdetail_user">Používateľ</string>
+  <string name="cloudrelaymemberdetail_owner">Vlastník</string>
+  <string name="cloudrelaymemberdetail_remove_user">Odstrániť používateľa</string>
+  <string name="cloudrelaymemberdetail_house_access">Prístup do domu</string>
+  <string name="cloudrelaymemberdetail_enable_access">Povolenie prístupu</string>
+  <string name="cloudrelaymemberdetail_remove">Odstrániť</string>
+  <string name="cloudrelaymemberdetail_cancel">Zrušiť</string>
+  <string name="cloudrelaymemberdetail_remove_warning">Naozaj chcete odstrániť tohto používateľa?</string>
+</resources>

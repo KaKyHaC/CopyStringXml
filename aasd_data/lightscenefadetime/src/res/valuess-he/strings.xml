@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">זמן עמעום</string>
+  <string name="sceneFadeTime_header">הגדיר את זמן דהיית התאורה</string>
+</resources>

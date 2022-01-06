@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Új téma létrehozása</string>
+  <string name="lightSceneCreate_add_lights">Világítás hozzáadása</string>
+  <string name="lightSceneCreate_add_more_lights">További világítások hozzáadása</string>
+  <string name="lightSceneCreate_save">Mentés</string>
+  <string name="lightSceneCreate_set_scene_options">JELENETBEÁLLÍTÁSOK MEGADÁSA</string>
+  <string name="lightSceneCreate_fade_time">Halványulás ideje</string>
+  <string name="lightSceneCreate_scene_visibility">Téma láthatósága</string>
+  <string name="lightSceneCreate_subtitle_template">%d /%d JELENET</string>
+</resources>

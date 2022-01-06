@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">назначить роль пользователя</string>
+  <string name="cloudrelaymemberdetail_user">Пользователь</string>
+  <string name="cloudrelaymemberdetail_owner">Владелец</string>
+  <string name="cloudrelaymemberdetail_remove_user">Удалить пользователя</string>
+  <string name="cloudrelaymemberdetail_house_access">Доступ к дому</string>
+  <string name="cloudrelaymemberdetail_enable_access">Разрешить доступ</string>
+  <string name="cloudrelaymemberdetail_remove">Удалить</string>
+  <string name="cloudrelaymemberdetail_cancel">Отмена</string>
+  <string name="cloudrelaymemberdetail_remove_warning">Вы уверены, что хотите удалить этого пользователя?</string>
+</resources>

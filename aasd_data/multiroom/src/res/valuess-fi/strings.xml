@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">A single room is selected</string>
+  <string name="multiroom_singleRoomDescription">You can listen to the same music in more than one room in your home.</string>
+  <string name="multiroom_playInMultipleRooms">Play in multiple rooms</string>
+  <string name="multiroom_manageRoomsAndGroups">Manage rooms and groups</string>
+  <string name="multiroom_sourceNotPlaying">Source not playing</string>
+</resources>

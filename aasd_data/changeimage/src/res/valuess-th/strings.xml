@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">ย้ายและปรับขนาด</string>
+  <string name="changeimage_cellularWarning">เมื่อไม่ได้เชื่อมต่อผ่าน Wi-Fi การอัปโหลดรูปอาจใช้เวลานานขึ้นอย่างชัดเจน</string>
+  <string name="changeimage_cancel">ยกเลิก</string>
+  <string name="changeimage_choose">เลือก</string>
+</resources>

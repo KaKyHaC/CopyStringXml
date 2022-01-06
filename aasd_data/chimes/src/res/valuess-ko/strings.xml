@@ -1,0 +1,6 @@
+<resources>
+  <string name="chime_name">차임벨 소리</string>
+  <string name="chime_toolbar">차고 도어벨</string>
+  <string name="chime_back_description">이벤트 돌아가기 버튼</string>
+  <string name="chime_assign_sounds">사운드 할당</string>
+</resources>

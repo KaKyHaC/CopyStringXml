@@ -1,0 +1,6 @@
+<resources>
+  <string name="naxaccountedit_editTitle">Redigera kontonamn</string>
+  <string name="naxaccountedit_accountLabel">KONTO</string>
+  <string name="naxaccountedit_editNameLabel">NAMN</string>
+  <string name="naxaccountedit_done">Klart</string>
+</resources>

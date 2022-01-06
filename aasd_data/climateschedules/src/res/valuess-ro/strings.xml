@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">Evenimente programate</string>
+  <string name="climateschedules_noSchedulesTitle">Nu sunt evenimente programate</string>
+  <string name="climateschedules_noSchedulesDescription">Automatizați termostatele și creați evenimente personalizate programate pentru fiecare termostat.</string>
+  <string name="climateschedules_emptyLayout_createNew">Creați un nou eveniment programat</string>
+  <string name="climateschedules_createNew">+ Creați un nou eveniment programat</string>
+</resources>

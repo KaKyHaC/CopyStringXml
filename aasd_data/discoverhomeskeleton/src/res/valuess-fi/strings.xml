@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">YRITÄ UUDELLEEN</string>
+  <string name="discoverhome_discovering">Discovering</string>
+  <string name="discoverhome_notCompatibleMessage">PYNG IS NOT COMPATIBLE WITH CRESTRON HOME</string>
+  <string name="discoverhome_titleFound">Tästä verkosta löydetyt kodit</string>
+  <string name="discoverhome_titleNotFound">Uusia koteja ei löydetty</string>
+  <string name="discoverhome_subtitleFound">Valitse koti aloittaaksesi lisäämisprosessin.</string>
+  <string name="discoverhome_subtitleNotFound">There are no homes available on this network. Please check your network connection and try again.</string>
+</resources>

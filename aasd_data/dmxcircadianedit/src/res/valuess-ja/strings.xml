@@ -1,0 +1,17 @@
+<resources>
+  <string name="circadianEdit_title">24時間周期を編集します</string>
+  <string name="circadianEdit_description">
+電灯は、人間の概日リズムへの影響を最小限に抑えることで、人間の健康をサポートする方法で使用できます。
+</string>
+  <string name="circadianEdit_transitionsCategory">ライトの転移点を編集します</string>
+  <string name="circadianEdit_previewTransitionButton_start">24時間周期の転移を下見します</string>
+  <string name="circadianEdit_previewTransitionButton_end">概日移行プレビューを終了
+</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">朝</string>
+  <string name="circadianEdit_dayTransition">昼間</string>
+  <string name="circadianEdit_eveningTransition">夕方</string>
+  <string name="circadianEdit_nightTransition">夜</string>
+  <string name="circadianEdit_minTime">午前12時</string>
+  <string name="circadianEdit_maxTime">午後11時59分</string>
+</resources>

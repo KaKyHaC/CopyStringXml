@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelay_onboarding_sign_up">Melde deg på</string>
+  <string name="cloudrelay_onboarding_not_now">Ikke nå</string>
+  <string name="cloudrelay_onboarding_trouble_sign_in">Problemer med å logge inn?</string>
+  <string name="cloudrelay_onboarding_yes_let_begin">Ja, la oss begynne</string>
+  <string name="cloudrelay_connect_user_roles">Brukerroller og tilgang</string>
+  <string name="cloudrelay_onboarding_cancel">AVBRYT</string>
+  <string name="cloudrelay_onboarding_continue">Fortsette</string>
+  <string name="cloudrelay_onboarding_waring">Vi forstår at du ikke er klar til å registrere deg akkurat nå. Du kan gjøre dette på et senere tidspunkt.</string>
+  <string name="cloudrelay_connect_user_roles_description">Som huseier gi enkelt tilgang til personer du stoler på og angi brukerroller. Oppheve privilegier når du vil...</string>
+  <string name="cloudrelay_connect_anywhere_securely">Koble sikkert hvor som helst</string>
+  <string name="cloudrelay_connect_anywhere_securely_description">Vi har utviklet vår mest sikre fjerntilkoblede opplevelse noensinne for ditt Crestron Home. Koble til og kontroller hjemmet ditt sikkert fra hvor som helst.</string>
+</resources>

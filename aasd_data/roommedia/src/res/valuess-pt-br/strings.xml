@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">Remoto</string>
+  <string name="roommedia_more">Mais</string>
+  <string name="roommedia_playing">Em reprodução</string>
+  <string name="roommedia_browse">Navegar</string>
+  <string name="roommedia_multiRoom">Multi-quarto</string>
+  <string name="roommedia_favorites">Favoritos</string>
+  <string name="roommedia_keypad">Teclado</string>
+  <string name="roommedia_media">Mídia</string>
+  <string name="roommedia_warmingUp">AQUECENDO</string>
+  <string name="roommedia_coolingDown">ARREFECENDO</string>
+  <string name="roommedia_roomVideo">%s vídeo</string>
+  <string name="roommedia_limitedControl">CONTROLE LIMITADO. CONECTANDO...</string>
+  <string name="roommedia_someRoomsAreOff">ALGUNS QUARTOS ESTÃO DESLIGADOS</string>
+  <string name="roommedia_openInSonos">Abrir em Sonos</string>
+  <string name="roommedia_account_status">Não está conectado</string>
+  <string name="roommedia_noNowPlayingInformation">Nada está em reprodução</string>
+  <string name="roommedia_noAccountSelected">Selecionar conta</string>
+  <string name="roommedia_pduPr_dialogHeader">Deseja desligar e ligar este dispositivo?</string>
+  <string name="roommedia_pduPr_dialogMessage">Pode demorar alguns minutos para iniciar o backup.</string>
+  <string name="roommedia_pduPr_digPowerCycle">Ciclo de energia</string>
+  <string name="roommedia_pduPr_digCancel">CANCELAR</string>
+  <string name="roommedia_pduPr_toastMessage">Sem ação rápida para o ciclo de energia</string>
+</resources>

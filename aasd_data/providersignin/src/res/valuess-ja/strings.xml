@@ -1,0 +1,13 @@
+<resources>
+  <string name="providersignin_enter_name">ユーザー名を入力して下さい</string>
+  <string name="providersignin_enter_password">パスワードを入力してください</string>
+  <string name="providersignin_description">
+このサブスクリプションを追加するには、％sアカウントにサインインしてください。</string>
+  <string name="providersignin_user_name">ユーザー名</string>
+  <string name="providersignin_password">パスワード</string>
+  <string name="providersignin_title">サインイン</string>
+  <string name="providersignin_save_user">
+ユーザーを保存しています...</string>
+  <string name="providersignin_account_added">追加されたアカウント　</string>
+  <string name="providersignin_login_failed">ログインに失敗しました。</string>
+</resources>

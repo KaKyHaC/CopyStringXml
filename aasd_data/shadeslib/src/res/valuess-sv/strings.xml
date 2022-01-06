@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">Rullgardiner</string>
+  <string name="shadeslib_all_shades_closed">STÄNGD</string>
+  <string name="shadeslib_all_shades_opened">ÖPPEN</string>
+  <string name="shadeslib_shades_title">%s rullgardiner</string>
+  <string name="shadeslib_shade_state_with_tilt">MED %s%% LUTNING</string>
+  <string name="shadeslib_shades_status_opened">Rullgardiner är öppna.</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (DELVIS OFFLINE)</string>
+  <string name="shadeslib_position_open">%d%% ÖPPNA</string>
+  <string name="shadeslib_shades_closed">STÄNGD</string>
+  <string name="shadeslib_shades_open">ÖPPEN</string>
+  <string name="shadeslib_shades_opening">ÖPPNAR...</string>
+  <string name="shadeslib_shades_closing">STÄNGER...</string>
+</resources>

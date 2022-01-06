@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">لم يتم العثور على شبكة!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">يرجى التحقق من كابلات الإيثرنت أو التوصيل لاسلكيًا.</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">الاتصال بنقطة وصول وايفاي</string>
+</resources>

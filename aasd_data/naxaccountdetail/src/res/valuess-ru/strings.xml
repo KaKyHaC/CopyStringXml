@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">Учетная запись</string>
+  <string name="naxaccountdetail_edit_name">Редактировать название</string>
+  <string name="naxaccountdetail_signIn">Войти</string>
+  <string name="naxaccountdetail_remove">Удалить</string>
+  <string name="naxaccountdetail_remove_yes">Да, удалить</string>
+  <string name="naxaccountdetail_removeAccount_warning">Эта учетная запись %s больше не будет доступна для Crestron Home.\n\n Вы хотите продолжить?</string>
+</resources>

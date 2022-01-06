@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">Назначенные события</string>
+  <string name="climateschedules_noSchedulesTitle">Нет запланированных событий</string>
+  <string name="climateschedules_noSchedulesDescription">Автоматизируйте свои термостаты и создайте индивидуальные запланированные события для каждого термостата.</string>
+  <string name="climateschedules_emptyLayout_createNew">Создать новое запланированное событие</string>
+  <string name="climateschedules_createNew">+ Создать новое запланированное событие</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">가상 툴바 시간 초과</string>
+  <string name="settings_hardkey_wakes_lcd">하드키 웨이크 LCD</string>
+  <string name="settings_master_volume">마스터 볼륨</string>
+  <string name="settings_hardkey_behavior">위/아래 패널 버튼 동작</string>
+  <string name="settings_hardkey_no_function">기능 없음</string>
+  <string name="settings_hardkey_lights">조명 (룸 올리기/낮추기)</string>
+  <string name="settings_hardkey_shades">빛 가리개 (룸 올리기/낮추기)</string>
+  <string name="settings_hardkey_media">미디어 (룸 볼륨 증가/볼륨 감소)</string>
+  <string name="settings_advanced_settings_toolbar">고급 설정</string>
+</resources>

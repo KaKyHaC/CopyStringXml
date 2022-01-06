@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">チャンネルアイテムの画像 </string>
+  <string name="tvpresetsfavorite_favoritesChannels">お気に入り </string>
+  <string name="tvpresetsfavorite_favoritesList">お気に入りメディアのリスト </string>
+  <string name="tvpresetsfavorite_favoritesMore">もっとお気に入りのメディア </string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">グループを編集する </string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">お気に入りのグループを変更する </string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">新しいグループを作る </string>
+  <string name="tvpresetsfavorite_nowPlaying">実行中 </string>
+  <string name="tvpresetsfavorite_upNext">次にアップする </string>
+  <string name="tvpresetsfavorite_noInformation">情報がありません </string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-　</string>
+  <string name="tvpresetsfavorite_emptyPreset">お気に入りのチャンネルを追加するには\"⋯\" をタップしてください。 </string>
+  <string name="tvpresetsfavorite_noProvider">プロバイダーを選択していないので、お気に入りのチャンネルはありません。 </string>
+</resources>

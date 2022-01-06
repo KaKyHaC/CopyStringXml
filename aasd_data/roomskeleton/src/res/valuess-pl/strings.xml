@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">Szybkie działania</string>
+  <string name="room_room_services">USŁUGI POKOJOWE</string>
+  <string name="renameroomgroup_popupCancelButton">Anuluj</string>
+  <string name="renameroomgroup_popupCreateButton">Zmień nazwę</string>
+  <string name="renameroomgroup_popupTitle">Zmień nazwę pokoju</string>
+</resources>

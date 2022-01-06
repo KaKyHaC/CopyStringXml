@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">Bienvenido a su hogar</string>
+  <string name="termsofuse_subtitle_one">En Crestron, valoramos mucho su privacidad. Lea la Declaración de privacidad de Crestron\ en el enlace que aparece abajo para ver los tipos de información que podemos recolectar. Si desea cambiar los ajustes de privacidad de su sistema para permitir o no permitir la recolección de información, comuníquese con su distribuidor autorizado de Crestron o con el Proveedor de servicios de Crestron o con Crestron Electronics, Inc. en %s.</string>
+  <string name="termsofuse_subtitle_two">Para seguir detectando el hogar, acepte lo siguiente:</string>
+  <string name="termsofuse_agreeAndContinue">Aceptar y continuar</string>
+  <string name="termsofuse_termsOfUse">Condiciones de uso de las aplicaciones para móvil</string>
+  <string name="termsofuse_privacyStatement">Declaración de privacidad</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">Acepto la %s y %s de Crestron\.</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+  <string name="lightslib_lights">ライト</string>
+  <string name="lightslib_lights_title">%s 照明　　</string>
+  <string name="lightslib_lights_status_on">ライトが点灯しています。</string>
+  <string name="lightslib_lights_turning_off">スイッチを切る　　</string>
+  <string name="lightslib_lights_turning_on">スイッチを入れる　</string>
+  <string name="lightslib_add_lights_title"> \”％”に照明を追加する　</string>
+  <string name="lightslib_controlsTitle">コントロール　</string>
+  <string name="lightslib_sceneNameScene">%s シーン　</string>
+  <string name="lightslib_tunableLightNotFound">何らかの不調。この照明の負荷を見つけられません。</string>
+  <string name="lightslib_percentageUnit">%　</string>
+  <string name="lightslib_degreeKelvinUnit">K　</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">共通の基本設定で保存しますか。　</string>
+  <string name="lightslib_whiteTuningProgressLost">この照明の基本設定を保存しますか。　</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">これらの設定をこの部屋に適用していいのですか？</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">この設定は、以前に適用された他の設定より優先されます。</string>
+  <string name="lightslib_saveTunableSettingsError">想定外のエラーが発生しました。調節可能な設定を保存できませんでした。　</string>
+  <string name="lightslib_saveTunableSettingsSuccess">調整可能設定の保存に成功しました。　</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">想定外のエラーが発生しました。部屋の全照明に調整可能設定を設定できませんでした。　</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">部屋のすべてのライトに調整可能設定の設定に成功しました。　</string>
+  <string name="lightslib_saveAsGlobalSettings">グローバルなベースラインの設定として保存します</string>
+  <string name="lightslib_save">保存
+</string>
+  <string name="lightslib_circadianSettingsProgressLost">24時間周期の現在の設定を保存しますか。　</string>
+  <string name="lightslib_saveCircadianSettingsError">想定外のエラーが発生しました。24時間周期の設定は保存できませんでした。　</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">24時間周期の設定の保存に成功しました。　</string>
+  <string name="lightslib_morningCircadianTitle">朝: 午前7時, %dK　</string>
+  <string name="lightslib_noonCircadianTitle">正午 %dK　</string>
+  <string name="lightslib_eveningCircadianTitle">夕方: 午後7時, %dK　</string>
+  <string name="lightslib_nightCircadianTitle">夜: 午前10時45分, %dK　</string>
+  <string name="lightslib_deleteFavorite_confirmation">削除したお気に入りの色。　</string>
+  <string name="lightslib_addFavorite_confirmation">追加したお気に入りの色。　</string>
+</resources>

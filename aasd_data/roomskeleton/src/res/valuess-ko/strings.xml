@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">빠른 조치</string>
+  <string name="room_room_services">룸 서비스</string>
+  <string name="renameroomgroup_popupCancelButton">취소</string>
+  <string name="renameroomgroup_popupCreateButton">이름 변경</string>
+  <string name="renameroomgroup_popupTitle">룸 이름 변경</string>
+</resources>

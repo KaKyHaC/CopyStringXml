@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">ฉาก</string>
+  <string name="pool_setTo">ตั้งค่าไปที่</string>
+  <string name="pool_controls">ควบคุม</string>
+  <string name="pool_off">ปิด</string>
+  <string name="pool_low">ต่ำ</string>
+  <string name="pool_med">กลาง</string>
+  <string name="pool_high">สูง</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">ไม่มีการควบคุมที่ใช้ได้</string>
+</resources>

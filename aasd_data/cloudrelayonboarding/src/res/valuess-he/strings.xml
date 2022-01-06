@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelay_onboarding_sign_up">הירשם</string>
+  <string name="cloudrelay_onboarding_not_now">לא כעת</string>
+  <string name="cloudrelay_onboarding_trouble_sign_in">בעיה בכניסה?</string>
+  <string name="cloudrelay_onboarding_yes_let_begin">כן, נתחיל</string>
+  <string name="cloudrelay_connect_user_roles">תפקידי משתמש וגישה</string>
+  <string name="cloudrelay_onboarding_cancel">בטל</string>
+  <string name="cloudrelay_onboarding_continue">המשך</string>
+  <string name="cloudrelay_onboarding_waring">אנו מבינים שאינך מוכן להירשם עכשיו. אתה יכול לעשות זאת במועד מאוחר יותר.</string>
+  <string name="cloudrelay_connect_user_roles_description">כבעל בית תעניק גישה בקלות לאנשים שאתה סומך עליהם ותקבע תפקידי משתמש. תשלול הרשאות מתי שתרצה...</string>
+  <string name="cloudrelay_connect_anywhere_securely">התחבר לכל מקום בצורה מאובטחת</string>
+  <string name="cloudrelay_connect_anywhere_securely_description">פיתחנו את החוויה המאובטחת ביותר שלנו בחיבור מרחוק אי פעם עבור בית Crestron שלך. התחבר ושלוט בצורה מאובטחת בבית שלך מכל מקום.</string>
+</resources>

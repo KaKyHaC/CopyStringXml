@@ -1,0 +1,19 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">Aktualizovať svoje informácie</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">Odhlásiť sa zo všetkých zariadení</string>
+  <string name="cloud_relay_user_detail_sign_out">Odhlásiť sa</string>
+  <string name="cloud_relay_user_detail_delete_account">Vymazať konto</string>
+  <string name="cloud_relay_user_detail_edit_name">Upraviť názov</string>
+  <string name="cloud_relay_user_detail_change_email">Zmeniť e-mail</string>
+  <string name="cloud_relay_user_detail_change_password">Zmeniť heslo</string>
+  <string name="cloud_relay_user_detail_change_phone_number">Zmena telefónneho čísla</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">Ťuknutím na možnosť „Áno“ sa postupne odhlásite zo všetkých zariadení, do ktorých ste prihlásení pomocou tohto konta. Systém odhlási všetky relácie v priebehu 1 až 60 minút.</string>
+  <string name="cloud_relay_user_detail_sign_out_user">Naozaj sa chcete odhlásiť?</string>
+  <string name="cloud_relay_user_detail_delete_user_account">Naozaj chcete vymazať konto?</string>
+  <string name="cloud_relay_user_detail_account_deleted">Konto je vymazané</string>
+  <string name="cloud_relay_user_detail_user_signed_out">
+Ste odhlásený</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">Vymazanie konta potrvá približne 15 sekúnd. Ak používate to isté konto, skúste sa prihlásiť po 15 sekundách.</string>
+  <string name="cloud_relay_user_detail_no">Nie</string>
+  <string name="cloud_relay_user_detail_yes">Áno</string>
+</resources>

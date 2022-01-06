@@ -1,0 +1,14 @@
+<resources>
+  <string name="cloudrelay_onboarding_sign_up">Zaregistrovať sa</string>
+  <string name="cloudrelay_onboarding_not_now">Teraz nie</string>
+  <string name="cloudrelay_onboarding_trouble_sign_in">Máte problémy s prihlásením?</string>
+  <string name="cloudrelay_onboarding_yes_let_begin">Áno, môžeme začať</string>
+  <string name="cloudrelay_connect_user_roles">	
+Používateľské roly a prístup</string>
+  <string name="cloudrelay_onboarding_cancel">Zrušiť</string>
+  <string name="cloudrelay_onboarding_continue">Pokračovať</string>
+  <string name="cloudrelay_onboarding_waring">Rozumieme, že momentálne nie ste pripravení sa zaregistrovať. Môžete to urobiť neskôr.</string>
+  <string name="cloudrelay_connect_user_roles_description">Ako majiteľ domácnosti môžete ľahko udeliť prístup dôveryhodným osobám a nastaviť používateľské roly. Odoberte oprávnenia, kedykoľvek budete chcieť...</string>
+  <string name="cloudrelay_connect_anywhere_securely">Bezpečné pripojenie odkiaľkoľvek</string>
+  <string name="cloudrelay_connect_anywhere_securely_description">Pre váš systém Crestron Home sme vyvinuli doteraz najbezpečnejšie pripojenie na diaľku. Pripojte sa a bezpečne ovládajte svoju domácnosť odkiaľkoľvek.</string>
+</resources>

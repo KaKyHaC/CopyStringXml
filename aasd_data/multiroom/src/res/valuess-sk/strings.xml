@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">Je vybraná jedna izba</string>
+  <string name="multiroom_singleRoomDescription">Tú istú hudbu môžete počúvať vo viacerých miestnostiach vo svojej domácnosti.</string>
+  <string name="multiroom_playInMultipleRooms">Prehrávanie vo viacerých miestnostiach</string>
+  <string name="multiroom_manageRoomsAndGroups">Spravovať miestnosti a skupiny</string>
+  <string name="multiroom_sourceNotPlaying">Zdroj sa neprehráva</string>
+</resources>

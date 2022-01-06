@@ -1,0 +1,5 @@
+<resources>
+  <string name="landing_screen_discover_home">Otthon felfedezése</string>
+  <string name="landing_screen_add_manually">Manuális hozzáadás</string>
+  <string name="landing_screen_waps_selection_button_title">Csatlakozás Wi-Fi hozzáférési ponthoz</string>
+</resources>

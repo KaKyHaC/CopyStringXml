@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">מחובר</string>
+  <string name="connectivitybar_disconnectedStatus">מתחברים לבית...</string>
+</resources>

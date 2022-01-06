@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Vytvoriť nové prostredie</string>
+  <string name="lightSceneCreate_add_lights">Všetky svetlá</string>
+  <string name="lightSceneCreate_add_more_lights">Pridanie ďalších svetiel</string>
+  <string name="lightSceneCreate_save">Uložiť</string>
+  <string name="lightSceneCreate_set_scene_options">NASTAVIŤ MOŽNOSTI PROSTREDIA</string>
+  <string name="lightSceneCreate_fade_time">Čas zoslabenia</string>
+  <string name="lightSceneCreate_scene_visibility">Viditeľnosť prostredia</string>
+  <string name="lightSceneCreate_subtitle_template">%d %d Z PROSTREDÍ</string>
+</resources>

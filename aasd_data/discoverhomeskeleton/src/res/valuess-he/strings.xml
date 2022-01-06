@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">נסה שוב</string>
+  <string name="discoverhome_discovering">גילוי</string>
+  <string name="discoverhome_notCompatibleMessage">PYNG אינו תואם עם CRESTRON HOME</string>
+  <string name="discoverhome_titleFound">בתים שנמצאו ברשת זו</string>
+  <string name="discoverhome_titleNotFound">לא נמצאו בתים חדשים</string>
+  <string name="discoverhome_subtitleFound">אנא בחר את הבית כדי להתחיל בתהליך ההוספה.</string>
+  <string name="discoverhome_subtitleNotFound">אין בתים זמינים ברשת זו. אנא בדוק את חיבור הרשת שלך ונסה שוב.</string>
+</resources>

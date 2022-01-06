@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Geben Sie Ihren Benutzernamen ein</string>
+  <string name="providersignin_enter_password">Geben Sie Ihr Passwort ein</string>
+  <string name="providersignin_description">Bitte melden Sie sich bei Ihrem %s-Konto an, um dieses Abonnement hinzuzufügen.</string>
+  <string name="providersignin_user_name">BENUTZERNAME</string>
+  <string name="providersignin_password">PASSWORT</string>
+  <string name="providersignin_title">Anmelden</string>
+  <string name="providersignin_save_user">Speichere Benutzer...</string>
+  <string name="providersignin_account_added">Konto hinzugefügt</string>
+  <string name="providersignin_login_failed">Anmeldung fehlgeschlagen.</string>
+</resources>

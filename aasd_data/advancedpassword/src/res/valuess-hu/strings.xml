@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Helytelen jelszó</string>
+  <string name="advancedpassword_passwordHint">Adja meg a jelszót az ütemezett események szerkesztéséhez.</string>
+  <string name="advancedpassword_settingsPasswordHint">Ez egy védett rész, kérjük, először adja meg a jelszót.</string>
+  <string name="advancedpassword_editScenesPasswordHint">Ez egy védett rész, kérjük, először adja meg a jelszót.</string>
+  <string name="advancedpassword_title">Jelszó megadása</string>
+  <string name="advancedpassword_advancedUserPassword">Speciális felhasználói jelszó</string>
+  <string name="advancedpassword_advancedUserPasswordHint">A speciális felhasználói jelszójáért lépjen kapcsolatba a jogosult Crestron márkakereskedőjével.</string>
+  <string name="advancedpassword_warning_ok">ok</string>
+  <string name="advancedpassword_warning_subtitle">Ha több alkalommal is hibás jelszót ad meg, a rendszer a fiókját ideiglenesen letiltja. Próbálja meg újra egy kicsit később vagy lépjen kapcsolatba a jogosult Crestron márkakereskedőjével.</string>
+  <string name="advancedpassword_warning_title">Hibás jelszót adott meg.</string>
+  <string name="advancedpassword_cloud_claim_hint">Az otthona felfedezésének folytatásához adjon meg egy speciális felhasználói jelszót. A speciális felhasználói jelszójáért lépjen kapcsolatba a jogosult Crestron márkakereskedőjével.</string>
+  <string name="advancedpassword_cloud_claim_skip">Jelenleg %s és megnyithatja az otthonát speciális felhasználói jelszó használata nélkül.</string>
+  <string name="advancedpassword_skip_this_step">lépés átugrása</string>
+</resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">개발자 옵션 사용 가능</string>
+  <string name="reset_logging_after_24_hours">24시간 이후 로깅 재설정</string>
+  <string name="developer_options">개발자 옵션</string>
+  <string name="logging_level">로깅 수준</string>
+  <string name="logging">로깅</string>
+  <string name="network_logging">네트워크 로깅</string>
+  <string name="detailed_logging">상세 로깅</string>
+</resources>

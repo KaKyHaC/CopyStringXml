@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">Controles</string>
+  <string name="circadianLights_saveButtonText">Huidige instellingen opslaan als circadiaanse cyclus</string>
+</resources>

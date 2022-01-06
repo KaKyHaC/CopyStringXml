@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">Elementos de oscurecimiento</string>
+  <string name="shadeslib_all_shades_closed">CERRADO</string>
+  <string name="shadeslib_all_shades_opened">ABIERTO</string>
+  <string name="shadeslib_shades_title">%s Oscurecimientos</string>
+  <string name="shadeslib_shade_state_with_tilt">CON INCLINACIÓN %d%%</string>
+  <string name="shadeslib_shades_status_opened">Los elementos de oscurecimiento están abiertos.</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (PARCIALMENTE DESCONECTADO)</string>
+  <string name="shadeslib_position_open">%d%% ABIERTO</string>
+  <string name="shadeslib_shades_closed">CERRADO</string>
+  <string name="shadeslib_shades_open">ABIERTO</string>
+  <string name="shadeslib_shades_opening">ABRIENDO...</string>
+  <string name="shadeslib_shades_closing">CERRANDO...</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changecolormode_title">Zmeniť motív</string>
+  <string name="changecolormode_systemMode">Systémový režim</string>
+  <string name="changecolormode_lightMode">Svetelný režim</string>
+  <string name="changecolormode_darkMode">Tmavý režim</string>
+</resources>

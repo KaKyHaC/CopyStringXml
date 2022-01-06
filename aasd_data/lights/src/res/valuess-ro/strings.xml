@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">SCENE</string>
+  <string name="lights_controlsTitle">COMENZI</string>
+  <string name="lights_controlsMasterControl">TOATE LUMINILE</string>
+  <string name="create_new_scene">Creați o scenă nouă</string>
+  <string name="lights_noScenesInfo">Această cameră nu\ pare să aibă scene de iluminare vizibile.</string>
+</resources>

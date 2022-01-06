@@ -1,0 +1,6 @@
+<resources>
+  <string name="rooms_title">Rum</string>
+  <string name="room_groups_choose_room_filter">Välj rumsfilter</string>
+  <string name="rooms">Rum</string>
+  <string name="rooms_no_rooms_visible">Det finns inga andra rum i huset.</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">设置返回按钮</string>
+  <string name="touchPanelsettings_toolbar">设置</string>
+  <string name="touchPanelsettings_toolbar_default_room">默认房间</string>
+  <string name="touchPanelsettings_room_list">房间列表</string>
+  <string name="touchPanelsettings_display">显示器</string>
+  <string name="touchPanelsettings_automode_brightness">自动模式亮度</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">显示超时</string>
+  <string name="touchPanelsettings_screensaver">屏幕保护程序</string>
+  <string name="touchPanelsettings_media_volume">媒体音量</string>
+  <string name="touchPanelsettings_home">房间</string>
+  <string name="touchPanelsettings_advanced_settings">高级设置</string>
+  <string name="touchPanelsettings_edit_home">编辑房屋</string>
+  <string name="touchPanelsettings_info">信息</string>
+  <string name="touchPanelsettings_firmware_version">固件版本</string>
+  <string name="touchPanelsettings_ui_version">用户界面版本</string>
+  <string name="touchPanelsettings_volume">音量</string>
+  <string name="touchPanelsettings_edit_home_popup_message">只有在您的Crestron经销商有指示的情况下才更改这些设置</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">继续</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">取消</string>
+  <string name="touchPanelsettings_timeout_text_never">从不</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s秒</string>
+  <string name="touchPanelsettings_timeout_text_minute">1分钟</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s分钟</string>
+  <string name="touchPanelsettings_timeout_text_hour">1小时</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s小时</string>
+  <string name="touchPanelsettings_access_points">WiFi接入点</string>
+  <string name="touchPanelsettings_intercom">对讲机和中断</string>
+  <string name="touchPanelsettings_do_not_disturb">请勿打扰</string>
+  <string name="touchPanelsettings_play_test">播放测试</string>
+  <string name="touchPanelsettings_speakervolume_label">扬声器音量</string>
+</resources>

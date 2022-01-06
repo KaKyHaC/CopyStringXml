@@ -1,0 +1,12 @@
+<resources>
+  <string name="cloud_relay_users_you">君は</string>
+  <string name="cloud_relay_users_no_user">
+ユーザーは利用できません。</string>
+  <string name="cloud_relay_users_add_new_user">
++新しいユーザーを追加します</string>
+  <string name="cloud_relay_users_reclaim_home">
+この家を取り戻す
+</string>
+  <string name="cloud_relay_users_role_format">％s（保留中の招待）</string>
+  <string name="cloud_relay_users_info_unavailable">「ユーザー情報が利用できません。しばらくしてからお試しください」</string>
+</resources>

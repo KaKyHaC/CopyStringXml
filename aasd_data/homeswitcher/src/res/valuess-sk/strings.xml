@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">Moje domácnosti</string>
+  <string name="homeswitcher_addHome">Pridať</string>
+  <string name="homeswitcher_online_status">Táto domácnosť je pripojená a pripravená.\nTap to enter.</string>
+  <string name="homeswitcher_online_remote_status">Ak chcete vstúpiť, dotknite sa položky.</string>
+  <string name="homeswitcher_offline_status">Táto domácnosť je v režime OFFLINE.\n Ak chcete vstúpiť, dotknite sa položky.</string>
+  <string name="homeswitcher_offline">Režim OFFLINE.</string>
+</resources>

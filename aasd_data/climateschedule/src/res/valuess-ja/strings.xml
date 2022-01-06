@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">イベント名、例：夏の気候スケジュール</string>
+  <string name="climateschedule_scheduleNameTitleLabel">名称</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">
+新しい気候スケジュールイベント</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">スケジュールされたイベントを編集した
+</string>
+  <string name="climateschedule_scheduleActiveDays">
+アクティブな日</string>
+  <string name="climateschedule_activeDays_sunday">S</string>
+  <string name="climateschedule_activeDays_monday">M</string>
+  <string name="climateschedule_activeDays_tuesday">T</string>
+  <string name="climateschedule_activeDays_wednesday">W</string>
+  <string name="climateschedule_activeDays_thursday">T</string>
+  <string name="climateschedule_activeDays_friday">F
+</string>
+  <string name="climateschedule_activeDays_saturday">S</string>
+  <string name="climateschedule_activeDays">
+アクティブな日</string>
+  <string name="climateschedule_save">保存
+</string>
+  <string name="climateschedule_deleteSchedule">削除
+</string>
+  <string name="climateschedule_copyToAnotherThermostat">別のサーモスタットにコピーする</string>
+  <string name="climateschedule_scheduleEventError">何かが間違っていました。もう一度やり直してください。</string>
+  <string name="climateschedule_editTitle">編集</string>
+  <string name="climateschedule_deleteWarning">％sイベントを削除してもよろしいですか？</string>
+  <string name="climateschedule_invalidScheduleNameError">このスケジュールイベント名は無効です</string>
+  <string name="climateschedule_duplicateScheduleNameError">このスケジュールイベント名はすでに存在します</string>
+  <string name="climateschedule_discardChangesWarning">未保存の変更があります。変更を破棄？</string>
+  <string name="climateschedule_discard">
+破棄</string>
+  <string name="climateschedule_saveChangesWarning">
+変更を保存しますか？</string>
+  <string name="climateschedule_setpointsTitle">セットポイント</string>
+  <string name="climateschedule_scheduleStatusTitle">スケジュール状況</string>
+  <string name="climateschedule_scheduleStatusItem">スケジュールが有効
+</string>
+  <string name="climateschedule_timePicker_header">開始</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">	
+%02d</string>
+</resources>

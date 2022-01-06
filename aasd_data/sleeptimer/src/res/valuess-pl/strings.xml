@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">Ustaw wyłącznik czasowy dla wszystkich aktywnych multimediów w tym pomieszczeniu</string>
+  <string name="sleeptimer_disabledMsg">USTAW CZAS</string>
+  <string name="sleeptimer_enabledMsg">%s WYŁĄCZY SIĘ</string>
+  <string name="sleeptimer_controlTitle">LICZNIK UŚPIENIA</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

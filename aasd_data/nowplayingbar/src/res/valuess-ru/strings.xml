@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s в %s</string>
+  <string name="nowplayingbar_multiple_media">Многочисленные средства мультимедиа</string>
+  <string name="nowplayingbar_rooms">%d комнаты</string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">Регуляторы громкости недоступны</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">Включить эту медиа-комнату</string>
+</resources>

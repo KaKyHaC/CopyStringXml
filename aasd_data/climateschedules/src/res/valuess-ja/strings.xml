@@ -1,0 +1,10 @@
+<resources>
+  <string name="climateschedules_title">予定されたイベント </string>
+  <string name="climateschedules_noSchedulesTitle">予定されたイベントはありません </string>
+  <string name="climateschedules_noSchedulesDescription">
+サーモスタットを自動化し、サーモスタットごとにカスタマイズされたスケジュールされたイベントを作成します。</string>
+  <string name="climateschedules_emptyLayout_createNew">新しいスケジュールイベントを作成する
+</string>
+  <string name="climateschedules_createNew">+新しいスケジュールされたイベントを作成します
+</string>
+</resources>

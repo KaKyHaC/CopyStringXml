@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">ستتم إزالة حق الوصول من جميع المستخدمين الحاليين لهذا المنزل. يمكنك اختيار إعادة حق الوصول إلى هؤلاء المستخدمين بمجرد اكتمال المطالبة.</string>
+  <string name="cloudrelayclaim_title">الاستمرار في المطالبة</string>
+  <string name="cloudrelayclaim_continue">الاستمرار</string>
+  <string name="cloudrelayclaim_success">اضغط على زر "المستخدمون" أعلاه للبدء في منح حق الوصول إلى عائلتك وأصدقائك.</string>
+  <string name="cloudrelayclaim_warning_ok">موافق</string>
+  <string name="cloudrelayclaim_warning_subtitle">يُرجى الاتصال بوكيل Crestron للمساعدة.</string>
+  <string name="cloudrelayclaim_warning_title">غير قادر على المطالبة بمنزلك في هذا الوقت</string>
+</resources>

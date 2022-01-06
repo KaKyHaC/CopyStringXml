@@ -1,0 +1,16 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Parolă incorectă</string>
+  <string name="advancedpassword_passwordHint">Introduceți parola pentru a edita evenimente programate.</string>
+  <string name="advancedpassword_settingsPasswordHint">Aceasta este o secțiune protejată, vă rugăm să introduceți mai întâi parola.</string>
+  <string name="advancedpassword_editScenesPasswordHint">Aceasta este o secțiune protejată, vă rugăm să introduceți mai întâi parola.</string>
+  <string name="advancedpassword_title">Introduceți parola</string>
+  <string name="advancedpassword_advancedUserPassword">Parola de utilizator avansat</string>
+  <string name="advancedpassword_advancedUserPasswordHint">Contactați dealerul dvs. autorizat Crestron pentru parola dvs. avansată de utilizator.</string>
+  <string name="advancedpassword_warning_ok">ok</string>
+  <string name="advancedpassword_warning_subtitle">
+Dacă introduceți o parolă incorectă de mai multe ori, contul dvs. va fi blocat temporar. Încercați din nou puțin mai târziu după ce contactați distribuitorul autorizat Crestron.</string>
+  <string name="advancedpassword_warning_title">Ați introdus o parolă incorectă.</string>
+  <string name="advancedpassword_cloud_claim_hint">Pentru a continua să vă revendicați casa, introduceți o parolă avansată de utilizator. Contactați dealerul dvs. autorizat Crestron pentru a vi se acorda parola avansată de utilizator.</string>
+  <string name="advancedpassword_cloud_claim_skip">Puteți %s și veți continua exploararea casei dvs. fără a utiliza o parolă de utilizator avansată în acest moment.</string>
+  <string name="advancedpassword_skip_this_step">săriți peste acest pas</string>
+</resources>

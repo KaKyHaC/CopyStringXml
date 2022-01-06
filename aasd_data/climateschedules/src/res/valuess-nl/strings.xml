@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">Geprogrammeerde gebeurtenissen</string>
+  <string name="climateschedules_noSchedulesTitle">Geen geplande evenementen</string>
+  <string name="climateschedules_noSchedulesDescription">Automatiseer je thermostaten en maak aangepaste geplande evenementen voor elke thermostaat.</string>
+  <string name="climateschedules_emptyLayout_createNew">Nieuw geplande evenement maken</string>
+  <string name="climateschedules_createNew">+ Nieuw gepland evenement maken</string>
+</resources>

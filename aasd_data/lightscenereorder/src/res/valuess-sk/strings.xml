@@ -1,0 +1,5 @@
+<resources>
+  <string name="lightSceneReorder_reorder_lightning_scenes">Zmena poradia osvetleného prostredia</string>
+  <string name="lightSceneReorder_default_order">Predvolené poradie</string>
+  <string name="lightSceneReorder_scenes_subtitle">Prostredia</string>
+</resources>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Название события, например, "График летнего климата"</string>
+  <string name="climateschedule_scheduleNameTitleLabel">НАЗВАНИЕ</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">Новое запланированное климатическое событие</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">Редактировать запланированное событие</string>
+  <string name="climateschedule_scheduleActiveDays">ДНИ АКТИВНОСТИ</string>
+  <string name="climateschedule_activeDays_sunday">Нд</string>
+  <string name="climateschedule_activeDays_monday">Пн</string>
+  <string name="climateschedule_activeDays_tuesday">Вт</string>
+  <string name="climateschedule_activeDays_wednesday">Ср</string>
+  <string name="climateschedule_activeDays_thursday">Вт</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">Нд</string>
+  <string name="climateschedule_activeDays">ДНИ АКТИВНОСТИ</string>
+  <string name="climateschedule_save">Сохранить</string>
+  <string name="climateschedule_deleteSchedule">Удалить</string>
+  <string name="climateschedule_copyToAnotherThermostat">Скопировать на другой термостат</string>
+  <string name="climateschedule_scheduleEventError">Что-то пошло не так, попробуйте еще раз.</string>
+  <string name="climateschedule_editTitle">ИЗМЕНИТЬ</string>
+  <string name="climateschedule_deleteWarning">Вы уверены, что хотите удалить %s событие?</string>
+  <string name="climateschedule_invalidScheduleNameError">Название этого запланированного события недействительно</string>
+  <string name="climateschedule_duplicateScheduleNameError">Название этого запланированного события уже существует</string>
+  <string name="climateschedule_discardChangesWarning">У вас есть несохраненные изменения. Отменить изменения?</string>
+  <string name="climateschedule_discard">Отменить</string>
+  <string name="climateschedule_saveChangesWarning">Хотите сохранить изменения?</string>
+  <string name="climateschedule_setpointsTitle">УСТАНОВИТЬ ТОЧКИ</string>
+  <string name="climateschedule_scheduleStatusTitle">СОСТОЯНИЕ ГРАФИКА</string>
+  <string name="climateschedule_scheduleStatusItem">График включен</string>
+  <string name="climateschedule_timePicker_header">Начать</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

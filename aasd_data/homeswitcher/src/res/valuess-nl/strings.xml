@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">Mijn huizen</string>
+  <string name="homeswitcher_addHome">Toevoegen</string>
+  <string name="homeswitcher_online_status">Dit huis is verbonden en klaar.\nTik om binnen te komen.</string>
+  <string name="homeswitcher_online_remote_status">Tik om in te voeren.</string>
+  <string name="homeswitcher_offline_status">Dit huis is OFFLINE.\nTik om binnen te komen.</string>
+  <string name="homeswitcher_offline">Offline.</string>
+</resources>

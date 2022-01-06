@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">Alkalmazás a kijelöltekre</string>
+  <string name="climateschedulethermostats_title">Termosztátok listája</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">Összes termosztát</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">Az esemény sikeresen alkalmazásra került a kijelölt termosztátokon.</string>
+  <string name="climateschedulethermostats_eventsCopyError">Egyes beállítások nem másolhatók át egy vagy több termosztátra.</string>
+</resources>

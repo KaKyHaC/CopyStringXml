@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">Nastavenie časovača vypnutia počas spánku pre všetky aktívne médiá v tejto miestnosti.</string>
+  <string name="sleeptimer_disabledMsg">NASTAVIŤ ČAS</string>
+  <string name="sleeptimer_enabledMsg">%s SA VYPNE</string>
+  <string name="sleeptimer_controlTitle">Spánkový časovač</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

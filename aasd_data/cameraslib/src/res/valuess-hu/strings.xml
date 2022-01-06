@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">Kamerák</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">NEM TALÁLHATÓ MEGFELELŐEN ALACSONY FELBONTÁSÚ ADATFOLYAM\n(MAXIMUM: 1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">AZ ELŐNÉZET NEM ÉRHETŐ EL</string>
+  <string name="camerasLib_noPreviewAvailable">NINCS ELÉRHETŐ ELŐNÉZET</string>
+  <string name="camerasLib_noStreamAvailable">NINCS ELÉRHETŐ STREAM</string>
+</resources>

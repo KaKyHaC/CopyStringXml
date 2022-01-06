@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">Ház hozzáférés</string>
+  <string name="hide_subsystem_lights">Fények</string>
+  <string name="hide_subsystem_media">Média</string>
+  <string name="hide_subsystem_pools">Medencék és spa</string>
+  <string name="hide_subsystem_climate">Klíma</string>
+  <string name="hide_subsystem_shades">Árnyékolók</string>
+  <string name="hide_subsystem_security">Biztonság</string>
+  <string name="hide_subsystem_cameras">Kamerák</string>
+  <string name="hide_subsystem_customdevices">Egyéni eszközök</string>
+</resources>

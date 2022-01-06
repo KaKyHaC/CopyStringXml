@@ -1,0 +1,6 @@
+<resources>
+  <string name="chime_name">звонок</string>
+  <string name="chime_toolbar">Гаражный дверной звонок</string>
+  <string name="chime_back_description">События кнопка "Назад"</string>
+  <string name="chime_assign_sounds">НАЗНАЧИТЬ ЗВУК</string>
+</resources>

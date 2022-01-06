@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">Nicio rețea nu a fost găsită!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">Verificați cablurile Ethernet sau conectați-vă fără fir.</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">Conectați-vă la punctul de acces Wi-Fi</string>
+</resources>

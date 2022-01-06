@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">Jaluzele</string>
+  <string name="shades_scenesTitle">SCENE</string>
+  <string name="shades_controlsTitle">COMENZI</string>
+  <string name="shades_allShadesTitle">TOATE JALUZELELE</string>
+  <string name="shades_allShades_MoreLightTitle">Mai multă lumină</string>
+  <string name="shades_allShades_LessLightTitle">Mai puțină lumină</string>
+  <string name="shades_stopRampText">Stop/Opriți</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">ПОКАЗАТЬ ОБЛАСТЬ</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">скрыть зоны безопасности кнопка назад</string>
+</resources>

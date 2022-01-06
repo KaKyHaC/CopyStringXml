@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">Добро пожаловать в ваш дом</string>
+  <string name="termsofuse_subtitle_one">Компания Crestron придает большое значение вашей конфиденциальности. Чтобы ознакомиться с типами информации, которую мы можем собирать, просмотрите Заявление о конфиденциальности Crestron\ по ссылке, приведенной ниже. Если вы хотите изменить настройки конфиденциальности вашей системы, чтобы включить или отключить сбор информации, обратитесь к вашему авторизованному дилеру Crestron или поставщику услуг Crestron, или в компанию Crestron Electronics, Inc. по адресу %s.</string>
+  <string name="termsofuse_subtitle_two">Чтобы продолжить изучение дома, пожалуйста, согласитесь со следующим:</string>
+  <string name="termsofuse_agreeAndContinue">Согласиться и продолжить</string>
+  <string name="termsofuse_termsOfUse">Условия использования мобильных приложений</string>
+  <string name="termsofuse_privacyStatement">Заявление о конфиденциальности</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">Я согласен на %s и %s Crestron\.</string>
+</resources>

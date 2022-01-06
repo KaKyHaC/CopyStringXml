@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">การควบคุม</string>
+  <string name="circadianLights_saveButtonText">บันทึกการตั้งค่าปัจจุบันเป็นวงจรนาฬิกาชีวภาพ</string>
+</resources>

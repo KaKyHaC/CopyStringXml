@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">กำหนดเวลาถอยหลังเพื่อปิดให้กับสื่อทั้งหมดที่ใช้ในห้องนี้</string>
+  <string name="sleeptimer_disabledMsg">กำหนดเวลา</string>
+  <string name="sleeptimer_enabledMsg">%s จะปิดใช้งาน</string>
+  <string name="sleeptimer_controlTitle">ตัวตั้งเวลาการพัก</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

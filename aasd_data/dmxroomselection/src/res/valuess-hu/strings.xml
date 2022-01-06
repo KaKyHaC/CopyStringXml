@@ -1,0 +1,4 @@
+<resources>
+  <string name="dmxroomselection_room_select">Helyiség kiválasztása</string>
+  <string name="source_selection_room_not_available">A helyiség nem elérhető.</string>
+</resources>

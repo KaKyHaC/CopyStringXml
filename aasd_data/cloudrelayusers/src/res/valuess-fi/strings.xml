@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">You</string>
+  <string name="cloud_relay_users_no_user">No Users are available.</string>
+  <string name="cloud_relay_users_add_new_user">+ Add new user</string>
+  <string name="cloud_relay_users_reclaim_home">Reclaim this home</string>
+  <string name="cloud_relay_users_role_format">%s (Invite pending)</string>
+  <string name="cloud_relay_users_info_unavailable">"User information unavailable, please try later"</string>
+</resources>

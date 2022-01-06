@@ -1,0 +1,11 @@
+<resources>
+  <string name="more_crestron">Crestron</string>
+  <string name="more_help">帮助</string>
+  <string name="more_help_webview">帮助</string>
+  <string name="more_legal_terms">法律条款</string>
+  <string name="more_privacy_information">隐私信息</string>
+  <string name="more_feedback">反馈</string>
+  <string name="more_version">版本 - %s</string>
+  <string name="more_changeColorMode">更改颜色模式</string>
+  <string name="more_developer_options">开发商选项</string>
+</resources>

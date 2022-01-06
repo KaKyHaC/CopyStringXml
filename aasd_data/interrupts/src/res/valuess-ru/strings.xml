@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">События и звуки</string>
+  <string name="interrupts_back_description">События кнопка "Назад"</string>
+  <string name="interrupts_not_available">События отсутствуют.</string>
+</resources>

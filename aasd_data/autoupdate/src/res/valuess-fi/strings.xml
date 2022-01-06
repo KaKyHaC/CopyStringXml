@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="autoupdate_updateStarted">Update started.</string>
+  <string name="autoupdate_updateFailed">Päivitys epäonnistui.</string>
+  <string name="autoupdate_updateServerUnreachable">Päivityspalvelimeen ei saada yhteyttä.</string>
+  <string name="autoupdate_updateSucceeded">Update succeeded.</string>
+</resources>

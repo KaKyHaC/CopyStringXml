@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">Úprava svetelných prostredí</string>
+  <string name="lightEditSingleScene_set_scene_options">NASTAVIŤ MOŽNOSTI PROSTREDIA</string>
+  <string name="lightEditSingleScene_delete_scene">Vymazať toto prostredie</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">Naozaj chcete vymazať toto prostredie?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">Vymazať</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">Zrušiť</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">Je nám ľúto, toto prostredie nie je možné vymazať</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">OK</string>
+  <string name="lightEditSingleScene_dismiss">Ukončiť</string>
+  <string name="lightEditSingleScene_cannot_edit">Je nám ľúto, ale názov a ikona tohto prostredia sa nedajú upraviť</string>
+</resources>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tsw_auth_scan_code">Scan de onderstaande code met uw mobiele apparaat om een account toe te voegen.</string>
+  <string name="use_this_code">Gebruik deze code</string>
+</resources>

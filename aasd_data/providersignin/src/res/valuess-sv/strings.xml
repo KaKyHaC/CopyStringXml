@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Mata in ditt användarnamn</string>
+  <string name="providersignin_enter_password">Mata in ditt lösenord</string>
+  <string name="providersignin_description">Logga in på ditt %s konto för att lägga till den här prenumerationen.</string>
+  <string name="providersignin_user_name">ANVÄNDARNAMN</string>
+  <string name="providersignin_password">LÖSENORD</string>
+  <string name="providersignin_title">Logga in</string>
+  <string name="providersignin_save_user">Sparar användare...</string>
+  <string name="providersignin_account_added">Konto tillagt.</string>
+  <string name="providersignin_login_failed">Inloggning misslyckades.</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changecolormode_title">Thema veranderen</string>
+  <string name="changecolormode_systemMode">Systeemmodus:</string>
+  <string name="changecolormode_lightMode">Lichtmodus</string>
+  <string name="changecolormode_darkMode">Donkere modus</string>
+</resources>

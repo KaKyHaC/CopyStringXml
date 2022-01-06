@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tsw_auth_scan_code">Pentru a adăuga un cont scanați codul de mai jos, utilizând dispozitivul dvs. mobil.</string>
+  <string name="use_this_code">Utilizați acest cod</string>
+</resources>

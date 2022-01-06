@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">與 %s 合併</string>
+  <string name="managegroups_ungroupAll">取消所有群組</string>
+  <string name="managegroups_ungroupRoom">Ungroup %s</string>
+  <string name="managegroups_mergeSelected">取消 %s 的群組</string>
+</resources>

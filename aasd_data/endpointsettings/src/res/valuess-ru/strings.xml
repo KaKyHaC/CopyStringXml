@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="endpointsettings_stereo">Стерео</string>
+  <string name="endpointsettings_mono">Моно</string>
+  <string name="endpointsettings_default">По умолчанию</string>
+  <string name="endpointsettings_center">Центр</string>
+  <string name="endpointsettings_valueOneDecimal">%.1f%s</string>
+  <string name="endpointsettings_valueNoDecimals">%.0f%s</string>
+  <string name="endpointsettings_noConfigurableSettings">Этот выход не имеет настраиваемых параметров звука.</string>
+  <string name="endpointsettings_l">Л</string>
+  <string name="endpointsettings_r">П</string>
+</resources>

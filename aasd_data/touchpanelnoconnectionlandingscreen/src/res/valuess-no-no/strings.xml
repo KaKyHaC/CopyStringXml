@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">Finner ikke noe nettverk!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">Vennligst sjekk Ethernet-kablene eller koble til trådløst.</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">Koble til Wi-Fi-tilgangspunktet</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+  <string name="cloudrelayconenctwelcome_welcome">Bine ați venit</string>
+  <string name="cloudrelayconenctwelcome_claim_my_home">Revendică-mi casa</string>
+  <string name="cloudrelayconenctwelcome_claim_enabled_disclaimer">Continuați să revendicați aplicația Crestron Home și începeți să utilizați cea mai securizată experiență de conectare la distanță.</string>
+  <string name="cloudrelayconenctwelcome_claim_disabled_disclaimer">Pentru a vă revendica sistemul Crestron Home, trebuie să vă aflați în aceeași rețea locală ca și sistemul Crestron Home.</string>
+  <string name="cloudrelayconenctwelcome_not_now">Nu acum</string>
+  <string name="cloudrelayconenctwelcome_warning_ok">ok</string>
+  <string name="cloudrelayconenctwelcome_warning_subtitle">
+Pentru ca această caracteristică să funcționeze, este necesară o versiune mai nouă a programului firmware pentru Crestron Home.\n\n Vă rugăm să contactați dealerul dvs. Crestron pentru ca acesta să instaleze acest nou firmware pe procesorul dvs. Crestron Home.</string>
+  <string name="cloudrelayconenctwelcome_warning_title">Este necesară o actualizare Crestron Home OS</string>
+  <string name="cloudrelayconenctwelcome_sign_out_user">Sunteți sigur(ă) că doriți să vă deconectați?</string>
+  <string name="cloudrelayconenctwelcome_user_signed_out">V-ați deconectat</string>
+  <string name="cloudrelayconenctwelcome_no">Nu</string>
+  <string name="cloudrelayconenctwelcome_yes">Da</string>
+</resources>

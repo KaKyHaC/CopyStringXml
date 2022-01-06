@@ -1,0 +1,4 @@
+<resources>
+  <string name="lightSceneVisibility_title">Scensynlighet</string>
+  <string name="lightSceneVisibility_subtitle">%s scen</string>
+</resources>

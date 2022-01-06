@@ -1,0 +1,6 @@
+<resources>
+  <string name="rooms_title">房间</string>
+  <string name="room_groups_choose_room_filter">选择房间过滤器</string>
+  <string name="rooms">房间</string>
+  <string name="rooms_no_rooms_visible">房屋中无房间。</string>
+</resources>

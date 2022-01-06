@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">ความปลอดภัย</string>
+  <string name="security_panicActionsTitle">การทำงาน</string>
+  <string name="security_panicActionsSubtitle">กดค้างไว้ 1 วินาทีเพื่อเรียกใช้แต่ละการทำงาน</string>
+  <string name="security_navigationButtonsTitle">ปุ่มนำทาง</string>
+  <string name="security_selectNavigationButton">เลือก</string>
+  <string name="security_keypadTitle">ปุ่มกด</string>
+  <string name="security_keypadSubtitle">ป้อนรหัส 4 หลักและตัวเลขที่เกี่ยวข้องกับการทำงานที่คุณต้องการดำเนินการ</string>
+  <string name="security_displayTextTitle">ตัวอักษรที่แสดง</string>
+</resources>

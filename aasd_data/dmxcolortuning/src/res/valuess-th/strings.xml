@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">การปรับสี</string>
+  <string name="dmxroomselection_controlsTitle">ควบคุม</string>
+  <string name="dmxcolortuning_description">กำหนดการตั้งค่าพื้นฐานสำหรับห้องนี้ ด้วยการตั้งค่าพื้นฐาน คุณจะกำหนดสีและอุณหภูมิที่ต้องการสำหรับเฟอร์นิเจอร์แบบยึดติดอยู่กับที่ได้\n\nมาพร้อมตัวปรับระดับความเข้มแสงและสวิตช์เพื่อช่วยคุณในการแสดงสี ซึ่งระบบไม่ได้บันทึกไว้ในการตั้งค่าพื้นฐาน</string>
+</resources>

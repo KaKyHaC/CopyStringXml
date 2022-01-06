@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Názov udalosti, napr. plán pre klimatizáciu v letných mesiacoch</string>
+  <string name="climateschedule_scheduleNameTitleLabel">Názov</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">Nové plánované udalosti týkajúce sa klimatizácie</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">Úprava naplánovanej udalosti</string>
+  <string name="climateschedule_scheduleActiveDays">AKTÍVNE DNI</string>
+  <string name="climateschedule_activeDays_sunday">S</string>
+  <string name="climateschedule_activeDays_monday">M</string>
+  <string name="climateschedule_activeDays_tuesday">T</string>
+  <string name="climateschedule_activeDays_wednesday">W</string>
+  <string name="climateschedule_activeDays_thursday">T</string>
+  <string name="climateschedule_activeDays_friday">F (stupeň Fahrenheita)</string>
+  <string name="climateschedule_activeDays_saturday">S</string>
+  <string name="climateschedule_activeDays">AKTÍVNE DNI</string>
+  <string name="climateschedule_save">Uložiť</string>
+  <string name="climateschedule_deleteSchedule">Vymazať</string>
+  <string name="climateschedule_copyToAnotherThermostat">Kopírovať do iného termostatu</string>
+  <string name="climateschedule_scheduleEventError">Niečo sa pokazilo, skúste to, prosím, znova.</string>
+  <string name="climateschedule_editTitle">UPRAVIŤ</string>
+  <string name="climateschedule_deleteWarning">Naozaj chcete odstrániť udalosť %s?</string>
+  <string name="climateschedule_invalidScheduleNameError">Tento názov udalosti plánu nie je platný</string>
+  <string name="climateschedule_duplicateScheduleNameError">Tento názov udalosti plánu už existuje</string>
+  <string name="climateschedule_discardChangesWarning">Máte neuložené zmeny. Odmietnuť zmeny?</string>
+  <string name="climateschedule_discard">Odmietnuť</string>
+  <string name="climateschedule_saveChangesWarning">Chcete uložiť zmeny?</string>
+  <string name="climateschedule_setpointsTitle">NASTAVENIE BODOV</string>
+  <string name="climateschedule_scheduleStatusTitle">STAV PLÁNU</string>
+  <string name="climateschedule_scheduleStatusItem">Plán povolený</string>
+  <string name="climateschedule_timePicker_header">SPUSTIŤ</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

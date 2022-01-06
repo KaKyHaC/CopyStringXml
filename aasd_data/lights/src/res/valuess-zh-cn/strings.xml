@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">场景</string>
+  <string name="lights_controlsTitle">控件</string>
+  <string name="lights_controlsMasterControl">所有灯具</string>
+  <string name="create_new_scene">创建新场景</string>
+  <string name="lights_noScenesInfo">此房间无任何可见光场景。</string>
+</resources>

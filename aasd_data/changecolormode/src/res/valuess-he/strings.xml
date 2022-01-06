@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changecolormode_title">החלף נושא</string>
+  <string name="changecolormode_systemMode">מצב מערכת</string>
+  <string name="changecolormode_lightMode">מצב תאורה</string>
+  <string name="changecolormode_darkMode">מצב כהה</string>
+</resources>

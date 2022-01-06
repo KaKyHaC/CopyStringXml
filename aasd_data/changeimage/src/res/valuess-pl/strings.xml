@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Przesuń i zmień wielkość</string>
+  <string name="changeimage_cellularWarning">W przypadku braku połączenia przez Wi-Fi przesyłanie zdjęć może potrwać znacznie dłużej.</string>
+  <string name="changeimage_cancel">Anuluj</string>
+  <string name="changeimage_choose">Wybierz</string>
+</resources>

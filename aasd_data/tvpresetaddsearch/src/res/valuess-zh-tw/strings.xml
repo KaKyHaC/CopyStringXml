@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetaddsearch_cancel">取消</string>
+  <string name="tvpresetaddsearch_addChannel_zero">新增頻道到群組</string>
+  <plurals name="tvpresetaddsearch_addChannel">
+    <item quantity="one">Add 1 channel to the group</item>
+    <item quantity="other">Add %1$d channels to the group</item>
+  </plurals>
+  <string name="tvpresetaddsearch_search">搜尋</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="cloud_role_user">Käyttäjä</string>
+  <string name="cloud_role_admin">Järjestelmänvalvoja</string>
+</resources>

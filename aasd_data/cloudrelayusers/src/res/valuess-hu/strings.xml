@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">Ön</string>
+  <string name="cloud_relay_users_no_user">Nincs elérhető felhasználó.</string>
+  <string name="cloud_relay_users_add_new_user">+ Új felhasználó hozzáadása</string>
+  <string name="cloud_relay_users_reclaim_home">Otthon ismételt felfedezése</string>
+  <string name="cloud_relay_users_role_format">%s (függőben lévő meghívó)</string>
+  <string name="cloud_relay_users_info_unavailable">„A felhasználói adatok nem érhetők el, kérjük, próbálja meg később”</string>
+</resources>

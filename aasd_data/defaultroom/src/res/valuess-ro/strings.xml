@@ -1,0 +1,7 @@
+<resources>
+  <string name="defaultRoom_chooseDefaultRoom">ALEGEȚI CAMERA STANDARD</string>
+  <string name="defaultRoom_category">ALEGEȚI CAMERA STANDARD</string>
+  <string name="defaultRoom_emptyList">Nu există camere configurate. Nu există camere în listă.</string>
+  <string name="defaultRoom_save">Salvare</string>
+  <string name="defaultroom_homeConfiguration">Configurarea casei</string>
+</resources>

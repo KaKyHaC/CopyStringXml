@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="autoupdate_updateStarted">Запущено обновление.</string>
+  <string name="autoupdate_updateFailed">Ошибка обновления.</string>
+  <string name="autoupdate_updateServerUnreachable">Невозможно связаться с сервером обновлений.</string>
+  <string name="autoupdate_updateSucceeded">Обновление прошло успешно.</string>
+</resources>

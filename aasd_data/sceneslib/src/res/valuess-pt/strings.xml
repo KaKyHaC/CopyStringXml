@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Crear novo</string>
+  <string name="sceneslib_edit">Editar</string>
+  <string name="sceneslib_reorder">Reordenar</string>
+  <string name="sceneslib_max_scenes_reached">O número máximo de cenas nesta sala foi atingido. Toque em \"Editar\" para alterar ou excluir cenas existentes.</string>
+  <string name="sceneslib_unsaved_scene_message">Tem um cenário não salvo. Salvar este cenário?</string>
+  <string name="sceneslib_progress_lost_message">Tem certeza de que deseja sair desta tela e perder o seu progresso?</string>
+  <string name="sceneslib_generic_scene_name">Meu Cenário %d</string>
+  <string name="sceneslib_unexpected_error_message">Ocorreu um erro inesperado. O cenário não pode ser salvo.</string>
+  <string name="sceneslib_success_message">O cenário foi criado com sucesso.</string>
+  <string name="sceneslib_update_success_message">O cenário foi atualizado com sucesso.</string>
+  <string name="sceneslib_error_invalid_name">O nome do cenário especificado é inválido. O cenário não pode ser salvo.</string>
+  <string name="sceneslib_error_duplicate_name">O nome do cenário especificada já está em uso. O cenário não pode ser salvo.</string>
+  <string name="sceneslib_error_name_too_long">O nome do cenário especificada é muito longo. O cenário não pode ser salvo.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">O nome do cenário especificada contém caracteres inválidos. O cenário não pode ser salvo.</string>
+  <string name="sceneslib_error_read_only">O cenário especificada não é editável. O cenário não pode ser salvo.</string>
+  <string name="sceneslib_error_cannot_delete">Ocorreu um erro inesperado. O cenário não pode ser excluído.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Esta é um cenário fornecida pelo sistema e não pode ser excluída.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Este cenário está sendo usada pela programação em outra parte do sistema. Não pode ser excluído.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">Esta é um cenário fornecido pelo sistema. Não pode ser excluído enquanto o quarto contiver alguma luz.</string>
+  <string name="sceneslib_error_max_scene_count_reached">O número máximo de cenários neste quarto foi atingido. O novo cenário não pode ser salvo.</string>
+  <string name="sceneslib_error_invalid_ramp_time">O tempo de desvanecimento selecionado é inválido. O cenário não pode ser salvo.</string>
+</resources>

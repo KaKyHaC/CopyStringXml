@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Säkerhet</string>
+  <string name="securitylib_securitySystem">Säkerhetssystem</string>
+  <string name="securitylib_securitySystemWithName">Säkerhetssystem %s</string>
+  <string name="securitylib_alarm_alarm">Larm</string>
+  <string name="securitylib_alarm_fire">Brand</string>
+  <string name="securitylib_alarm_burglary">Inbrott</string>
+  <string name="securitylib_alarm_medical">Medicinskt</string>
+  <string name="securitylib_alarm_tamper">Manipulation</string>
+  <string name="securitylib_arming_armedStay">Larmat Stanna</string>
+  <string name="securitylib_arming_exitDelayActive">Utgångsfördröjning Aktiv</string>
+  <string name="securitylib_arming_disarmed">Avlarmat</string>
+  <string name="securitylib_arming_ready">Redo</string>
+  <string name="securitylib_arming_armedAway">Larmat Borta</string>
+  <string name="securitylib_arming_notReady">Inte redo</string>
+  <string name="securitylib_arming_entryDelayActive">Ingångsfördröjning Aktiv</string>
+  <string name="securitylib_arming_armedStayInstant">Larmat Stanna Omedelbart</string>
+  <string name="securitylib_arming_armedAwayInstant">Larmat Borta Omedelbart</string>
+  <string name="securitylib_arming_armedBypass">Larmat Förbikoppling</string>
+  <string name="securitylib_arming_armedBypassInstant">Larmat Förbikoppling Omedelbart</string>
+</resources>

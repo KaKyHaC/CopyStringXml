@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">Snelle acties</string>
+  <string name="home_home_controls">HUISBEDIENING</string>
+  <string name="home_lock_all">Alles vergrendelen</string>
+  <string name="home_unlock_all">Speel alles vrij</string>
+  <string name="home_security_system">Beveiligingssysteem</string>
+  <string name="home_climate">KLIMAAT</string>
+  <string name="home_locks">Deursloten</string>
+  <string name="home_cameras">CAMERA‘S</string>
+  <string name="home_access">Toegang tot huis</string>
+</resources>

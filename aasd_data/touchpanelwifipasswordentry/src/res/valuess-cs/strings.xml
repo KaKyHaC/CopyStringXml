@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Výběr wifi tlačítko zpět</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">Přidat nový přístupový bod</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">Klepněte pro přidání WAP nastavení.</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">Zadejte heslo pro tuto síť a klepněte na "Připojit".</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">NASTAVENÍ WAP PŘIPOJENÍ</string>
+  <string name="touchpanelWifiPasswordEntry_connect">Připojit</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">NÁZEV (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">Heslo</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">Zabezpečení</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">WAP připojování</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP připojeno</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">Připojen ethernetový kabel</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">WAP připojení se nezdařilo</string><string name="touchpanelEncryptionSelection_title">Nastavení šifrování wifi</string></resources>

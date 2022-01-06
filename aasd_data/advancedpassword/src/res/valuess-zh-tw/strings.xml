@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">密碼不正確</string>
+  <string name="advancedpassword_passwordHint">鍵入密碼，編輯預定的事件。</string>
+  <string name="advancedpassword_settingsPasswordHint">此部分受保護，請先輸入密碼。</string>
+  <string name="advancedpassword_editScenesPasswordHint">此部分受保護，請先輸入密碼。</string>
+  <string name="advancedpassword_title">鍵入密碼</string>
+  <string name="advancedpassword_advancedUserPassword">進階用戶密碼</string>
+  <string name="advancedpassword_advancedUserPasswordHint">請聯絡您的授權快思聰經銷商，獲取進階用戶密碼。</string>
+  <string name="advancedpassword_warning_ok">確定</string>
+  <string name="advancedpassword_warning_subtitle">如果多次輸入錯誤的密碼，則您的帳戶將被暫時封鎖。請稍後再試，或者聯絡您的授權快思聰經銷商。</string>
+  <string name="advancedpassword_warning_title">您輸入了錯誤的密碼。</string>
+  <string name="advancedpassword_cloud_claim_hint">想要繼續認領您的住宅，請輸入進階用戶密碼。請聯繫您的授權快思聰經銷商，獲取進階用戶密碼。</string>
+  <string name="advancedpassword_cloud_claim_skip">此時，您可以 %s 並繼續操作您的房屋，而無需使用進階用戶密碼。</string>
+  <string name="advancedpassword_skip_this_step">跳過此步驟</string>
+</resources>

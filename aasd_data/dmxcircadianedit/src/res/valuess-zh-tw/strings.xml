@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">編輯晝夜節律</string>
+  <string name="circadianEdit_description">可以通過最大限度地減少對人類晝夜節律影響的方式使用電燈，以支持人類健康。</string>
+  <string name="circadianEdit_transitionsCategory">編輯燈光過渡點</string>
+  <string name="circadianEdit_previewTransitionButton_start">預覽晝夜節律過渡</string>
+  <string name="circadianEdit_previewTransitionButton_end">結束晝夜節律過渡預覽</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">早上</string>
+  <string name="circadianEdit_dayTransition">日</string>
+  <string name="circadianEdit_eveningTransition">傍晚</string>
+  <string name="circadianEdit_nightTransition">夜晚</string>
+  <string name="circadianEdit_minTime">半夜12點</string>
+  <string name="circadianEdit_maxTime">半夜11點59分</string>
+</resources>

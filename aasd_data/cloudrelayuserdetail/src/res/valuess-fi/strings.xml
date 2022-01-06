@@ -1,0 +1,18 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">Update your info</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">Sign out from all devices</string>
+  <string name="cloud_relay_user_detail_sign_out">Kirjaudu ulos</string>
+  <string name="cloud_relay_user_detail_delete_account">Delete account</string>
+  <string name="cloud_relay_user_detail_edit_name">Edit name</string>
+  <string name="cloud_relay_user_detail_change_email">Change e-mail</string>
+  <string name="cloud_relay_user_detail_change_password">Muuta salasanaa</string>
+  <string name="cloud_relay_user_detail_change_phone_number">Change phone number</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">Tapping “Yes” will gracefully sign you out from all the devices you are signed in using this account.All sessions will be logged out by the system within 1-60 minutes.</string>
+  <string name="cloud_relay_user_detail_sign_out_user">Haluatko varmasti kirjautua ulos?</string>
+  <string name="cloud_relay_user_detail_delete_user_account">Are you sure you want to delete the account?</string>
+  <string name="cloud_relay_user_detail_account_deleted">Account is deleted</string>
+  <string name="cloud_relay_user_detail_user_signed_out">You are signed out</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">Account deletion would take around 15sec. Try to sign-up if using the same account after 15sec.</string>
+  <string name="cloud_relay_user_detail_no">Ei käytössä</string>
+  <string name="cloud_relay_user_detail_yes">Käytössä</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">Redigera dygnsrytm</string>
+  <string name="circadianEdit_description">Elektriska lampor kan användas till att stödja mänsklig hälsa genom att minska effekterna på dygnsrytmen.</string>
+  <string name="circadianEdit_transitionsCategory">redigera lampors övergångspunkter</string>
+  <string name="circadianEdit_previewTransitionButton_start">Förhandsgranska dygnsrytmens övergång</string>
+  <string name="circadianEdit_previewTransitionButton_end">Redigera förhandsvisning av dygnsrytmsövergång</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">Morgon</string>
+  <string name="circadianEdit_dayTransition">Dag</string>
+  <string name="circadianEdit_eveningTransition">Kväll</string>
+  <string name="circadianEdit_nightTransition">Natt</string>
+  <string name="circadianEdit_minTime">00.00</string>
+  <string name="circadianEdit_maxTime">23.59</string>
+</resources>

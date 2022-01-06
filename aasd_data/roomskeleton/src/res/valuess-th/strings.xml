@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">การดำเนินการด่วน</string>
+  <string name="room_room_services">รูมเซอร์วิส</string>
+  <string name="renameroomgroup_popupCancelButton">ยกเลิก</string>
+  <string name="renameroomgroup_popupCreateButton">เปลี่ยนชื่อ</string>
+  <string name="renameroomgroup_popupTitle">เปลี่ยนชื่อห้อง</string>
+</resources>

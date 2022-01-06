@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">Du</string>
+  <string name="cloud_relay_users_no_user">Inga användare tillgängliga.</string>
+  <string name="cloud_relay_users_add_new_user">+ Lägg till ny användare</string>
+  <string name="cloud_relay_users_reclaim_home">Välj det här hemmet igen</string>
+  <string name="cloud_relay_users_role_format">%s (Inbjudan väntande)</string>
+  <string name="cloud_relay_users_info_unavailable">"Användarinformation otillgänglig, försök igen senare"</string>
+</resources>

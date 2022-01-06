@@ -1,0 +1,4 @@
+<resources>
+  <string name="addMoreLights_title">조명 더 추가</string>
+  <string name="addMoreLights_subtitle">%s 장면</string>
+</resources>

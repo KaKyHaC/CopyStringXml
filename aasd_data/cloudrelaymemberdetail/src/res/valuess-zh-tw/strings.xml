@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">分配用戶角色</string>
+  <string name="cloudrelaymemberdetail_user">使用者</string>
+  <string name="cloudrelaymemberdetail_owner">所有者</string>
+  <string name="cloudrelaymemberdetail_remove_user">移除用戶</string>
+  <string name="cloudrelaymemberdetail_house_access">房屋通達</string>
+  <string name="cloudrelaymemberdetail_enable_access">啟用訪問</string>
+  <string name="cloudrelaymemberdetail_remove">移除</string>
+  <string name="cloudrelaymemberdetail_cancel">取消</string>
+  <string name="cloudrelaymemberdetail_remove_warning">您確定要移除此用戶嗎？</string>
+</resources>

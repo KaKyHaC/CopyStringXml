@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Wi-Fi kijelölés vissza művelet</string>
+  <string name="touchpanelWifiSelection_title">Wi-Fi kiválasztása</string>
+  <string name="touchpanelWifiSelection_Discovering">Felfedezés</string>
+  <string name="touchpanelWifiSelection_tryAgain">Újrapróbálkozás</string>
+  <string name="touchpanelWifiSelection_titleFound">Csatlakozás Wi-Fi hozzáférési ponthoz</string>
+  <string name="touchpanelWifiSelection_subtitleFound">Kérjük, válasszon ki egy hozzáférési pontot.</string>
+  <string name="touchpanelWifiSelection_titleNotFound">Nem található Wi-Fi hozzáférési pont</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">Nem található Wi-Fi hozzáférési pont. Kérjük, ellenőrizze a hálózati kapcsolatát, majd próbálja meg újra.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">Wi-Fi hozzáférési pontok keresése</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">Kérjük, várja meg, amíg a keresés befejeződik</string>
+</resources>

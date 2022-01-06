@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Wifi选择返回操作</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">添加新的接入点</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">触摸以添加WAP设置。</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">为此网络输入密码，并点击“连接”。</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">WAP连接设置</string>
+  <string name="touchpanelWifiPasswordEntry_connect">连接</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">名称（SSID）</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">密码</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">安全</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">WAP正在连接</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP已连接</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">以太网网线已连接</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">WAP连接失败</string><string name="touchpanelEncryptionSelection_title">WiFi加密设置</string></resources>

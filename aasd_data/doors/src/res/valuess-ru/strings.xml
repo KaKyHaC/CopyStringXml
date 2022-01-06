@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">Замки дверей</string>
+  <string name="doors_scenes">МЕСТА</string>
+  <string name="doors_controls">СРЕДСТВА УПРАВЛЕНИЯ</string>
+  <string name="doors_lock_all">Заблокировать все</string>
+  <string name="doors_unlock_all">Разблокировать все</string>
+</resources>

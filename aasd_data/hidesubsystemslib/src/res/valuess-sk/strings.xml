@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">Prístup do domu</string>
+  <string name="hide_subsystem_lights">Svetlá</string>
+  <string name="hide_subsystem_media">Médiá</string>
+  <string name="hide_subsystem_pools">Bazény a kúpele</string>
+  <string name="hide_subsystem_climate">Klimatizácia</string>
+  <string name="hide_subsystem_shades">Clony</string>
+  <string name="hide_subsystem_security">Bezpečnosť</string>
+  <string name="hide_subsystem_cameras">Kamery</string>
+  <string name="hide_subsystem_customdevices">Vlastné zariadenia</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">名前を編集する　</string>
+  <string name="cloudrelayeditusername_subtitle">リモートクラウド接続　</string>
+  <string name="cloudrelayeditusername_accountLabel">アカウント　</string>
+  <string name="cloudrelayeditusername_editNameLabel">名称　</string>
+  <string name="cloudrelayeditusername_done">完了　</string>
+</resources>

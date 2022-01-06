@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">Set up the power off sleep timer for all active media in this room.</string>
+  <string name="sleeptimer_disabledMsg">SET THE TIME</string>
+  <string name="sleeptimer_enabledMsg">%s WILL POWER OFF</string>
+  <string name="sleeptimer_controlTitle">UNIAJASTIN</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

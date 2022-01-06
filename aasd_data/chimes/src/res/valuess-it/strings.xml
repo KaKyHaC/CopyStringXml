@@ -1,0 +1,6 @@
+<resources>
+  <string name="chime_name">campanello</string>
+  <string name="chime_toolbar">Campanello del garage</string>
+  <string name="chime_back_description">pulsante apposito per gli eventi</string>
+  <string name="chime_assign_sounds">ASSEGNA SUONO</string>
+</resources>

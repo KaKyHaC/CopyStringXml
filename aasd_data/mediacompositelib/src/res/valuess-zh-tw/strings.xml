@@ -1,0 +1,35 @@
+<resources>
+  <string name="mediacompositelib_audioTitle">音訊</string>
+  <string name="mediacompositelib_videoTitle">視訊</string>
+  <string name="mediacompositelib_sourceOff">關閉</string>
+  <string name="mediacompositelib_sourceOn">%s 開啟</string>
+  <string name="mediacompositelib_videSourcesNotAllowed">此房間屬於群組，不允許使用任何視訊源。</string>
+  <string name="mediacompositelib_sourceStatus">%s 處於開啟狀態。</string>
+  <string name="mediacompositelib_forwardRewindSpeed">%dx</string>
+  <string name="mediacompositelib_noNowPlayingInfo">當前沒有可演播資訊。</string>
+  <string name="mediacompositelib_sourceProblematic">關閉，\n 群組開啟</string>
+  <string name="mediacompositelib_remotes_back">返回</string>
+  <string name="mediacompositelib_remotes_popupMenu">彈出功能表</string>
+  <string name="mediacompositelib_remotes_home">房屋</string>
+  <string name="mediacompositelib_remotes_discMinus">唱盤 -</string>
+  <string name="mediacompositelib_remotes_discPlus">唱盤 +</string>
+  <string name="mediacompositelib_remotes_letterA">A</string>
+  <string name="mediacompositelib_remotes_letterB">B</string>
+  <string name="mediacompositelib_remotes_letterC">攝氏度</string>
+  <string name="mediacompositelib_remotes_letterD">D</string>
+  <string name="mediacompositelib_remotes_menu">功能表</string>
+  <string name="mediacompositelib_remotes_exit">退出 (x)</string>
+  <string name="mediacompositelib_remotes_pagePlus">下頁</string>
+  <string name="mediacompositelib_remotes_pageMinus">上頁</string>
+  <string name="mediacompositelib_remotes_channelPlus">頻道 +</string>
+  <string name="mediacompositelib_remotes_channelMinus">頻道 -</string>
+  <string name="mediacompositelib_remotes_live">直播</string>
+  <string name="mediacompositelib_remotes_favorite">我的最愛</string>
+  <string name="mediacompositelib_remotes_info">資訊</string>
+  <string name="mediacompositelib_remotes_onDemand">點播</string>
+  <string name="mediacompositelib_remotes_last">最後</string>
+  <string name="mediacompositelib_remotes_guide">指南</string>
+  <string name="mediacompositelib_remotes_appleTv_home">電視</string>
+  <string name="mediacompositelib_remotes_empty" />
+  <string name="mediacompositelib_remotes_notAvailable">遙控器不可用。</string>
+</resources>

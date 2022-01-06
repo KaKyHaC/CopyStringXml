@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">Aplicați la selectarea </string>
+  <string name="climateschedulethermostats_title">Lista cu termostate</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">Toate termostatele</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">Evenimentul a fost aplicat cu succes la termostatele selectate.</string>
+  <string name="climateschedulethermostats_eventsCopyError">Anumite setări nu au putut fi copiate pe una sau mai multe termostate.</string>
+</resources>

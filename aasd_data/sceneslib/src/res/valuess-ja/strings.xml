@@ -1,0 +1,35 @@
+<resources>
+  <string name="sceneslib_create_new">新規作成</string>
+  <string name="sceneslib_edit">編集</string>
+  <string name="sceneslib_reorder">再発注</string>
+  <string name="sceneslib_max_scenes_reached">この部屋のシーンの最大数に達しました。
+ \"Edit\"をタップして、既存のシーンを変更または削除します。
+</string>
+  <string name="sceneslib_unsaved_scene_message">未保存のシーンがあります。このシーンを保存しますか？</string>
+  <string name="sceneslib_progress_lost_message">この画面を終了すると、進捗状況がなくなりますが、よろしいですか？</string>
+  <string name="sceneslib_generic_scene_name">
+マイシーン％d</string>
+  <string name="sceneslib_unexpected_error_message">予期しないエラーが発生しました。シーンを保存できませんでした。</string>
+  <string name="sceneslib_success_message">
+シーンが正常に作成されました。</string>
+  <string name="sceneslib_update_success_message">シーンが正常に更新されました。</string>
+  <string name="sceneslib_error_invalid_name">指定されたシーン名が無効です。シーンを保存できませんでした。</string>
+  <string name="sceneslib_error_duplicate_name">指定されたシーン名はすでに使用されています。シーンを保存できませんでした。</string>
+  <string name="sceneslib_error_name_too_long">指定されたシーン名が長すぎます。シーンを保存できませんでした。
+</string>
+  <string name="sceneslib_error_invalid_chars_in_name">
+指定されたシーン名に無効な文字が含まれています。シーンを保存できませんでした。
+</string>
+  <string name="sceneslib_error_read_only">指定されたシーンは編集できません。シーンを保存できませんでした。</string>
+  <string name="sceneslib_error_cannot_delete">予期しないエラーが発生しました。シーンを削除できませんでした。</string>
+  <string name="sceneslib_error_cannot_delete_built_in">これはシステム提供のシーンであり、削除することはできません。</string>
+  <string name="sceneslib_error_cannot_delete_in_use">
+このシーンは、システムの他の場所でプログラミングによって使用されています。削除できません。</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">これはシステム提供のシーンです。部屋に照明が付いている間は削除できません。
+</string>
+  <string name="sceneslib_error_max_scene_count_reached">
+この部屋のシーンの最大数に達しました。新しいシーンを保存できませんでした。
+</string>
+  <string name="sceneslib_error_invalid_ramp_time">
+選択したフェードタイムが無効です。シーンを保存できませんでした。</string>
+</resources>

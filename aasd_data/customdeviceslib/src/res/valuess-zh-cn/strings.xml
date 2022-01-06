@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">主布局%s已移除。</string>
+  <string name="customdevice_controlNotAvailable">控制不可用</string>
+  <string name="customdevice_emptyAlertTitle">信息不可用。</string>
+  <string name="customdevice_emptyLayoutError">没有具有id %s的布局。</string>
+  <string name="customdevice_emptyMediaLayoutError">没有为具有所有人id %d的电源定义布局。</string>
+  <string name="customdevice_emptyAlertError">没有具有id %s的布局。</string>
+  <string name="customdevice_alertError">在打开具有id %s的警报时发生错误。</string>
+  <string name="customdevice_layoutError">在打开具有id %s的布局时发生错误。</string>
+  <string name="customdevice_emptySelectionList">没有显示为%s的项目。</string>
+  <string name="customdevice_setValueGenericError">出错。无法更改数值。</string>
+  <string name="customdevice_setValueError">数值无法更改。%s</string>
+  <string name="customdevice_runCommandGenericError">出错自。无法执行命令。</string>
+  <string name="customdevice_runCommandError">无法执行命令。%s</string>
+  <string name="customdevice_thermostat_setpoint">设置为</string>
+  <string name="customdevice_thermostat_heatSetpoint">加热至</string>
+  <string name="customdevice_thermostat_coolSetpoint">冷却至</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">导航字段配置错误。</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">请使用外部应用或设备进行控制。</string>
+  <string name="customdevice_mediaEmptyScreen_title">无可用的控制。</string>
+</resources>

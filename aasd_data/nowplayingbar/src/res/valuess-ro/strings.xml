@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s în %s</string>
+  <string name="nowplayingbar_multiple_media">Sisteme media multiple</string>
+  <string name="nowplayingbar_rooms">%d camere</string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">Comenzile de volum nu sunt disponibile</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">Porniți această cameră media</string>
+</resources>

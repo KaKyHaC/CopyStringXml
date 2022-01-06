@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">顯示區域</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">隱藏安全區域後退按鈕</string>
+</resources>

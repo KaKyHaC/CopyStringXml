@@ -1,0 +1,16 @@
+<resources>
+  <string name="claimaddhome_friendlyNameOrLocation">Egyszerű név/hely</string>
+  <string name="claimaddhome_ipAddressOrHostName">IP-cím/állomásnév</string>
+  <string name="claimaddhome_password">Felhasználói felület jelszava</string>
+  <string name="claimaddhome_connect">Csatlakozás</string>
+  <string name="claimaddhome_addTitle">Új otthon hozzáadása</string>
+  <string name="claimaddhome_addSubtitle">Adja meg az új Crestron otthona adataid és koppintson a Csatlakozás elemre a kezdéshez.</string>
+  <string name="claimaddhome_editTitle">%s szerkesztése</string>
+  <string name="claimaddhome_editSubtitle">A Crestron otthon adatainak szerkesztése.</string>
+  <string name="claimaddhome_errorNotEmpty">A folytatáshoz adja meg a következőt: %s.</string>
+  <string name="claimaddhome_errorGeneral">A csatlakozás ehhez az otthonhoz nem lehetséges.</string>
+  <string name="claimaddhome_incorrectPassword">Helytelen jelszó.</string>
+  <string name="claimaddhome_localConnectionSettings">HELYI KAPCSOLAT BEÁLLÍTÁSAI</string>
+  <string name="claimaddhome_discover">Felfedezés</string>
+  <string name="claimaddhome_invalidPasswordPopUp">A jelszó megváltozott, adja meg ismét a(z) %s új jelszavát</string>
+</resources>

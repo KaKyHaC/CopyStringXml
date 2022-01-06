@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">กิจกรรม &amp; เสียง</string>
+  <string name="interrupts_back_description">ปุ่มย้อนกลับกิจกรรม</string>
+  <string name="interrupts_not_available">ไม่มีกิจกรรม</string>
+</resources>

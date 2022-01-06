@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sceneNameAndIcon_title">Numele și pictograma scenei</string>
+  <string name="sceneNameAndIcon_subtitle">Introduceți numele pentru noua dvs. scenă noi și alegeți o pictogramă.</string>
+</resources>

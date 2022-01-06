@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">HURTIGE HANDLINGER</string>
+  <string name="home_home_controls">HJEMME KONTROLLER</string>
+  <string name="home_lock_all">Lås alle</string>
+  <string name="home_unlock_all">Lås opp alle</string>
+  <string name="home_security_system">Sikkerhetssystem</string>
+  <string name="home_climate">Klima</string>
+  <string name="home_locks">Dørlåser</string>
+  <string name="home_cameras">Kameraer</string>
+  <string name="home_access">Hustilgang</string>
+</resources>

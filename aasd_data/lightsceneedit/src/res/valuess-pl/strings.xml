@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">Edytuj scenerie świateł</string>
+  <string name="lightSceneEdit_scenesCategory">Scenerie</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">Wybrana sceneria nie została usunięta.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">Wybrana sceneria nie może zostać edytowana.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">OK</string>
+</resources>

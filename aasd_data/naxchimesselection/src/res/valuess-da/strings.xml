@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesSelection_helpText_text">Vælg lyd til denne begivenhed. Denne lyd vil gælde for alle zoner, hvor begivenheden er aktiveret.</string>
+</resources>

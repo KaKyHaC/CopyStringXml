@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">Configure o temporizador de desligamento automático para todas as medias ativas neste quarto.</string>
+  <string name="sleeptimer_disabledMsg">DEFINIR TEMPO</string>
+  <string name="sleeptimer_enabledMsg">%s IRÁ DESLIGAR-SE</string>
+  <string name="sleeptimer_controlTitle">Temporizador</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

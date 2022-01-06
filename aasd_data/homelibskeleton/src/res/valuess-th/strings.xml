@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">เพิ่มบ้านใหม่</string>
+  <string name="homelibskeleton_discoverHome">ค้นหาบ้าน</string>
+  <string name="homelibskeleton_addManually">เพิ่มด้วยตนเอง</string>
+  <string name="homelibskeleton_editHome">แก้ไข</string>
+  <string name="homelibskeleton_deleteHome">ลบ</string>
+  <string name="homelibskeleton_deleteHomeWarning">แน่ใจหรือว่าต้องการลบ %s</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">หากคุณเป็นเจ้าของเพียงคนเดียว การลบนี้จะทำให้ผู้ใช้อื่น ๆ ทั้งหมดสูญเสียการเข้าถึงระยะไกลกับบ้านนี้ได้</string>
+  <string name="homelibskeleton_cancel">ยกเลิก</string>
+  <string name="homelibskeleton_ok">ตกลง</string>
+</resources>

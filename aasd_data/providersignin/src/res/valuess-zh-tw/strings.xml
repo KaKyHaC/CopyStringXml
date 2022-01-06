@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">鍵入您的用戶名</string>
+  <string name="providersignin_enter_password">鍵入您的密碼</string>
+  <string name="providersignin_description">請登錄到您的 %s 帳戶，添加此訂閱。</string>
+  <string name="providersignin_user_name">用戶名稱</string>
+  <string name="providersignin_password">密碼</string>
+  <string name="providersignin_title">登入</string>
+  <string name="providersignin_save_user">正在保存用戶名稱...</string>
+  <string name="providersignin_account_added">賬戶已新增。</string>
+  <string name="providersignin_login_failed">登入失敗。</string>
+</resources>

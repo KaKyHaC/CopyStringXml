@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">远程</string>
+  <string name="roommedia_more">更多</string>
+  <string name="roommedia_playing">正在播放</string>
+  <string name="roommedia_browse">浏览</string>
+  <string name="roommedia_multiRoom">多个房间</string>
+  <string name="roommedia_favorites">收藏夹</string>
+  <string name="roommedia_keypad">小键盘</string>
+  <string name="roommedia_media">媒体</string>
+  <string name="roommedia_warmingUp">加热</string>
+  <string name="roommedia_coolingDown">冷却</string>
+  <string name="roommedia_roomVideo">%s视频</string>
+  <string name="roommedia_limitedControl">有限控制。正在连接...</string>
+  <string name="roommedia_someRoomsAreOff">某些房间已关闭</string>
+  <string name="roommedia_openInSonos">在Sonos中打开</string>
+  <string name="roommedia_account_status">未登录</string>
+  <string name="roommedia_noNowPlayingInformation">没有播放任何内容</string>
+  <string name="roommedia_noAccountSelected">选择账户</string>
+  <string name="roommedia_pduPr_dialogHeader">您是否想开启此设备的电源？</string>
+  <string name="roommedia_pduPr_dialogMessage">其可能花费几分钟启动。</string>
+  <string name="roommedia_pduPr_digPowerCycle">重启</string>
+  <string name="roommedia_pduPr_digCancel">取消</string>
+  <string name="roommedia_pduPr_toastMessage">没有用于重启的快捷操作</string>
+</resources>

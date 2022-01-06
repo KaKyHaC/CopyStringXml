@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">Rolety</string>
+  <string name="shadeslib_all_shades_closed">ZAMKNIĘTE</string>
+  <string name="shadeslib_all_shades_opened">OTWÓRZ</string>
+  <string name="shadeslib_shades_title">Rolety %s</string>
+  <string name="shadeslib_shade_state_with_tilt">Z POCHYLENIEM %d%%</string>
+  <string name="shadeslib_shades_status_opened">Rolety są otwarte</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (CZĘŚCIOWO OFFLINE)</string>
+  <string name="shadeslib_position_open">%d%% OTWARTE</string>
+  <string name="shadeslib_shades_closed">ZAMKNIĘTE</string>
+  <string name="shadeslib_shades_open">OTWÓRZ</string>
+  <string name="shadeslib_shades_opening">OTWIERANIE...</string>
+  <string name="shadeslib_shades_closing">ZAMYKANIE...</string>
+</resources>

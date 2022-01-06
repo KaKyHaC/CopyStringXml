@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">มอบหมายบทบาทให้ผู้ใช้</string>
+  <string name="cloudrelayadduser_user">ผู้ใช้</string>
+  <string name="cloudrelayadduser_owner">เจ้าของ</string>
+  <string name="cloudrelayadduser_username">ชื่อผู้ใช้</string>
+  <string name="cloudrelayadduser_email">อีเมล</string>
+  <string name="cloudrelayadduser_yes">ใช่</string>
+  <string name="cloudrelayadduser_no">ไม่ใช่</string>
+  <string name="cloudrelayadduser_invite_warning">คุณยังส่งคำเชิญไม่เสร็จสมบูรณ์ ต้องการดำเนินการแก้ไขต่อหรือไม่</string>
+  <string name="cloudrelayadduser_send_invite">ส่งคำเชิญ</string>
+  <string name="cloudrelayadduser_invite_sent">ส่งคำเชิญแล้ว</string>
+  <string name="cloudrelayadduser_add_new_user">เพิ่มผู้ใช้ใหม่</string>
+</resources>

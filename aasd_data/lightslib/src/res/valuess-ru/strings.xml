@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">Светильники</string>
+  <string name="lightslib_lights_title">%s Светильники</string>
+  <string name="lightslib_lights_status_on">Свет включен.</string>
+  <string name="lightslib_lights_turning_off">ВЫКЛЮЧЕНИЕ...</string>
+  <string name="lightslib_lights_turning_on">ВКЛЮЧЕНИЕ...</string>
+  <string name="lightslib_add_lights_title">Добавить освещение \"%s\"</string>
+  <string name="lightslib_controlsTitle">СРЕДСТВА УПРАВЛЕНИЯ</string>
+  <string name="lightslib_sceneNameScene">%s место</string>
+  <string name="lightslib_tunableLightNotFound">Что-то пошло не так. Этот световой источник не удается найти.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">Сохранить как универсальные базовые настройки?</string>
+  <string name="lightslib_whiteTuningProgressLost">Сохранить как базовые настройки для этого светильника?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">Вы уверены, что хотите применить эти настройки к этой комнате?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">Это отменит любые другие ранее примененные настройки.</string>
+  <string name="lightslib_saveTunableSettingsError">Произошла непредвиденная ошибка. Не удалось сохранить заданные настройки.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">Заданные настройки успешно сохранены.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">Произошла непредвиденная ошибка. Не удалось установить заданные параметры для всех светильников в комнате.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">Заданные настройки успешно установлены на все светильники в комнате.</string>
+  <string name="lightslib_saveAsGlobalSettings">Сохранить как универсальные базовые настройки</string>
+  <string name="lightslib_save">Сохранить</string>
+  <string name="lightslib_circadianSettingsProgressLost">Сохранить текущие настройки как суточный ритм?</string>
+  <string name="lightslib_saveCircadianSettingsError">Произошла непредвиденная ошибка. Не удалось сохранить настройки суточного ритма.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">Настройки суточного ритма успешно сохранены.</string>
+  <string name="lightslib_morningCircadianTitle">Утро: 7:00, %dK</string>
+  <string name="lightslib_noonCircadianTitle">Полдень, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">Вечер: 19:00, %dK</string>
+  <string name="lightslib_nightCircadianTitle">Ночь: 22:45, %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">Любимый цвет удален.</string>
+  <string name="lightslib_addFavorite_confirmation">Любимый цвет добавлен.</string>
+</resources>

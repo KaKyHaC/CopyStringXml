@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">雲端連接已關閉...</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">目前無法加載房屋控制。即使雲端連接暫時關閉，只要連接到本地的WAP 上，您仍然可以在進行本地連接。</string>
+  <string name="cloudrelaycloudoutage_connection_locally">嘗試本地連接</string>
+</resources>

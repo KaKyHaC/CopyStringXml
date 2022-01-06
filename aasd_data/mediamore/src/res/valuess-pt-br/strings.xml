@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">CONFIGURAÇÕES DO ALTO-FALANTE</string>
+  <string name="mediamore_additionalFunctions">FUNÇÕES ADICIONAIS</string>
+  <string name="mediamore_advancedSettings">Configurações avançadas</string>
+  <string name="mediamore_noInfo">Não há informações disponíveis.</string>
+</resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">ที่บังแดด</string>
+  <string name="shadeslib_all_shades_closed">ปิดแล้ว</string>
+  <string name="shadeslib_all_shades_opened">เปิด</string>
+  <string name="shadeslib_shades_title">%s ที่บังแดด</string>
+  <string name="shadeslib_shade_state_with_tilt">เอียง %d%%</string>
+  <string name="shadeslib_shades_status_opened">เปิดที่บังแดด</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (ออฟไลน์ส่วนหนึ่ง)</string>
+  <string name="shadeslib_position_open">%d%% เปิด</string>
+  <string name="shadeslib_shades_closed">ปิดแล้ว</string>
+  <string name="shadeslib_shades_open">เปิด</string>
+  <string name="shadeslib_shades_opening">กำลังเปิด...</string>
+  <string name="shadeslib_shades_closing">กำลังปิด...</string>
+</resources>

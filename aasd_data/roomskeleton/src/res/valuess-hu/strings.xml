@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">GYORSMŰVELETEK</string>
+  <string name="room_room_services">HELYISÉG SZOLGÁLTATÁSOK</string>
+  <string name="renameroomgroup_popupCancelButton">Mégse</string>
+  <string name="renameroomgroup_popupCreateButton">Átnevezés</string>
+  <string name="renameroomgroup_popupTitle">Helyiség átnevezése</string>
+</resources>

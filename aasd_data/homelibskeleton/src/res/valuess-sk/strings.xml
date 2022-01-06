@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">PRIDAŤ NOVÚ DOMÁCNOSŤ</string>
+  <string name="homelibskeleton_discoverHome">Rozpoznať domácnosť</string>
+  <string name="homelibskeleton_addManually">Pridať manuálne</string>
+  <string name="homelibskeleton_editHome">Upraviť</string>
+  <string name="homelibskeleton_deleteHome">Vymazať</string>
+  <string name="homelibskeleton_deleteHomeWarning">Naozaj chcete odstrániť %s?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">Ak ste jediným vlastníkom, jej vymazanie spôsobí, že všetci ostatní používatelia stratia vzdialený prístup k tejto domácnosti.</string>
+  <string name="homelibskeleton_cancel">Zrušiť</string>
+  <string name="homelibskeleton_ok">OK</string>
+</resources>

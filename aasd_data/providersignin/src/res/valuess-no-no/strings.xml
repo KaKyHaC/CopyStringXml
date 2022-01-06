@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Skriv inn brukernavnet ditt</string>
+  <string name="providersignin_enter_password">Skriv inn passordet ditt</string>
+  <string name="providersignin_description">Logg på %s-kontoen din for å legge til dette abonnementet.</string>
+  <string name="providersignin_user_name">Brukernavn</string>
+  <string name="providersignin_password">Passord</string>
+  <string name="providersignin_title">Logg inn</string>
+  <string name="providersignin_save_user">Lagrer bruker...</string>
+  <string name="providersignin_account_added">Konto lagt til.</string>
+  <string name="providersignin_login_failed">Innlogging feilet.</string>
+</resources>

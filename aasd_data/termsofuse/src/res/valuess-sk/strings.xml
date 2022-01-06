@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">Vitajte vo svojej domácnosti</string>
+  <string name="termsofuse_subtitle_one">V spoločnosti Crestron nám záleží na vašom súkromí. Prečítajte si, prosím, Vyhlásenie o ochrane osobných údajov spoločnosti Crestron na nižšie uvedenom odkaze, aby ste videli typy informácií, ktoré môžeme zhromažďovať. Ak chcete zmeniť nastavenia ochrany súkromia vášho systému, aby ste povolili alebo zakázali zhromažďovanie informácií, obráťte sa na svojho autorizovaného predajcu Crestron alebo poskytovateľa služieb Crestron, alebo na spoločnosť Crestron Electronics, Inc. na adrese %s.</string>
+  <string name="termsofuse_subtitle_two">Ak chcete pokračovať v prehliadke domácnosti, súhlaste s nasledujúcimi podmienkami:</string>
+  <string name="termsofuse_agreeAndContinue">Súhlasím a pokračujem</string>
+  <string name="termsofuse_termsOfUse">Podmienky používania mobilných aplikácií</string>
+  <string name="termsofuse_privacyStatement">Vyhlásenie o ochrane súkromia</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">Súhlasím s %s a %s spoločnosti Crestron.</string>
+</resources>

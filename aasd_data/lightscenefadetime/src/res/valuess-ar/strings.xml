@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">وقت التلاشي</string>
+  <string name="sceneFadeTime_header">تعيين وقت تلاشي الإضاءة</string>
+</resources>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">Nessuna rete trovata!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">Si prega di controllare i propri cavetti ethernet o connettersi in modalità wireless.</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">Connettiti tramite il punto di accesso wifi</string>
+</resources>

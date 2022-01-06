@@ -1,0 +1,5 @@
+<resources>
+  <string name="lightSceneReorder_reorder_lightning_scenes">记录器闪电场景</string>
+  <string name="lightSceneReorder_default_order">默认顺序</string>
+  <string name="lightSceneReorder_scenes_subtitle">场景</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">БЫСТРЫЕ ДЕЙСТВИЯ</string>
+  <string name="room_room_services">КОМНАТНЫЕ УСЛУГИ</string>
+  <string name="renameroomgroup_popupCancelButton">Отмена</string>
+  <string name="renameroomgroup_popupCreateButton">Переименовать</string>
+  <string name="renameroomgroup_popupTitle">Переименовать комнату</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Zadejte své uživatelské jméno</string>
+  <string name="providersignin_enter_password">Zadejte své heslo</string>
+  <string name="providersignin_description">Přihlaste se prosím ke svému %s pčtu pro přidání předplatného.</string>
+  <string name="providersignin_user_name">UŽIVATELSKÉ JMÉNO</string>
+  <string name="providersignin_password">Heslo</string>
+  <string name="providersignin_title">Přihlásit se</string>
+  <string name="providersignin_save_user">Ukládání uživatele...</string>
+  <string name="providersignin_account_added">Účet přidán.</string>
+  <string name="providersignin_login_failed">Přihlášení se nezdařilo.</string>
+</resources>

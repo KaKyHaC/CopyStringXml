@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tsw_auth_scan_code">要新增帳戶，請使用您的行動設備掃描以下代碼。</string>
+  <string name="use_this_code">使用此代碼</string>
+</resources>

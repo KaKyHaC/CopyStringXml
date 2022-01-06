@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Kleurafstemming</string>
+  <string name="dmxroomselection_controlsTitle">Controles</string>
+  <string name="dmxcolortuning_description">Definieer basislijninstellingen voor deze kamer. Met basislijninstellingen definieert u de gewenste kleur en temperatuur voor uw afstembare armaturen.\n\nIntensiteitsschuifregelaars en -schakelaars zijn aanwezig om u te helpen bij het visualiseren van de kleur. Ze worden niet opgeslagen in de basislijninstellingen.</string>
+</resources>

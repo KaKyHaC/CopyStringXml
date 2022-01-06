@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayconnecthome_edit_home">แก้ไขหน้าหลัก</string>
+  <string name="couldrelayconnecthome_edit_details">แก้ไขรายละเอียดเกี่ยวกับ Crestron Home ของคุณ</string>
+  <string name="cloudrelayconnecthome_home_settings">การตั้งค่าหน้าหลัก</string>
+  <string name="cloudrelayconnecthome_friendlyNameOrLocation">ชื่อที่เรียกง่าย / ตำแหน่ง</string>
+  <string name="cloudrelayconnecthome_password">รหัสผ่านอินเทอร์เฟซผู้ใช้</string>
+  <string name="cloudrelayconnecthome_localConnectionSettings">การตั้งค่าการเชื่อมต่อในพื้นที่</string>
+  <string name="cloudrelayconnecthome_ipAddressOrHostName">ที่อยู่ไอพี / ชื่อโฮสต์</string>
+  <string name="cloudrelayconnecthome_continue">ดำเนินการต่อ</string>
+</resources>

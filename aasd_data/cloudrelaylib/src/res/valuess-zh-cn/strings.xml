@@ -1,0 +1,4 @@
+<resources>
+  <string name="cloud_role_user">用户</string>
+  <string name="cloud_role_admin">管理员</string>
+</resources>

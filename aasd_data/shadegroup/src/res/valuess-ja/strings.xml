@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">シェード </string>
+  <string name="shadegroup_batteryOk">バッテリー良好 </string>
+  <string name="shadegroup_batteryLow">バッテリー残量低下 
+</string>
+</resources>

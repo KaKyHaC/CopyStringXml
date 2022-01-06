@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Bara de instrumente virtuală expiră</string>
+  <string name="settings_hardkey_wakes_lcd">Hardkey Wakes LCD</string>
+  <string name="settings_master_volume">Volum principal</string>
+  <string name="settings_hardkey_behavior">COMPORTAMENTUL BUTONULUI SUS/JOS AL PANOULUI</string>
+  <string name="settings_hardkey_no_function">Nicio funcţie</string>
+  <string name="settings_hardkey_lights">Lumini (Ridicare/Coborâre în încăpere)</string>
+  <string name="settings_hardkey_shades">Jaluzele (Ridicare/Coborâre în încăpere)</string>
+  <string name="settings_hardkey_media">Media (Volum cameră+/Volum-)</string>
+  <string name="settings_advanced_settings_toolbar">Setare complexă</string>
+</resources>

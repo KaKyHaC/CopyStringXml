@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">新增新的住宅</string>
+  <string name="homelibskeleton_discoverHome">發現住宅</string>
+  <string name="homelibskeleton_addManually">手動新增</string>
+  <string name="homelibskeleton_editHome">編輯</string>
+  <string name="homelibskeleton_deleteHome">刪除</string>
+  <string name="homelibskeleton_deleteHomeWarning">您確定要刪除 %s 嗎？</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">如果您是唯一的擁有刪除權限的人，刪除將導致所有其他用戶無法遠程訪問此住宅。</string>
+  <string name="homelibskeleton_cancel">取消</string>
+  <string name="homelibskeleton_ok">確定</string>
+</resources>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mobilediscoverhome_downloadSgMessage">Please, download Smart Graphics app to control this home</string>
+  <string name="mobilediscoverhome_cancel">Cancel</string>
+  <string name="mobilediscoverhome_downloadApp">Download app</string>
+</resources>

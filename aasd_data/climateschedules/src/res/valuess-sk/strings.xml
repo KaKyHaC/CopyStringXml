@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">Plánované udalosti</string>
+  <string name="climateschedules_noSchedulesTitle">Žiadne naplánované udalosti</string>
+  <string name="climateschedules_noSchedulesDescription">Zautomatizujte svoje termostaty a vytvorte pre každý termostat prispôsobené plánované udalosti.</string>
+  <string name="climateschedules_emptyLayout_createNew">Vytvoriť novú udalosť plánu</string>
+  <string name="climateschedules_createNew">+ Vytvoriť novú udalosť plánu</string>
+</resources>

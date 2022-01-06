@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">przycisk powrotu do ustawień</string>
+  <string name="touchPanelsettings_toolbar">Ustawienia</string>
+  <string name="touchPanelsettings_toolbar_default_room">Pomieszczenie domyślne</string>
+  <string name="touchPanelsettings_room_list">Lista pomieszczeń</string>
+  <string name="touchPanelsettings_display">WYŚWIETLACZ</string>
+  <string name="touchPanelsettings_automode_brightness">Jasność w trybie automatycznym</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">Limit czasu wyświetlacza</string>
+  <string name="touchPanelsettings_screensaver">Wygaszacz ekranu</string>
+  <string name="touchPanelsettings_media_volume">Głośność multimediów</string>
+  <string name="touchPanelsettings_home">POCZĄTEK</string>
+  <string name="touchPanelsettings_advanced_settings">Ustawienia zaawansowane</string>
+  <string name="touchPanelsettings_edit_home">Edytuj dom</string>
+  <string name="touchPanelsettings_info">Informacje</string>
+  <string name="touchPanelsettings_firmware_version">Wersja oprogramowania</string>
+  <string name="touchPanelsettings_ui_version">Wersja interfejsu użytkownika</string>
+  <string name="touchPanelsettings_volume">Głośność</string>
+  <string name="touchPanelsettings_edit_home_popup_message">Zmieniaj te ustawienia tylko na polecenie dealera Crestron</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">Kontynuuj</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">Anuluj</string>
+  <string name="touchPanelsettings_timeout_text_never">Nigdy</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s sekund</string>
+  <string name="touchPanelsettings_timeout_text_minute">1 minuta</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s minut</string>
+  <string name="touchPanelsettings_timeout_text_hour">1 godzina</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s godzin</string>
+  <string name="touchPanelsettings_access_points">Punkt dostępu WiFi</string>
+  <string name="touchPanelsettings_intercom">DOMOFON I ZAKŁÓCENIA</string>
+  <string name="touchPanelsettings_do_not_disturb">Nie przeszkadzać</string>
+  <string name="touchPanelsettings_play_test">Włącz test</string>
+  <string name="touchPanelsettings_speakervolume_label">Głośność głośnika</string>
+</resources>

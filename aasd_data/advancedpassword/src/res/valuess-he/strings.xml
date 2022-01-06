@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">הסיסמה שגויה</string>
+  <string name="advancedpassword_passwordHint">הזן את הסיסמה כדי לערוך אירועים מתוזמנים.</string>
+  <string name="advancedpassword_settingsPasswordHint">זהו קטע מוגן, נא להזין תחילה את הסיסמה.</string>
+  <string name="advancedpassword_editScenesPasswordHint">זהו קטע מוגן, נא להזין תחילה את הסיסמה.</string>
+  <string name="advancedpassword_title">הזן את הסיסמה</string>
+  <string name="advancedpassword_advancedUserPassword">סיסמת משתמש מתקדמת</string>
+  <string name="advancedpassword_advancedUserPasswordHint">פנה למשווק המורשה של Crestron לקבלת סיסמת המשתמש המתקדמת שלך.</string>
+  <string name="advancedpassword_warning_ok">אישור</string>
+  <string name="advancedpassword_warning_subtitle">אם תזין סיסמה שגויה מספר פעמים, החשבון שלך יינעל באופן זמני. נסה שוב בעוד זמן מה או פנה למשווק המורשה של Crestron.</string>
+  <string name="advancedpassword_warning_title">הזנת סיסמה שגויה.</string>
+  <string name="advancedpassword_cloud_claim_hint">כדי להמשיך לבקש את הבית שלך הזן סיסמת משתמש מתקדמת. פנה למשווק המורשה של Crestron לקבלת סיסמת המשתמש המתקדמת שלך.</string>
+  <string name="advancedpassword_cloud_claim_skip">אתה יכול %s ולהמשיך לביתך מבלי להשתמש בסיסמת משתמש מתקדמת בשלב זה.</string>
+  <string name="advancedpassword_skip_this_step">דלג על שלב זה</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Farvejustering</string>
+  <string name="dmxroomselection_controlsTitle">INDSTILLINGER</string>
+  <string name="dmxcolortuning_description">Definer grundindstillinger for dette rum. Med grundindstillinger definerer du den ønskede farve og temperatur for dine justerbare armaturer.\n\nIntensitetsskydere og -kontakter er med til at hjælpe dig med at visualisere farven. De gemmes ikke i grundindstillingerne.</string>
+</resources>

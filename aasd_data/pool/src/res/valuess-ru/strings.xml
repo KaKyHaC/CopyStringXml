@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">Зоны</string>
+  <string name="pool_setTo">УСТАНОВИТЬ НА</string>
+  <string name="pool_controls">СРЕДСТВА УПРАВЛЕНИЯ</string>
+  <string name="pool_off">ВЫКЛ.</string>
+  <string name="pool_low">Низкая</string>
+  <string name="pool_med">Средний</string>
+  <string name="pool_high">Высокий</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">Средства управления отсутствуют.</string>
+</resources>

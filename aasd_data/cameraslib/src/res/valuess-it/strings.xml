@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">Videocamere</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">NESSUN FLUSSO CON RISOLUZIONE ABBASTANZA BASSA\n(ISCRIZIONE MASSIMA 1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">ANTEPRIMA NON DISPONIBILE</string>
+  <string name="camerasLib_noPreviewAvailable">NESSUNA ANTEPRIMA DISPONIBILE</string>
+  <string name="camerasLib_noStreamAvailable">NON CI SONO STREAM DISPONIBILI</string>
+</resources>

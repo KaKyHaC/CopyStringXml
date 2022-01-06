@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">Spegni tutti i media</string>
+  <string name="activemedia_activeMedia">Media attivi (%d)</string>
+  <string name="activemedia_audio">Audio</string>
+  <string name="activemedia_video">VIDEO</string>
+  <string name="activemedia_multiple_displays">Schermi multipli </string>
+  <string name="activemedia_left_display">Schermo sinistro</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">Sei sicuro di voler accendere tutta la casa?</string>
+</resources>

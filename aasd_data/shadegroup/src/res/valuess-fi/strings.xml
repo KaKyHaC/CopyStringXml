@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">Kaihtimet</string>
+  <string name="shadegroup_batteryOk">Battery ok</string>
+  <string name="shadegroup_batteryLow">Battery low</string>
+</resources>

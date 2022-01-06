@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">Όλα τα Δωμάτια</string>
+  <string name="roomslib_favorite_rooms">Αγαπημένα</string>
+  <string name="roomslib_other_rooms">Άλλα δωμάτια</string>
+  <string name="ok_text">OK</string>
+  <string name="renameroom_voice">Για να κατανοήσει η φωνητική υπηρεσία σας αυτό το νέο όνομα δωματίου, ζητήστε της να ανακαλύψει εκ νέου τις συσκευές σας</string>
+  <string name="duplicate_name">Αναπαραγωγή Ονόματος</string>
+  <string name="invalid_name">Μη έγκυρο όνομα</string>
+  <string name="unknown_error">Άγνωστο σφάλμα</string>
+  <string name="read_only">Μόνο για ανάγνωση</string>
+  <string name="renameRoom">Μετονομασία δωματίου</string>
+  <string name="roomslib_do_not_disturb_toast_on">Η λειτουργία "Μην ενοχλείτε" είναι ενεργοποιημένη.</string>
+  <string name="roomslib_do_not_disturb_toast_off">Η λειτουργία "Μην ενοχλείτε" είναι απενεργοποιημένη.</string>
+  <string name="roomslib_this_room">Αυτό το Δωμάτιο</string>
+  <string name="roomslib_selectRoom_colorTuning">Ρύθμιση χρώματος</string>
+  <string name="roomslib_selectRoom_circadianLighting">Κιρκάδιος φωτισμός</string>
+</resources>

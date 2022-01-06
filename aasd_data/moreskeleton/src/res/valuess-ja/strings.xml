@@ -1,0 +1,11 @@
+<resources>
+  <string name="more_crestron">クレストロン社</string>
+  <string name="more_help">ヘルプ</string>
+  <string name="more_help_webview">ヘルプ</string>
+  <string name="more_legal_terms">法律用語</string>
+  <string name="more_privacy_information">プライバシー情報</string>
+  <string name="more_feedback">フィードバック　</string>
+  <string name="more_version">バージョン - %s　</string>
+  <string name="more_changeColorMode">カラーモードを変える　</string>
+  <string name="more_developer_options">開発者用オプション　</string>
+</resources>

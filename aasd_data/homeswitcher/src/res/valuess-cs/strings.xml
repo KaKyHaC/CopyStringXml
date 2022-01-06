@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">Moje domovy</string>
+  <string name="homeswitcher_addHome">Přidat</string>
+  <string name="homeswitcher_online_status">Tento domov je připojen a připraven.\nKlepněte pro vstup.</string>
+  <string name="homeswitcher_online_remote_status">Klepněte pro vstup.</string>
+  <string name="homeswitcher_offline_status">Tento domov je OFFLINE.\nKlepněte pro vstup.</string>
+  <string name="homeswitcher_offline">OFFLINE.</string>
+</resources>

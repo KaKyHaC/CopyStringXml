@@ -1,0 +1,52 @@
+<resources>
+  <string name="chime_bright_multitone">Jasný viactónový zvuk</string>
+  <string name="chime_magic_harps">Čarovné harfy</string>
+  <string name="chime_alert_trill">Výstražný tón</string>
+  <string name="chime_siren">Siréna</string>
+  <string name="chime_fantasy_chime">Zvonkohra fantázie</string>
+  <string name="chime_mysterious_twinkle">Tajuplné svetielkovanie</string>
+  <string name="chime_ding_dong">Bim-bam</string>
+  <string name="chime_note">Zvuk</string>
+  <string name="chime_ringing_electronic">	
+Elektronické zvonenie</string>
+  <string name="chime_ringing_rotary">Zvonenie rotačného zariadenia</string>
+  <string name="interrupts_alert_fire">Zistený požiar</string>
+  <string name="interrupts_alert_tamper">Zistená manipulácia s alarmom</string>
+  <string name="interrupts_alert_alarm">
+Neoprávnený vstup</string>
+  <string name="interrupts_alert_exitDelay">Oneskorenie spustenia alarmu pri odchode</string>
+  <string name="interrupts_alert_unknown">Zistený neznámy poplach</string>
+  <string name="chime_v3_doorbell_dual_tone_short_one">Zvonček — dvojtónový1 krátky</string>
+  <string name="chime_v3_doorbell_dual_tone_short_two">Zvonček — dvojtónový2 krátky</string>
+  <string name="chime_v3_doorbell_dual_tone_short_three">Zvonček — dvojtónový3 krátky</string>
+  <string name="chime_v3_doorbell_dual_tone_long_one">Zvonček — dvojtónový1 dlhý</string>
+  <string name="chime_v3_doorbell_dual_tone_long_two">Zvonček — dvojtónový2 dlhý</string>
+  <string name="chime_v3_doorbell_dual_tone_long_three">Zvonček — dvojtónový3 dlhý</string>
+  <string name="chime_v3_doorbell_dual_tone_four">Zvonček — dvojtónový4</string>
+  <string name="chime_v3_doorbell_westminster_one">Zvonček — Westminster 1</string>
+  <string name="chime_v3_doorbell_westminster_two">Zvonček — Westminster 2</string>
+  <string name="chime_v3_interrupt_one">
+Prerušenie1</string>
+  <string name="chime_v3_interrupt_two">
+Prerušenie2</string>
+  <string name="chime_v3_interrupt_three">
+Prerušenie3</string>
+  <string name="chime_v3_ringtone_one">
+Vyzváňací tón1</string>
+  <string name="chime_v3_ringtone_two">
+Vyzváňací tón2</string>
+  <string name="chime_v3_ringtone_three">
+Vyzváňací tón3</string>
+  <string name="chime_v3_soundscape_one">Hudobné prostredie1</string>
+  <string name="chime_v3_soundscape_two">Hudobné prostredie2</string>
+  <string name="chime_v3_alert_zone_sequence_one">Varovanie — sekvencia zóny1</string>
+  <string name="chime_v3_alert_zone_sequence_two">Varovanie — sekvencia zóny2</string>
+  <string name="chime_v3_alert_zone_sequence_three">Varovanie — sekvencia zóny3</string>
+  <string name="chime_v3_alert_zone_sequence_four">Varovanie — sekvencia zóny4</string>
+  <string name="chime_v3_alert_siren_one">Varovanie — siréna1</string>
+  <string name="chime_v3_alert_siren_two">Varovanie — siréna2</string>
+  <string name="chime_v3_alert_siren_three">Varovanie — siréna3</string>
+  <string name="chime_v3_alert_dinner_bell">Varovanie — večerný zvonček</string>
+  <string name="chime_v3_alert_garage_door">Varovanie — garážové dvere</string>
+  <string name="chime_v3_this_device_zone_name">Toto zariadenie</string>
+</resources>

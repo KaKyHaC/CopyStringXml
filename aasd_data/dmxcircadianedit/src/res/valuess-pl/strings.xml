@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">Edytuj cykl dobowy</string>
+  <string name="circadianEdit_description">Światła elektryczne mogą być stosowane w celu wspierania zdrowia ludzkiego poprzez minimalizowanie ich wpływu na rytm dobowy człowieka.</string>
+  <string name="circadianEdit_transitionsCategory">edytuj punkty przejścia świateł</string>
+  <string name="circadianEdit_previewTransitionButton_start">Podgląd przejścia dobowego</string>
+  <string name="circadianEdit_previewTransitionButton_end">Zakończ podgląd przejścia dobowego</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">Ranek</string>
+  <string name="circadianEdit_dayTransition">Dzień</string>
+  <string name="circadianEdit_eveningTransition">Wieczór</string>
+  <string name="circadianEdit_nightTransition">Noc</string>
+  <string name="circadianEdit_minTime">00:00</string>
+  <string name="circadianEdit_maxTime">23:59</string>
+</resources>

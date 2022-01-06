@@ -1,0 +1,22 @@
+<resources>
+  <string name="claimhome_friendlyNameOrLocation">Nume / locaţie prietenoase</string>
+  <string name="claimhome_ipAddressOrHostName">Adresă IP / Nume gazdă</string>
+  <string name="claimhome_password">Parola de interfață a utilizatorului</string>
+  <string name="claimhome_port">Port</string>
+  <string name="claimhome_connect">Conectare</string>
+  <string name="claimhome_localPort">PORT LOCAL</string>
+  <string name="claimhome_resetToDefault">Resetare la valorile iniţiale</string>
+  <string name="claimhome_addTitle">Adăugați o nouă casă</string>
+  <string name="claimhome_addSubtitle">Introduceți detalii despre noua dvs. casă din Crestron Home și apăsați Conectare pentru a începe.</string>
+  <string name="claimhome_editTitle">Editați %s</string>
+  <string name="claimhome_editSubtitle">Editați detalii despre casa dvs. din Crestron.</string>
+  <string name="claimhome_errorEmpty">Vă rugăm să introduceți %s pentru a continua.</string>
+  <string name="claimhome_errorGeneral">Nu se poate conecta la această casă.</string>
+  <string name="claimhome_incorrectPassword">Parolă incorectă.</string>
+  <string name="claimhome_localConnectionSettings">SETĂRI DE CONEXIUNE LOCALĂ</string>
+  <string name="claimhome_discover">Explorare</string>
+  <string name="claimhome_invalidPasswordPopUp">Parola a fost modificată, reintroduceți parola nouă pentru %s</string>
+  <string name="claimhome_sameHomeWarning">
+Există deja o casă cu aceeași/același adresă IP/nume de gazdă. Sunteți sigur(ă) că doriți să adăugați această casă?</string>
+  <string name="claimhome_localPortExplanation">Schimbați-o doar atunci când vă recomandă dealerul dvs. autorizat Crestron.</string>
+</resources>

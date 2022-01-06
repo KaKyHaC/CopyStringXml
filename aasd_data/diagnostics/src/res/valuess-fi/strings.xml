@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">Tukidiagnostiikkatiedot</string>
+  <string name="diagnostics_loggingTitle">Ota diagnostiikkatietojen lähettäminen käyttöön</string>
+  <string name="diagnostics_loggingDescription">Please don\'t enable submission of diagnostics unless directed by Crestron Tech Support</string>
+  <string name="diagnostics_submitDiagnostics">Lähetä tukidiagnostiikkatietoja</string>
+  <string name="diagnostics_submitMessage">Crestron recommends only sending in diagnostics when working with your Crestron dealer or requested by Crestron Customer Support. \n\nPressing submit will let you choose how you with to share the file. Follow the instructions from your Crestron dealer, or Crestron Customer Support, regarding where to send this file.</string>
+  <string name="diagnostics_submit">Lähetä</string>
+</resources>

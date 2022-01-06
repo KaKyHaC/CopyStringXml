@@ -1,0 +1,6 @@
+<resources>
+  <string name="homeaccess_houseLabel">Accesso alla casa</string>
+  <string name="homeaccess_lockTitle">Chiusure</string>
+  <string name="homeaccess_garageTitle">PORTE DEL GARAGE</string>
+  <string name="homeaccess_gateTitle">CANCELLI</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">Переименовать группу</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">Отмена</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">Переименовать</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">Дублировать имя</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">Неверное имя</string>
+  <string name="tvpresetsrenamegroup_unknownError">Не удалось выполнить операцию</string>
+</resources>

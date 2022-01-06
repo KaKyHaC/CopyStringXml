@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Создать новую</string>
+  <string name="sceneslib_edit">Изменить</string>
+  <string name="sceneslib_reorder">Переупорядочить</string>
+  <string name="sceneslib_max_scenes_reached">Максимальное количество мест в этой комнате достигнуто. Нажмите \"Редактировать\", чтобы изменить или удалить существующие места.</string>
+  <string name="sceneslib_unsaved_scene_message">У вас есть не сохраненное место. Сохранить это место?</string>
+  <string name="sceneslib_progress_lost_message">Вы уверены, что хотите выйти из этого окна и потерять свой прогресс?</string>
+  <string name="sceneslib_generic_scene_name">Мое место %d</string>
+  <string name="sceneslib_unexpected_error_message">Произошла непредвиденная ошибка. Место не удалось сохранить.</string>
+  <string name="sceneslib_success_message">Место создано успешно.</string>
+  <string name="sceneslib_update_success_message">Место успешно обновлено.</string>
+  <string name="sceneslib_error_invalid_name">Указанное название места недействительно. Место не удалось сохранить.</string>
+  <string name="sceneslib_error_duplicate_name">Указанное имя места уже используется. Место не удалось сохранить.</string>
+  <string name="sceneslib_error_name_too_long">Указанное название места слишком длинное. Место не удалось сохранить.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">Указанное название места содержит недопустимые символы. Место не удалось сохранить.</string>
+  <string name="sceneslib_error_read_only">Указанное место не редактируется. Место не удалось сохранить.</string>
+  <string name="sceneslib_error_cannot_delete">Произошла непредвиденная ошибка. Место не удалось удалить.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Это место предусмотрено системой и не может быть удалено.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Это место используется другими программами в системе. Его не удалось удалить.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">Это место предусмотрено системой. Оно не может быть удалено, пока в комнате есть освещение.</string>
+  <string name="sceneslib_error_max_scene_count_reached">Достигнуто максимальное количество мест в этой комнате. Новое место не удалось сохранить.</string>
+  <string name="sceneslib_error_invalid_ramp_time">Выбранное время затухания недействительно. Место не удалось сохранить.</string>
+</resources>

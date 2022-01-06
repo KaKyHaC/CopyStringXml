@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">كل الغُرف</string>
+  <string name="roomslib_favorite_rooms">المفضلات</string>
+  <string name="roomslib_other_rooms">غُرف أخرى</string>
+  <string name="ok_text">موافق</string>
+  <string name="renameroom_voice">لكي تتمكن الخدمة الصوتية لديك من استيعاب اسم الغرفة الجديد هذا، يُرجى أن تطلب منها إعادة استكشاف أجهزتك</string>
+  <string name="duplicate_name">الاسم مكرر</string>
+  <string name="invalid_name">الاسم غير صالح</string>
+  <string name="unknown_error">خطأ غير معروف</string>
+  <string name="read_only">قراءة فقط</string>
+  <string name="renameRoom">إعادة تسمية الغرفة</string>
+  <string name="roomslib_do_not_disturb_toast_on">تم تشغيل وضع عدم الإزعاج.</string>
+  <string name="roomslib_do_not_disturb_toast_off">تم إيقاف تشغيل وضع عدم الإزعاج.</string>
+  <string name="roomslib_this_room">هذه الغرفة</string>
+  <string name="roomslib_selectRoom_colorTuning">توليف اللون</string>
+  <string name="roomslib_selectRoom_circadianLighting">الإضاءة اليومية</string>
+</resources>

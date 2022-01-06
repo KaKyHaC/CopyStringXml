@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">Выключить все носители информации</string>
+  <string name="activemedia_activeMedia">Активные носители информации (%d)</string>
+  <string name="activemedia_audio">ЗВУК</string>
+  <string name="activemedia_video">ВИДЕО</string>
+  <string name="activemedia_multiple_displays">Множественные дисплеи</string>
+  <string name="activemedia_left_display">Левый дисплей</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">Вы уверены, что хотите выключить электричество во всем доме?</string>
+</resources>

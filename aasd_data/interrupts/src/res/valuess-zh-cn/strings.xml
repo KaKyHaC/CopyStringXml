@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">事件和声音</string>
+  <string name="interrupts_back_description">事件返回按钮</string>
+  <string name="interrupts_not_available">无可用的事件</string>
+</resources>

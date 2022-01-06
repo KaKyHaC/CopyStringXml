@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">제어</string>
+  <string name="circadianLights_saveButtonText">현재 설정을 생체 주기로 저장</string>
+</resources>

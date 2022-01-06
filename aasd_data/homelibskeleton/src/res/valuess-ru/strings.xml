@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">ДОБАВИТЬ НОВЫЙ ДОМ</string>
+  <string name="homelibskeleton_discoverHome">Ознакомится с домом</string>
+  <string name="homelibskeleton_addManually">ДОБАВИТЬ ВРУЧНУЮ</string>
+  <string name="homelibskeleton_editHome">Изменить</string>
+  <string name="homelibskeleton_deleteHome">Удалить</string>
+  <string name="homelibskeleton_deleteHomeWarning">Вы уверены, что хотите удалить %s?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">Если вы являетесь единственным владельцем, его удаление приведет к тому, что все остальные пользователи потеряют удаленный доступ к этому дому.</string>
+  <string name="homelibskeleton_cancel">Отмена</string>
+  <string name="homelibskeleton_ok">ОК</string>
+</resources>

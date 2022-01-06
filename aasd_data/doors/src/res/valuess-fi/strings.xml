@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">Ovien lukot</string>
+  <string name="doors_scenes">Profiilit</string>
+  <string name="doors_controls">CONTROLS</string>
+  <string name="doors_lock_all">Lock all</string>
+  <string name="doors_unlock_all">Unlock all</string>
+</resources>

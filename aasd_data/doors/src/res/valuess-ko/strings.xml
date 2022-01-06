@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">도어 잠금</string>
+  <string name="doors_scenes">환경 설정</string>
+  <string name="doors_controls">제어</string>
+  <string name="doors_lock_all">모두 잠그기</string>
+  <string name="doors_unlock_all">모두 잠금 해제</string>
+</resources>

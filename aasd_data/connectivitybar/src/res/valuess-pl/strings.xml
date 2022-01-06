@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">Połączono</string>
+  <string name="connectivitybar_disconnectedStatus">Łączę się z domem…</string>
+</resources>

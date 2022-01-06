@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">クラウドの接続がありません。　　</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">現在、ホームコントロールを読み込むことができません。クラウド接続が一時的に停止していても、ローカルのWAPに接続していればローカルに接続できます。　　</string>
+  <string name="cloudrelaycloudoutage_connection_locally">ローカル接続を試してください　</string>
+</resources>

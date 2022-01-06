@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">เข้าบ้าน</string>
+  <string name="hide_subsystem_lights">แสง</string>
+  <string name="hide_subsystem_media">มีเดีย</string>
+  <string name="hide_subsystem_pools">สระน้ำ &amp; สปา</string>
+  <string name="hide_subsystem_climate">ภูมิอากาศ</string>
+  <string name="hide_subsystem_shades">ที่บังแดด</string>
+  <string name="hide_subsystem_security">ความปลอดภัย</string>
+  <string name="hide_subsystem_cameras">กล้อง</string>
+  <string name="hide_subsystem_customdevices">อุปกรณ์แบบกำหนดเอง</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">快速動作</string>
+  <string name="room_room_services">房間服務</string>
+  <string name="renameroomgroup_popupCancelButton">取消</string>
+  <string name="renameroomgroup_popupCreateButton">重新命名</string>
+  <string name="renameroomgroup_popupTitle">Rename room</string>
+</resources>

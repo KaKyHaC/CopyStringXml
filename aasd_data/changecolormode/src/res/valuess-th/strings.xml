@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changecolormode_title">เปลี่ยนธีม</string>
+  <string name="changecolormode_systemMode">โหมดระบบ</string>
+  <string name="changecolormode_lightMode">โหมดแสง</string>
+  <string name="changecolormode_darkMode">โหมดมืด</string>
+</resources>

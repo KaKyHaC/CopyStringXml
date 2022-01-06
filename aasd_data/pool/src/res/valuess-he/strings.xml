@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">סצנות</string>
+  <string name="pool_setTo">מוגדר ל-</string>
+  <string name="pool_controls">פקדים</string>
+  <string name="pool_off">כבוי</string>
+  <string name="pool_low">נמוך</string>
+  <string name="pool_med">בינוני</string>
+  <string name="pool_high">גבוה</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">בקרות אינן זמינות</string>
+</resources>

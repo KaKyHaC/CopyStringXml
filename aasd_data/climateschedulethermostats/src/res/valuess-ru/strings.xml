@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">Применить к выбранному</string>
+  <string name="climateschedulethermostats_title">Список термостатов</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">Все термостаты</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">Это действие было успешно применено к выбранным термостатам.</string>
+  <string name="climateschedulethermostats_eventsCopyError">Некоторые настройки не удалось скопировать на один или несколько термостатов.</string>
+</resources>

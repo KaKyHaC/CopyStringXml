@@ -1,0 +1,16 @@
+<resources>
+  <string name="claimaddhome_friendlyNameOrLocation">易記名稱/地點</string>
+  <string name="claimaddhome_ipAddressOrHostName">IP 位址 / 主機名稱</string>
+  <string name="claimaddhome_password">用戶界面密碼</string>
+  <string name="claimaddhome_connect">連線</string>
+  <string name="claimaddhome_addTitle">新增新住宅</string>
+  <string name="claimaddhome_addSubtitle">輸入有關您的新快思聰智家的詳細資訊，然後點擊“連接”，開始使用。</string>
+  <string name="claimaddhome_editTitle">編輯 %s</string>
+  <string name="claimaddhome_editSubtitle">編輯有關您的快思聰智家的詳細資訊。</string>
+  <string name="claimaddhome_errorNotEmpty">請輸入 %s 開始。</string>
+  <string name="claimaddhome_errorGeneral">無法連接到此住宅</string>
+  <string name="claimaddhome_incorrectPassword">密碼不正確。</string>
+  <string name="claimaddhome_localConnectionSettings">本地連接設定</string>
+  <string name="claimaddhome_discover">發現</string>
+  <string name="claimaddhome_invalidPasswordPopUp">密碼以便更，請為 %s 重新輸入新密碼。</string>
+</resources>

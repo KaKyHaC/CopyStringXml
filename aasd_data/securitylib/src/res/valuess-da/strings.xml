@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Sikkerhed</string>
+  <string name="securitylib_securitySystem">Sikkerhedssystem</string>
+  <string name="securitylib_securitySystemWithName">Sikkerhedssystem %s</string>
+  <string name="securitylib_alarm_alarm">Alarm</string>
+  <string name="securitylib_alarm_fire">Ild</string>
+  <string name="securitylib_alarm_burglary">Indbrud</string>
+  <string name="securitylib_alarm_medical">Medicinsk</string>
+  <string name="securitylib_alarm_tamper">Manipuler</string>
+  <string name="securitylib_arming_armedStay">Aktiveret ophold</string>
+  <string name="securitylib_arming_exitDelayActive">Aktiv udgangsforsinkelse</string>
+  <string name="securitylib_arming_disarmed">Deaktiveret</string>
+  <string name="securitylib_arming_ready">Klar</string>
+  <string name="securitylib_arming_armedAway">Aktiveret hjemmefra</string>
+  <string name="securitylib_arming_notReady">Ikke klar</string>
+  <string name="securitylib_arming_entryDelayActive">Aktiv indgangsforsinkelse</string>
+  <string name="securitylib_arming_armedStayInstant">Øjeblikkeligt aktiveret ophold</string>
+  <string name="securitylib_arming_armedAwayInstant">Øjeblikkeligt aktiveret hjemmefra</string>
+  <string name="securitylib_arming_armedBypass">Aktiveret omgåelse</string>
+  <string name="securitylib_arming_armedBypassInstant">Øjeblikkelig aktiveret omgåelse</string>
+</resources>

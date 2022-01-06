@@ -1,0 +1,7 @@
+<resources>
+  <string name="mobilemore_support">지원</string>
+  <string name="mobilemore_diagnostics">지원 진단 제출</string>
+  <string name="mobilemore_house_settings">하우스 설정</string>
+  <string name="mobilemore_settings">홈 편집</string>
+  <string name="mobilemore_advanced_settings">고급 설정</string>
+</resources>

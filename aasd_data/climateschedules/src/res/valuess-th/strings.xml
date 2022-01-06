@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">กิจกรรมตามกำหนดการ</string>
+  <string name="climateschedules_noSchedulesTitle">ไม่มีกิจกรรมที่กำหนดเวลาไว้</string>
+  <string name="climateschedules_noSchedulesDescription">ตั้งค่าเทอร์โมสตัทของคุณให้เป็นอัตโนมัติและสร้างกิจกรรมกำหนดเวลาแบบกำหนดเองให้แก่เทอร์โมสตัทแต่ละหน่วย</string>
+  <string name="climateschedules_emptyLayout_createNew">สร้างกิจกรรมกำหนดเวลาใหม่</string>
+  <string name="climateschedules_createNew">+ สร้างกิจกรรมกำหนดเวลาใหม่</string>
+</resources>

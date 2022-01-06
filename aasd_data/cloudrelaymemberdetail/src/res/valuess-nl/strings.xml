@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">gebruikersrol toewijzen</string>
+  <string name="cloudrelaymemberdetail_user">Gebruiker</string>
+  <string name="cloudrelaymemberdetail_owner">Eigenaar</string>
+  <string name="cloudrelaymemberdetail_remove_user">Gebruiker verwijderen</string>
+  <string name="cloudrelaymemberdetail_house_access">Toegang tot huis</string>
+  <string name="cloudrelaymemberdetail_enable_access">Toegang inschakelen</string>
+  <string name="cloudrelaymemberdetail_remove">Verwijderen</string>
+  <string name="cloudrelaymemberdetail_cancel">ANNULEREN</string>
+  <string name="cloudrelaymemberdetail_remove_warning">Weet u zeker dat u deze gebruiker wilt verwijderen?</string>
+</resources>

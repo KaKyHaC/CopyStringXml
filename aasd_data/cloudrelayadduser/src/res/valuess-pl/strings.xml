@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">przypisz rolę użytkownika</string>
+  <string name="cloudrelayadduser_user">Użytkownik</string>
+  <string name="cloudrelayadduser_owner">Właściciel</string>
+  <string name="cloudrelayadduser_username">Nazwa użytkownika</string>
+  <string name="cloudrelayadduser_email">E-mail</string>
+  <string name="cloudrelayadduser_yes">Tak</string>
+  <string name="cloudrelayadduser_no">Nie</string>
+  <string name="cloudrelayadduser_invite_warning">Nie zakończyłeś wysyłania zaproszeń. Kontynuować edytowanie?</string>
+  <string name="cloudrelayadduser_send_invite">Wyślij zaproszenie</string>
+  <string name="cloudrelayadduser_invite_sent">Zaproszenie wysłane</string>
+  <string name="cloudrelayadduser_add_new_user">Dodaj nowego użytkownika</string>
+</resources>

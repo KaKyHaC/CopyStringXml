@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="remotekeypad_hyphen">-</string>
+  <string name="remotekeypad_guide">מדריך</string>
+  <string name="remotekeypad_clear">נקה</string>
+  <string name="remotekeypad_enter">הזן</string>
+  <string name="remotekeypad_notAvailable">לוח מקשים אינו זמין</string>
+</resources>

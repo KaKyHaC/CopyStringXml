@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">Conectat</string>
+  <string name="connectivitybar_disconnectedStatus">Conectare acasă ...</string>
+</resources>

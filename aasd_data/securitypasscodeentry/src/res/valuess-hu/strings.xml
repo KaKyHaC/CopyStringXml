@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">Biztonsági kód megadása</string>
+  <string name="securitypasscodeentry_saveMessage">Mentse el az eszköz kódját. A rendszer ezt követően nem kéri fel a kód újbóli megadására.</string>
+  <string name="securitypasscodeentry_invalidPasscode">Hibás kód. Próbálja meg újra.</string>
+  <string name="securitypasscodeentry_passcodeRequired">A kód üres. Kérjük, adja meg a megfelelő kódot.</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">Upraviť cirkadiánny čas</string>
+  <string name="circadianEdit_description">Elektrické svetlá sa môžu používať tak, aby prispievali k ochrane ľudského zdravia tým, že minimalizujú svoje účinky na ľudský cirkadiánny rytmus.</string>
+  <string name="circadianEdit_transitionsCategory">úprava svetelných prechodových bodov</string>
+  <string name="circadianEdit_previewTransitionButton_start">Ukážka prechodu v rámci cirkadiánneho cyklu</string>
+  <string name="circadianEdit_previewTransitionButton_end">Koniec náhľadu cirkadiánneho prechodu</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">Ráno</string>
+  <string name="circadianEdit_dayTransition">Deň</string>
+  <string name="circadianEdit_eveningTransition">Večer</string>
+  <string name="circadianEdit_nightTransition">Noc</string>
+  <string name="circadianEdit_minTime">12:00 RÁNO</string>
+  <string name="circadianEdit_maxTime">23:59</string>
+</resources>

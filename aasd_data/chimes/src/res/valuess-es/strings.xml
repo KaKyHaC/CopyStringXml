@@ -1,0 +1,6 @@
+<resources>
+  <string name="chime_name">timbre</string>
+  <string name="chime_toolbar">Timbre de la puerta del garaje</string>
+  <string name="chime_back_description">botón de retroceso de eventos</string>
+  <string name="chime_assign_sounds">ASIGNAR SONIDO</string>
+</resources>

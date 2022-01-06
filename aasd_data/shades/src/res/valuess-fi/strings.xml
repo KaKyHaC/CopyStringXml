@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">Kaihtimet</string>
+  <string name="shades_scenesTitle">Profiilit</string>
+  <string name="shades_controlsTitle">CONTROLS</string>
+  <string name="shades_allShadesTitle">ALL SHADES</string>
+  <string name="shades_allShades_MoreLightTitle">More light</string>
+  <string name="shades_allShades_LessLightTitle">Less light</string>
+  <string name="shades_stopRampText">Pysäytä</string>
+</resources>

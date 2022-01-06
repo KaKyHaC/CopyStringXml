@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">새 장면 생성</string>
+  <string name="lightSceneCreate_add_lights">조명 추가</string>
+  <string name="lightSceneCreate_add_more_lights">조명 더 추가</string>
+  <string name="lightSceneCreate_save">저장</string>
+  <string name="lightSceneCreate_set_scene_options">장면 옵션 설정</string>
+  <string name="lightSceneCreate_fade_time">페이드 타임</string>
+  <string name="lightSceneCreate_scene_visibility">장면 가시성</string>
+  <string name="lightSceneCreate_subtitle_template">%d 개 중 %d 개 장면</string>
+</resources>

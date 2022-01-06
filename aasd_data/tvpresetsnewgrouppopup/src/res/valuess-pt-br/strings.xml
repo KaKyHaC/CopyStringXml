@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsnewgroup_popupTitle">Novo nome do grupo</string>
+  <string name="tvpresetsnewgroup_popupCancelButton">CANCELAR</string>
+  <string name="tvpresetsnewgroup_popupCreateButton">Criar</string>
+  <string name="tvpresetsnewgroup_duplicateNameError">Duplicar nome</string>
+  <string name="tvpresetsnewgroup_invalidNameError">Nome inválido</string>
+  <string name="tvpresetsnewgroup_unknownError">Operação falhou</string>
+</resources>

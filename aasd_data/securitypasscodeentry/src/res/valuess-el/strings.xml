@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">Εισάγετε τον κωδικό ασφαλείας</string>
+  <string name="securitypasscodeentry_saveMessage">Αποθηκεύστε τον κωδικό για αυτήν τη συσκευή. Δεν θα σας ζητηθεί να εισάγετε ξανά αυτόν τον κωδικό</string>
+  <string name="securitypasscodeentry_invalidPasscode">Λάθος κωδικός. Παρακαλώ προσπαθήστε ξανά.</string>
+  <string name="securitypasscodeentry_passcodeRequired">Ο κωδικός είναι κενός. Εισάγετε τον σωστό κωδικό.</string>
+</resources>

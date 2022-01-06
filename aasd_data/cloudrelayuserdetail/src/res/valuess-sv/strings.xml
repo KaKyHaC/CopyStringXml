@@ -1,0 +1,18 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">Uppdatera din info</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">Logga ut från alla enheter</string>
+  <string name="cloud_relay_user_detail_sign_out">Logga ut</string>
+  <string name="cloud_relay_user_detail_delete_account">Ta bort konto</string>
+  <string name="cloud_relay_user_detail_edit_name">Redigera namn</string>
+  <string name="cloud_relay_user_detail_change_email">Ändra e-postadress</string>
+  <string name="cloud_relay_user_detail_change_password">Ändra lösenord</string>
+  <string name="cloud_relay_user_detail_change_phone_number">Ändra telefonnummer</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">När du trycker på "Ja" kommer du att loggas ut från alla enheter som är inloggade på det här kontot. Alla sessioner kommer att loggas ut av systemet inom 1-60 minuter.</string>
+  <string name="cloud_relay_user_detail_sign_out_user">Är du säker på att du vill logga ut?</string>
+  <string name="cloud_relay_user_detail_delete_user_account">Är du säker på att du vill ta bort kontot?</string>
+  <string name="cloud_relay_user_detail_account_deleted">Kontot är borttaget</string>
+  <string name="cloud_relay_user_detail_user_signed_out">Du är utloggad</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">Borttagning av kontot kommer att ta ungefär 15 sekunder. Försök att skapa ett konto igen efter 15 sekunder.</string>
+  <string name="cloud_relay_user_detail_no">Nej</string>
+  <string name="cloud_relay_user_detail_yes">Ja</string>
+</resources>

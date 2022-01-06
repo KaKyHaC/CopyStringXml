@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Introduceți numele dvs. de utilizator</string>
+  <string name="providersignin_enter_password"> Introduceți parola dvs.</string>
+  <string name="providersignin_description">Vă rugăm să vă conectați la contul dvs. %s pentru a adăuga acest abonament.</string>
+  <string name="providersignin_user_name">NUME DE UTILIZATOR</string>
+  <string name="providersignin_password">PAROLĂ</string>
+  <string name="providersignin_title">Înregistrare</string>
+  <string name="providersignin_save_user">Salvare utilizator...</string>
+  <string name="providersignin_account_added">Contul a fost adăugat.</string>
+  <string name="providersignin_login_failed">Nu s-a reușit autentificarea.</string>
+</resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">Diagnóstico de Suporte</string>
+  <string name="diagnostics_loggingTitle">Habilitar envio de diagnósticos</string>
+  <string name="diagnostics_loggingDescription">Não ative o envio de diagnósticos, a menos que seja orientado pelo Suporte Técnico da Crestron</string>
+  <string name="diagnostics_submitDiagnostics">Submit Support Diagnostics</string>
+  <string name="diagnostics_submitMessage">A Crestron recomenda apenas o envio de diagnósticos ao trabalhar com o seu revendedor Crestron ou solicitado pelo Atendimento ao Cliente da Crestron. \n\nPressionar enviar permitirá que escolha como deseja compartilhar o arquivo. Siga as instruções do seu revendedor Crestron ou do Atendimento ao Cliente Crestron sobre para onde enviar este arquivo.</string>
+  <string name="diagnostics_submit">Submeter</string>
+</resources>

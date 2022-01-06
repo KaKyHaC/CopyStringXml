@@ -1,0 +1,5 @@
+<resources>
+  <string name="account_selection_account_select">Výber konta</string>
+  <string name="account_selection_add_account">Chcete pridať ďalšie konto?</string>
+  <string name="account_selection_go_provider_account">Prejdite na stránku nastavenia konta poskytovateľa</string>
+</resources>

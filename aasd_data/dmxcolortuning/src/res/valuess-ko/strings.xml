@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">색 조정</string>
+  <string name="dmxroomselection_controlsTitle">제어</string>
+  <string name="dmxcolortuning_description">이 룸에 대한 기준 설정을 정의합니다. 기준 설정을 사용하여 조정 가능한 가구에 대해 원하는 색상 및 온도를 정의합니다.\n\n색상을 시각화하는 데 도움이 되는 강도 슬라이더와 스위치가 제공됩니다. 이 값들은 기준 설정에 저장되지 않습니다.</string>
+</resources>

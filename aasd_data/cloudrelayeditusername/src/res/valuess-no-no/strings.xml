@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">Rediger navn</string>
+  <string name="cloudrelayeditusername_subtitle">Ekstern skytilkobling</string>
+  <string name="cloudrelayeditusername_accountLabel">Regnskap</string>
+  <string name="cloudrelayeditusername_editNameLabel">Navn</string>
+  <string name="cloudrelayeditusername_done">Fullført</string>
+</resources>

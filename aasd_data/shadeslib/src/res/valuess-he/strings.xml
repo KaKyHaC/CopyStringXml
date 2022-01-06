@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">תריסים</string>
+  <string name="shadeslib_all_shades_closed">סגור</string>
+  <string name="shadeslib_all_shades_opened">פתח</string>
+  <string name="shadeslib_shades_title">%s שמשיות</string>
+  <string name="shadeslib_shade_state_with_tilt">עם %d%% הטיה</string>
+  <string name="shadeslib_shades_status_opened">שמשיות פתוחות</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (לא מקוון חלקית)</string>
+  <string name="shadeslib_position_open">%d%% פתוח</string>
+  <string name="shadeslib_shades_closed">סגור</string>
+  <string name="shadeslib_shades_open">פתח</string>
+  <string name="shadeslib_shades_opening">פותח...</string>
+  <string name="shadeslib_shades_closing">סוגר...</string>
+</resources>

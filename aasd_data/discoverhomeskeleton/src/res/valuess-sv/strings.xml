@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">Försök igen</string>
+  <string name="discoverhome_discovering">Upptäcker</string>
+  <string name="discoverhome_notCompatibleMessage">PYNG ÄR INTE KOMPATIBELT MED CRESTRON HOME</string>
+  <string name="discoverhome_titleFound">Hem hittades på det här nätverket</string>
+  <string name="discoverhome_titleNotFound">Inga nya hem hittades</string>
+  <string name="discoverhome_subtitleFound">Välj hemmet för att starta tilläggsprocessen.</string>
+  <string name="discoverhome_subtitleNotFound">Det finns inga hem tillgängliga på det här nätverket. Kontrollera din nätverksanslutning och försök igen.</string>
+</resources>

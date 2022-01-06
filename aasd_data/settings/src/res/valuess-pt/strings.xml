@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Tempo limite da barra de ferramentas virtual</string>
+  <string name="settings_hardkey_wakes_lcd">Hardkey Wakes LCD</string>
+  <string name="settings_master_volume">Volume geral</string>
+  <string name="settings_hardkey_behavior">COMPORTAMENTO DO BOTÃO DO PAINEL PARA CIMA/PARA BAIXO</string>
+  <string name="settings_hardkey_no_function">Sem função</string>
+  <string name="settings_hardkey_lights">Luzes (elevar/baixar na sala)</string>
+  <string name="settings_hardkey_shades">Estores (elevar/baixar na sala)</string>
+  <string name="settings_hardkey_media">Multimédia (volume+/volume- na sala)</string>
+  <string name="settings_advanced_settings_toolbar">Definições avançadas</string>
+</resources>

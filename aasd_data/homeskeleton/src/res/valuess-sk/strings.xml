@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">RÝCHLA VOĽBA AKCIÍ</string>
+  <string name="home_home_controls">OVLÁDAČE DOMÁCNOSTI</string>
+  <string name="home_lock_all">Zamknúť všetky</string>
+  <string name="home_unlock_all">Odomknúť všetky</string>
+  <string name="home_security_system">Bezpečnostný systém</string>
+  <string name="home_climate">Klimatizácia</string>
+  <string name="home_locks">Zámky dverí</string>
+  <string name="home_cameras">Kamery</string>
+  <string name="home_access">Prístup do domu</string>
+</resources>

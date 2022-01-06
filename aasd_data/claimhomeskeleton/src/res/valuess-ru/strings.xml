@@ -1,0 +1,21 @@
+<resources>
+  <string name="claimhome_friendlyNameOrLocation">Псевдоним / местоположение</string>
+  <string name="claimhome_ipAddressOrHostName">IP-адрес / имя хоста</string>
+  <string name="claimhome_password">Пароль пользовательского интерфейса</string>
+  <string name="claimhome_port">Порт</string>
+  <string name="claimhome_connect">Подключиться</string>
+  <string name="claimhome_localPort">Локальный порт</string>
+  <string name="claimhome_resetToDefault">Сбросить в значения по умолчанию</string>
+  <string name="claimhome_addTitle">Добавить новый дом</string>
+  <string name="claimhome_addSubtitle">Введите сведения о новом доме Crestron и нажмите "Подключить", чтобы начать установку..</string>
+  <string name="claimhome_editTitle">Редактировать %s</string>
+  <string name="claimhome_editSubtitle">Редактировать сведения о доме Crestron.</string>
+  <string name="claimhome_errorEmpty">Введите %s, чтобы продолжить.</string>
+  <string name="claimhome_errorGeneral">Невозможно подключиться к этому дому.</string>
+  <string name="claimhome_incorrectPassword">Неверный пароль.</string>
+  <string name="claimhome_localConnectionSettings">НАСТРОЙКИ ЛОКАЛЬНОГО ПОДКЛЮЧЕНИЯ</string>
+  <string name="claimhome_discover">Ознакомиться </string>
+  <string name="claimhome_invalidPasswordPopUp">Пароль был изменен, введите заново новый пароль для %s</string>
+  <string name="claimhome_sameHomeWarning">Уже существует дом с таким же IP-адресом/именем хоста. Вы уверены, что хотите добавить этот дом?</string>
+  <string name="claimhome_localPortExplanation">Заменять только по указанию авторизованного дилера Crestron.</string>
+</resources>

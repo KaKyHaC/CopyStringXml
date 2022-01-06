@@ -1,0 +1,6 @@
+<resources>
+  <string name="chime_name">กระดิ่ง</string>
+  <string name="chime_toolbar">กริ่งโรงรถ</string>
+  <string name="chime_back_description">ปุ่มย้อนกลับกิจกรรม</string>
+  <string name="chime_assign_sounds">เลือกเสียง</string>
+</resources>

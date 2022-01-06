@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">應用於已選項</string>
+  <string name="climateschedulethermostats_title">調溫器列表</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">全部調溫器</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">事件已成功應用於選定的調溫器。</string>
+  <string name="climateschedulethermostats_eventsCopyError">某些設定無法複製到一個或多個調溫器。</string>
+</resources>

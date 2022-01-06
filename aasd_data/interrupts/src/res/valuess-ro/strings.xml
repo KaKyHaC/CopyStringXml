@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">Evenimente și sunete</string>
+  <string name="interrupts_back_description"> butonul de redare înapoi a evenimentelor</string>
+  <string name="interrupts_not_available">Nu sunt disponibile evenimente.</string>
+</resources>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">KONTROLA TEMPERATURY</string>
+  <string name="climate_current_temperature">OBECNA TEMP.</string>
+  <string name="climate_mode">Tryb</string>
+  <string name="climate_schedule">HARMONOGRAM</string>
+  <string name="climate_fan">WENTYLATOR</string>
+  <string name="climate_floor_heating">Ogrzewanie podłogowe</string>
+  <string name="climate_humidity_controls">KONTROLA WILGOTNOŚCI</string>
+  <string name="climate_humidify">NAWILŻAJ DO</string>
+  <string name="climate_floor_control">Sterowanie podłogą</string>
+  <string name="climate_currentHumidity_title">Bieżąca wilgotność</string>
+  <string name="climate_humidityControl_title">Sterowanie wilgotnoścą</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">tilldela användarroll</string>
+  <string name="cloudrelayadduser_user">Användare</string>
+  <string name="cloudrelayadduser_owner">Ägare</string>
+  <string name="cloudrelayadduser_username">Användarnamn</string>
+  <string name="cloudrelayadduser_email">e-postadress</string>
+  <string name="cloudrelayadduser_yes">Ja</string>
+  <string name="cloudrelayadduser_no">Nej</string>
+  <string name="cloudrelayadduser_invite_warning">Du är inte klar med att skicka inbjudningar. Vill du fortsätta redigera?</string>
+  <string name="cloudrelayadduser_send_invite">Skicka inbjudan</string>
+  <string name="cloudrelayadduser_invite_sent">Inbjudan skickad.</string>
+  <string name="cloudrelayadduser_add_new_user">Lägg till ny användare</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">Säkerhet</string>
+  <string name="security_panicActionsTitle">ÅTGÄRDER</string>
+  <string name="security_panicActionsSubtitle">Tryck och håll ned i 1 sekund för att utlösa varje åtgärd</string>
+  <string name="security_navigationButtonsTitle">NAVIGERINGSKNAPPAR</string>
+  <string name="security_selectNavigationButton">Välj</string>
+  <string name="security_keypadTitle">KNAPPSATS</string>
+  <string name="security_keypadSubtitle">Mata in den fyrsiffriga koden och en siffra motsvarande den åtgärd du vill utföra</string>
+  <string name="security_displayTextTitle">PEKSKÄRMSTEXT</string>
+</resources>

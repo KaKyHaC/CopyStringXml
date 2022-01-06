@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">Доступ к дому</string>
+  <string name="hide_subsystem_lights">Светильники</string>
+  <string name="hide_subsystem_media">Мультимедиа</string>
+  <string name="hide_subsystem_pools">Бассейны и спа</string>
+  <string name="hide_subsystem_climate">Климат</string>
+  <string name="hide_subsystem_shades">Затенения</string>
+  <string name="hide_subsystem_security">Безопасность</string>
+  <string name="hide_subsystem_cameras">Камеры</string>
+  <string name="hide_subsystem_customdevices">Пользовательские устройства</string>
+</resources>

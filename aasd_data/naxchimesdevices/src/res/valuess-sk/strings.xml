@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesDevices_title">Udalosti a zvuky</string>
+  <string name="naxChimesDevices_volumeTitle">Hlasitosť udalosti</string>
+  <string name="naxChimesDevices_noEventsFound">
+Nie sú k dispozícii žiadne udalosti</string>
+</resources>

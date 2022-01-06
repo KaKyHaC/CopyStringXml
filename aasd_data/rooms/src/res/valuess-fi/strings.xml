@@ -1,0 +1,6 @@
+<resources>
+  <string name="rooms_title">Huoneet</string>
+  <string name="room_groups_choose_room_filter">Choose room filter</string>
+  <string name="rooms">Huoneet</string>
+  <string name="rooms_no_rooms_visible">Talossa ei ole huoneita.</string>
+</resources>

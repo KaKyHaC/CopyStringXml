@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">ความปลอดภัย</string>
+  <string name="securitylib_securitySystem">ระบบรักษาความปลอดภัย</string>
+  <string name="securitylib_securitySystemWithName">ระบบรักษาความปลอดภัย %s</string>
+  <string name="securitylib_alarm_alarm">การแจ้งเตือน</string>
+  <string name="securitylib_alarm_fire">ไฟ</string>
+  <string name="securitylib_alarm_burglary">โจรกรรม</string>
+  <string name="securitylib_alarm_medical">ทางการแพทย์</string>
+  <string name="securitylib_alarm_tamper">แกะออก</string>
+  <string name="securitylib_arming_armedStay">เตรียมอุปกรณ์เมื่ออยู่ในพื้นที่</string>
+  <string name="securitylib_arming_exitDelayActive">การหน่วงเวลาขาออกที่ใช้งานอยู่</string>
+  <string name="securitylib_arming_disarmed">ยกเลิกการเตรียมอุปกรณ์</string>
+  <string name="securitylib_arming_ready">พร้อม</string>
+  <string name="securitylib_arming_armedAway">เตรียมอุปกรณ์เมื่อไม่อยู่</string>
+  <string name="securitylib_arming_notReady">ไม่พร้อม</string>
+  <string name="securitylib_arming_entryDelayActive">การหน่วงเวลาขาเข้าที่ใช้งานอยู่</string>
+  <string name="securitylib_arming_armedStayInstant">เตรียมอุปกรณ์เมื่ออยู่ในพื้นที่ทันที</string>
+  <string name="securitylib_arming_armedAwayInstant">เตรียมอุปกรณ์เมื่อไม่อยู่ทันที</string>
+  <string name="securitylib_arming_armedBypass">เตรียมอุปกรณ์สำหรับบายพาส</string>
+  <string name="securitylib_arming_armedBypassInstant">เตรียมอุปกรณ์สำหรับบายพาสทันที</string>
+</resources>

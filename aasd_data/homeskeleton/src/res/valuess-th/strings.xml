@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">การดำเนินการด่วน</string>
+  <string name="home_home_controls">การควบคุมบ้าน</string>
+  <string name="home_lock_all">ล็อกทั้งหมด</string>
+  <string name="home_unlock_all">ปลดล็อกทั้งหมด</string>
+  <string name="home_security_system">ระบบรักษาความปลอดภัย</string>
+  <string name="home_climate">ภูมิอากาศ</string>
+  <string name="home_locks">การล็อกประตู</string>
+  <string name="home_cameras">กล้อง</string>
+  <string name="home_access">เข้าบ้าน</string>
+</resources>

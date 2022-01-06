@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s em %s</string>
+  <string name="nowplayingbar_multiple_media">Múltiplos meios de comunicação</string>
+  <string name="nowplayingbar_rooms">%d quartos</string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">Controlos de volume não disponíveis</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">Ligue este quarto de media</string>
+</resources>

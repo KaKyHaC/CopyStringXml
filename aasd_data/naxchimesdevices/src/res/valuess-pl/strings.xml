@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesDevices_title">Wydarzenia i dźwięki</string>
+  <string name="naxChimesDevices_volumeTitle">Głośność wydarzenia</string>
+  <string name="naxChimesDevices_noEventsFound">Brak dostępnych wydarzeń</string>
+</resources>

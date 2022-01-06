@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">Toate camerele</string>
+  <string name="roomslib_favorite_rooms">Favorite</string>
+  <string name="roomslib_other_rooms">Alte încăperi</string>
+  <string name="ok_text">OK</string>
+  <string name="renameroom_voice">Pentru ca serviciul dvs. vocal să înțeleagă acest nume nou al încăperii, vă rugăm să-i cereți să găsească din nou dispozitivele dvs.</string>
+  <string name="duplicate_name">Nume duplicat</string>
+  <string name="invalid_name">Nume invalid</string>
+  <string name="unknown_error">Eroare necunoscută</string>
+  <string name="read_only">Doar în citire</string>
+  <string name="renameRoom">Redenumiți încăperea</string>
+  <string name="roomslib_do_not_disturb_toast_on">Modul "Nu deranjați" este pornit.</string>
+  <string name="roomslib_do_not_disturb_toast_off">Modul "Nu deranjați" este oprit.</string>
+  <string name="roomslib_this_room">Această cameră</string>
+  <string name="roomslib_selectRoom_colorTuning">Reglarea culorilor</string>
+  <string name="roomslib_selectRoom_circadianLighting">Iluminare circadiană</string>
+</resources>

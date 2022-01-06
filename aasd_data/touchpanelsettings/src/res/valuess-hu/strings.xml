@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">beállítások vissza gomb</string>
+  <string name="touchPanelsettings_toolbar">Beállítások</string>
+  <string name="touchPanelsettings_toolbar_default_room">Alapértelmezett helyiség</string>
+  <string name="touchPanelsettings_room_list">HELYISÉGLISTA</string>
+  <string name="touchPanelsettings_display">KIJELZŐ</string>
+  <string name="touchPanelsettings_automode_brightness">Automata mód fényerő</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">Kijelző időtúllépés</string>
+  <string name="touchPanelsettings_screensaver">Képernyővédő</string>
+  <string name="touchPanelsettings_media_volume">Média hangerő</string>
+  <string name="touchPanelsettings_home">KEZDŐLAP</string>
+  <string name="touchPanelsettings_advanced_settings">Haladó beállítások</string>
+  <string name="touchPanelsettings_edit_home">Otthon szerkesztése</string>
+  <string name="touchPanelsettings_info">INFÓ</string>
+  <string name="touchPanelsettings_firmware_version">Firmware-verzió</string>
+  <string name="touchPanelsettings_ui_version">UI-verzió</string>
+  <string name="touchPanelsettings_volume">HANGERŐ</string>
+  <string name="touchPanelsettings_edit_home_popup_message">Kizárólag akkor módosítsa ezeket a beállításokat, ha a Crestron márkakereskedője felkéri rá</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">Folytatás</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">Mégse</string>
+  <string name="touchPanelsettings_timeout_text_never">Soha</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s másodperc</string>
+  <string name="touchPanelsettings_timeout_text_minute">1 perc</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s perc</string>
+  <string name="touchPanelsettings_timeout_text_hour">1 óra</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s óra</string>
+  <string name="touchPanelsettings_access_points">Wi-Fi hozzáférési pont</string>
+  <string name="touchPanelsettings_intercom">KAPUTELEFON ÉS MEGSZAKÍTÁSOK</string>
+  <string name="touchPanelsettings_do_not_disturb">Ne zavarjanak</string>
+  <string name="touchPanelsettings_play_test">Teszthang lejátszása</string>
+  <string name="touchPanelsettings_speakervolume_label">Hangszóró hangerő</string>
+</resources>

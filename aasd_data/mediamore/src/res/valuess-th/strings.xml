@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">การตั้งค่าลำโพง</string>
+  <string name="mediamore_additionalFunctions">ฟังก์ชั่นการทำงานเพิ่มเติม</string>
+  <string name="mediamore_advancedSettings">การตั้งค่าขั้นสูง</string>
+  <string name="mediamore_noInfo">ไม่มีข้อมูลพร้อมใช้</string>
+</resources>

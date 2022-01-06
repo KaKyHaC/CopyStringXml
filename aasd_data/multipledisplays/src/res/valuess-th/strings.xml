@@ -1,0 +1,6 @@
+<resources>
+  <string name="multiple_displays_no_controls">ไม่มีการควบคุมที่ใช้ได้</string>
+  <string name="multiple_displays_scenes">ฉาก</string>
+  <string name="multiple_displays_toolbartitle">วิดีโอ</string>
+  <string name="multiple_displays_displaytitle">การแสดงผล</string>
+</resources>

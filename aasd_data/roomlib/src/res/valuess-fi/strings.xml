@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">Kaikki huoneet</string>
+  <string name="roomslib_favorite_rooms">Suosikit</string>
+  <string name="roomslib_other_rooms">Muut huoneet</string>
+  <string name="ok_text">OK</string>
+  <string name="renameroom_voice">Pyydä äänipalveluasi etsimään laitteesi uudelleen, jotta se voi ymmärtää tämän uuden huoneen nimen</string>
+  <string name="duplicate_name">Nimen kaksoiskappale</string>
+  <string name="invalid_name">Virheellinen nimi</string>
+  <string name="unknown_error">Tuntematon virhe</string>
+  <string name="read_only">Vain-luku</string>
+  <string name="renameRoom">Nimeä huone uudelleen</string>
+  <string name="roomslib_do_not_disturb_toast_on">Do not disturb mode is turned on.</string>
+  <string name="roomslib_do_not_disturb_toast_off">Do not disturb mode is off.</string>
+  <string name="roomslib_this_room">This Room</string>
+  <string name="roomslib_selectRoom_colorTuning">Värisäätö</string>
+  <string name="roomslib_selectRoom_circadianLighting">Vuorokausivalaistus</string>
+</resources>

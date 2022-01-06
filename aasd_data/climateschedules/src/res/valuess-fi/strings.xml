@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">Ajastetut tapahtumat</string>
+  <string name="climateschedules_noSchedulesTitle">No scheduled events</string>
+  <string name="climateschedules_noSchedulesDescription">Automate your thermostats and create customized scheduled events for each thermostat.</string>
+  <string name="climateschedules_emptyLayout_createNew">Create new schedule event</string>
+  <string name="climateschedules_createNew">+ Create new scheduled event</string>
+</resources>

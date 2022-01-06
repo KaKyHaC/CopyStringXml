@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">Úprava svetelných prostredí</string>
+  <string name="lightSceneEdit_scenesCategory">Prostredia</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">Uvedené prostredie sa neodstráni.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">Uvedené prostredie nie je možné upraviť.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">OK</string>
+</resources>

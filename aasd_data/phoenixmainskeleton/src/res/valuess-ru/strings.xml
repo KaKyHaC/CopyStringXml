@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Phoenix</string>
+  <string name="app_home">ГЛАВНАЯ</string>
+  <string name="app_rooms">Комнаты</string>
+  <string name="app_more">ДОПОЛНИТЕЛЬНО</string>
+  <string name="app_home_is_busy">Ваш дом занят, пожалуйста, ожидайте</string>
+</resources>

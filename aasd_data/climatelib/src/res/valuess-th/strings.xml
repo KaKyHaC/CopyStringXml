@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">% สภาพอุณหภูมิ
+</string>
+  <string name="climatelib_noActiveThermostats_upperCase">ไม่มีเทอร์โมสตัทที่ใช้งานได้</string>
+  <string name="climatelib_noActiveThermostats">ไม่มีอุปกรณ์ควบคุมอุณหภูมิที่ใช้งานอยู่</string>
+  <string name="climatelib_status_multiple_running">อุปกรณ์ควบคุมอุณหภูมิหลายเครื่องกำลังทำงาน</string>
+  <string name="climatelib_status_heating_to_temperature">กำลังเพิ่มความร้อนที่ %</string>
+  <string name="climatelib_status_cooling_to_temperature">กำลังเพิ่มความเย็นที่ %</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%dºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">เพิ่มความเย็นที่ %.1fº, เปิดใช้ H.C. (56%%)</string>
+  <string name="climatelib_thermostat_status_increasing">เพิ่มความร้อนที่ %.1fº, เปิดใช้ H.C. (56%%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">เปิดใช้ H.C. (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">เปิดใช้ F.H. (%s)</string>
+  <string name="climatelib_thermostat_state_offline">ออฟไลน์</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">ตั้งค่าความเย็น</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">ตั้งค่าความร้อน</string>
+  <string name="climatelib_thermostat_setpoint_single">กำหนดจุด</string>
+  <string name="climatelib_set_point">กำหนดจุด</string>
+  <string name="climatelib_heat_set_point">ให้ความร้อนไปที่</string>
+  <string name="climatelib_cool_set_point">ให้ความเย็นไปที่</string>
+  <string name="climatelib_single_set_point">อัตโนมัติเดี่ยว</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">ให้ความเย็นที่ %s</string>
+  <string name="climatelib_thermostat_heatTo">ให้ความร้อนที่ %s</string>
+  <string name="climatelib_thermostat_setTo">ตั้งค่าที่ %s</string>
+  <string name="climatelib_state_off">ปิด</string>
+  <string name="climatelib_state_on">เปิด</string>
+  <string name="climatelib_thermostatMode_heat">ความร้อน</string>
+  <string name="climatelib_thermostatMode_cool">ความเย็น</string>
+  <string name="climatelib_thermostatMode_single_auto">อัตโนมัติเดี่ยว</string>
+  <string name="climatelib_thermostatMode_dual_auto">อัตโนมัติคู่</string>
+  <string name="climatelib_thermostatMode_aux_heat">ความร้อนเสริม</string>
+  <string name="climatelib_thermostatMode_autoMode">โหมดอัตโนมัติ</string>
+  <string name="climatelib_thermostatMode_dualMode">โหมดคู่</string>
+  <string name="climatelib_thermostatFan_auto">อัตโนมัติ</string>
+  <string name="climatelib_thermostatFan_low">ต่ำ</string>
+  <string name="climatelib_thermostatFan_medium">ปานกลาง</string>
+  <string name="climatelib_thermostatFan_high">สูง</string>
+  <string name="climatelib_thermostatFan_circulate">หมุนเวียน</string>
+  <string name="climatelib_thermostatFan_circulateLow">หมุนเวียนต่ำ</string>
+  <string name="climatelib_thermostatFan_circulateMedium">หมุนเวียนกลาง</string>
+  <string name="climatelib_thermostatFan_none">ไม่มี</string>
+  <string name="climatelib_thermostatSchedule_noEvents">ไม่มีกิจกรรม</string>
+  <string name="climatelib_thermostatSchedule_hold">ระงับ</string>
+  <string name="climatelib_thermostatSchedule_running">กำลังทำงาน</string>
+  <string name="climatelib_thermostatSchedule_run">เรียกใช้งาน</string>
+  <string name="climatelib_thermostatSchedule_override">ชั่วคราว</string>
+  <string name="climatelib_thermostatSchedule_next">ถัดไป %1$s - %2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">กำลังระงับ</string>
+  <string name="climatelib_labelMode">โหมด</string>
+  <string name="climatelib_labelFan">พัดลม</string>
+  <string name="climatelib_labelSchedule">กำหนดเวลา</string>
+  <string name="climatelib_noScheduleEvents">ไม่มีกิจกรรมที่กำหนดเวลาไว้ คุณต้องการสร้างกิจกรรมที่กำหนดเวลาไว้หรือไม่</string>
+  <string name="climatelib_popupCancel">ยกเลิก</string>
+  <string name="climatelib_popupCreate">สร้าง</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">ตารางเวลาอุณหภูมิ</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">กิจกรรมตามกำหนดการ</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">รหัสผ่านไม่ถูกต้อง</string>
+  <string name="climatelib_climateSchedules_weekdays">วันธรรมดา</string>
+  <string name="climatelib_climateSchedules_weekend">สุดสัปดาห์</string>
+  <string name="climatelib_climateSchedules_everyday">ทุกวัน</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s, %2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">ไม่มีกิจกรรมที่กำหนดเวลาไว้</string>
+  <string name="climatelib_climateSchedules_mon">จ.</string>
+  <string name="climatelib_climateSchedules_tue">อ.</string>
+  <string name="climatelib_climateSchedules_wed">พ.</string>
+  <string name="climatelib_climateSchedules_thu">พฤ.</string>
+  <string name="climatelib_climateSchedules_fri">ศ.</string>
+  <string name="climatelib_climateSchedules_sat">ส.</string>
+  <string name="climatelib_climateSchedules_sun">อา.</string>
+  <string name="climatelib_climate">ภูมิอากาศ</string>
+</resources>

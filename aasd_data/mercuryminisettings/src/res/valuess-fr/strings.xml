@@ -1,0 +1,6 @@
+<resources>
+  <string name="mercuryminisettings_brightness">Luminosité</string>
+  <string name="mercuryminisettings_touchToWake_title">Réactivation au toucher uniquement</string>
+  <string name="mercuryminisettings_ipAddress_title">Adresse IP</string>
+  <string name="mercuryminisettings_interrupt_label">Coupures</string>
+</resources>

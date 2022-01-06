@@ -1,0 +1,5 @@
+<resources>
+  <string name="mobileclaimhome_homeSettings">HJEMINNSTILLINGER</string>
+  <string name="mobileclaimhome_remoteAccessSettings">INNSTILLINGER FOR FJERNTILGANG</string>
+  <string name="mobileclaimhome_port">Port</string>
+</resources>

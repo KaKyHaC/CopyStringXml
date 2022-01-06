@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">Scene</string>
+  <string name="pool_setTo">SETAT(Ă) LA</string>
+  <string name="pool_controls">COMENZI</string>
+  <string name="pool_off">DEZACTIVAT(Ă)</string>
+  <string name="pool_low">SCĂZUT</string>
+  <string name="pool_med">MEDIU</string>
+  <string name="pool_high">RIDICAT</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">Nu sunt disponibile comenzi.</string>
+</resources>

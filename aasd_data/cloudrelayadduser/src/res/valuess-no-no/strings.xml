@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">tilordne brukerrolle</string>
+  <string name="cloudrelayadduser_user">Bruker</string>
+  <string name="cloudrelayadduser_owner">Eier</string>
+  <string name="cloudrelayadduser_username">Brukernavn</string>
+  <string name="cloudrelayadduser_email">e-post</string>
+  <string name="cloudrelayadduser_yes">Ja</string>
+  <string name="cloudrelayadduser_no">Nei</string>
+  <string name="cloudrelayadduser_invite_warning">Du er ikke ferdig med å sende invitasjoner. Vil du fortsette å redigere?</string>
+  <string name="cloudrelayadduser_send_invite">Send invitasjon</string>
+  <string name="cloudrelayadduser_invite_sent">Invitasjon er sendt.</string>
+  <string name="cloudrelayadduser_add_new_user">Legg til ny bruker</string>
+</resources>

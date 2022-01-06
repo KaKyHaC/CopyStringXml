@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">Доступ к этому дому будет удален у всех существующих пользователей. Вы можете вернуть доступ этим пользователям после завершения утверждения.</string>
+  <string name="cloudrelayclaim_title">Продолжить утверждение</string>
+  <string name="cloudrelayclaim_continue">Продолжить</string>
+  <string name="cloudrelayclaim_success">Нажмите кнопку "Пользователи" выше, чтобы начать предоставлять доступ своим родным и друзьям.</string>
+  <string name="cloudrelayclaim_warning_ok">ОК</string>
+  <string name="cloudrelayclaim_warning_subtitle">Обратитесь за помощью к своему дилеру Crestron.</string>
+  <string name="cloudrelayclaim_warning_title">Вы не можете утвердить свой дом сейчас</string>
+</resources>

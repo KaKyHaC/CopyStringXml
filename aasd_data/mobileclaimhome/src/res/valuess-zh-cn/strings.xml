@@ -1,0 +1,5 @@
+<resources>
+  <string name="mobileclaimhome_homeSettings">房屋设置</string>
+  <string name="mobileclaimhome_remoteAccessSettings">远程访问设置</string>
+  <string name="mobileclaimhome_port">端口</string>
+</resources>

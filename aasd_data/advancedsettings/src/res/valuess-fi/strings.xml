@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">SHOW CONTROLS</string>
+  <string name="advancedSettings_roomVisibilityControl_label">SHOW ROOMS</string>
+  <string name="advancedSettings_settings_home_access_label">House access</string>
+  <string name="advancedSettings_settings_cameras_label">Kamerat</string>
+  <string name="advancedSettings_settings_security_label">Suojaus</string>
+  <string name="advancedSettings_back_description">settings back button</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">AUDIO INTERRUPTS &amp; CHIMES</string>
+  <string name="advancedSettings_settings_events_sound_label">Events &amp; Sounds</string>
+  <string name="advancedSettings_settings_change_theme_label">Näyttö</string>
+  <string name="advancedSettings_settings_change_theme_title">Change Theme</string>
+  <string name="advancedSettings_toolbar">Lisäasetukset</string>
+  <string name="advancedSettings_showDoNotSiasturb">Näytä Älä häiritse</string>
+  <string name="advancedSettings_colorTuning_label">Värisäätö</string>
+  <string name="advancedSettings_tunableLighting_label">Tunable lighting</string>
+  <string name="advancedSettings_circadianSettings_label">Vuorokausiasetukset</string>
+</resources>

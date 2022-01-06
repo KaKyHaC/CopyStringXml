@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">KAMERY</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">BRAK STRUMIENIA O WYSTARCZAJĄCO NISKIEJ ROZDZIELCZOŚCI\n(MAKSIMUM 1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">PODGLĄD NIEDOSTĘPNY</string>
+  <string name="camerasLib_noPreviewAvailable">BRAK DOSTĘPNEGO PODGLĄDU</string>
+  <string name="camerasLib_noStreamAvailable">BRAK DOSTĘPNEJ TRANSMISJI</string>
+</resources>

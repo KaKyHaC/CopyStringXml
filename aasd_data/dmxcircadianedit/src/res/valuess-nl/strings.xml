@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">Circadiaan bewerken</string>
+  <string name="circadianEdit_description">Elektrische lampen kunnen worden gebruikt om de menselijke gezondheid te ondersteunen door hun effecten op het menselijke circadiane ritme te minimaliseren.</string>
+  <string name="circadianEdit_transitionsCategory">licht overgangspunten bewerken</string>
+  <string name="circadianEdit_previewTransitionButton_start">Voorbeeld Circadiane overgang</string>
+  <string name="circadianEdit_previewTransitionButton_end">Voorbeeld van Circadiane overgang beëindigen</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">Ochtend</string>
+  <string name="circadianEdit_dayTransition">Dag</string>
+  <string name="circadianEdit_eveningTransition">Avond</string>
+  <string name="circadianEdit_nightTransition">Nacht</string>
+  <string name="circadianEdit_minTime">12 uur</string>
+  <string name="circadianEdit_maxTime">23:59 uur</string>
+</resources>

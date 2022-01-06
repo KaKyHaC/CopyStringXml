@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Wifi Selection Back Action</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">Add new access point</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">Touch to add WAP settings.</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">Enter password for this network and tap “Connect”.</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">WAP CONNECTION SETTINGS</string>
+  <string name="touchpanelWifiPasswordEntry_connect">Yhdistä</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">NAME (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">Salasana</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">Suojaus</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">WAP Connecting</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP Connected</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">Ethernet Cable Connected</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">WAP Connection Failed</string><string name="touchpanelEncryptionSelection_title">WiFi Encryption Settings</string></resources>

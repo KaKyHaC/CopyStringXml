@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="legal_terms_title">Jogi feltételek</string>
+  <string name="legal_terms_mobileAppsTermsOfUse">A mobilalkalmazásokra vonatkozó használati feltételek</string>
+  <string name="legal_terms_softwareLicenseAgreement">Szoftver licencszerződés</string>
+</resources>

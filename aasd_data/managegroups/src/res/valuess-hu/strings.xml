@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">Egyesítés a következővel: %s</string>
+  <string name="managegroups_ungroupAll">Összes csoportosításának megszüntetése</string>
+  <string name="managegroups_ungroupRoom">%s csoportosításának megszüntetése</string>
+  <string name="managegroups_mergeSelected">Kijelölt elemek egyesítése egy csoportba</string>
+</resources>

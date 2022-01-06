@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">Îmbinați cu %s</string>
+  <string name="managegroups_ungroupAll">Degrupați tot</string>
+  <string name="managegroups_ungroupRoom">Degrupați %s</string>
+  <string name="managegroups_mergeSelected">Îmbinarea selectată din grup</string>
+</resources>

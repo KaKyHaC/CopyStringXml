@@ -1,0 +1,6 @@
+<resources>
+  <string name="naxaccountedit_editTitle">Editați numele contului</string>
+  <string name="naxaccountedit_accountLabel">CONT</string>
+  <string name="naxaccountedit_editNameLabel">NUME</string>
+  <string name="naxaccountedit_done">Terminat</string>
+</resources>

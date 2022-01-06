@@ -1,0 +1,21 @@
+<resources>
+  <string name="claimhome_friendlyNameOrLocation">易记名称/位置</string>
+  <string name="claimhome_ipAddressOrHostName">IP 地址/主机名</string>
+  <string name="claimhome_password">用户界面密码</string>
+  <string name="claimhome_port">端口</string>
+  <string name="claimhome_connect">连接</string>
+  <string name="claimhome_localPort">本地端口</string>
+  <string name="claimhome_resetToDefault">重置为默认</string>
+  <string name="claimhome_addTitle">添加新房屋</string>
+  <string name="claimhome_addSubtitle">输入关于您的新的Crestron房屋的详细信息，点击“连接”开始。</string>
+  <string name="claimhome_editTitle">编辑%s</string>
+  <string name="claimhome_editSubtitle">编辑关于您的Crestron房屋的详细信息。</string>
+  <string name="claimhome_errorEmpty">请输入%s继续。</string>
+  <string name="claimhome_errorGeneral">无法与此房间连接。</string>
+  <string name="claimhome_incorrectPassword">密码错误。</string>
+  <string name="claimhome_localConnectionSettings">本地连接设置</string>
+  <string name="claimhome_discover">发现</string>
+  <string name="claimhome_invalidPasswordPopUp">密码已更改，为%s重新输入新的密码</string>
+  <string name="claimhome_sameHomeWarning">已经存在具有相同IP地址/主机名的房间。您是否想添加此房间？</string>
+  <string name="claimhome_localPortExplanation">只有在您的授权Crestron经销商有指示时才更改</string>
+</resources>

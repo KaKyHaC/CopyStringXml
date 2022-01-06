@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">摄像机</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">在足够低的分辨率下无流（最大分辨率为1920x1080）</string>
+  <string name="camerasLib_previewUnavailable">预览不可用</string>
+  <string name="camerasLib_noPreviewAvailable">无可用的预览</string>
+  <string name="camerasLib_noStreamAvailable">无可用的流</string>
+</resources>

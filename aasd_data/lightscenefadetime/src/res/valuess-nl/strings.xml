@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Fadetijd</string>
+  <string name="sceneFadeTime_header">verlichtingsvervagingstijd instellen</string>
+</resources>

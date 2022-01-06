@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tsw_auth_scan_code">
+アカウントを追加するには、モバイルデバイスを使用して以下のコードをスキャンします。</string>
+  <string name="use_this_code">
+このコードを使用する
+</string>
+</resources>

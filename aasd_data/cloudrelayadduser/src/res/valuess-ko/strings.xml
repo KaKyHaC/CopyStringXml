@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">사용자 역할 할당</string>
+  <string name="cloudrelayadduser_user">사용자</string>
+  <string name="cloudrelayadduser_owner">소유자</string>
+  <string name="cloudrelayadduser_username">사용자 이름</string>
+  <string name="cloudrelayadduser_email">이메일</string>
+  <string name="cloudrelayadduser_yes">예</string>
+  <string name="cloudrelayadduser_no">아니요</string>
+  <string name="cloudrelayadduser_invite_warning">초대 발송을 완료하지 않았습니다. 편집을 계속하시겠습니까?</string>
+  <string name="cloudrelayadduser_send_invite">초대 보내기</string>
+  <string name="cloudrelayadduser_invite_sent">초대 보냄.</string>
+  <string name="cloudrelayadduser_add_new_user">새 사용자 추가</string>
+</resources>

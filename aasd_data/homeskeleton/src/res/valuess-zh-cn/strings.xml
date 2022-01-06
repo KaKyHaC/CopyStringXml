@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">快速操作</string>
+  <string name="home_home_controls">房屋控制</string>
+  <string name="home_lock_all">锁定全部</string>
+  <string name="home_unlock_all">解锁全部</string>
+  <string name="home_security_system">安全系统</string>
+  <string name="home_climate">气候</string>
+  <string name="home_locks">门锁</string>
+  <string name="home_cameras">摄像机</string>
+  <string name="home_access">房屋进入</string>
+</resources>

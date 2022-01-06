@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">Пульт ДУ</string>
+  <string name="roommedia_more">ДОПОЛНИТЕЛЬНО</string>
+  <string name="roommedia_playing">Воспроизведение</string>
+  <string name="roommedia_browse">Обзор</string>
+  <string name="roommedia_multiRoom">Несколько комнат</string>
+  <string name="roommedia_favorites">Избранное</string>
+  <string name="roommedia_keypad">Клавиатура</string>
+  <string name="roommedia_media">Мультимедиа</string>
+  <string name="roommedia_warmingUp">СОГРЕВАНИЕ</string>
+  <string name="roommedia_coolingDown">ОХЛАЖДЕНИЕ</string>
+  <string name="roommedia_roomVideo">%s видео</string>
+  <string name="roommedia_limitedControl">ОГРАНИЧЕННЫЙ КОНТРОЛЬ. ПОДКЛЮЧЕНИЕ...</string>
+  <string name="roommedia_someRoomsAreOff">НЕКОТОРЫЕ КОМНАТЫ ОТКЛЮЧЕНЫ</string>
+  <string name="roommedia_openInSonos">Открыть в Sonos</string>
+  <string name="roommedia_account_status">Не зарегистрирован</string>
+  <string name="roommedia_noNowPlayingInformation">Ничего не воспроизводится</string>
+  <string name="roommedia_noAccountSelected">Выбрать аккаунт</string>
+  <string name="roommedia_pduPr_dialogHeader">Вы хотите перевести устройство в режим цикла включения/выключения питания?</string>
+  <string name="roommedia_pduPr_dialogMessage">Повторный запуск может занять несколько минут.</string>
+  <string name="roommedia_pduPr_digPowerCycle">Цикл включения/выключения питания</string>
+  <string name="roommedia_pduPr_digCancel">Отмена</string>
+  <string name="roommedia_pduPr_toastMessage">Отсутствие быстрого действия для цикла включения/выключения питания</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+  <string name="multiple_displays_no_controls">Nenhum controle disponível.</string>
+  <string name="multiple_displays_scenes">CENAS</string>
+  <string name="multiple_displays_title">EXIBIÇÕES</string>
+  <string name="multiple_displays_toolbartitle">Vídeo</string>
+  <string name="multiple_displays_displaytitle">Monitores</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">已连接</string>
+  <string name="connectivitybar_disconnectedStatus">正在连接房屋...</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Feil passord</string>
+  <string name="advancedpassword_passwordHint">Skriv inn passordet for å redigere planlagte hendelser.</string>
+  <string name="advancedpassword_settingsPasswordHint">Dette er en beskyttet del, vennligst skriv inn passordet først.</string>
+  <string name="advancedpassword_editScenesPasswordHint">Dette er en beskyttet del, vennligst skriv inn passordet først.</string>
+  <string name="advancedpassword_title">Skriv inn passordet</string>
+  <string name="advancedpassword_advancedUserPassword">Avansert brukerpassord</string>
+  <string name="advancedpassword_advancedUserPasswordHint">Kontakt din autoriserte Crestron-forhandler for ditt avanserte brukerpassord.</string>
+  <string name="advancedpassword_warning_ok">OK</string>
+  <string name="advancedpassword_warning_subtitle">Hvis du skriver inn feil passord flere ganger, vil kontoen din bli midlertidig låst ute. Prøv igjen om en liten stund eller kontakt din autoriserte Crestron-forhandler.</string>
+  <string name="advancedpassword_warning_title">Du har skrevet inn feil passord.</string>
+  <string name="advancedpassword_cloud_claim_hint">For å fortsette å kreve hjemmet ditt, skriv inn et avansert brukerpassord. Kontakt din autoriserte Crestron-forhandler for ditt avanserte brukerpassord.</string>
+  <string name="advancedpassword_cloud_claim_skip">Du kan %s og fortsette til hjemmet ditt uten å bruke et avansert brukerpassord på dette tidspunktet.</string>
+  <string name="advancedpassword_skip_this_step">hoppe over dette trinnet</string>
+</resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">Ombre</string>
+  <string name="shades_scenesTitle">Scenari</string>
+  <string name="shades_controlsTitle">Comandi</string>
+  <string name="shades_allShadesTitle">TUTTE LE SFUMATURE</string>
+  <string name="shades_allShades_MoreLightTitle">Più luce</string>
+  <string name="shades_allShades_LessLightTitle">Meno luce</string>
+  <string name="shades_stopRampText">Interrompi</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Mutați și dimensionați</string>
+  <string name="changeimage_cellularWarning">Atunci când nu vă conectați prin Wi-Fi, încărcarea fotografiilor poate dura în mod semnificativ mai mult.</string>
+  <string name="changeimage_cancel">Revocare</string>
+  <string name="changeimage_choose">Selectați</string>
+</resources>

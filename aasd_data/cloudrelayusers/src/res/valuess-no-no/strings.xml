@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">Du</string>
+  <string name="cloud_relay_users_no_user">Ingen brukere er tilgjengelige.</string>
+  <string name="cloud_relay_users_add_new_user">+ Legg til ny bruker</string>
+  <string name="cloud_relay_users_reclaim_home">Gjenta dette hjemmet</string>
+  <string name="cloud_relay_users_role_format">%s (invitasjon venter)</string>
+  <string name="cloud_relay_users_info_unavailable">"Brukerinformasjon utilgjengelig, prøv senere"</string>
+</resources>

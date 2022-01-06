@@ -1,0 +1,4 @@
+<resources>
+  <string name="cloud_role_user">משתמש</string>
+  <string name="cloud_role_admin">מנהל</string>
+</resources>

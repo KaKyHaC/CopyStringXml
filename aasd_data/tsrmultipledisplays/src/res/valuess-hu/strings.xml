@@ -1,0 +1,7 @@
+<resources>
+  <string name="multiple_displays_no_controls">Nincsenek elérhető vezérlők.</string>
+  <string name="multiple_displays_scenes">JELENETEK</string>
+  <string name="multiple_displays_title">KIJELZŐK</string>
+  <string name="multiple_displays_toolbartitle">Videó</string>
+  <string name="multiple_displays_displaytitle">Kijelzők</string>
+</resources>

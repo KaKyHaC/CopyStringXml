@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s中的%s</string>
+  <string name="nowplayingbar_multiple_media">多个媒体</string>
+  <string name="nowplayingbar_rooms">%d房间</string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">音量控制不可用</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">开启此媒体房间</string>
+</resources>

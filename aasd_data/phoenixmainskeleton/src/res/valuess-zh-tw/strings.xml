@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Phoenix</string>
+  <string name="app_home">房屋</string>
+  <string name="app_rooms">房間</string>
+  <string name="app_more">其他</string>
+  <string name="app_home_is_busy">您的住宅正忙，請稍候。</string>
+</resources>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tsw_auth_scan_code">Чтобы добавить аккаунт, отсканируйте приведенный ниже код с помощью мобильного устройства.</string>
+  <string name="use_this_code">Используйте этот код</string>
+</resources>

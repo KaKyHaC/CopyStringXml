@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">Velg kilde</string>
+  <string name="source_selection_problem_source">Ikke tilgjengelig i alle rom i gruppen</string>
+</resources>

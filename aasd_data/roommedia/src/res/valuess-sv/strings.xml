@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">Fjärrstyrd</string>
+  <string name="roommedia_more">Mer</string>
+  <string name="roommedia_playing">Spelar upp</string>
+  <string name="roommedia_browse">Bläddra</string>
+  <string name="roommedia_multiRoom">Flerrum</string>
+  <string name="roommedia_favorites">Favoriter</string>
+  <string name="roommedia_keypad">Knappsats</string>
+  <string name="roommedia_media">MEDIA</string>
+  <string name="roommedia_warmingUp">VÄRMER UPP</string>
+  <string name="roommedia_coolingDown">KYLER NED</string>
+  <string name="roommedia_roomVideo">%s video</string>
+  <string name="roommedia_limitedControl">BEGRÄNSAD KONTROLL. ANSLUTER...</string>
+  <string name="roommedia_someRoomsAreOff">VISSA RUM ÄR AV</string>
+  <string name="roommedia_openInSonos">Öppna i Sonos</string>
+  <string name="roommedia_account_status">Inte inloggad</string>
+  <string name="roommedia_noNowPlayingInformation">Inget spelas</string>
+  <string name="roommedia_noAccountSelected">Välj konto</string>
+  <string name="roommedia_pduPr_dialogHeader">Vill du utföra en kall omstart på den här enheten?</string>
+  <string name="roommedia_pduPr_dialogMessage">Det kommer att ta några minuter att starta igen.</string>
+  <string name="roommedia_pduPr_digPowerCycle">Kall omstart</string>
+  <string name="roommedia_pduPr_digCancel">Avbryt</string>
+  <string name="roommedia_pduPr_toastMessage">Ingen snabbåtgärd för kall omstart</string>
+</resources>

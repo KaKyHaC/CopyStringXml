@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">מצלמות</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">NO STREAM WITH LOW ENOUGH RESOLUTION\n(MAXIMUM IS 1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">תצוגה מקדימה לא זמינה</string>
+  <string name="camerasLib_noPreviewAvailable">אין תצוגה מקדימה זמינה</string>
+  <string name="camerasLib_noStreamAvailable">אין זרם זמין</string>
+</resources>

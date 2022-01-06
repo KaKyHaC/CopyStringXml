@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">Zaplanowane zdarzenia</string>
+  <string name="climateschedules_noSchedulesTitle">Brak zaplanowanych wydarzeń</string>
+  <string name="climateschedules_noSchedulesDescription">Zautomatyzuj swoje termostaty i twórz niestandardowe zaplanowane zdarzenia dla każdego z nich.</string>
+  <string name="climateschedules_emptyLayout_createNew">Utwórz nowe wydarzenie w harmonogramie</string>
+  <string name="climateschedules_createNew">+ Utwórz nowe zaplanowane wydarzenie</string>
+</resources>

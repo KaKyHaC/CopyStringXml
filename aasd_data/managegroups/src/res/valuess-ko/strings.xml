@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">%s와 병합</string>
+  <string name="managegroups_ungroupAll">모든 그룹 해제</string>
+  <string name="managegroups_ungroupRoom">%s 그룹 해제</string>
+  <string name="managegroups_mergeSelected">선택한 항목을 그룹으로 병합</string>
+</resources>

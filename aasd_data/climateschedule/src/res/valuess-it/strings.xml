@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Nome dell'evento, ad es. Programma climatico estivo</string>
+  <string name="climateschedule_scheduleNameTitleLabel">Nome</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">Nuovo evento nel programma climatico</string>
+  <string name="climateschedule_editSchedule_toolbarTitle"> Modifica l'evento programmato</string>
+  <string name="climateschedule_scheduleActiveDays">GIORNI ATTIVI</string>
+  <string name="climateschedule_activeDays_sunday">S</string>
+  <string name="climateschedule_activeDays_monday">M</string>
+  <string name="climateschedule_activeDays_tuesday">T</string>
+  <string name="climateschedule_activeDays_wednesday">W</string>
+  <string name="climateschedule_activeDays_thursday">T</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">S</string>
+  <string name="climateschedule_activeDays">GIORNI ATTIVI</string>
+  <string name="climateschedule_save">Salva</string>
+  <string name="climateschedule_deleteSchedule">ELIMINA</string>
+  <string name="climateschedule_copyToAnotherThermostat">Copia un altro termostato</string>
+  <string name="climateschedule_scheduleEventError">Qualcosa non funziona, prova ancora</string>
+  <string name="climateschedule_editTitle">MODIFICA</string>
+  <string name="climateschedule_deleteWarning">Sei sicuro di voler cancellare l'evento  %s?</string>
+  <string name="climateschedule_invalidScheduleNameError">Questo nome del evento programmato non è valido.</string>
+  <string name="climateschedule_duplicateScheduleNameError">Questo nome del evento programmato esiste già,</string>
+  <string name="climateschedule_discardChangesWarning">Hai dei cambiamenti non salvati. Non salvare le modifiche?</string>
+  <string name="climateschedule_discard">Non salvare</string>
+  <string name="climateschedule_saveChangesWarning">Vuoi salvare le modifiche?</string>
+  <string name="climateschedule_setpointsTitle">PUNTI FISSI</string>
+  <string name="climateschedule_scheduleStatusTitle">STATO DEL PROGRAMMA</string>
+  <string name="climateschedule_scheduleStatusItem">Programma abilitato </string>
+  <string name="climateschedule_timePicker_header">Avvio</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

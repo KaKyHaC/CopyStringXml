@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">創建新的場景</string>
+  <string name="lightSceneCreate_add_lights">增加燈盞</string>
+  <string name="lightSceneCreate_add_more_lights">增加更多燈盞</string>
+  <string name="lightSceneCreate_save">儲存</string>
+  <string name="lightSceneCreate_set_scene_options">設定場景選項</string>
+  <string name="lightSceneCreate_fade_time">調整時間</string>
+  <string name="lightSceneCreate_scene_visibility">場景可視性</string>
+  <string name="lightSceneCreate_subtitle_template">%d 場景的 %d</string>
+</resources>

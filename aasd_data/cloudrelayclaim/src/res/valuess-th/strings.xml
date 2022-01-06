@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">จะเพิกถอนสิทธิ์จากผู้ใช้ทั้งหมดของบ้านนี้ คุณสามารถเลือกที่จะมอบสิทธิ์คืนให้ผู้ใช้ได้เมื่อการขอรับเสร็จสิ้นแล้ว</string>
+  <string name="cloudrelayclaim_title">เคลมต่อไป</string>
+  <string name="cloudrelayclaim_continue">ดำเนินการต่อ</string>
+  <string name="cloudrelayclaim_success">แตะที่ปุ่ม "ผู้ใช้" ด้านบนเพื่อให้สิทธิ์เข้าถึงแก่ครอบครัวและเพื่อน</string>
+  <string name="cloudrelayclaim_warning_ok">ตกลง</string>
+  <string name="cloudrelayclaim_warning_subtitle">โปรดติดต่อตัวแทนจำหน่าย Crestron ของคุณเพื่อขอรับความช่วยเหลือ</string>
+  <string name="cloudrelayclaim_warning_title">ไม่สามารถเคลมบ้านของคุณได้ในตอนนี้</string>
+</resources>

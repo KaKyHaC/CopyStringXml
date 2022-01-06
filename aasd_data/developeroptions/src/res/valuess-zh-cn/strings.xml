@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">启用开发商选项</string>
+  <string name="reset_logging_after_24_hours">在24小时后重置记录</string>
+  <string name="developer_options">开发商选项</string>
+  <string name="logging_level">记录等级</string>
+  <string name="logging">记录</string>
+  <string name="network_logging">网络记录</string>
+  <string name="detailed_logging">详细记录</string>
+</resources>

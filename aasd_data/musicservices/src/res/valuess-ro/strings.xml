@@ -1,0 +1,9 @@
+<resources>
+  <string name="music_service_name">Servicii muzicale</string>
+  <string name="music_service_add_more">ADĂUGAȚI MAI MULȚI</string>
+  <plurals name="music_service_status_account">
+    <item quantity="one">%d account</item>
+    <item quantity="other">%d accounts</item>
+  </plurals>
+  <string name="music_service_no_music">Niciun serviciu muzical nu este disponibil.</string>
+</resources>

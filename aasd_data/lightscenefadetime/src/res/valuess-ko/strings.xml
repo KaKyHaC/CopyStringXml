@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">페이드 타임</string>
+  <string name="sceneFadeTime_header">조명 페이드 시간 설정</string>
+</resources>

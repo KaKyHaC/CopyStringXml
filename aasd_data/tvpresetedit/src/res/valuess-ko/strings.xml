@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">즐겨찾기</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ 즐겨찾기 채널 추가</string>
+  <string name="tvpresetedit_favoritesTitle">%s 즐겨찾기</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">즐겨찾기</string>
+  <string name="tvpresetedit_moreItem_renameGroup">이름 변경</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">그룹 삭제</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">이 그룹을 정말 삭제하시겠습니까?</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">삭제</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">취소</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">확인</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">죄송합니다. 마지막 그룹을 삭제할 수 없습니다.</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">이 그룹은 이미 삭제되었습니다.</string>
+</resources>

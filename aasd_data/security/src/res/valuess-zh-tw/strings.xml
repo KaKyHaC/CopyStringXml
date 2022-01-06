@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">保全</string>
+  <string name="security_panicActionsTitle">動作</string>
+  <string name="security_panicActionsSubtitle">按住 1秒鐘，觸發每個動作</string>
+  <string name="security_navigationButtonsTitle">導航按鈕</string>
+  <string name="security_selectNavigationButton">選擇</string>
+  <string name="security_keypadTitle">按鍵面板</string>
+  <string name="security_keypadSubtitle">鍵入 4 位代碼和一個與您要執行的操作相對應的數字</string>
+  <string name="security_displayTextTitle">顯示內容</string>
+</resources>

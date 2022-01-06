@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">APARATE FOTO</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">NU EXISTĂ FLUX CU REZOLUȚIE DESTUL DE SCĂZUTĂ\n(MAXIMUM IS1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">PREVIZUALIZARE INDISPONIBILĂ</string>
+  <string name="camerasLib_noPreviewAvailable">NU ESTE DISPONIBILĂ NICIO PREVIZUALIZARE </string>
+  <string name="camerasLib_noStreamAvailable">NU EXISTĂ FLUX DISPONIBIL</string>
+</resources>

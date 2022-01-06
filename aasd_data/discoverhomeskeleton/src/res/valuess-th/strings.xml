@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">ลองอีกครั้ง</string>
+  <string name="discoverhome_discovering">การค้นพบ</string>
+  <string name="discoverhome_notCompatibleMessage">PYNG นั้นไม่สามารถใช้ได้กับ CRESTRON HOME</string>
+  <string name="discoverhome_titleFound">พบบ้านบนเครือข่ายนี้</string>
+  <string name="discoverhome_titleNotFound">ไม่พบบ้านใหม่</string>
+  <string name="discoverhome_subtitleFound">โปรดเลือกบ้านเพื่อเริ่มขั้นตอนการเพิ่ม</string>
+  <string name="discoverhome_subtitleNotFound">ไม่มีบ้านให้เลือกในเครือข่ายนี้ โปรดตรวจสอบการเชื่อมต่อเครือข่ายและลองอีกครั้ง</string>
+</resources>

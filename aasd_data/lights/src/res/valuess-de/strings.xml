@@ -1,0 +1,8 @@
+<resources>
+  <string name="lights_scenesTitle">SZENEN</string>
+  <string name="lights_controlsTitle">STEUERELEMENTE</string>
+  <string name="lights_controlsMasterControl">ALLE LICHTQUELLEN</string>
+  <string name="create_new_scene">Neue Szene einrichten</string>
+  <string name="lights_noScenesInfo">
+Dieser Raum scheint keine sichtbaren Beleuchtungsszenen zu haben.</string>
+</resources>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s : %s</string>
+  <string name="nowplayingbar_multiple_media">Több média</string>
+  <string name="nowplayingbar_rooms">%d helyiség</string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">A hangerőszabályozók nem érhetők el</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">Média helyiség bekapcsolása</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_labelUnavailable">文本不可用</string>
+  <string name="min_validation_text">数值不能低于%s</string>
+  <string name="max_validate_text">数值不能高于%s</string>
+  <string name="stepsize_validate_text">数值必须按增长步长为%s进行设置</string>
+</resources>

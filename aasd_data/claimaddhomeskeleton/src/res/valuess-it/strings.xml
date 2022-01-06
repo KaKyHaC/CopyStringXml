@@ -1,0 +1,16 @@
+<resources>
+  <string name="claimaddhome_friendlyNameOrLocation">Nome descrittivo/posizione</string>
+  <string name="claimaddhome_ipAddressOrHostName">Indirizzo IP / Nome host</string>
+  <string name="claimaddhome_password">Password per l'interfaccia dell'utente</string>
+  <string name="claimaddhome_connect">COLLEGA</string>
+  <string name="claimaddhome_addTitle">Aggiungi una nuova home</string>
+  <string name="claimaddhome_addSubtitle">Inserisci i dettagli sulla tua nuova Home di Crestron e tocca Connetti per iniziare.</string>
+  <string name="claimaddhome_editTitle">Modifica %s</string>
+  <string name="claimaddhome_editSubtitle">Modifica i detagli sulla tua Home di Crestron.</string>
+  <string name="claimaddhome_errorNotEmpty">Si prega di inserire %s per continuare. </string>
+  <string name="claimaddhome_errorGeneral">Impossibile connettersi a questo Home</string>
+  <string name="claimaddhome_incorrectPassword">Password errata.</string>
+  <string name="claimaddhome_localConnectionSettings">IMPOSTAZIONI DELLA CONNESSIONE </string>
+  <string name="claimaddhome_discover">Scopri</string>
+  <string name="claimaddhome_invalidPasswordPopUp">La password è stata cambiata, rinserisci la nuova password per %s</string>
+</resources>

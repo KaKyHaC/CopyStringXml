@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">ปิดสื่อทั้งหมด</string>
+  <string name="activemedia_activeMedia">สื่อที่เล่นอยู่ (%d)</string>
+  <string name="activemedia_audio">เสียง</string>
+  <string name="activemedia_video">วิดีโอ</string>
+  <string name="activemedia_multiple_displays">การแสดงผลหลายจอ</string>
+  <string name="activemedia_left_display">จอทางด้านซ้าย</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">คุณแน่ใจหรือไม่ว่าต้องการปิดระบบไฟทั้งบ้าน</string>
+</resources>

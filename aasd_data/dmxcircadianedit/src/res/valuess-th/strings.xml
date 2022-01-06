@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">แก้ไขนาฬิกาชีวภาพ</string>
+  <string name="circadianEdit_description">แสงไฟนั้นสามารถใช้ในการส่งเสริมสุขภาพของมนุษยได้ โดยการลดผลกระทบต่อเซอร์คาเดียนของมนุษย์</string>
+  <string name="circadianEdit_transitionsCategory">แก้ไขช่วงการเปลี่ยนไฟ</string>
+  <string name="circadianEdit_previewTransitionButton_start">ดูตัวอย่างการเปลี่ยนนาฬิกาชีวภาพ</string>
+  <string name="circadianEdit_previewTransitionButton_end">พรีวิวจังหวะสิ้นสุดเซอร์คาเดียน</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">เช้า</string>
+  <string name="circadianEdit_dayTransition">กลางวัน</string>
+  <string name="circadianEdit_eveningTransition">เย็น</string>
+  <string name="circadianEdit_nightTransition">กลางคืน</string>
+  <string name="circadianEdit_minTime">12 นาฬิกา</string>
+  <string name="circadianEdit_maxTime">23:59 นาฬิกา</string>
+</resources>

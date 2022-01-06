@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">Editar cenas de iluminação</string>
+  <string name="lightSceneEdit_scenesCategory">Cenas</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">A cena especificada não é excluída.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">A cena especificada não é editável.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">OK</string>
+</resources>

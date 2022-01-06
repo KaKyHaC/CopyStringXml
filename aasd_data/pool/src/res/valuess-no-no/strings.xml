@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">Scener</string>
+  <string name="pool_setTo">SATT TIL</string>
+  <string name="pool_controls">KONTROLLER</string>
+  <string name="pool_off">Av</string>
+  <string name="pool_low">Lav</string>
+  <string name="pool_med">Medium</string>
+  <string name="pool_high">Høy</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">Ingen kontroller er tilgjengelige.</string>
+</resources>

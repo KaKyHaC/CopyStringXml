@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s의 %s</string>
+  <string name="nowplayingbar_multiple_media">다중 미디어</string>
+  <string name="nowplayingbar_rooms">%d 개 룸</string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">볼륨 컨트롤을 사용할 수 없습니다.</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">이 미디어 룸 조명을 켜십시오</string>
+</resources>

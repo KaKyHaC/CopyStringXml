@@ -1,0 +1,14 @@
+<resources>
+  <string name="cloudrelayconenctwelcome_welcome">欢迎</string>
+  <string name="cloudrelayconenctwelcome_claim_my_home">认领我的房间</string>
+  <string name="cloudrelayconenctwelcome_claim_enabled_disclaimer">继续认领您的Crestron Home并开始使用我们的最安全的远程连接体验。</string>
+  <string name="cloudrelayconenctwelcome_claim_disabled_disclaimer">要认领您的Crestron Home系统，您需要连接与您的Crestron Home系统相同的本地网络。</string>
+  <string name="cloudrelayconenctwelcome_not_now">现在不行</string>
+  <string name="cloudrelayconenctwelcome_warning_ok">确定</string>
+  <string name="cloudrelayconenctwelcome_warning_subtitle">要让此功能工作，必须使用更新版本的Crestron Home固件。\n\n请联系您的Crestron经销商，以让他们将此新的固件安装到您的Crestron Home处理器上。</string>
+  <string name="cloudrelayconenctwelcome_warning_title">需要更新Crestron Home操作系统</string>
+  <string name="cloudrelayconenctwelcome_sign_out_user">你是否想注销？</string>
+  <string name="cloudrelayconenctwelcome_user_signed_out">您已退出</string>
+  <string name="cloudrelayconenctwelcome_no">否</string>
+  <string name="cloudrelayconenctwelcome_yes">是</string>
+</resources>

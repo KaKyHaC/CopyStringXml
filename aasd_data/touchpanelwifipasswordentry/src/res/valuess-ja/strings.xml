@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Wifi選択バックアクション</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">
+新しいアクセスポイントを追加する</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">タッチしてWAP設定を追加します。</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">
+このネットワークのパスワードを入力し、「接続」をタップします。</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">WAP接続設定</string>
+  <string name="touchpanelWifiPasswordEntry_connect">接続</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">
+名前（SSID）</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">パスワード</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">セキュリティ</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">WAP 接続する</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP接続した</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">イーサネットケーブルが接続されていました</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">WAP接続に失敗しました</string><string name="touchpanelEncryptionSelection_title">WiFi暗号化設定</string></resources>

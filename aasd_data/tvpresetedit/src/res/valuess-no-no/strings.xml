@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">FAVORITER</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ Legg til favorittkanaler</string>
+  <string name="tvpresetedit_favoritesTitle">%s favoritter</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">Favoritter</string>
+  <string name="tvpresetedit_moreItem_renameGroup">Gi nytt navn</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">Slett gruppe</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">Er du sikker på at du vil slette denne gruppen?</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">Slett</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">AVBRYT</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">OK</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">Beklager, den siste gruppen kan ikke slettes</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">Denne gruppen er allerede slettet.</string>
+</resources>

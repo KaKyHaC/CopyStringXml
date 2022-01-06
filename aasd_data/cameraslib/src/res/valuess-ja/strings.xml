@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">カメラ</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">解像度が低いストリームはありません\ n（最大は1920x1080）</string>
+  <string name="camerasLib_previewUnavailable">プレビューができません</string>
+  <string name="camerasLib_noPreviewAvailable">プレビューはありません</string>
+  <string name="camerasLib_noStreamAvailable">ストリームはありません</string>
+</resources>

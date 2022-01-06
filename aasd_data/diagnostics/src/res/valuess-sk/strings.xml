@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">Podporná diagnostika</string>
+  <string name="diagnostics_loggingTitle">Povolenie odosielania diagnostických analýz</string>
+  <string name="diagnostics_loggingDescription">Nepovoľujte odosielanie diagnostiky, pokiaľ vás na to nevyzve technická podpora spoločnosti Crestron.</string>
+  <string name="diagnostics_submitDiagnostics">Odoslanie údajov z diagnostiky v rámci podpory</string>
+  <string name="diagnostics_submitMessage">Spoločnosť Crestron odporúča zasielať diagnostiku len v spolupráci s predajcom spoločnosti Crestron alebo na žiadosť zákazníckej podpory spoločnosti Crestron. \Stlačením tlačidla Odoslať si môžete vybrať spôsob zdieľania súboru. Postupujte podľa pokynov vášho predajcu Crestron alebo zákazníckej podpory spoločnosti Crestron, pokiaľ ide o miesto odoslania tohto súboru.</string>
+  <string name="diagnostics_submit">Odoslať</string>
+</resources>

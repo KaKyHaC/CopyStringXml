@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">重试</string>
+  <string name="discoverhome_discovering">正在发现</string>
+  <string name="discoverhome_notCompatibleMessage">PYNG与CRESTRON HOME不兼容</string>
+  <string name="discoverhome_titleFound">在此网络上找到房间</string>
+  <string name="discoverhome_titleNotFound">没有找到新房间</string>
+  <string name="discoverhome_subtitleFound">请选择房间，以开始添加流程。</string>
+  <string name="discoverhome_subtitleNotFound">此网络中无可用的房屋。请检查您的网络连接并重试。</string>
+</resources>

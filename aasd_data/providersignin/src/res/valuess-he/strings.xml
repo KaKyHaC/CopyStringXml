@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">הזן שם משתמש שלך</string>
+  <string name="providersignin_enter_password">הזן סיסמתך</string>
+  <string name="providersignin_description">אנא היכנס לחשבון %s שלך כדי להוסיף מנוי זה.</string>
+  <string name="providersignin_user_name">שם משתמש</string>
+  <string name="providersignin_password">סיסמה</string>
+  <string name="providersignin_title">כניסה</string>
+  <string name="providersignin_save_user">שומר משתמש...</string>
+  <string name="providersignin_account_added">חשבון הוסף.</string>
+  <string name="providersignin_login_failed">הכניסה נכשלה.</string>
+</resources>

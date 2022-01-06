@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">シェード</string>
+  <string name="shades_scenesTitle">シーン </string>
+  <string name="shades_controlsTitle">コントロール　</string>
+  <string name="shades_allShadesTitle">すべての色合い</string>
+  <string name="shades_allShades_MoreLightTitle">より多くの光
+</string>
+  <string name="shades_allShades_LessLightTitle">光が少ない</string>
+  <string name="shades_stopRampText">停止</string>
+</resources>

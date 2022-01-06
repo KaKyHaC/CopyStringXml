@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">אבטחה</string>
+  <string name="securitylib_securitySystem">מערכת אבטחה</string>
+  <string name="securitylib_securitySystemWithName">מערכת אבטחה  %s</string>
+  <string name="securitylib_alarm_alarm">התראה</string>
+  <string name="securitylib_alarm_fire">אש</string>
+  <string name="securitylib_alarm_burglary">פריצה</string>
+  <string name="securitylib_alarm_medical">רפואי</string>
+  <string name="securitylib_alarm_tamper">חבלה</string>
+  <string name="securitylib_arming_armedStay">השאר עם אבטחה מופעלת</string>
+  <string name="securitylib_arming_exitDelayActive">השהיית יציאה פעילה</string>
+  <string name="securitylib_arming_disarmed">אבטחה כבויה</string>
+  <string name="securitylib_arming_ready">מוכן</string>
+  <string name="securitylib_arming_armedAway">הופעלה אבטחה מחוץ לבית</string>
+  <string name="securitylib_arming_notReady">לא מוכן</string>
+  <string name="securitylib_arming_entryDelayActive">עיכוב כניסה פעיל</string>
+  <string name="securitylib_arming_armedStayInstant">הפעלת אבטחה מידית בתוך הבית</string>
+  <string name="securitylib_arming_armedAwayInstant">הפעלת אבוחה מידית מחוץ לבית</string>
+  <string name="securitylib_arming_armedBypass">מעקף הפעלת אבטחה</string>
+  <string name="securitylib_arming_armedBypassInstant">מעקף הפעלת אבטחה מיידי</string>
+</resources>

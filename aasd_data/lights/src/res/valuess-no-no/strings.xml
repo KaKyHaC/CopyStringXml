@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">SCENER</string>
+  <string name="lights_controlsTitle">KONTROLLER</string>
+  <string name="lights_controlsMasterControl">ALLE LYS</string>
+  <string name="create_new_scene">Lag ny scene</string>
+  <string name="lights_noScenesInfo">Dette rommet ser ikke ut til å ha noen synlige lysscener.</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">Tilgang vil bli fjernet fra alle eksisterende brukere for dette hjemmet. Du kan velge å gi tilgang tilbake til disse brukerne når kravet er fullført.</string>
+  <string name="cloudrelayclaim_title">Fortsett å kreve</string>
+  <string name="cloudrelayclaim_continue">Fortsette</string>
+  <string name="cloudrelayclaim_success">Trykk på "Brukere"-knappen ovenfor for å begynne å gi tilgang til familie og venner.</string>
+  <string name="cloudrelayclaim_warning_ok">OK</string>
+  <string name="cloudrelayclaim_warning_subtitle">Ta kontakt med din Crestron-forhandler for å få hjelp.</string>
+  <string name="cloudrelayclaim_warning_title">Kan ikke gjøre krav på hjemmet ditt for øyeblikket</string>
+</resources>

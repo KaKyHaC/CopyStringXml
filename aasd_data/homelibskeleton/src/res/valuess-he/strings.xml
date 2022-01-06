@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">הוסף בית חדש</string>
+  <string name="homelibskeleton_discoverHome">גלה בית</string>
+  <string name="homelibskeleton_addManually">הוסף ידנית</string>
+  <string name="homelibskeleton_editHome">עריכה</string>
+  <string name="homelibskeleton_deleteHome">מחק</string>
+  <string name="homelibskeleton_deleteHomeWarning">האם אתה בטוח שברצונך למחוק את %s?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">If you are the only owner deleting it will cause all other users to lose remote access to this home.</string>
+  <string name="homelibskeleton_cancel">בטל</string>
+  <string name="homelibskeleton_ok">אישור</string>
+</resources>

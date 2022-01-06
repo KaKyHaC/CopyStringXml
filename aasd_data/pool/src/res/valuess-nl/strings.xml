@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">Scènes</string>
+  <string name="pool_setTo">INSTELLEN OP</string>
+  <string name="pool_controls">Controles</string>
+  <string name="pool_off">UIT</string>
+  <string name="pool_low">Laag</string>
+  <string name="pool_med">Medium</string>
+  <string name="pool_high">Hoog</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">Er zijn geen bedieningselementen beschikbaar.</string>
+</resources>

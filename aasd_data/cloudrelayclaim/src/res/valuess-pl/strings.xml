@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">Dostęp zostanie usunięty ze wszystkich istniejących użytkowników tego domu. Możesz przyznać dostęp tym użytkownikom po zakończeniu.</string>
+  <string name="cloudrelayclaim_title">Kontynuuj roszczenie</string>
+  <string name="cloudrelayclaim_continue">Kontynuuj</string>
+  <string name="cloudrelayclaim_success">Kliknij przycisk „Użytkownicy” powyżej, aby zacząć udzielać dostępu rodzinie i znajomym.</string>
+  <string name="cloudrelayclaim_warning_ok">OK</string>
+  <string name="cloudrelayclaim_warning_subtitle">Aby uzyskać pomoc, skontaktuj się z dealerem Crestron.</string>
+  <string name="cloudrelayclaim_warning_title">W tej chwili nie można odebrać domu</string>
+</resources>

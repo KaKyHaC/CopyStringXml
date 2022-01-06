@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">VIS OMRÅDER</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">skjul tilbake-knappen for sikkerhetsområder</string>
+</resources>

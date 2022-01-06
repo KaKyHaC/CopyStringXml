@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">تعديل مشاهد مصادر الإضاءة</string>
+  <string name="lightEditSingleScene_set_scene_options">تعيين خيارات المشاهد</string>
+  <string name="lightEditSingleScene_delete_scene">حذف هذا المشهد</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">هل أنت متأكد من أنك تريد حذف هذا المشهد؟</string>
+  <string name="lightEditSingleScene_deletePopup_delete">حذف</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">إلغاء</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">عذرًا، لا يمكن حذف هذا المشهد</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">موافق</string>
+  <string name="lightEditSingleScene_dismiss">رفض</string>
+  <string name="lightEditSingleScene_cannot_edit">عذرًا، لا يمكن تعديل اسم هذا المشهد وأيقونته</string>
+</resources>

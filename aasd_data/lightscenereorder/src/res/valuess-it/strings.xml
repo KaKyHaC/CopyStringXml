@@ -1,0 +1,5 @@
+<resources>
+  <string name="lightSceneReorder_reorder_lightning_scenes">Riordina le scene di luce</string>
+  <string name="lightSceneReorder_default_order">Ordine predefinito</string>
+  <string name="lightSceneReorder_scenes_subtitle">Scena</string>
+</resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Výber siete Wi-Fi — Spätná akcia</string>
+  <string name="touchpanelWifiSelection_title">Výber siete Wi-Fi</string>
+  <string name="touchpanelWifiSelection_Discovering">Rozpoznávanie</string>
+  <string name="touchpanelWifiSelection_tryAgain">Skúsiť znova</string>
+  <string name="touchpanelWifiSelection_titleFound">Pripojiť sa k prístupovému bodu siete Wi-Fi</string>
+  <string name="touchpanelWifiSelection_subtitleFound">Vyberte prístupový bod.</string>
+  <string name="touchpanelWifiSelection_titleNotFound">Nenašiel sa žiadny prístupový bod siete Wi-Fi</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">Neboli nájdené žiadne prístupové body siete Wi-Fi. Skontrolujte svoje sieťové pripojenie a skúste to znova.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">Vyhľadávanie prístupových bodov siete Wi-Fi</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">Počkajte, kým sa dokončí skenovanie</string>
+</resources>

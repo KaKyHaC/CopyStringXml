@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sceneNameAndIcon_title">Nome e ícone da cena</string>
+  <string name="sceneNameAndIcon_subtitle">Digite o nome da nova cena e escolha um ícone.</string>
+</resources>

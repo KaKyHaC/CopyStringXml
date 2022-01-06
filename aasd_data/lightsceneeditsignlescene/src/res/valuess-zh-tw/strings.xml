@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">編輯照明場景</string>
+  <string name="lightEditSingleScene_set_scene_options">設定場景選項</string>
+  <string name="lightEditSingleScene_delete_scene">刪除此場景</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">您確定要刪除此場景嗎？</string>
+  <string name="lightEditSingleScene_deletePopup_delete">刪除</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">取消</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">抱歉，此場景無法刪除。</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">確定</string>
+  <string name="lightEditSingleScene_dismiss">關閉</string>
+  <string name="lightEditSingleScene_cannot_edit">抱歉，此場景的名稱及其圖標無法編輯。</string>
+</resources>

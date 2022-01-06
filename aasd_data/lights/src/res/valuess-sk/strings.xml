@@ -1,0 +1,8 @@
+<resources>
+  <string name="lights_scenesTitle">PRIESTORY</string>
+  <string name="lights_controlsTitle">REGULÁTORY</string>
+  <string name="lights_controlsMasterControl">
+VŠETKY SVETLÁ</string>
+  <string name="create_new_scene">Vytvoriť nové prostredie</string>
+  <string name="lights_noScenesInfo">Zdá sa, že táto miestnosť nemá žiadne viditeľné osvetlené prostredia.</string>
+</resources>

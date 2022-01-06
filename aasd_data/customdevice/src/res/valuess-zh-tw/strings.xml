@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_labelUnavailable">沒有文字內容</string>
+  <string name="min_validation_text">該值不能低於 %s</string>
+  <string name="max_validate_text">該值不能高於 %s</string>
+  <string name="stepsize_validate_text">該值必須按照 %s 為增量設置</string>
+</resources>

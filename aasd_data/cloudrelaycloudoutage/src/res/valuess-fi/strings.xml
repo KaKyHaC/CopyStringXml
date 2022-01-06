@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">Cloud connection is down…</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">Unable to load home controls at this time. Even though the cloud connection is down temporarily as long as you are on your local WAP you can still connect locally.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">Try connecting locally</string>
+</resources>

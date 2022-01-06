@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">빛 가리개</string>
+  <string name="shades_scenesTitle">환경 설정</string>
+  <string name="shades_controlsTitle">제어</string>
+  <string name="shades_allShadesTitle">모든 창가리개</string>
+  <string name="shades_allShades_MoreLightTitle">추가 조명</string>
+  <string name="shades_allShades_LessLightTitle">적은 조명</string>
+  <string name="shades_stopRampText">중지</string>
+</resources>

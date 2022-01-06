@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">ACȚIUNI RAPIDE</string>
+  <string name="room_room_services">SERVICII DE CAMERĂ</string>
+  <string name="renameroomgroup_popupCancelButton">Revocare</string>
+  <string name="renameroomgroup_popupCreateButton">Redenumiți</string>
+  <string name="renameroomgroup_popupTitle">Redenumiți camera</string>
+</resources>

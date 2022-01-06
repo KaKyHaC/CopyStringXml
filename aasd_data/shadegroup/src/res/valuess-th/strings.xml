@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">ที่บังแดด</string>
+  <string name="shadegroup_batteryOk">แบตเตอรี่โอเค</string>
+  <string name="shadegroup_batteryLow">แบตเตอรี่ต่ำ</string>
+</resources>

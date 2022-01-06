@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">计划事件</string>
+  <string name="climateschedules_noSchedulesTitle">无计划事件</string>
+  <string name="climateschedules_noSchedulesDescription">自动运行您的恒温控制器，为每个恒温控制器创建自定义计划事件。</string>
+  <string name="climateschedules_emptyLayout_createNew">创建新的计划事件</string>
+  <string name="climateschedules_createNew">+ 创建新的计划事件</string>
+</resources>

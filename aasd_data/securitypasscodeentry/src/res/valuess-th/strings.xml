@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">ใส่รหัสรักษาความปลอดภัย</string>
+  <string name="securitypasscodeentry_saveMessage">บันทึกรหัสไว้ในอุปกรณ์นี้ คุณจะไม่ถูกขอให้ใส่รหัสอีกครั้ง</string>
+  <string name="securitypasscodeentry_invalidPasscode">รหัสไม่ถูกต้อง โปรดลองอีกครั้ง</string>
+  <string name="securitypasscodeentry_passcodeRequired">รหัสถูกว่างเว้นไว้ โปรดใส่รหัสที่ถูกต้อง</string>
+</resources>

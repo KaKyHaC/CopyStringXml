@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">SHOW AREAS</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">hide secuirty areas back button</string>
+</resources>

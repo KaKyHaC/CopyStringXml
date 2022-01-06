@@ -1,0 +1,6 @@
+<resources>
+  <string name="cloudrelayrecoveraccount_update_info">aktualizujte svoje údaje</string>
+  <string name="cloudrelayrecoveraccount_change_mail">Zmeniť e-mail</string>
+  <string name="cloudrelayrecoveraccount_reset_password">Obnoviť heslo</string>
+  <string name="cloudrelayrecoveraccount_reset_number">Obnoviť telefónne číslo</string>
+</resources>

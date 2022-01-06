@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">Merge with %s</string>
+  <string name="managegroups_ungroupAll">Ungroup all</string>
+  <string name="managegroups_ungroupRoom">Ungroup %s</string>
+  <string name="managegroups_mergeSelected">Merge selected into a group</string>
+</resources>

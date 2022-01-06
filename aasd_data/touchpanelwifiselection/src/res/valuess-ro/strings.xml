@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Acțiunea de selecție înapoi a WiFi-ului</string>
+  <string name="touchpanelWifiSelection_title">Selecția WiFi</string>
+  <string name="touchpanelWifiSelection_Discovering">Explorați</string>
+  <string name="touchpanelWifiSelection_tryAgain">Încercați din nou</string>
+  <string name="touchpanelWifiSelection_titleFound">Conectați-vă la punctul de acces WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleFound">Vă rugăm să selectați punctul de acces.</string>
+  <string name="touchpanelWifiSelection_titleNotFound">Nu a fost găsit un punct de acces WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">
+Nu s-au găsit puncte de acces WiFi. Vă rugăm să verificați conexiunea la rețea și încercați din nou.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">Se caută puncte de acces WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">Vă rugăm să așteptați ca scanarea să fie completă</string>
+</resources>

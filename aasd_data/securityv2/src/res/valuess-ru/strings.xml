@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_v2_actions_header_text">Действия</string>
+  <string name="security_v2_toolbarTitle">Безопасность</string>
+  <string name="security_v2_panicActionsTitle">ДЕЙСТВИЯ</string>
+  <string name="security_v2_panicActionsSubtitle">Нажмите и удерживайте в течение 1 секунды для запуска каждого действия</string>
+  <string name="security_v2_navigationButtonsTitle">КНОПКИ НАВИГАЦИИ</string>
+  <string name="security_v2_selectNavigationButton">Выбор</string>
+  <string name="security_v2_keypadTitle">КЛАВИАТУРА</string>
+  <string name="security_v2_keypadSubtitle">Введите четырехзначный код и цифру, соответствующую действию, которое вы хотите выполнить</string>
+  <string name="security_v2_displayTextTitle">ОТОБРАЖАТЬ ТЕКСТ</string>
+</resources>

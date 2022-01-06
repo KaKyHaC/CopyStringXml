@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">Vypnutie všetkých médií</string>
+  <string name="activemedia_activeMedia">Aktívne médiá (%d)</string>
+  <string name="activemedia_audio">ZVUKOVÝ SYSTÉM</string>
+  <string name="activemedia_video">VIDEO</string>
+  <string name="activemedia_multiple_displays">Viacnásobné zobrazenie</string>
+  <string name="activemedia_left_display">Displej vľavo</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">Naozaj chcete odpojiť celý dom od napájania?</string>
+</resources>

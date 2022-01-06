@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">ADD NEW HOME</string>
+  <string name="homelibskeleton_discoverHome">Discover home</string>
+  <string name="homelibskeleton_addManually">LISÄÄ MANUAALISESTI</string>
+  <string name="homelibskeleton_editHome">Muokkaa</string>
+  <string name="homelibskeleton_deleteHome">Poista</string>
+  <string name="homelibskeleton_deleteHomeWarning">Are you sure you want to delete %s?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">Jos olet ainoa omistaja, sen poistaminen poistaa kaikilta multa käyttäjiltä etäyhteyden tähän kotiin.</string>
+  <string name="homelibskeleton_cancel">Peruuta</string>
+  <string name="homelibskeleton_ok">OK</string>
+</resources>

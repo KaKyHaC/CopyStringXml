@@ -1,0 +1,19 @@
+<resources>
+  <string name="intercom_incoming_call">incoming call icon</string>
+  <string name="intercom_answer_description">answer call button</string>
+  <string name="intercom_dismiss_description">dismiss call button</string>
+  <string name="intercom_answer_text">ANSWER</string>
+  <string name="intercom_actions_text">פעולות</string>
+  <string name="intercom_actions_description">actions call button</string>
+  <string name="intercom_dismiss_text">בטל</string>
+  <string name="intercom_calling">%s intercom calling…</string>
+  <string name="intercom_talking">Talking to %s intercom</string>
+  <string name="intercom_answer">ANSWER</string>
+  <string name="intercom_end">סיום</string>
+  <string name="intercom_dismiss">בטל</string>
+  <string name="intercom_mute">Mute mic</string>
+  <string name="intercom_unmute">Unmute mic</string>
+  <string name="intercom_quickActions_title">פעולות מהירות</string>
+  <string name="intercom_noQuickActions_message">No Quick Actions supported for this home</string>
+  <string name="intercom_noQuickActions_confirm">בטל</string>
+</resources>

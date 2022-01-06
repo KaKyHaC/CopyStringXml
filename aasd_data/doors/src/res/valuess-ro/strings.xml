@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">Încuietori uşi</string>
+  <string name="doors_scenes">SCENE</string>
+  <string name="doors_controls">COMENZI</string>
+  <string name="doors_lock_all">Blocați totul</string>
+  <string name="doors_unlock_all">Deblocați totul</string>
+</resources>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">
+気候制御
+</string>
+  <string name="climate_current_temperature">
+現在の温度
+</string>
+  <string name="climate_mode">モード </string>
+  <string name="climate_schedule">スケジュール </string>
+  <string name="climate_fan">ファン </string>
+  <string name="climate_floor_heating">床暖房
+</string>
+  <string name="climate_humidity_controls">湿度管理
+</string>
+  <string name="climate_humidify">湿度 </string>
+  <string name="climate_floor_control">フロアコントロール</string>
+  <string name="climate_currentHumidity_title">現在の湿度</string>
+  <string name="climate_humidityControl_title">湿度管理</string>
+</resources>

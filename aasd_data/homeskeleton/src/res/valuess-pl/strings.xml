@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">Szybkie działania</string>
+  <string name="home_home_controls">STEROWANIE DOMEM</string>
+  <string name="home_lock_all">Zablokuj wszystkie</string>
+  <string name="home_unlock_all">Odblokuj wszystkie</string>
+  <string name="home_security_system">System zabezpieczeń</string>
+  <string name="home_climate">KLIMAT</string>
+  <string name="home_locks">Zamki drzwi</string>
+  <string name="home_cameras">KAMERY</string>
+  <string name="home_access">Dostęp do domu</string>
+</resources>

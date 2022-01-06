@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">Zamki drzwi</string>
+  <string name="doors_scenes">Scenerie</string>
+  <string name="doors_controls">STEROWANIE</string>
+  <string name="doors_lock_all">Zablokuj wszystkie</string>
+  <string name="doors_unlock_all">Odblokuj wszystkie</string>
+</resources>

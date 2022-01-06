@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="display_settings_title">디스플레이</string>
+  <string name="display_settings_edit">편집</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">เวลาในการจางลง</string>
+  <string name="sceneFadeTime_header">กำหนดเวลาเลือนของแสง</string>
+</resources>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesSelection_helpText_text">Velg lyd for denne hendelsen. Denne lyden vil gjelde for alle soner der denne hendelsen er aktivert.</string>
+</resources>

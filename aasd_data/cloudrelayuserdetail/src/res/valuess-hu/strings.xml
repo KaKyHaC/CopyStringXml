@@ -1,0 +1,18 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">Adatok frissítése</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">Kijelentkezés az összes eszközről</string>
+  <string name="cloud_relay_user_detail_sign_out">Kijelentkezés</string>
+  <string name="cloud_relay_user_detail_delete_account">Fiók törlése</string>
+  <string name="cloud_relay_user_detail_edit_name">Név szerkesztése</string>
+  <string name="cloud_relay_user_detail_change_email">E-mail-cím módosítása</string>
+  <string name="cloud_relay_user_detail_change_password">Jelszó módosítása</string>
+  <string name="cloud_relay_user_detail_change_phone_number">Telefonszám módosítása</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">Az „Igen” lehetőségre koppintva a rendszer kijelentkezteti Önt az összes olyan eszközről, amelyen ezzel a fiókkal jelentkezett be. A rendszer az összes munkamenetből kilépteti 1–60 percen belül.</string>
+  <string name="cloud_relay_user_detail_sign_out_user">Biztosan ki szeretne jelentkezni?</string>
+  <string name="cloud_relay_user_detail_delete_user_account">Biztos, hogy törli a fiókot?</string>
+  <string name="cloud_relay_user_detail_account_deleted">Fiók sikeresen törölve</string>
+  <string name="cloud_relay_user_detail_user_signed_out">Sikeresen kijelentkezett</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">A fiók törlése kb. 15 másodpercet vesz igénybe. Ha 15 másodperc elteltével ugyanezt a fiókot szeretné használni, próbáljon meg regisztrálni.</string>
+  <string name="cloud_relay_user_detail_no">Nem</string>
+  <string name="cloud_relay_user_detail_yes">Igen</string>
+</resources>

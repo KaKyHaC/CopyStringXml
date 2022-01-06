@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="endpointsettings_stereo">立體聲</string>
+  <string name="endpointsettings_mono">單音</string>
+  <string name="endpointsettings_default">預設</string>
+  <string name="endpointsettings_center">中心</string>
+  <string name="endpointsettings_valueOneDecimal">%.1f%s</string>
+  <string name="endpointsettings_valueNoDecimals">%.0f%s</string>
+  <string name="endpointsettings_noConfigurableSettings">此輸出沒有可配置的音訊設置。</string>
+  <string name="endpointsettings_l">左</string>
+  <string name="endpointsettings_r">右</string>
+</resources>

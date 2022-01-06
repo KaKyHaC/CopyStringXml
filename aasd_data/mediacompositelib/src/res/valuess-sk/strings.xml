@@ -1,0 +1,35 @@
+<resources>
+  <string name="mediacompositelib_audioTitle">Zvuk</string>
+  <string name="mediacompositelib_videoTitle">Video</string>
+  <string name="mediacompositelib_sourceOff">VYP.</string>
+  <string name="mediacompositelib_sourceOn">%s ZAP.</string>
+  <string name="mediacompositelib_videSourcesNotAllowed">Táto miestnosť je v skupine, nie sú povolené žiadne zdroje videa.</string>
+  <string name="mediacompositelib_sourceStatus">%s je zap.</string>
+  <string name="mediacompositelib_forwardRewindSpeed">%dx</string>
+  <string name="mediacompositelib_noNowPlayingInfo">Nie sú k dispozícii žiadne informácie o súčasnom prehrávaní.</string>
+  <string name="mediacompositelib_sourceProblematic">VYPNUTÉ, \nSKUPINA ZAP.</string>
+  <string name="mediacompositelib_remotes_back">SPÄŤ</string>
+  <string name="mediacompositelib_remotes_popupMenu">PONUKA V KONTEXTOVOM OKNE (POP-UP)</string>
+  <string name="mediacompositelib_remotes_home">DOMOV</string>
+  <string name="mediacompositelib_remotes_discMinus">DISC -</string>
+  <string name="mediacompositelib_remotes_discPlus">DISC +</string>
+  <string name="mediacompositelib_remotes_letterA">A</string>
+  <string name="mediacompositelib_remotes_letterB">B</string>
+  <string name="mediacompositelib_remotes_letterC">C (stupeň Celzia)</string>
+  <string name="mediacompositelib_remotes_letterD">D</string>
+  <string name="mediacompositelib_remotes_menu">PONUKA</string>
+  <string name="mediacompositelib_remotes_exit">UKONČIŤ</string>
+  <string name="mediacompositelib_remotes_pagePlus">PG+</string>
+  <string name="mediacompositelib_remotes_pageMinus">PG-</string>
+  <string name="mediacompositelib_remotes_channelPlus">CH+</string>
+  <string name="mediacompositelib_remotes_channelMinus">CH-</string>
+  <string name="mediacompositelib_remotes_live">NAŽIVO</string>
+  <string name="mediacompositelib_remotes_favorite">OBĽÚBENÉ</string>
+  <string name="mediacompositelib_remotes_info">INFORMÁCIE</string>
+  <string name="mediacompositelib_remotes_onDemand">NA POŽIADANIE</string>
+  <string name="mediacompositelib_remotes_last">POSLEDNÉ</string>
+  <string name="mediacompositelib_remotes_guide">PRÍRUČKA</string>
+  <string name="mediacompositelib_remotes_appleTv_home">TV</string>
+  <string name="mediacompositelib_remotes_empty" />
+  <string name="mediacompositelib_remotes_notAvailable">Diaľkové ovládanie nie je k dispozícii.</string>
+</resources>

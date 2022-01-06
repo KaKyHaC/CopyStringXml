@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">Editar cenas de iluminação</string>
+  <string name="lightEditSingleScene_set_scene_options">DEFINIR OPÇÕES DE CENÁRIO</string>
+  <string name="lightEditSingleScene_delete_scene">Exclua este cenário</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">Tem a certeza de que pretende eliminar este cenário?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">Eliminar</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">Cancelar</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">Desculpe, este cenário não pode ser excluído</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">OK</string>
+  <string name="lightEditSingleScene_dismiss">Rejeitar</string>
+  <string name="lightEditSingleScene_cannot_edit">Desculpe, o nome e o ícone deste cenário não podem ser editados</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+  <string name="cloudrelayconenctwelcome_welcome">ยินดีต้อนรับ</string>
+  <string name="cloudrelayconenctwelcome_claim_my_home">เคลมบ้านของฉัน</string>
+  <string name="cloudrelayconenctwelcome_claim_enabled_disclaimer">ดำเนินการเคลม Crestron Home ของคุณครั้งหน้าและเริ่มต้นสัมผัสประสบการณ์การเชื่อมต่อระยะไกลที่ปลอดภัยที่สุด</string>
+  <string name="cloudrelayconenctwelcome_claim_disabled_disclaimer">ในการเคลมระบบ Creston Home คุณจะต้องอยู่ในเครือข่ายพื้นที่เดียวกับระบบ Creston Home ของคุณ</string>
+  <string name="cloudrelayconenctwelcome_not_now">ไม่ใช่ตอนนี้</string>
+  <string name="cloudrelayconenctwelcome_warning_ok">ตกลง</string>
+  <string name="cloudrelayconenctwelcome_warning_subtitle">จำเป็นต้องมีเฟิร์มแวร์เวอร์ชั่นใหม่ของ Creston Home เพื่อให้ฟีเจอร์นี้ทำงาน \n\n โปรดติดต่อกับดีลเลอร์ของ Creston เพื่อติดตั้งเฟิร์มแวร์เวอร์ชั่นใหม่ให้กับโปรเซสเซอร์ Creston Home ของคุณ</string>
+  <string name="cloudrelayconenctwelcome_warning_title">จำเป็นต้องอัปเดต OS ของ Crestron Home</string>
+  <string name="cloudrelayconenctwelcome_sign_out_user">คุณแน่ใจหรือว่าคุณต้องการออกจากระบบ</string>
+  <string name="cloudrelayconenctwelcome_user_signed_out">คุณลงชื่อออกแล้ว</string>
+  <string name="cloudrelayconenctwelcome_no">ไม่ใช่</string>
+  <string name="cloudrelayconenctwelcome_yes">ใช่</string>
+</resources>

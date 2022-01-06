@@ -1,0 +1,4 @@
+<resources>
+  <string name="lightSceneVisibility_title">ראות הסצנה</string>
+  <string name="lightSceneVisibility_subtitle">%s זירה</string>
+</resources>

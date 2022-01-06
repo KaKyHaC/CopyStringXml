@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">รีโมต</string>
+  <string name="roommedia_more">เพิ่มเติม</string>
+  <string name="roommedia_playing">กำลังเล่น</string>
+  <string name="roommedia_browse">เลือก</string>
+  <string name="roommedia_multiRoom">หลายห้อง</string>
+  <string name="roommedia_favorites">รายการโปรด</string>
+  <string name="roommedia_keypad">ปุ่มกด</string>
+  <string name="roommedia_media">มีเดีย</string>
+  <string name="roommedia_warmingUp">กำลังวอร์มอัพ</string>
+  <string name="roommedia_coolingDown">กำลังคูลดาวน์</string>
+  <string name="roommedia_roomVideo">%s วิดีโอ</string>
+  <string name="roommedia_limitedControl">การควบคุมจำกัด กำลังเชื่อมต่อ...</string>
+  <string name="roommedia_someRoomsAreOff">ห้องบางห้องปิดใช้งานอยู่</string>
+  <string name="roommedia_openInSonos">เปิดใน Sonos</string>
+  <string name="roommedia_account_status">ไม่ได้ลงชื่อเข้าใช้</string>
+  <string name="roommedia_noNowPlayingInformation">ไม่ได้เล่นสื่อใดอยู่</string>
+  <string name="roommedia_noAccountSelected">เลือกบัญชี</string>
+  <string name="roommedia_pduPr_dialogHeader">คุณต้องการจะเปิดวัฏจักรกำลังของอุปกรณ์นี้หรือไม่</string>
+  <string name="roommedia_pduPr_dialogMessage">อาจใช้เวลาหลายนาทีในการเริ่มการสำรองข้อมูล</string>
+  <string name="roommedia_pduPr_digPowerCycle">วัฏจักรกำลัง</string>
+  <string name="roommedia_pduPr_digCancel">ยกเลิก</string>
+  <string name="roommedia_pduPr_toastMessage">ไม่มีการดำเนินการด่วนสำหรับวัฏจักรกำลัง</string>
+</resources>

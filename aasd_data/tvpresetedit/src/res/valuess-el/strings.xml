@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">ΑΓΑΠΗΜΕΝΑ</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ Προσθήκη αγαπημένων καναλιών</string>
+  <string name="tvpresetedit_favoritesTitle">%s αγαπημένα</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">Αγαπημένα</string>
+  <string name="tvpresetedit_moreItem_renameGroup">Μετονομασία</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">Διαγραφή ομάδας</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν την ομάδα;</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">Διαγραφή</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">Άκυρο</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">OK</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">Λυπούμαστε, η τελευταία ομάδα δεν μπορεί να διαγραφεί</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">Αυτή η ομάδα έχει ήδη διαγραφεί.</string>
+</resources>

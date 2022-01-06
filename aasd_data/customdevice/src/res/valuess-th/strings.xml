@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_labelUnavailable">ไม่สามารถใช้ตัวอักษรได้</string>
+  <string name="min_validation_text">ค่าไม่สามารถต่ำกว่า %s</string>
+  <string name="max_validate_text">ค่าไม่สามารถสูงกว่า %s</string>
+  <string name="stepsize_validate_text">จะต้องตั้งค่าให้สูงกว่า %s</string>
+</resources>

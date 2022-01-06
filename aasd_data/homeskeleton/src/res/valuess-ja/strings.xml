@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">緊急行動　</string>
+  <string name="home_home_controls">ホームコントロール　</string>
+  <string name="home_lock_all">すべてを施錠　</string>
+  <string name="home_unlock_all">すべて開錠　</string>
+  <string name="home_security_system">セキュリティーシステム　</string>
+  <string name="home_climate">気候</string>
+  <string name="home_locks">ドアロック　</string>
+  <string name="home_cameras">カメラ</string>
+  <string name="home_access">交通手段 </string>
+</resources>

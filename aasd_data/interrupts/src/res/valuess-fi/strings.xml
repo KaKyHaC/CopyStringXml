@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">Events &amp; Sounds</string>
+  <string name="interrupts_back_description">events back button</string>
+  <string name="interrupts_not_available">No events are available.</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">felhasználói szerepkör hozzárendelése</string>
+  <string name="cloudrelayadduser_user">Felhasználó</string>
+  <string name="cloudrelayadduser_owner">Tulajdonos</string>
+  <string name="cloudrelayadduser_username">Felhasználónév</string>
+  <string name="cloudrelayadduser_email">e-mail-cím</string>
+  <string name="cloudrelayadduser_yes">Igen</string>
+  <string name="cloudrelayadduser_no">Nem</string>
+  <string name="cloudrelayadduser_invite_warning">Még nem végzett a meghívók kiküldésével. Folytatja a szerkesztést?</string>
+  <string name="cloudrelayadduser_send_invite">Meghívó küldése</string>
+  <string name="cloudrelayadduser_invite_sent">Meghívó sikeresen elküldve.</string>
+  <string name="cloudrelayadduser_add_new_user">Új felhasználó hozzáadása</string>
+</resources>

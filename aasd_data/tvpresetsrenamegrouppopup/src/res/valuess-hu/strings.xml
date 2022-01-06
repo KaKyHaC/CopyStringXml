@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">Csoport átnevezése</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">Mégse</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">Átnevezés</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">Ismétlődő név</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">Érvénytelen név</string>
+  <string name="tvpresetsrenamegroup_unknownError">A művelet meghiúsult</string>
+</resources>

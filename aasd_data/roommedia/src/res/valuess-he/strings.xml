@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">מרוחק</string>
+  <string name="roommedia_more">עוד</string>
+  <string name="roommedia_playing">פועל</string>
+  <string name="roommedia_browse">עיון</string>
+  <string name="roommedia_multiRoom">רב חדרים</string>
+  <string name="roommedia_favorites">מועדפים</string>
+  <string name="roommedia_keypad">לוח מקשים</string>
+  <string name="roommedia_media">מדיה</string>
+  <string name="roommedia_warmingUp">חימום</string>
+  <string name="roommedia_coolingDown">קירור</string>
+  <string name="roommedia_roomVideo">%s  וידאו</string>
+  <string name="roommedia_limitedControl">בקרה מוגבלת. מתחבר…</string>
+  <string name="roommedia_someRoomsAreOff">חדרים מסויימים לא פעילים</string>
+  <string name="roommedia_openInSonos">פתח ב- Sonos</string>
+  <string name="roommedia_account_status">לא מחובר</string>
+  <string name="roommedia_noNowPlayingInformation">שום דבר לא מתנגן</string>
+  <string name="roommedia_noAccountSelected">בחר חשבון</string>
+  <string name="roommedia_pduPr_dialogHeader">האם אתה רוצה להפעיל את המכשיר הזה?</string>
+  <string name="roommedia_pduPr_dialogMessage">יתכן שיחלפו מספר דקות להתחלת הגיבוי.</string>
+  <string name="roommedia_pduPr_digPowerCycle">מעגל חשמלי</string>
+  <string name="roommedia_pduPr_digCancel">בטל</string>
+  <string name="roommedia_pduPr_toastMessage">אין פעולה מהירה למעגל חשמלי</string>
+</resources>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">חדר נפרד נבחר</string>
+  <string name="multiroom_singleRoomDescription">אתה יכול להאזין לאותה מוזיקה ביותר מחדר אחד בבית שלך.</string>
+  <string name="multiroom_playInMultipleRooms">נגן בכמה חדרים</string>
+  <string name="multiroom_manageRoomsAndGroups">נהל חדרים וקבוצות</string>
+  <string name="multiroom_sourceNotPlaying">מקור אינו מנגן</string>
+</resources>

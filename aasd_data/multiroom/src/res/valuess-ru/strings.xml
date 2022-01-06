@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">Выбрана одна комната</string>
+  <string name="multiroom_singleRoomDescription">Вы можете слушать одну и ту же музыку в нескольких комнатах вашего дома.</string>
+  <string name="multiroom_playInMultipleRooms">Играть в нескольких комнатах</string>
+  <string name="multiroom_manageRoomsAndGroups">Управление комнатами и группами</string>
+  <string name="multiroom_sourceNotPlaying">Не воспроизводится</string>
+</resources>

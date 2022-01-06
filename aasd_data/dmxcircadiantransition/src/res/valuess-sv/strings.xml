@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianTransition_title">Redigera %s</string>
+  <string name="circadianTransition_description">Välj när "%s" övergångspunkten startar och ställ in önskad färgtemperatur för den. Dessa inställningar påverkar alla rum.</string>
+  <string name="circadianTransition_categoryTitle_startTime">Ange starttid</string>
+  <string name="circadianTransition_categoryTitle_colorTemperature">Ange färgtemperatur</string>
+  <string name="circadianTransition_colorTemperature">Färgtemperatur — %dK</string>
+  <string name="circadianTransition_morning">Morgon</string>
+  <string name="circadianTransition_day">Dag</string>
+  <string name="circadianTransition_evening">Kväll</string>
+  <string name="circadianTransition_night">Natt</string>
+  <string name="circadianTransition_timePicker_header">START</string>
+  <string name="circadianTransition_timePicker_colon">:</string>
+  <string name="circadianTransition_timePicker_minuteFormat">%02d</string>
+</resources>

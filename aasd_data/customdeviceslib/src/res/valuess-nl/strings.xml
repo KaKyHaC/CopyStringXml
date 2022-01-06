@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">Hoofdlay-out %s is verwijderd.</string>
+  <string name="customdevice_controlNotAvailable">BEDIENING NIET BESCHIKBAAR</string>
+  <string name="customdevice_emptyAlertTitle">Er is geen informatie beschikbaar.</string>
+  <string name="customdevice_emptyLayoutError">Geen lay-out met id %s.</string>
+  <string name="customdevice_emptyMediaLayoutError">Geen lay-out gedefinieerd voor bron met eigenaar-ID %d.</string>
+  <string name="customdevice_emptyAlertError">Geen lay-out met id %s.</string>
+  <string name="customdevice_alertError">Er is een fout opgetreden bij het openen van de waarschuwing met id %s.</string>
+  <string name="customdevice_layoutError">Er is een fout opgetreden bij het openen van de lay-out met id %s.</string>
+  <string name="customdevice_emptySelectionList">Geen items om weer te geven voor %s.</string>
+  <string name="customdevice_setValueGenericError">Er is iets fout gegaan. De waarde kan niet worden gewijzigd.</string>
+  <string name="customdevice_setValueError">De waarde kan niet worden gewijzigd. %s</string>
+  <string name="customdevice_runCommandGenericError">Er is iets fout gegaan. De opdracht kan niet worden uitgevoerd.</string>
+  <string name="customdevice_runCommandError">De opdracht kon niet worden uitgevoerd. %s</string>
+  <string name="customdevice_thermostat_setpoint">INSTELLEN OP</string>
+  <string name="customdevice_thermostat_heatSetpoint">VERWARMEN TO</string>
+  <string name="customdevice_thermostat_coolSetpoint">OKE OM TE</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">Navigatieveld is verkeerd geconfigureerd.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">Gebruik een externe app of apparaat voor de bediening.</string>
+  <string name="customdevice_mediaEmptyScreen_title">Geen controle beschikbaar.</string>
+</resources>

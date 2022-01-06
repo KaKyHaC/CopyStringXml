@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">AÇÕES RÁPIDAS</string>
+  <string name="room_room_services">SERVIÇOS DE QUARTO</string>
+  <string name="renameroomgroup_popupCancelButton">Cancelar</string>
+  <string name="renameroomgroup_popupCreateButton">Mudar o nome</string>
+  <string name="renameroomgroup_popupTitle">Renomear quarto</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">VEZÉRLŐK MEGJELENÍTÉSE</string>
+  <string name="advancedSettings_roomVisibilityControl_label">HELYISÉGEK MEGJELENÍTÉSE</string>
+  <string name="advancedSettings_settings_home_access_label">Ház hozzáférés</string>
+  <string name="advancedSettings_settings_cameras_label">Kamerák</string>
+  <string name="advancedSettings_settings_security_label">Biztonság</string>
+  <string name="advancedSettings_back_description">beállítások vissza gomb</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">HANG MEGSZAKÍTÁSOK ÉS HANGJELZÉSEK</string>
+  <string name="advancedSettings_settings_events_sound_label">Események és hangok</string>
+  <string name="advancedSettings_settings_change_theme_label">KIJELZŐ</string>
+  <string name="advancedSettings_settings_change_theme_title">Téma módosítása</string>
+  <string name="advancedSettings_toolbar">Haladó beállítások</string>
+  <string name="advancedSettings_showDoNotSiasturb">Ne zavarjanak megjelenítése</string>
+  <string name="advancedSettings_colorTuning_label">Színhangolás</string>
+  <string name="advancedSettings_tunableLighting_label">Hangolható világítás</string>
+  <string name="advancedSettings_circadianSettings_label">Huszonnégy órás beállítások</string>
+</resources>

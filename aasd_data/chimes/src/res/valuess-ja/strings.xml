@@ -1,0 +1,8 @@
+<resources>
+  <string name="chime_name">チャイム</string>
+  <string name="chime_toolbar">ガレージドアベル
+</string>
+  <string name="chime_back_description">イベント戻るボタン
+</string>
+  <string name="chime_assign_sounds">サウンドを割り当てる</string>
+</resources>

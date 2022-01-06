@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">בחר מקור</string>
+  <string name="source_selection_problem_source">לא זמין בכל החדרים בקבוצה</string>
+</resources>

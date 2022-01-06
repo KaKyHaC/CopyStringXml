@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">Toepassen op geselecteerde</string>
+  <string name="climateschedulethermostats_title">Thermostaat lijst</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">Alle thermostaten</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">Gebeurtenis is succesvol toegepast op geselecteerde thermostaten.</string>
+  <string name="climateschedulethermostats_eventsCopyError">Sommige instellingen konden niet naar een of meer thermostaten worden gekopieerd.</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelay_onboarding_sign_up">サインアップ</string>
+  <string name="cloudrelay_onboarding_not_now">今ではありません</string>
+  <string name="cloudrelay_onboarding_trouble_sign_in">サインインできませんか？</string>
+  <string name="cloudrelay_onboarding_yes_let_begin">さあ、始めましょう</string>
+  <string name="cloudrelay_connect_user_roles">ユーザーの役割とアクセス</string>
+  <string name="cloudrelay_onboarding_cancel">キャンセル</string>
+  <string name="cloudrelay_onboarding_continue">続行</string>
+  <string name="cloudrelay_onboarding_waring">今すぐ参加できないことは理解しています。後でこれを行うことができます。</string>
+  <string name="cloudrelay_connect_user_roles_description">ホームオーナーとして、信頼できる人に容易にアクセス権を付与してユーザーの役割を設定できます。好きな時に特典を取り消すことができます…</string>
+  <string name="cloudrelay_connect_anywhere_securely">どこでも安全に接続できます</string>
+  <string name="cloudrelay_connect_anywhere_securely_description">クレストロンホームのために、これまで最も安全な遠隔接続の体験を開発してきました。どこからでもホームに接続し、安全にコントロールできます。</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountedit_editTitle">
+アカウント名を編集する
+</string>
+  <string name="naxaccountedit_accountLabel">アカウント</string>
+  <string name="naxaccountedit_editNameLabel">名称</string>
+  <string name="naxaccountedit_done">完了　</string>
+</resources>

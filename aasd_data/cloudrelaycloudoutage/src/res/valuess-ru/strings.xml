@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">Не удается подключиться к облаку...</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">В настоящее время невозможно загрузить домашние элементы управления. Даже если временно не удается подключиться к облаку, пока вы находитесь на локальном WAP, вы все еще можете подключиться локально.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">Попробуйте подключиться локально</string>
+</resources>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">Установить отключения таймера сна для всех активных медиа в этой комнате.</string>
+  <string name="sleeptimer_disabledMsg">УСТАНОВИТЬ ВРЕМЯ</string>
+  <string name="sleeptimer_enabledMsg">%s ВЫКЛЮЧИТ ПИТАНИЕ</string>
+  <string name="sleeptimer_controlTitle">ТАЙМЕР СНА</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

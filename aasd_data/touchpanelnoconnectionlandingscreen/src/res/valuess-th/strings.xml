@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">ไม่พบเครือข่าย!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">โปรดตรวจสอบสายอีเทอร์เน็ตหรือเชื่อมต่อแบบไร้สาย</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">เชื่อมต่อกับจุดเชื่อมต่อ Wi-Fi</string>
+</resources>

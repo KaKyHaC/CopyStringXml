@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Δημιουργία νέου</string>
+  <string name="sceneslib_edit">Επεξεργασία</string>
+  <string name="sceneslib_reorder">Αναδιάταξη</string>
+  <string name="sceneslib_max_scenes_reached">Ο μέγιστος αριθμός σκηνικών σε αυτό το δωμάτιο έχει επιτευχθεί. Πατήστε "Επεξεργασία" για να αλλάξετε ή να διαγράψετε υπάρχοντα σκηνικά.</string>
+  <string name="sceneslib_unsaved_scene_message">Έχετε μη αποθηκευμένο σκηνικό. Αποθήκευση αυτού του σκηνικού;</string>
+  <string name="sceneslib_progress_lost_message">Είστε βέβαιοι ότι θέλετε να βγείτε από αυτήν την οθόνη και να χάσετε την εργασία σας;</string>
+  <string name="sceneslib_generic_scene_name">Το Σκηνικό μου %d</string>
+  <string name="sceneslib_unexpected_error_message">Παρουσιάστηκε μη αναμενόμενο σφάλμα. Δεν ήταν δυνατή η αποθήκευση του σκηνικού.</string>
+  <string name="sceneslib_success_message">Το σκηνικό δημιουργήθηκε με επιτυχία.</string>
+  <string name="sceneslib_update_success_message">Το σκηνικό ενημερώθηκε με επιτυχία.</string>
+  <string name="sceneslib_error_invalid_name">Το καθορισμένο όνομα σκηνικού δεν είναι έγκυρο. Δεν ήταν δυνατή η αποθήκευση του σκηνικού.</string>
+  <string name="sceneslib_error_duplicate_name">Το καθορισμένο όνομα σκηνικού χρησιμοποιείται ήδη. Δεν ήταν δυνατή η αποθήκευση του σκηνικού.</string>
+  <string name="sceneslib_error_name_too_long">Το καθορισμένο όνομα σκηνικού είναι πολύ μεγάλο. Δεν ήταν δυνατή η αποθήκευση του σκηνικού.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">Το καθορισμένο όνομα σκηνικού περιέχει μη έγκυρους χαρακτήρες. Δεν ήταν δυνατή η αποθήκευση του σκηνικού.</string>
+  <string name="sceneslib_error_read_only">Το καθορισμένο σκηνικό δεν είναι επεξεργάσιμο. Δεν ήταν δυνατή η αποθήκευση του σκηνικού.</string>
+  <string name="sceneslib_error_cannot_delete">Παρουσιάστηκε ένα μη αναμενόμενο σφάλμα. Δεν ήταν δυνατή η διαγραφή του σκηνικού.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Αυτή είναι ένα σκηνικό που παρέχεται από το σύστημα και δεν μπορεί να διαγραφεί.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Αυτό το σκηνικό χρησιμοποιείται από τον προγραμματισμό σε άλλα μέρη του συστήματος. Δεν είναι δυνατή η διαγραφή του.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">Αυτό είναι ένα σκηνικό που παρέχεται από το σύστημα. Δεν μπορεί να διαγραφεί ενόσω το δωμάτιο περιέχει φώτα.</string>
+  <string name="sceneslib_error_max_scene_count_reached">Ο μέγιστος αριθμός σκηνικών σε αυτό το δωμάτιο έχει επιτευχθεί. Δεν ήταν δυνατή η αποθήκευση του νέου σκηνικού.</string>
+  <string name="sceneslib_error_invalid_ramp_time">Ο επιλεγμένος χρόνος εξασθένησης φωτισμού δεν είναι έγκυρος. Δεν ήταν δυνατή η αποθήκευση του σκηνικού.</string>
+</resources>

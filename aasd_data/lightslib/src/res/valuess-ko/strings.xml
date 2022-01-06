@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">조명</string>
+  <string name="lightslib_lights_title">%s 조명</string>
+  <string name="lightslib_lights_status_on">조명이 켜졌습니다.</string>
+  <string name="lightslib_lights_turning_off">끄기 중...</string>
+  <string name="lightslib_lights_turning_on">켜기 중...</string>
+  <string name="lightslib_add_lights_title">\"%s\"에 조명 추가</string>
+  <string name="lightslib_controlsTitle">제어</string>
+  <string name="lightslib_sceneNameScene">%s 장면</string>
+  <string name="lightslib_tunableLightNotFound">뭔가 잘못되었습니다. 이 조명 부하를 찾을 수 없습니다.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">글로벌 기준 설정으로 저장하시겠습니까?</string>
+  <string name="lightslib_whiteTuningProgressLost">이 조명에 대한 기준 설정으로 저장하시겠습니까?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">정말 이 방에 이 설정을 적용하시겠습니까?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">이렇게 하면 이전에 적용된 다른 모든 설정이 재정의됩니다.</string>
+  <string name="lightslib_saveTunableSettingsError">예기치 않은 오류가 발생했습니다. 조정 가능한 설정을 저장하지 못했습니다.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">조정 가능한 설정이 성공적으로 저장되었습니다.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">예기치 않은 오류가 발생했습니다. 조정 가능한 설정을 룸의 모든 조명으로 설정할 수 없습니다.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">조정가능한 설정이 룸의 모든 조명에 설정되었습니다.</string>
+  <string name="lightslib_saveAsGlobalSettings">글로벌 기준 설정으로 저장</string>
+  <string name="lightslib_save">저장</string>
+  <string name="lightslib_circadianSettingsProgressLost">현재 설정을 생체 주기로 저장하시겠습니까?</string>
+  <string name="lightslib_saveCircadianSettingsError">예기치 않은 오류가 발생했습니다. 생체 설정을 저장하지 못했습니다.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">생체 설정이 성공적으로 저장되었습니다.</string>
+  <string name="lightslib_morningCircadianTitle">아침: 7:00 AM, %dK</string>
+  <string name="lightslib_noonCircadianTitle">정오, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">저녁: 7:00 PM, %dK</string>
+  <string name="lightslib_nightCircadianTitle">밤: 10:45 AM, %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">마음에 드는 색상이 제거되었습니다.</string>
+  <string name="lightslib_addFavorite_confirmation">마음에 드는 색상이 추가되었습니다.</string>
+</resources>

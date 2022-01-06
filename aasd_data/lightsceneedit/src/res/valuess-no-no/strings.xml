@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">Rediger lysscener</string>
+  <string name="lightSceneEdit_scenesCategory">Scener</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">Den angitte scenen slettes ikke.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">Den angitte scenen kan ikke redigeres.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">OK</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="addMoreLights_title">Adicionar mais luzes</string>
+  <string name="addMoreLights_subtitle">cena de %s</string>
+</resources>

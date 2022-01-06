@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">פסק זמן של סרגל כלים וירטואלי</string>
+  <string name="settings_hardkey_wakes_lcd">מקש שמדליק LCD</string>
+  <string name="settings_master_volume">עוצמת קול ראשית</string>
+  <string name="settings_hardkey_behavior">התנהגות לחצנים בלוח למעלה/למטה</string>
+  <string name="settings_hardkey_no_function">ללא פעולה</string>
+  <string name="settings_hardkey_lights">תאורה (חדר הגברה/החלשה)</string>
+  <string name="settings_hardkey_shades">תריסים (חדר הגברה/החלשה)</string>
+  <string name="settings_hardkey_media">מדיה (חדר +/- עוצמת קול)</string>
+  <string name="settings_advanced_settings_toolbar">הגדרות מתקדמות</string>
+</resources>

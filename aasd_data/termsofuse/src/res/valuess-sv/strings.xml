@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">Välkommen till ditt hem</string>
+  <string name="termsofuse_subtitle_one">På Crestron är din integritet viktig för oss. Granska Crestrons Integritetspolicy vid länken som tillhandahålls nedan för att se typerna av information vi kan samla in. Om du vill ändra på ditt systems integritetsinställningar för att aktivera eller inaktivera insamling av information, bör du kontakta din auktoriserade Crestron-leverantör, Crestron-serviceleverantör eller Crestron Electronics, Inc. via %s.</string>
+  <string name="termsofuse_subtitle_two">För att fortsätta upptäcka hemmet, godkänn följande:</string>
+  <string name="termsofuse_agreeAndContinue">Godkänn och fortsätt</string>
+  <string name="termsofuse_termsOfUse">Användarvillkor för mobilappar</string>
+  <string name="termsofuse_privacyStatement">Integritetspolicy</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">Jag godkänner Crestrons %s och %s.</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">Témák</string>
+  <string name="pool_setTo">BEÁLLÍTÁS ERRE:</string>
+  <string name="pool_controls">VEZÉRLŐK</string>
+  <string name="pool_off">KI</string>
+  <string name="pool_low">ALACSONY</string>
+  <string name="pool_med">KÖZEPES</string>
+  <string name="pool_high">MAGAS</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">Nincsenek elérhető vezérlők.</string>
+</resources>

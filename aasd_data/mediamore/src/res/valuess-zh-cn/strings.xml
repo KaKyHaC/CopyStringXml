@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">扬声器设置</string>
+  <string name="mediamore_additionalFunctions">附加功能</string>
+  <string name="mediamore_advancedSettings">高级设置</string>
+  <string name="mediamore_noInfo">无可用的信息。</string>
+</resources>

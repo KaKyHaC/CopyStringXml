@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianTransition_title">Редактировать %s</string>
+  <string name="circadianTransition_description">Выберите время начала точки перехода "%s" и установите для нее желаемую цветовую температуру. Эти настройки влияют на все помещения.</string>
+  <string name="circadianTransition_categoryTitle_startTime">Установите время начала</string>
+  <string name="circadianTransition_categoryTitle_colorTemperature">Установить цветовую температуру</string>
+  <string name="circadianTransition_colorTemperature">Цветовая температура - %dK</string>
+  <string name="circadianTransition_morning">Утро</string>
+  <string name="circadianTransition_day">День</string>
+  <string name="circadianTransition_evening">Вечер</string>
+  <string name="circadianTransition_night">Ночь</string>
+  <string name="circadianTransition_timePicker_header">Начать</string>
+  <string name="circadianTransition_timePicker_colon">:</string>
+  <string name="circadianTransition_timePicker_minuteFormat">%02d</string>
+</resources>

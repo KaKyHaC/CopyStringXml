@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">Forrás kiválasztása</string>
+  <string name="source_selection_problem_source">A csoport nem minden helyiségében érhető el</string>
+</resources>

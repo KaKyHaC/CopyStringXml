@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">颜色微调</string>
+  <string name="dmxroomselection_controlsTitle">控件</string>
+  <string name="dmxcolortuning_description">为此房间定义基线设置。通过基线设置，您可以设置期望的颜色和您灯具的温度。\n\n提供了强度滑块和开关，以帮助您显示颜色。基线设置中没有保存强度滑块和开关。</string>
+</resources>

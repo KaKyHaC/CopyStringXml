@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Crea nuovo</string>
+  <string name="sceneslib_edit">Modifica</string>
+  <string name="sceneslib_reorder">Riordina</string>
+  <string name="sceneslib_max_scenes_reached">Il numero massimo delle scene in questa stanza è stato raggiunto. Tocca \"Modifica\" per cambiare o cancellare le scene esistenti.</string>
+  <string name="sceneslib_unsaved_scene_message">Hai delle scene non salvate. Vuoi salvarle?</string>
+  <string name="sceneslib_progress_lost_message">Sei sicuro di voler uscire da questa schermata e perdere i tuoi progressi?</string>
+  <string name="sceneslib_generic_scene_name">Mia %d scena</string>
+  <string name="sceneslib_unexpected_error_message">Si è verificato un errore imprevisto. La scena non si poteva salvare.</string>
+  <string name="sceneslib_success_message">La scena è creata con successo.</string>
+  <string name="sceneslib_update_success_message">La scena è aggiornata con successo.</string>
+  <string name="sceneslib_error_invalid_name">Il nome della scena specifica non  è valido. La scena potrebbe essere non salvata.</string>
+  <string name="sceneslib_error_duplicate_name">Il nome della scena specifica è già usato. La scena potrebbe essere non salvata.</string>
+  <string name="sceneslib_error_name_too_long">Il nome della scena specifica è troppo lungo. La scena potrebbe essere non salvata.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">Il nome della scena specifica contiene caratteri non validi. La scena potrebbe essere non salvata.</string>
+  <string name="sceneslib_error_read_only">La scena specifica non si può modificare.</string>
+  <string name="sceneslib_error_cannot_delete">Si è verificato un errore imprevisto. La scena non si poteva cancellare</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Questa è una scena fornita dal sistema e non la si può  cancellare.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Questa scena viene utilizzata dalla programmazione in altre parti del sistema. Non può essere cancellata.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">Questa è una scena fornita dal sistema. Non la si può  cancellare mentre ci sono le luci nella stanza.</string>
+  <string name="sceneslib_error_max_scene_count_reached">Si è raggiunto il numero massimo di scene per questa stanza. La nuova scena non si può salvare.</string>
+  <string name="sceneslib_error_invalid_ramp_time">Il tempo di dissolvenza selezionato non è valido. Questa scena non si può salvare.</string>
+</resources>

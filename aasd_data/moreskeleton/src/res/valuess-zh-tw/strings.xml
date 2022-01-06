@@ -1,0 +1,11 @@
+<resources>
+  <string name="more_crestron">快思聰</string>
+  <string name="more_help">説明</string>
+  <string name="more_help_webview">説明</string>
+  <string name="more_legal_terms">法律條款</string>
+  <string name="more_privacy_information">隱私信息</string>
+  <string name="more_feedback">反饋</string>
+  <string name="more_version">版本 - %s</string>
+  <string name="more_changeColorMode">更改顏色模式</string>
+  <string name="more_developer_options">程式開發者選項</string>
+</resources>

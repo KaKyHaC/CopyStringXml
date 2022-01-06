@@ -1,0 +1,16 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Nesprávne heslo</string>
+  <string name="advancedpassword_passwordHint">Zadajte heslo na úpravu naplánovaných udalostí.</string>
+  <string name="advancedpassword_settingsPasswordHint">Táto časť je chránená, najskôr zadajte heslo.</string>
+  <string name="advancedpassword_editScenesPasswordHint">Táto časť je chránená, najskôr zadajte heslo.</string>
+  <string name="advancedpassword_title">Zadať heslo</string>
+  <string name="advancedpassword_advancedUserPassword">Rozšírené používateľské heslo</string>
+  <string name="advancedpassword_advancedUserPasswordHint">Heslo pokročilého používateľa vám poskytne autorizovaný predajca systému Crestron.</string>
+  <string name="advancedpassword_warning_ok">OK</string>
+  <string name="advancedpassword_warning_subtitle">Ak zadáte nesprávne heslo viackrát, vaše konto bude dočasne zablokované. Pokúste sa to o chvíľu zopakovať alebo sa obráťte na autorizovaného predajcu systému Crestron.</string>
+  <string name="advancedpassword_warning_title">Zadali ste nesprávne heslo.</string>
+  <string name="advancedpassword_cloud_claim_hint">Ak chcete pokračovať v prihlasovaní domácnosti, zadajte rozšírené používateľské heslo. Rozšírené používateľské heslo vám poskytne váš autorizovaný predajca systému Crestron.</string>
+  <string name="advancedpassword_cloud_claim_skip">
+Môžete %s a prejdite teraz do svojej domácnosti bez použitia hesla pokročilého používateľa.</string>
+  <string name="advancedpassword_skip_this_step">preskočiť tento krok</string>
+</resources>

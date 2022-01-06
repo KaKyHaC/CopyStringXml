@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">Skyforbindelsen er nede...</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">Kan ikke laste inn hjemmekontroller for øyeblikket. Selv om skytilkoblingen er midlertidig nede så lenge du er på din lokale WAP, kan du fortsatt koble til lokalt.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">Prøv å koble til lokalt</string>
+</resources>

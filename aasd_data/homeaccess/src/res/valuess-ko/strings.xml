@@ -1,0 +1,6 @@
+<resources>
+  <string name="homeaccess_houseLabel">홈 액세스</string>
+  <string name="homeaccess_lockTitle">잠금</string>
+  <string name="homeaccess_garageTitle">차고 도어</string>
+  <string name="homeaccess_gateTitle">게이트</string>
+</resources>

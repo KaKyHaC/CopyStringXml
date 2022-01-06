@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">Turn off all media</string>
+  <string name="activemedia_activeMedia">Active media (%d)</string>
+  <string name="activemedia_audio">שמע</string>
+  <string name="activemedia_video">VIDEO</string>
+  <string name="activemedia_multiple_displays">Multiple Displays</string>
+  <string name="activemedia_left_display">Left Display</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">Are you sure you want to power off the whole house?</string>
+</resources>

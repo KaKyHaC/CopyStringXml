@@ -1,0 +1,6 @@
+<resources>
+  <string name="tvpresetsgroupselection_pageTitle">שנה קבוצה מועדפת</string>
+  <string name="tvpresetsgroupselection_changeButton">שינוי</string>
+  <string name="tvpresetsgroupselection_newPresetGroup">+ צור קבוצה חדשה</string>
+  <string name="tvpresetsgroupselection_defaultDeviceName">טלוויזיה בכבלים</string>
+</resources>

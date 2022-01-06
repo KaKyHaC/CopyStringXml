@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayconnecthome_edit_home">홈 편집</string>
+  <string name="couldrelayconnecthome_edit_details">Crestron 홈에 대한 세부 사항을 편집하십시오.</string>
+  <string name="cloudrelayconnecthome_home_settings">홈 설정</string>
+  <string name="cloudrelayconnecthome_friendlyNameOrLocation">장치 이름 / 위치</string>
+  <string name="cloudrelayconnecthome_password">사용자 인터페이스 비밀번호</string>
+  <string name="cloudrelayconnecthome_localConnectionSettings">로컬 연결 설정</string>
+  <string name="cloudrelayconnecthome_ipAddressOrHostName">IP 주소/호스트 이름</string>
+  <string name="cloudrelayconnecthome_continue">계속</string>
+</resources>

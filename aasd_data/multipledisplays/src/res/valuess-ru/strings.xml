@@ -1,0 +1,6 @@
+<resources>
+  <string name="multiple_displays_no_controls">Средства управления отсутствуют.</string>
+  <string name="multiple_displays_scenes">МЕСТА</string>
+  <string name="multiple_displays_toolbartitle">Видео</string>
+  <string name="multiple_displays_displaytitle">Дисплеи</string>
+</resources>

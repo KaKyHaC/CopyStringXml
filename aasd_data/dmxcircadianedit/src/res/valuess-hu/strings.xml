@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">Huszonnégy órás ciklus szerkesztése</string>
+  <string name="circadianEdit_description">Az elektromos lámpák oly módon is használhatók, amelyek támogatják az emberi egészséget azáltal, hogy minimumra csökkentik az emberi huszonnégy órás ritmusra való hatásukat.</string>
+  <string name="circadianEdit_transitionsCategory">lámpák átmeneti pontjainak szerkesztése</string>
+  <string name="circadianEdit_previewTransitionButton_start">Huszonnégy órás átmenet előnézete</string>
+  <string name="circadianEdit_previewTransitionButton_end">Huszonnégy órás átmenet előnézetének befejezése</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">Reggel</string>
+  <string name="circadianEdit_dayTransition">Nappal</string>
+  <string name="circadianEdit_eveningTransition">Este</string>
+  <string name="circadianEdit_nightTransition">Éjszaka</string>
+  <string name="circadianEdit_minTime">12:00</string>
+  <string name="circadianEdit_maxTime">23:59</string>
+</resources>

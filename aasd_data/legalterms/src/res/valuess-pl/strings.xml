@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="legal_terms_title">Warunki prawne</string>
+  <string name="legal_terms_mobileAppsTermsOfUse">Warunki użytkowania aplikacji mobilnych</string>
+  <string name="legal_terms_softwareLicenseAgreement">Umowa licencyjna oprogramowania</string>
+</resources>

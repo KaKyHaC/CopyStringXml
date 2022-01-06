@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">メインのレイアウトは %s 除去されている。</string>
+  <string name="customdevice_controlNotAvailable">コントロールできない　</string>
+  <string name="customdevice_emptyAlertTitle">情報が無効。</string>
+  <string name="customdevice_emptyLayoutError">id% で設計図はない。</string>
+  <string name="customdevice_emptyMediaLayoutError">所有者のIDが％の素材を設計図が規定しない。</string>
+  <string name="customdevice_emptyAlertError">id% で設計図はない。</string>
+  <string name="customdevice_alertError">Id%で警報を発出中にエラーが生じました。　</string>
+  <string name="customdevice_layoutError">　id%で設計図を開いている途中にエラーが生じました。</string>
+  <string name="customdevice_emptySelectionList">%sにお見せするアイテムはありません。　</string>
+  <string name="customdevice_setValueGenericError">何らかの不調で、値を変えられません。　</string>
+  <string name="customdevice_setValueError">値を変えられなかった。%s　</string>
+  <string name="customdevice_runCommandGenericError">何らかの不調が発生。コマンドが実行できない。　</string>
+  <string name="customdevice_runCommandError">コマンドを実行できない。%s　</string>
+  <string name="customdevice_thermostat_setpoint">に設定する　</string>
+  <string name="customdevice_thermostat_heatSetpoint">まで温める　</string>
+  <string name="customdevice_thermostat_coolSetpoint">まで冷やす　</string>
+  <string name="customdevice_thermostat_celsius_degrees">摂氏　</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">華氏　</string>
+  <string name="customdevice_tileError">ナビゲーションのフィールドの設定が間違っています。　</string>
+  <string name="customdevice_emptyValuePlaceholder">-　</string>
+  <string name="customdevice_mediaEmptyScreen_hint">外部appまたはコントロール用デバイスを使ってください。　</string>
+  <string name="customdevice_mediaEmptyScreen_title">コントロールできません。　</string>
+</resources>

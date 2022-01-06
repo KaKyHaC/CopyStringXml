@@ -1,0 +1,7 @@
+<resources>
+  <string name="mobilemore_support">الدعم</string>
+  <string name="mobilemore_diagnostics">إرسال تشخيصات الدعم</string>
+  <string name="mobilemore_house_settings">إعدادات المنزل</string>
+  <string name="mobilemore_settings">تعديل المنزل</string>
+  <string name="mobilemore_advanced_settings">إعدادات متقدمة</string>
+</resources>

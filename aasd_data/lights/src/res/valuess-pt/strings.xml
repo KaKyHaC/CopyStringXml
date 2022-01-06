@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">CENÁRIOS</string>
+  <string name="lights_controlsTitle">CONTROLOS</string>
+  <string name="lights_controlsMasterControl">TODAS AS LUZES</string>
+  <string name="create_new_scene">Criar novo cenário</string>
+  <string name="lights_noScenesInfo">Este quarto não parece ter nenhum cenário de iluminação visível.</string>
+</resources>

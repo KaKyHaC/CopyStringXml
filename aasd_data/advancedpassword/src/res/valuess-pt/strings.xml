@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Palavra-passe incorreta</string>
+  <string name="advancedpassword_passwordHint">Digite a senha para editar os eventos programados.</string>
+  <string name="advancedpassword_settingsPasswordHint">Esta é uma seção protegida, digite a senha primeiro.</string>
+  <string name="advancedpassword_editScenesPasswordHint">Esta é uma seção protegida, digite a senha primeiro.</string>
+  <string name="advancedpassword_title">Digite a senha</string>
+  <string name="advancedpassword_advancedUserPassword">Palavra-passe do utilizador avançado</string>
+  <string name="advancedpassword_advancedUserPasswordHint">Entre em contacto com o seu revendedor autorizado Crestron para obter a sua senha de utilizador avançado.</string>
+  <string name="advancedpassword_warning_ok">ok</string>
+  <string name="advancedpassword_warning_subtitle">Se inserir uma senha incorreta várias vezes, a sua conta será bloqueada temporariamente. Tente novamente em alguns instantes ou entre em contacto com o seu revendedor autorizado Crestron.</string>
+  <string name="advancedpassword_warning_title">Digitou uma senha incorreta.</string>
+  <string name="advancedpassword_cloud_claim_hint">Para continuar a reivindicar a sua casa, digite uma senha de utilizador avançado. Entre em contacto com o seu revendedor autorizado Crestron para obter a sua senha de utilizador avançado.</string>
+  <string name="advancedpassword_cloud_claim_skip">Pode % se prosseguir para a sua casa sem usar uma senha de utilizador avançado no momento.</string>
+  <string name="advancedpassword_skip_this_step">pular este passo</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">De toegang wordt verwijderd voor alle bestaande gebruikers voor dit huis. U kunt ervoor kiezen om die gebruikers weer toegang te geven zodra de claim is voltooid.</string>
+  <string name="cloudrelayclaim_title">Doorgaan met claimen</string>
+  <string name="cloudrelayclaim_continue">Doorgaan</string>
+  <string name="cloudrelayclaim_success">Tik op de knop "Gebruikers" hierboven om toegang te geven tot uw familie en vrienden.</string>
+  <string name="cloudrelayclaim_warning_ok">Oke</string>
+  <string name="cloudrelayclaim_warning_subtitle">Neem voor hulp contact op met uw Crestron-dealer.</string>
+  <string name="cloudrelayclaim_warning_title">Kan je huis op dit moment niet claimen</string>
+</resources>

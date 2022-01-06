@@ -1,0 +1,34 @@
+<resources>
+  <string name="lightslib_lights">Svetlá</string>
+  <string name="lightslib_lights_title">%s svetlá</string>
+  <string name="lightslib_lights_status_on">Svetlá svietia.</string>
+  <string name="lightslib_lights_turning_off">VYPÍNANIE...</string>
+  <string name="lightslib_lights_turning_on">ZAPÍNANIE...</string>
+  <string name="lightslib_add_lights_title">Pridanie svetiel do \"%s\"</string>
+  <string name="lightslib_controlsTitle">REGULÁTORY</string>
+  <string name="lightslib_sceneNameScene">%s prostredie</string>
+  <string name="lightslib_tunableLightNotFound">Niečo sa pokazilo. Nie je možné nájsť toto
+ľahké zaťaženie.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">Uložiť ako všeobecné nastavenia východiskovej úrovne?</string>
+  <string name="lightslib_whiteTuningProgressLost">Uložiť ako všeobecné nastavenia východiskovej úrovne pre toto svetlo?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">Ste si istí, že chcete tieto nastavenia použiť v tejto miestnosti?
+</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">Tým sa prepíšu všetky ostatné predtým použité nastavenia.</string>
+  <string name="lightslib_saveTunableSettingsError">Vyskytla sa neočakávaná chyba. Nepodarilo sa uložiť nastavenia ladenia (nastavovania).</string>
+  <string name="lightslib_saveTunableSettingsSuccess">Nastavenia ladenia sa úspešne uložili.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">Vyskytla sa neočakávaná chyba. Nastavenia ladenia nebolo možné nastaviť na všetky svetlá v miestnosti.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">Nastavenia ladenia sú úspešne nastavené na všetky svetlá v miestnosti.</string>
+  <string name="lightslib_saveAsGlobalSettings">Uložiť ako všeobecné nastavenia východiskovej úrovne</string>
+  <string name="lightslib_save">Uložiť</string>
+  <string name="lightslib_circadianSettingsProgressLost">Uložiť aktuálne nastavenia ako cirkadiánny cyklus?</string>
+  <string name="lightslib_saveCircadianSettingsError">Vyskytla sa neočakávaná chyba. Nastavenia cirkadiánneho cyklu sa nepodarilo uložiť.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">Nastavenia cirkadiánneho cyklu sa úspešne uložili.</string>
+  <string name="lightslib_morningCircadianTitle">Ráno:7:00, %dK</string>
+  <string name="lightslib_noonCircadianTitle">Poludnie, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">Večer:19:00, %dK</string>
+  <string name="lightslib_nightCircadianTitle">Noc:10:45, %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">Bola odstránená obľúbená farba.</string>
+  <string name="lightslib_addFavorite_confirmation">Bola pridaná obľúbená farba.</string>
+</resources>

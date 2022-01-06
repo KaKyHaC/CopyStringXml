@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">Edytuj scenerie świateł</string>
+  <string name="lightEditSingleScene_set_scene_options">USTAW OPCJE SCENERII</string>
+  <string name="lightEditSingleScene_delete_scene">Usuń tę scenerię</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">Na pewno usunąć tę scenerię?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">USUŃ</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">Anuluj</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">Przepraszamy, ta sceneria nie może zostać usunięta</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">OK</string>
+  <string name="lightEditSingleScene_dismiss">ODRZUĆ</string>
+  <string name="lightEditSingleScene_cannot_edit">Przepraszamy, nie można edytować nazwy i ikony tej scenerii</string>
+</resources>

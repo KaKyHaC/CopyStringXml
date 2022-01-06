@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">Támogatási diagnosztika</string>
+  <string name="diagnostics_loggingTitle">Diagnosztika beküldésének engedélyezése</string>
+  <string name="diagnostics_loggingDescription">Kérjük, kizárólag akkor engedélyezze a diagnosztika beküldését, ha a Crestron technikai támogatása erre felkéri Önt</string>
+  <string name="diagnostics_submitDiagnostics">Támogatási diagnosztika beküldése</string>
+  <string name="diagnostics_submitMessage">A Crestron azt javasolja, hogy csak akkor küldjön be diagnosztikát, ha a Crestron márkakereskedőjével dolgozik együtt vagy ha a Crestron ügyfélszolgálata felkéri Önt erre. \n\nA Beküldés megnyomásával kiválaszthatja, hogyan szeretné megosztani a fájlt. Kövesse a Crestron márkakereskedő vagy a Crestron ügyfélszolgálat utasításait, arra vonatkozóan, hova kell elküldenie ezt a fájlt.</string>
+  <string name="diagnostics_submit">Beküldés</string>
+</resources>

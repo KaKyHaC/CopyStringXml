@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">Fények</string>
+  <string name="lightslib_lights_title">%s lámpa</string>
+  <string name="lightslib_lights_status_on">A lámpák be vannak kapcsolva.</string>
+  <string name="lightslib_lights_turning_off">KIKAPCSOLÁS...</string>
+  <string name="lightslib_lights_turning_on">BEKAPCSOLÁS...</string>
+  <string name="lightslib_add_lights_title">Lámpák hozzáadása a kövekezőhöz: „%s”</string>
+  <string name="lightslib_controlsTitle">VEZÉRLŐK</string>
+  <string name="lightslib_sceneNameScene">%s jelenet</string>
+  <string name="lightslib_tunableLightNotFound">Hiba történt. A világítási terhelés nem található.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">Menti globális alapérték beállításokként?</string>
+  <string name="lightslib_whiteTuningProgressLost">Menti alapérték beállításokként ehhez a lámpához?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">Biztosan alkalmazni szeretné ezeket a beállításokat ezen a helyiségen?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">Ezzel felülírja az összes korábbi beállítást.</string>
+  <string name="lightslib_saveTunableSettingsError">Váratlan hiba történt. A hangolható beállítások mentése sikertelen.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">A rendszer sikeresen mentette a hangolható beállításokat.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">Váratlan hiba történt. A rendszer nem tudja beállítani a hangolható beállításokat a helyiség összes lámpájához.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">A rendszer sikeresen beállította a hangolható beállításokat a helyiség összes lámpájához.</string>
+  <string name="lightslib_saveAsGlobalSettings">Mentés globális alapérték beállításokként</string>
+  <string name="lightslib_save">Mentés</string>
+  <string name="lightslib_circadianSettingsProgressLost">Elmenti a jelenlegi beállításokat huszonnégy órás ciklusként?</string>
+  <string name="lightslib_saveCircadianSettingsError">Váratlan hiba történt. A huszonnégy órás beállítások mentése sikertelen volt.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">A rendszer sikeresen mentette a huszonnégy órás beállításokat.</string>
+  <string name="lightslib_morningCircadianTitle">Reggel: 07:00, %dK</string>
+  <string name="lightslib_noonCircadianTitle">Dél, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">Este: 19:00, %dK</string>
+  <string name="lightslib_nightCircadianTitle">Éjszaka: 22:45, %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">Kedvenc szín eltávolítva.</string>
+  <string name="lightslib_addFavorite_confirmation">Kedvenc szín hozzáadva.</string>
+</resources>

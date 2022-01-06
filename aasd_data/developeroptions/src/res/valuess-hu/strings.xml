@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">Fejlesztői beállítások engedélyezése</string>
+  <string name="reset_logging_after_24_hours">Naplózás alaphelyzetbe állítása 24 óra után</string>
+  <string name="developer_options">Fejlesztői beállítások</string>
+  <string name="logging_level">Naplózási szint</string>
+  <string name="logging">Naplózás</string>
+  <string name="network_logging">Hálózati naplózás</string>
+  <string name="detailed_logging">Részletes naplózás</string>
+</resources>

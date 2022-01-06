@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">帘幕</string>
+  <string name="shadeslib_all_shades_closed">已关闭</string>
+  <string name="shadeslib_all_shades_opened">打开</string>
+  <string name="shadeslib_shades_title">%s遮阳棚</string>
+  <string name="shadeslib_shade_state_with_tilt">倾斜度%d%%</string>
+  <string name="shadeslib_shades_status_opened">遮阳棚打开。</string>
+  <string name="shadeslib_shades_group_partially_offline">%s（部分离线）</string>
+  <string name="shadeslib_position_open">%d%%打开</string>
+  <string name="shadeslib_shades_closed">已关闭</string>
+  <string name="shadeslib_shades_open">打开</string>
+  <string name="shadeslib_shades_opening">正在打开...</string>
+  <string name="shadeslib_shades_closing">正在关闭...</string>
+</resources>

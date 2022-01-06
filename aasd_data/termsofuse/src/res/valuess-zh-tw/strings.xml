@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">歡迎光顧您的住宅</string>
+  <string name="termsofuse_subtitle_one">在快思聰，您的個人隱私對我們很重要。請通過下面提供的鏈接，查看快思聰 \ 的隱私聲明，知曉我們可能收集的資訊類型。如果您想更改對您的系統的隱私設置，以啟用或禁用收集資訊，請聯絡您授權的快思聰經銷商或快思聰服務提供商，或者諮詢快思聰電子有限公司的 %s。</string>
+  <string name="termsofuse_subtitle_two">要繼續發現住宅，請同意以下內容：</string>
+  <string name="termsofuse_agreeAndContinue">同意並繼續</string>
+  <string name="termsofuse_termsOfUse">行動應用程式使用條款</string>
+  <string name="termsofuse_privacyStatement">隱私聲明</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">我同意快思聰 \ 的 %s 和 %s。</string>
+</resources>

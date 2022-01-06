@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Nieuwe scène maken</string>
+  <string name="lightSceneCreate_add_lights">Lichten toevoegen</string>
+  <string name="lightSceneCreate_add_more_lights">Voeg meer lampen toe</string>
+  <string name="lightSceneCreate_save">Opslaan</string>
+  <string name="lightSceneCreate_set_scene_options">SCNE-OPTIES INSTELLEN</string>
+  <string name="lightSceneCreate_fade_time">Fadetijd</string>
+  <string name="lightSceneCreate_scene_visibility">Zichtbaarheid scène</string>
+  <string name="lightSceneCreate_subtitle_template">%d VAN %d SCNES</string>
+</resources>

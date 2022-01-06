@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mobilediscoverhome_downloadSgMessage">スマートグラフィックスアプリをダウンロードして、このホームをコントロールしてください</string>
+  <string name="mobilediscoverhome_cancel">キャンセル</string>
+  <string name="mobilediscoverhome_downloadApp">アプリをダウンロードする
+</string>
+</resources>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">Establecer el temporizador de desconexión para dormir en todos los medios activos de esta habitación.</string>
+  <string name="sleeptimer_disabledMsg">ESTABLECER LA HORA</string>
+  <string name="sleeptimer_enabledMsg">%s SE APAGARÁ</string>
+  <string name="sleeptimer_controlTitle">Temporizador para dormir</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

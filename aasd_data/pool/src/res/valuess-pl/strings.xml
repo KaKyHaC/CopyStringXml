@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">Scenerie</string>
+  <string name="pool_setTo">USTAW NA</string>
+  <string name="pool_controls">STEROWANIE</string>
+  <string name="pool_off">WYŁ.</string>
+  <string name="pool_low">NISKI POZIOM</string>
+  <string name="pool_med">ŚREDNI POZIOM</string>
+  <string name="pool_high">WYSOKI POZIOM</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">Brak dostępnych sterowni.</string>
+</resources>

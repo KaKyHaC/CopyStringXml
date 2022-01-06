@@ -1,0 +1,5 @@
+<resources>
+  <string name="mobileclaimhome_homeSettings">הגדרות בית</string>
+  <string name="mobileclaimhome_remoteAccessSettings">הגדרות גישה מרחוק</string>
+  <string name="mobileclaimhome_port">יציאה</string>
+</resources>

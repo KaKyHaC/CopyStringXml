@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="uncontrolledsource_title">Geen controle beschikbaar</string>
+  <string name="uncontrolledsource_hint">Gebruik voor de bediening een externe app of apparaat.</string>
+</resources>

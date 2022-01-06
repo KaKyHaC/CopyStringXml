@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">KLÍMAVEZÉRLŐK</string>
+  <string name="climate_current_temperature">AKTUÁLIS HŐM.</string>
+  <string name="climate_mode">MÓD</string>
+  <string name="climate_schedule">ÜTEMEZÉS</string>
+  <string name="climate_fan">VENTILÁTOR</string>
+  <string name="climate_floor_heating">Padlófűtés</string>
+  <string name="climate_humidity_controls">PÁRATARTALOM VEZÉRLŐK</string>
+  <string name="climate_humidify">PÁRÁSÍTÁS ERRE:</string>
+  <string name="climate_floor_control">Szintvezérlés</string>
+  <string name="climate_currentHumidity_title">Aktuális páratartalom</string>
+  <string name="climate_humidityControl_title">Páratartalom vezérlés</string>
+</resources>

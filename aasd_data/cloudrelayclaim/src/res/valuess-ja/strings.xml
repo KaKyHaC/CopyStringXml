@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">
+このホームの既存のすべてのユーザーからアクセスが削除されます。申し立てが完了したら、それらのユーザーにアクセスを許可することを選択できます。</string>
+  <string name="cloudrelayclaim_title">主張を続ける</string>
+  <string name="cloudrelayclaim_continue">続行</string>
+  <string name="cloudrelayclaim_success">
+上の’’ユーザー’’ボタンをタップして、家族や友人へのアクセスを開始します。</string>
+  <string name="cloudrelayclaim_warning_ok">OK </string>
+  <string name="cloudrelayclaim_warning_subtitle">補助のために、クレストロン社の販売店に連絡してください</string>
+  <string name="cloudrelayclaim_warning_title">現時点では、ホームの要求はできません</string>
+</resources>

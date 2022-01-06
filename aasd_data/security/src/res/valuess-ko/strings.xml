@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">보안</string>
+  <string name="security_panicActionsTitle">작업</string>
+  <string name="security_panicActionsSubtitle">1초간 길게 누르면 각 동작이 트리거됩니다.</string>
+  <string name="security_navigationButtonsTitle">탐색 버튼</string>
+  <string name="security_selectNavigationButton">선택</string>
+  <string name="security_keypadTitle">키패드</string>
+  <string name="security_keypadSubtitle">수행할 작업에 해당하는 4자리 코드와 숫자를 입력하십시오.</string>
+  <string name="security_displayTextTitle">현시 텍스트</string>
+</resources>

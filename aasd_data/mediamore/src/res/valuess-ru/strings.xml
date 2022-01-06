@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">НАСТРОЙКИ ДИНАМИКА</string>
+  <string name="mediamore_additionalFunctions">ДОПОЛНИТЕЛЬНЫЕ ФУНКЦИИ</string>
+  <string name="mediamore_advancedSettings">Дополнительные настройки</string>
+  <string name="mediamore_noInfo">Информация отсутствует.</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">새로 생성</string>
+  <string name="sceneslib_edit">편집</string>
+  <string name="sceneslib_reorder">순서 재배치</string>
+  <string name="sceneslib_max_scenes_reached">이 룸의 최대 장면 수에 도달했습니다. 기존 장면을 변경하거나 삭제하려면 \"편집\"을 누르십시오.</string>
+  <string name="sceneslib_unsaved_scene_message">저장되지 않은 장면이 있습니다. 이 장면을 저장하시겠습니까?</string>
+  <string name="sceneslib_progress_lost_message">이 장면을 종료하고 진행률을 제거하시겠습니까?</string>
+  <string name="sceneslib_generic_scene_name">나의 장면 %d</string>
+  <string name="sceneslib_unexpected_error_message">예기치 않은 오류가 발생했습니다. 장면을 저장할 수 없습니다.</string>
+  <string name="sceneslib_success_message">장면이 성공적으로 생성되었습니다.</string>
+  <string name="sceneslib_update_success_message">장면이 성공적으로 업데이트되었습니다.</string>
+  <string name="sceneslib_error_invalid_name">지정된 장면 이름이 잘못되었습니다. 장면을 저장할 수 없습니다.</string>
+  <string name="sceneslib_error_duplicate_name">지정된 장면 이름이 이미 사용 중입니다. 장면을 저장할 수 없습니다.</string>
+  <string name="sceneslib_error_name_too_long">지정된 장면 이름이 너무 깁니다. 장면을 저장할 수 없습니다.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">지정된 장면 이름이 잘못된 문자를 포함합니다. 장면을 저장할 수 없습니다.</string>
+  <string name="sceneslib_error_read_only">지정된 장면을 수정할 수 없습니다. 장면을 저장할 수 없습니다.</string>
+  <string name="sceneslib_error_cannot_delete">예기치 않은 오류가 발생했습니다. 장면을 삭제할 수 없습니다.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">이 장면은 시스템이 제공하는 장면이며 삭제할 수 없습니다.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">이 장면은 시스템의 다른 곳에서 프로그램 방식으로 사용되고 있습니다. 삭제할 수 없습니다.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">이 장면은 시스템이 제공하는 장면입니다. 룸이 조명을 포함하는 동안에는 삭제할 수 없습니다.</string>
+  <string name="sceneslib_error_max_scene_count_reached">이 룸의 최대 장면 갯수에 도달했습니다. 새 장면을 저장할 수 없습니다.</string>
+  <string name="sceneslib_error_invalid_ramp_time">선택된 페이드 타임이 잘못되었습니다. 장면을 저장할 수 없습니다.</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">La connessione al cloud è interrotta... </string>
+  <string name="cloudrelaycloudoutage_connection_down_description">Impossibile caricare i controlli home in questo momento. Anche se la connessione al cloud è temporaneamente disattivata finché ti trovi sul tuo WAP locale, puoi comunque connetterti localmente.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">Prova a connetterti localmente</string>
+</resources>

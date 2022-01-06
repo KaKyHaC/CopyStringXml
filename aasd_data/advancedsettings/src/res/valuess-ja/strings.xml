@@ -1,0 +1,21 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">コントロールを表示</string>
+  <string name="advancedSettings_roomVisibilityControl_label">ショールーム</string>
+  <string name="advancedSettings_settings_home_access_label">交通手段 </string>
+  <string name="advancedSettings_settings_cameras_label">カメラ</string>
+  <string name="advancedSettings_settings_security_label">セキュリティ</string>
+  <string name="advancedSettings_back_description">設定戻るボタン　</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">オーディオ割り込みとチャイム</string>
+  <string name="advancedSettings_settings_events_sound_label">イベントとサウンド </string>
+  <string name="advancedSettings_settings_change_theme_label">ディスプレイ　</string>
+  <string name="advancedSettings_settings_change_theme_title">
+テーマの変更
+</string>
+  <string name="advancedSettings_toolbar">上級の設定 </string>
+  <string name="advancedSettings_showDoNotSiasturb">イベントとサウンド</string>
+  <string name="advancedSettings_colorTuning_label">カラー調整</string>
+  <string name="advancedSettings_tunableLighting_label">
+調整可能な照明
+</string>
+  <string name="advancedSettings_circadianSettings_label">24時間周期の設定</string>
+</resources>

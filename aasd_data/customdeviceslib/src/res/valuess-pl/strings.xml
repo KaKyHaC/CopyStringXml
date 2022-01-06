@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">Główny układ %s został usunięty.</string>
+  <string name="customdevice_controlNotAvailable">STEROWANIE NIEDOSTĘPNE</string>
+  <string name="customdevice_emptyAlertTitle">Informacje nie są dostępne.</string>
+  <string name="customdevice_emptyLayoutError">Brak układu o id %s.</string>
+  <string name="customdevice_emptyMediaLayoutError">Nie zdefiniowano układu dla źródła o id właściciela %d.</string>
+  <string name="customdevice_emptyAlertError">Brak układu o id %s.</string>
+  <string name="customdevice_alertError">Wystąpił błąd podczas otwierania alertu o id %s.</string>
+  <string name="customdevice_layoutError">Wystąpił błąd podczas otwierania układu o id %s.</string>
+  <string name="customdevice_emptySelectionList">Brak elementów do pokazania dla %s.</string>
+  <string name="customdevice_setValueGenericError">Coś poszło nie tak. Nie można zmienić wartości.</string>
+  <string name="customdevice_setValueError">Nie można zmienić wartości. %s</string>
+  <string name="customdevice_runCommandGenericError">Coś poszło nie tak. Nie można wykonać polecenia.</string>
+  <string name="customdevice_runCommandError">Nie można wykonać polecenia. %s</string>
+  <string name="customdevice_thermostat_setpoint">USTAW NA</string>
+  <string name="customdevice_thermostat_heatSetpoint">OGRZEJ DO</string>
+  <string name="customdevice_thermostat_coolSetpoint">OCHŁÓDŹ DO</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">Pole nawigacyjne jest źle skonfigurowane.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">Do sterowania użyj zewnętrznej aplikacji lub urządzenia.</string>
+  <string name="customdevice_mediaEmptyScreen_title">Brak dostępnej kontroli.</string>
+</resources>

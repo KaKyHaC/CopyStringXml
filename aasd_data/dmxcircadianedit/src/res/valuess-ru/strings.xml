@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">Редактировать циркадный цикл</string>
+  <string name="circadianEdit_description">Электрическое освещение можно использовать для поддержания здоровья человека, минимизируя его воздействие на циркадный ритм.</string>
+  <string name="circadianEdit_transitionsCategory">Редактировать точки перехода освещения</string>
+  <string name="circadianEdit_previewTransitionButton_start">Предварительный просмотр циркадного перехода</string>
+  <string name="circadianEdit_previewTransitionButton_end">Завершить предварительный просмотр циркадного перехода</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">Утро</string>
+  <string name="circadianEdit_dayTransition">День</string>
+  <string name="circadianEdit_eveningTransition">Вечер</string>
+  <string name="circadianEdit_nightTransition">Ночь</string>
+  <string name="circadianEdit_minTime">00:00</string>
+  <string name="circadianEdit_maxTime">23:59</string>
+</resources>

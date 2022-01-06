@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">기본 레이아웃 %s가 삭제되었습니다.</string>
+  <string name="customdevice_controlNotAvailable">제어 불가</string>
+  <string name="customdevice_emptyAlertTitle">정보를 사용할 수 없습니다.</string>
+  <string name="customdevice_emptyLayoutError">id %s인 레이아웃이 없습니다.</string>
+  <string name="customdevice_emptyMediaLayoutError">소유자 id가 %d인 소스에 대해 정의된 레이아웃이 없습니다.</string>
+  <string name="customdevice_emptyAlertError">id %s인 레이아웃이 없습니다.</string>
+  <string name="customdevice_alertError">id가 %s인 경보를 열 때 오류가 발생했습니다.</string>
+  <string name="customdevice_layoutError">id가 %s인 레이아웃을 열 때 오류가 발생했습니다.</string>
+  <string name="customdevice_emptySelectionList">%s에 대해 표시할 아이템이 없습니다.</string>
+  <string name="customdevice_setValueGenericError">뭔가 잘못되었습니다. 값을 변경할 수 없습니다.</string>
+  <string name="customdevice_setValueError">값은 변경할 수 없습니다. %s</string>
+  <string name="customdevice_runCommandGenericError">뭔가 잘못되었습니다. 명령을 수행할 수 없습니다.</string>
+  <string name="customdevice_runCommandError">명령을 수행할 수 없습니다. %s</string>
+  <string name="customdevice_thermostat_setpoint">설정 값</string>
+  <string name="customdevice_thermostat_heatSetpoint">가열 온도</string>
+  <string name="customdevice_thermostat_coolSetpoint">냉각 온도</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">탐색 필드가 잘못 구성되어 있습니다.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">외부 앱 또는 장치를 사용하여 제어하십시오.</string>
+  <string name="customdevice_mediaEmptyScreen_title">사용할 수 있는 컨트롤이 없습니다.</string>
+</resources>

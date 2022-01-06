@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">Árnyékolók</string>
+  <string name="shades_scenesTitle">JELENETEK</string>
+  <string name="shades_controlsTitle">VEZÉRLŐK</string>
+  <string name="shades_allShadesTitle">ÖSSZES ÁRNYÉKOLÓ</string>
+  <string name="shades_allShades_MoreLightTitle">Több fény</string>
+  <string name="shades_allShades_LessLightTitle">Kevesebb fény</string>
+  <string name="shades_stopRampText">Leállítás</string>
+</resources>

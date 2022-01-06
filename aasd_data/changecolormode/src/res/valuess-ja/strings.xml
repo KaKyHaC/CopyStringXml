@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changecolormode_title">
+テーマの変更
+</string>
+  <string name="changecolormode_systemMode">
+システムモード
+</string>
+  <string name="changecolormode_lightMode">ライトモード
+</string>
+  <string name="changecolormode_darkMode">ダークモード
+</string>
+</resources>

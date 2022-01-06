@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">Etä</string>
+  <string name="roommedia_more">Lisää</string>
+  <string name="roommedia_playing">Toistaa</string>
+  <string name="roommedia_browse">Selaa</string>
+  <string name="roommedia_multiRoom">Multi-room</string>
+  <string name="roommedia_favorites">Suosikit</string>
+  <string name="roommedia_keypad">Näppäimistö</string>
+  <string name="roommedia_media">Media</string>
+  <string name="roommedia_warmingUp">WARMING UP</string>
+  <string name="roommedia_coolingDown">COOLING DOWN</string>
+  <string name="roommedia_roomVideo">%s video</string>
+  <string name="roommedia_limitedControl">LIMITED CONTROL. CONNECTING…</string>
+  <string name="roommedia_someRoomsAreOff">SOME ROOMS ARE OFF</string>
+  <string name="roommedia_openInSonos">Open in Sonos</string>
+  <string name="roommedia_account_status">Not signed in</string>
+  <string name="roommedia_noNowPlayingInformation">Nothing is playing</string>
+  <string name="roommedia_noAccountSelected">Select account</string>
+  <string name="roommedia_pduPr_dialogHeader">Do you want to power cycle this device?</string>
+  <string name="roommedia_pduPr_dialogMessage">It may take a few minutes to start back up.</string>
+  <string name="roommedia_pduPr_digPowerCycle">Virta pois ja takaisin päälle</string>
+  <string name="roommedia_pduPr_digCancel">Peruuta</string>
+  <string name="roommedia_pduPr_toastMessage">No Quick Action to Power Cycle</string>
+</resources>

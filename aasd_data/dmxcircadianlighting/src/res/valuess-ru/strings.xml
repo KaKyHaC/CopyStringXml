@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">Средства управления</string>
+  <string name="circadianLights_saveButtonText">Сохранить текущие настройки как циркадный цикл</string>
+</resources>

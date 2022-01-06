@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mobilediscoverhome_downloadSgMessage">Bitte laden Sie die Smart Graphics App herunter, um dieses Haus zu steuern.</string>
+  <string name="mobilediscoverhome_cancel">Abbrechen</string>
+  <string name="mobilediscoverhome_downloadApp">Anwendung herunterladen</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">Beveiliging</string>
+  <string name="security_panicActionsTitle">Acties</string>
+  <string name="security_panicActionsSubtitle">Houd 1 seconde ingedrukt om elke actie te activeren</string>
+  <string name="security_navigationButtonsTitle">NAVIGATIE KNOPPEN</string>
+  <string name="security_selectNavigationButton">Selecteren</string>
+  <string name="security_keypadTitle">TOETSENBLOK</string>
+  <string name="security_keypadSubtitle">Voer de 4-cijferige code in en een cijfer dat overeenkomt met de actie die u wilt uitvoeren</string>
+  <string name="security_displayTextTitle">WEERGAVE TEKST</string>
+</resources>

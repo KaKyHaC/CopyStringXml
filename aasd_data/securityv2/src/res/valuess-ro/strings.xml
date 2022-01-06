@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_v2_actions_header_text">Acţiuni</string>
+  <string name="security_v2_toolbarTitle">Securitate</string>
+  <string name="security_v2_panicActionsTitle">ACȚIUNI</string>
+  <string name="security_v2_panicActionsSubtitle">Apăsați și țineți apăsat timp de1 secundă pentru a declanșa fiecare acțiune</string>
+  <string name="security_v2_navigationButtonsTitle">BUTOANE DE NAVIGARE</string>
+  <string name="security_v2_selectNavigationButton">Selectare</string>
+  <string name="security_v2_keypadTitle">TASTATURĂ</string>
+  <string name="security_v2_keypadSubtitle">Introduceți codul din 4 cifre și o cifră corespunzătoare acțiunii pe care doriți să o efectuați</string>
+  <string name="security_v2_displayTextTitle">AFIȘEAZĂ TEXTUL</string>
+</resources>

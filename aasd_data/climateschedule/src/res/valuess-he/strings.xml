@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Event name, e.g. Summer climate schedule</string>
+  <string name="climateschedule_scheduleNameTitleLabel">שם</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">New climate scheduled event</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">Edit scheduled event</string>
+  <string name="climateschedule_scheduleActiveDays">ACTIVE DAYS</string>
+  <string name="climateschedule_activeDays_sunday">S</string>
+  <string name="climateschedule_activeDays_monday">M</string>
+  <string name="climateschedule_activeDays_tuesday">T</string>
+  <string name="climateschedule_activeDays_wednesday">W</string>
+  <string name="climateschedule_activeDays_thursday">T</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">S</string>
+  <string name="climateschedule_activeDays">ACTIVE DAYS</string>
+  <string name="climateschedule_save">שמור</string>
+  <string name="climateschedule_deleteSchedule">מחק</string>
+  <string name="climateschedule_copyToAnotherThermostat">Copy to another thermostat</string>
+  <string name="climateschedule_scheduleEventError">Something went wrong, please try again.</string>
+  <string name="climateschedule_editTitle">עריכה</string>
+  <string name="climateschedule_deleteWarning">Are you sure you want to delete %s event?</string>
+  <string name="climateschedule_invalidScheduleNameError">This schedule event name is not valid</string>
+  <string name="climateschedule_duplicateScheduleNameError">This schedule event name already exists</string>
+  <string name="climateschedule_discardChangesWarning">You have unsaved changes. Discard changes?</string>
+  <string name="climateschedule_discard">Discard</string>
+  <string name="climateschedule_saveChangesWarning">Do you want to save changes?</string>
+  <string name="climateschedule_setpointsTitle">SET POINTS</string>
+  <string name="climateschedule_scheduleStatusTitle">SCHEDULE STATUS</string>
+  <string name="climateschedule_scheduleStatusItem">Schedule enabled</string>
+  <string name="climateschedule_timePicker_header">התחל</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

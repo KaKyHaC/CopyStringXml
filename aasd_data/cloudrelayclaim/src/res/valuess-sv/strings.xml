@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">Åtkomst kommer att tas bort från alla existerande användare för det här hemmet. Du kan välja att ge åtkomst tillbaka till användarna efter valet är gjort.</string>
+  <string name="cloudrelayclaim_title">Fortsätt välja</string>
+  <string name="cloudrelayclaim_continue">Fortsätt</string>
+  <string name="cloudrelayclaim_success">Tryck på knappen "Användare" ovan för att börja ge åtkomst till din familj och vänner.</string>
+  <string name="cloudrelayclaim_warning_ok">ok</string>
+  <string name="cloudrelayclaim_warning_subtitle">Kontakta din Crestron-leverantör för hjälp.</string>
+  <string name="cloudrelayclaim_warning_title">Det gick inte att välja ditt hem just nu</string>
+</resources>

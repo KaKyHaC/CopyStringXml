@@ -1,0 +1,5 @@
+<resources>
+  <string name="mobileclaimhome_homeSettings">THUISINSTELLINGEN</string>
+  <string name="mobileclaimhome_remoteAccessSettings">INSTELLINGEN TOEGANG OP AFSTAND</string>
+  <string name="mobileclaimhome_port">Poort</string>
+</resources>

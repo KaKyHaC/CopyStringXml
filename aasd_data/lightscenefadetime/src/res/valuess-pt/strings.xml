@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Tempo de desvanecimento</string>
+  <string name="sceneFadeTime_header">definir o tempo de desvanecimento da iluminação</string>
+</resources>

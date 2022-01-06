@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">Minhas casas</string>
+  <string name="homeswitcher_addHome">Adicionar</string>
+  <string name="homeswitcher_online_status">Esta casa está conectada e pronta.\nToque para entrar.</string>
+  <string name="homeswitcher_online_remote_status">Toque para entrar.</string>
+  <string name="homeswitcher_offline_status">Esta casa está OFFLINE.\nToque para entrar.</string>
+  <string name="homeswitcher_offline">OFFLINE.</string>
+</resources>

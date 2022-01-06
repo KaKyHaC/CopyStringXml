@@ -1,0 +1,123 @@
+<resources>
+  <string name="common_ui_off">オフ　</string>
+  <string name="common_ui_on">オン</string>
+  <string name="common_ui_all_is_off">すべてがオフです。</string>
+  <string name="common_ui_D_percentage">%d%%</string>
+  <string name="intercom_calling">%s インターコム呼び出し　</string>
+  <string name="common_ui_scenes">シーン</string>
+  <string name="common_ui_newScene">
+新しいシーン
+</string>
+  <string name="common_ui_editScenes">シーンを編集する
+</string>
+  <string name="common_ui_quickActions">緊急行動　</string>
+  <string name="common_ui_newQuickAction">新しいクイックアクション
+</string>
+  <string name="common_ui_editQuickActions">クイックアクションを編集する</string>
+  <string name="common_ui_home">ホーム</string>
+  <string name="common_ui_room">部屋</string>
+  <string name="common_ui_changeImage">画像を変更する
+</string>
+  <string name="common_ui_takePhoto">写真を撮る
+</string>
+  <string name="common_ui_chooseFromGallery">ギャラリーから選択します</string>
+  <string name="common_ui_cancel">キャンセル</string>
+  <string name="common_ui_discard">
+破棄</string>
+  <string name="commonui_ok">OK</string>
+  <string name="commonui_more_scenes">
+%s +%d</string>
+  <string name="commonui_house">家</string>
+  <string name="commonui_some_devices_offline">いくつかのデバイスがオフラインです。</string>
+  <string name="commonui_some_devices_low_battery">一部のデバイスのバッテリー残量は少なくなっています。</string>
+  <string name="commonui_room_audio_format">％sオーディオ
+</string>
+  <string name="commonui_offline">オフライン</string>
+  <string name="commonui_attentionRequired">注意を喚起する </string>
+  <string name="commonui_sourceOffline">
+ソースはオフラインです。</string>
+  <string name="commonui_sourceOfflineUppercase">ソースはオフラインです</string>
+  <string name="commonui_no">いいえ</string>
+  <string name="commonui_yes">はい</string>
+  <string name="commonui_empty_room">その部屋は空です</string>
+  <string name="commonui_authentication_failed">認証に失敗</string>
+  <string name="commonui_uninitalized">
+未初期化</string>
+  <string name="commonui_delete">削除
+</string>
+  <string name="commonui_edit">編集</string>
+  <string name="commonui_music_services">音楽サービス</string>
+  <string name="commonui_users">ユーザー</string>
+  <string name="commonui_user_account">ユーザーアカウント</string>
+  <string name="commonui_not_signed">サインインしていません</string>
+  <string name="commonui_copy_this_code">このコードをコピーしてください
+</string>
+  <string name="commonui_sign_in">サインイン</string>
+  <string name="commonui_sign_out">サインアウト</string>
+  <string name="commonui_unknown_error">
+不明なエラーが発生しました</string>
+  <string name="commonui_waiting_auth">認証を待っています..
+</string>
+  <string name="commonui_cloudrelay_error">
+何かが間違っていました。もう一度やり直してください</string>
+  <string name="commonui_cloudrelay_revoked">
+この家へのあなたの特権は取り消されました。他の家に接続するには、アプリを再起動してください。</string>
+  <string name="commonui_cloudrelay_home_ready">これで、\ "％s \"の準備が整いました。</string>
+  <string name="commonui_cloudrelay_homes_ready">\"%d\"ホームが</string>
+  <string name="commonui_cloudrelay_connect">接続</string>
+  <string name="commonui_cloudrelay_view">表示</string>
+  <string name="commonui_cloudrelay_already_access_home">
+あなたはすでにこの家にアクセスできます</string>
+  <string name="commonui_remotekeypad_one">1</string>
+  <string name="commonui_remotekeypad_two">2</string>
+  <string name="commonui_remotekeypad_three">3</string>
+  <string name="commonui_remotekeypad_four">4</string>
+  <string name="commonui_remotekeypad_five">5</string>
+  <string name="commonui_remotekeypad_six">6</string>
+  <string name="commonui_remotekeypad_seven">7</string>
+  <string name="commonui_remotekeypad_eight">8</string>
+  <string name="commonui_remotekeypad_nine">9</string>
+  <string name="commonui_remotekeypad_zero">0</string>
+  <string name="commonui_seamless_home_experience">シームレスなホームの体験</string>
+  <string name="commonui_lighting_scenes">点灯シーン</string>
+  <string name="commonui_exit">終了</string>
+  <string name="commonui_save">保存
+</string>
+  <string name="commonui_half_second">0.5秒</string>
+  <plurals name="commonui_seconds">
+    <item quantity="one">1 Second</item>
+    <item quantity="other">%d Seconds</item>
+  </plurals>
+  <plurals name="commonui_minutes">
+    <item quantity="one">1 Minute</item>
+    <item quantity="other">%d Minutes</item>
+  </plurals>
+  <plurals name="commonui_hours">
+    <item quantity="one">1 Hour</item>
+    <item quantity="other">%d Hours</item>
+  </plurals>
+  <string name="commonui_loadName_status">%s %s</string>
+  <string name="commonui_multipleAffectedRooms">
+％d部屋</string>
+  <string name="commonui_thisRoomAndOtherRoomAffected">	
++ %s</string>
+  <string name="commonui_thisRoomAndMultipleRoomsAffected">+％d部屋</string>
+  <string name="commonui_color_temp_and_percentage">	
+%sK、%s</string>
+  <string name="commonui_hue_color_temp_and_percentage">	
+HUE %s、%sK、%s</string>
+  <string name="commonui_hue_and_percentage">	
+HUE %s、%s</string>
+  <string name="commonui_color_temp_and_on">%sK、オン</string>
+  <string name="commonui_hue_color_temp_and_on">HUE %s、%sK、オン</string>
+  <string name="commonui_hue_and_on">HUE %s、オン</string>
+  <string name="commonui_colorAndIntensity">色と輝度</string>
+  <string name="commonui_colorOnly">色のみ</string>
+  <string name="commonui_intensityOnly">強度のみ</string>
+  <string name="commonui_exclude">除外</string>
+  <string name="default_log">デフォルト　</string>
+  <string name="debug_log">デバッグ</string>
+  <string name="verbose_log">詳細</string>
+  <string name="choose_level">
+レベルを選択してください</string>
+</resources>

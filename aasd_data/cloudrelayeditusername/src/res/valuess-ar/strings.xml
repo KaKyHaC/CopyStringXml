@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">تعديل الاسم</string>
+  <string name="cloudrelayeditusername_subtitle">توصيل سحابي عن بُعد</string>
+  <string name="cloudrelayeditusername_accountLabel">الحساب</string>
+  <string name="cloudrelayeditusername_editNameLabel">الاسم</string>
+  <string name="cloudrelayeditusername_done">تم</string>
+</resources>

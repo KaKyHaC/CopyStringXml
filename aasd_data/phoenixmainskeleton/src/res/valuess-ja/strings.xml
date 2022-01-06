@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Phoenix</string>
+  <string name="app_home">ホーム</string>
+  <string name="app_rooms">部屋</string>
+  <string name="app_more">詳細</string>
+  <string name="app_home_is_busy">あなたの家は忙しいです、待ってください
+</string>
+</resources>

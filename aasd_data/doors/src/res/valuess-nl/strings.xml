@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">Deursloten</string>
+  <string name="doors_scenes">Plannen</string>
+  <string name="doors_controls">Controles</string>
+  <string name="doors_lock_all">Alles vergrendelen</string>
+  <string name="doors_unlock_all">Speel alles vrij</string>
+</resources>

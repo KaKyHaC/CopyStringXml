@@ -1,0 +1,37 @@
+<resources>
+  <string name="mediacompositelib_audioTitle">音声
+
+</string>
+  <string name="mediacompositelib_videoTitle">ビデオ</string>
+  <string name="mediacompositelib_sourceOff">オフ　</string>
+  <string name="mediacompositelib_sourceOn">%s オン　</string>
+  <string name="mediacompositelib_videSourcesNotAllowed">この部屋はグループ内にあり、ビデオソースは許可されていません。　</string>
+  <string name="mediacompositelib_sourceStatus">%s は作動中。　</string>
+  <string name="mediacompositelib_forwardRewindSpeed">%dx　</string>
+  <string name="mediacompositelib_noNowPlayingInfo">再生中の情報はありません　</string>
+  <string name="mediacompositelib_sourceProblematic">オフ,\nグループ 　オン</string>
+  <string name="mediacompositelib_remotes_back">戻る　</string>
+  <string name="mediacompositelib_remotes_popupMenu">ポップアップメニュー　</string>
+  <string name="mediacompositelib_remotes_home">ホーム　</string>
+  <string name="mediacompositelib_remotes_discMinus">ディスク -　</string>
+  <string name="mediacompositelib_remotes_discPlus">ディスク +　</string>
+  <string name="mediacompositelib_remotes_letterA">A　</string>
+  <string name="mediacompositelib_remotes_letterB">B　</string>
+  <string name="mediacompositelib_remotes_letterC">C</string>
+  <string name="mediacompositelib_remotes_letterD">D　</string>
+  <string name="mediacompositelib_remotes_menu">メニュー　</string>
+  <string name="mediacompositelib_remotes_exit">終了　</string>
+  <string name="mediacompositelib_remotes_pagePlus">PG+　</string>
+  <string name="mediacompositelib_remotes_pageMinus">PG-　</string>
+  <string name="mediacompositelib_remotes_channelPlus">チャンネル＋　</string>
+  <string name="mediacompositelib_remotes_channelMinus">チャンネルー　</string>
+  <string name="mediacompositelib_remotes_live">ライブ　</string>
+  <string name="mediacompositelib_remotes_favorite">お気に入り　</string>
+  <string name="mediacompositelib_remotes_info">情報　</string>
+  <string name="mediacompositelib_remotes_onDemand">オンデマンド　</string>
+  <string name="mediacompositelib_remotes_last">姓　</string>
+  <string name="mediacompositelib_remotes_guide">ガイド　</string>
+  <string name="mediacompositelib_remotes_appleTv_home">テレビ　</string>
+  <string name="mediacompositelib_remotes_empty" />
+  <string name="mediacompositelib_remotes_notAvailable">リモートはできません。</string>
+</resources>

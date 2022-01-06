@@ -1,0 +1,5 @@
+<resources>
+  <string name="landing_screen_discover_home">Descobrir Casa</string>
+  <string name="landing_screen_add_manually">Adicionar Manualmente</string>
+  <string name="landing_screen_waps_selection_button_title">Conecte-se a um ponto de acesso Wi-Fi</string>
+</resources>

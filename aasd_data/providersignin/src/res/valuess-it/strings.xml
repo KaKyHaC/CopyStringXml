@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Inserisci il tuo nome utente</string>
+  <string name="providersignin_enter_password">Inserisci la tua password </string>
+  <string name="providersignin_description">Si prega di entrare nel proprio %s account per aggiungere questa sottoscrizione</string>
+  <string name="providersignin_user_name">Nome utente</string>
+  <string name="providersignin_password">Password</string>
+  <string name="providersignin_title">Accedi</string>
+  <string name="providersignin_save_user">Salva l'utente...</string>
+  <string name="providersignin_account_added">Account aggiunto</string>
+  <string name="providersignin_login_failed">Accesso non riuscito.</string>
+</resources>

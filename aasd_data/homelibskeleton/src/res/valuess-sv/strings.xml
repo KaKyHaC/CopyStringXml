@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">LÄGG TILL NYTT HEM</string>
+  <string name="homelibskeleton_discoverHome">Upptäck hem</string>
+  <string name="homelibskeleton_addManually">Lägg till manuellt</string>
+  <string name="homelibskeleton_editHome">Redigera</string>
+  <string name="homelibskeleton_deleteHome">Ta bort</string>
+  <string name="homelibskeleton_deleteHomeWarning">Är du säker på att du vill ta bort %s?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">Om du är den enda ägaren kommer borttagning av hemmet att leda till att andra användare förlorar fjärråtkomst till det.</string>
+  <string name="homelibskeleton_cancel">Avbryt</string>
+  <string name="homelibskeleton_ok">OK</string>
+</resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Wifi 選擇返回操作</string>
+  <string name="touchpanelWifiSelection_title">Wifi 選擇</string>
+  <string name="touchpanelWifiSelection_Discovering">正在發現</string>
+  <string name="touchpanelWifiSelection_tryAgain">再試一次</string>
+  <string name="touchpanelWifiSelection_titleFound">連接到 WiFi 接入點</string>
+  <string name="touchpanelWifiSelection_subtitleFound">請選擇接入點。</string>
+  <string name="touchpanelWifiSelection_titleNotFound">未發現 WiFi 接入點</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">未找到 WiFi 接入點，請檢查網路鏈接，然後再試一次。</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">搜尋 WiFi 接入點</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">請等待掃描完成</string>
+</resources>

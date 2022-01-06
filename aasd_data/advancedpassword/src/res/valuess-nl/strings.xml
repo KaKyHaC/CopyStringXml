@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Incorrect wachtwoord</string>
+  <string name="advancedpassword_passwordHint">Voer het wachtwoord in om geplande evenementen te bewerken.</string>
+  <string name="advancedpassword_settingsPasswordHint">Dit is een beveiligd gedeelte, voer eerst het wachtwoord in.</string>
+  <string name="advancedpassword_editScenesPasswordHint">Dit is een beveiligd gedeelte, voer eerst het wachtwoord in.</string>
+  <string name="advancedpassword_title">Voer het wachtwoord in</string>
+  <string name="advancedpassword_advancedUserPassword">Geavanceerd gebruikerswachtwoord</string>
+  <string name="advancedpassword_advancedUserPasswordHint">Neem contact op met uw geautoriseerde Crestron-dealer voor uw geavanceerde gebruikerswachtwoord.</string>
+  <string name="advancedpassword_warning_ok">Oke</string>
+  <string name="advancedpassword_warning_subtitle">Als u meerdere keren een onjuist wachtwoord invoert, wordt uw account tijdelijk geblokkeerd. Probeer het over een tijdje opnieuw of neem contact op met uw erkende Crestron-dealer.</string>
+  <string name="advancedpassword_warning_title">U heeft een onjuist wachtwoord ingevoerd.</string>
+  <string name="advancedpassword_cloud_claim_hint">Voer een geavanceerd gebruikerswachtwoord in om door te gaan met het claimen van uw huis. Neem contact op met uw geautoriseerde Crestron-dealer voor uw geavanceerde gebruikerswachtwoord.</string>
+  <string name="advancedpassword_cloud_claim_skip">U kunt op dit moment %s en naar uw huis gaan zonder een geavanceerd gebruikerswachtwoord te gebruiken.</string>
+  <string name="advancedpassword_skip_this_step">sla deze stap over</string>
+</resources>

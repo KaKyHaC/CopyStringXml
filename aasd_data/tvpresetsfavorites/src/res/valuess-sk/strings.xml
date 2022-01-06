@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">
+Obrázok položky kanála</string>
+  <string name="tvpresetsfavorite_favoritesChannels">OBĽÚBENÉ</string>
+  <string name="tvpresetsfavorite_favoritesList">Zoznam obľúbených médií</string>
+  <string name="tvpresetsfavorite_favoritesMore">Obľúbené médiá — viac</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">Upraviť skupinu</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">Zmeniť obľúbenú skupinu</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">Vytvoriť novú skupinu</string>
+  <string name="tvpresetsfavorite_nowPlaying">PRÁVE HRÁ</string>
+  <string name="tvpresetsfavorite_upNext">ĎALŠIE</string>
+  <string name="tvpresetsfavorite_noInformation">Žiadne informácie</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">Ťuknutím na položku \"⋯\" pridáte svoje obľúbené kanály</string>
+  <string name="tvpresetsfavorite_noProvider">Neexistujú žiadne obľúbené kanály, pretože nie je vybraný poskytovateľ</string>
+</resources>

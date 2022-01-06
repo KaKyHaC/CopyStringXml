@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">Upraviť názov</string>
+  <string name="cloudrelayeditusername_subtitle">Vzdialené pripojenie ku cloudu</string>
+  <string name="cloudrelayeditusername_accountLabel">Účet</string>
+  <string name="cloudrelayeditusername_editNameLabel">Názov</string>
+  <string name="cloudrelayeditusername_done">Hotovo</string>
+</resources>

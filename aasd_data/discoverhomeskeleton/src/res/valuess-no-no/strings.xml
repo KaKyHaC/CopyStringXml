@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">PRØV IGJEN</string>
+  <string name="discoverhome_discovering">Oppdager</string>
+  <string name="discoverhome_notCompatibleMessage">PYNG ER IKKE KOMPATIBEL MED CRESTRON HOME</string>
+  <string name="discoverhome_titleFound">Hjem funnet på dette nettverket</string>
+  <string name="discoverhome_titleNotFound">Ingen nye boliger funnet</string>
+  <string name="discoverhome_subtitleFound">Velg hjemmet for å starte leggeprosessen.</string>
+  <string name="discoverhome_subtitleNotFound">Det er ingen boliger tilgjengelig på dette nettverket. Kontroller nettverkstilkoblingen og prøv igjen.</string>
+</resources>

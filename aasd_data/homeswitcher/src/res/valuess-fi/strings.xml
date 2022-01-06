@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">My homes</string>
+  <string name="homeswitcher_addHome">Lisää</string>
+  <string name="homeswitcher_online_status">This home is connected and ready.\nTap to enter.</string>
+  <string name="homeswitcher_online_remote_status"> Tap to enter.</string>
+  <string name="homeswitcher_offline_status">This home is OFFLINE.\nTap to enter.</string>
+  <string name="homeswitcher_offline">Offline.</string>
+</resources>

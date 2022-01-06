@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">כל החדרים</string>
+  <string name="roomslib_favorite_rooms">מועדפים</string>
+  <string name="roomslib_other_rooms">חדרים אחרים</string>
+  <string name="ok_text">אישור</string>
+  <string name="renameroom_voice">כדי שהשירות הקולי שלך יבין את שם החדר החדש הזה, אנא בקש ממנו לגלות מחדש את המכשירים שלך</string>
+  <string name="duplicate_name">הכפל שם</string>
+  <string name="invalid_name">שם שגוי</string>
+  <string name="unknown_error">שגיאה לא ידועה</string>
+  <string name="read_only">לקריאה בלבד</string>
+  <string name="renameRoom">שנה שם לחדר</string>
+  <string name="roomslib_do_not_disturb_toast_on">מצב 'נא לא להפריע' מופעל.</string>
+  <string name="roomslib_do_not_disturb_toast_off">מצב 'נא לא להפריע' כבוי.</string>
+  <string name="roomslib_this_room">חדר זה</string>
+  <string name="roomslib_selectRoom_colorTuning">כוונון צבע</string>
+  <string name="roomslib_selectRoom_circadianLighting">תאורה צירקדית</string>
+</resources>

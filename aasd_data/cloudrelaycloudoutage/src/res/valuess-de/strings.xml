@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">Die Cloud-Verbindung ist ausgefallen...</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">Die Haussteuerung kann derzeit nicht geladen werden. Auch wenn die Cloud-Verbindung vorübergehend unterbrochen ist, können Sie weiterhin eine lokale Verbindung herstellen, solange Sie sich auf Ihrem lokalen WAP befinden.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">Versuchen Sie, eine lokale Verbindung herzustellen</string>
+</resources>

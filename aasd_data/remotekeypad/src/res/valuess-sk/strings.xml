@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="remotekeypad_hyphen">-</string>
+  <string name="remotekeypad_guide">PRÍRUČKA</string>
+  <string name="remotekeypad_clear">VYMAZAŤ</string>
+  <string name="remotekeypad_enter">ZADAŤ</string>
+  <string name="remotekeypad_notAvailable">Klávesnica nie je k dispozícii.</string>
+</resources>

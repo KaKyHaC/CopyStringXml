@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Skapa ny</string>
+  <string name="sceneslib_edit">Redigera</string>
+  <string name="sceneslib_reorder">Ordna om</string>
+  <string name="sceneslib_max_scenes_reached">Högst antal scener i det här rummet har uppnåtts. Tryck på \"Redigera\" för att ändra på eller ta bort existerande scener.</string>
+  <string name="sceneslib_unsaved_scene_message">Du har en scen som inte sparats. Spara den här scenen?</string>
+  <string name="sceneslib_progress_lost_message">Är du säker på att du vill stänga den här skärmen och förlora ditt arbete?</string>
+  <string name="sceneslib_generic_scene_name">Min scen %d</string>
+  <string name="sceneslib_unexpected_error_message">Ett oväntat fel uppstod. Scenen kunde inte sparas.</string>
+  <string name="sceneslib_success_message">Scenen har skapats.</string>
+  <string name="sceneslib_update_success_message">Scenen har updaterats.</string>
+  <string name="sceneslib_error_invalid_name">Det angivna scennamnet är ogiltigt. Scenen kunde inte sparas.</string>
+  <string name="sceneslib_error_duplicate_name">Det angivna scennamnet används redan. Scenen kunde inte sparas.</string>
+  <string name="sceneslib_error_name_too_long">Det angivna scennamnet var för långt. Scenen kunde inte sparas.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">Det angivna scennamnet innehåller ogiltiga tecken. Scenen kunde inte sparas.</string>
+  <string name="sceneslib_error_read_only">Den angivna scenen går inte att redigeras. Scenen kunde inte sparas.</string>
+  <string name="sceneslib_error_cannot_delete">Ett oväntat fel uppstod. Scenen kunde inte tas bort.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Det här är en scen som kom med systemet och kan inte tas bort.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Det här scenen används av ett program i systemet. Scenen kan inte tas bort.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">Det här är en scen som tillhandahålls av systemet. Den kan inte tas bort medan rummet innehåller lampor.</string>
+  <string name="sceneslib_error_max_scene_count_reached">Högst antal scener i det här rummet har uppnåtts. Den nya scenen kunde inte sparas.</string>
+  <string name="sceneslib_error_invalid_ramp_time">Vald nedtoningstid är ogiltig. Scenen kunde inte sparas.</string>
+</resources>

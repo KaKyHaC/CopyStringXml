@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianTransition_title">Editați %s</string>
+  <string name="circadianTransition_description">Selectați timpul de pornire al punctului de tranziție „%s” și setați temperatura dorită a culorii pentru acesta. Aceste setări sunt configurate pentru toate camerele.</string>
+  <string name="circadianTransition_categoryTitle_startTime">Setați timpul de pornire</string>
+  <string name="circadianTransition_categoryTitle_colorTemperature">Setați temperatura de culoare</string>
+  <string name="circadianTransition_colorTemperature">Temperatura de culoare — %dK</string>
+  <string name="circadianTransition_morning">Dimineaţă</string>
+  <string name="circadianTransition_day">Zi</string>
+  <string name="circadianTransition_evening">Seară</string>
+  <string name="circadianTransition_night">Noapte</string>
+  <string name="circadianTransition_timePicker_header">START</string>
+  <string name="circadianTransition_timePicker_colon">:</string>
+  <string name="circadianTransition_timePicker_minuteFormat">%02d</string>
+</resources>

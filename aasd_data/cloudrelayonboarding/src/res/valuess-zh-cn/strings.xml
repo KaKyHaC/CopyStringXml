@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelay_onboarding_sign_up">注册</string>
+  <string name="cloudrelay_onboarding_not_now">现在不行</string>
+  <string name="cloudrelay_onboarding_trouble_sign_in">在登录时是否遇到故障？</string>
+  <string name="cloudrelay_onboarding_yes_let_begin">是，让我们开始</string>
+  <string name="cloudrelay_connect_user_roles">用户角色和访问</string>
+  <string name="cloudrelay_onboarding_cancel">取消</string>
+  <string name="cloudrelay_onboarding_continue">继续</string>
+  <string name="cloudrelay_onboarding_waring">我们理解您还未为注册准备好。您可以稍后完成此工作。</string>
+  <string name="cloudrelay_connect_user_roles_description">作为房间所有人，为您新人的人员授予访问权限并设置用户角色。只要在您需要时就撤销权限...</string>
+  <string name="cloudrelay_connect_anywhere_securely">在任何地方都可安全连接</string>
+  <string name="cloudrelay_connect_anywhere_securely_description">我们已经为您的Crestron房间开发了我们的最安全的远程连接体验。请在任何地方连接和安全控制您的房间。</string>
+</resources>

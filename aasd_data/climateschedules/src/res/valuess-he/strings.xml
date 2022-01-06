@@ -1,0 +1,7 @@
+<resources>
+  <string name="climateschedules_title">תזמון אירועים</string>
+  <string name="climateschedules_noSchedulesTitle">אין אירועים מתוזמנים</string>
+  <string name="climateschedules_noSchedulesDescription">הפוך את התרמוסטטים שלך לאוטומטיים וצור אירועים מתוזמנים מותאמים אישית עבור כל תרמוסטט.</string>
+  <string name="climateschedules_emptyLayout_createNew">צור אירוע תזמון חדש</string>
+  <string name="climateschedules_createNew">+ צור אירוע מתוזמן חדש</string>
+</resources>

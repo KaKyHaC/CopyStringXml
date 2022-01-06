@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">A felhőalapú kapcsolat nem érhető el...</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">Az otthonvezérlők jelenleg nem tölthetők be. Bár a felhőalapú csatlakozás ideiglenesen nem érhető el, helyileg továbbra is csatlakozhat, amíg a helyi WAP-hoz kapcsolódik.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">Próbáljon meg helyileg kapcsolódni</string>
+</resources>

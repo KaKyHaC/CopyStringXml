@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">我的住宅</string>
+  <string name="homeswitcher_addHome">新增</string>
+  <string name="homeswitcher_online_status">此住宅已連接並準備就緒，\n 點擊進入。</string>
+  <string name="homeswitcher_online_remote_status">點擊進入</string>
+  <string name="homeswitcher_offline_status">此住宅已離線，\n 點擊進入。</string>
+  <string name="homeswitcher_offline">離線。</string>
+</resources>

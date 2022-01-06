@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">Tillämpa till valda</string>
+  <string name="climateschedulethermostats_title">Lista över termostater</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">Alla termostater</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">Händelse har tillämpats till valda termostater.</string>
+  <string name="climateschedulethermostats_eventsCopyError">Vissa inställningar kunde inte kopieras till en eller fler termostater.</string>
+</resources>

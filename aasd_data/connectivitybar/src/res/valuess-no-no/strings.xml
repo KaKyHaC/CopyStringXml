@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">Tilkoblet</string>
+  <string name="connectivitybar_disconnectedStatus">Kobler til hjemmet …</string>
+</resources>

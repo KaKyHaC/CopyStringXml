@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">やり直し　</string>
+  <string name="discoverhome_discovering">発見　</string>
+  <string name="discoverhome_notCompatibleMessage">ピング（pyng)クレストンホームと互換性がありません。　</string>
+  <string name="discoverhome_titleFound">このネットワークではホームがありました</string>
+  <string name="discoverhome_titleNotFound">新しいホームがありませんでした</string>
+  <string name="discoverhome_subtitleFound">ホームを選択して、追加のプロセスを開始してください。</string>
+  <string name="discoverhome_subtitleNotFound">このネットワーク上では利用できるホームはありません。ネットワークの接続状況を確認し、再度お試しください。　</string>
+</resources>

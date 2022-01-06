@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">חיבור הענן נמושבת...</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">לא ניתן לטעון את בקרות הבית בשלב זה. למרות שחיבור הענן מושבת באופן זמני כל עוד אתה נמצא ב-WAP המקומי שלך, אתה עדיין יכול להתחבר באופן מקומי.</string>
+  <string name="cloudrelaycloudoutage_connection_locally">נסה להתחבר באוםן מקומי</string>
+</resources>

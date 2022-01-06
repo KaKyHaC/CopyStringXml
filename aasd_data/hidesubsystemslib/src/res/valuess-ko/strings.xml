@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">홈 액세스</string>
+  <string name="hide_subsystem_lights">조명</string>
+  <string name="hide_subsystem_media">미디어</string>
+  <string name="hide_subsystem_pools">풀 및 스파</string>
+  <string name="hide_subsystem_climate">기후</string>
+  <string name="hide_subsystem_shades">빛 가리개</string>
+  <string name="hide_subsystem_security">보안</string>
+  <string name="hide_subsystem_cameras">카메라</string>
+  <string name="hide_subsystem_customdevices">사용자정의 장치</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Mozgatás és átméretezés</string>
+  <string name="changeimage_cellularWarning">Ha nem Wi-Fi-hálózaton keresztül kapcsolódik, a fényképek feltöltése jelentősen több ideig tarthat.</string>
+  <string name="changeimage_cancel">Mégse</string>
+  <string name="changeimage_choose">Kiválasztás</string>
+</resources>

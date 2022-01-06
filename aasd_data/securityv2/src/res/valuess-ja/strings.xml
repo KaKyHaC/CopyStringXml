@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_v2_actions_header_text">アクション</string>
+  <string name="security_v2_toolbarTitle">セキュリティ</string>
+  <string name="security_v2_panicActionsTitle">アクション　</string>
+  <string name="security_v2_panicActionsSubtitle">各アクションを起動するために、1秒間押し続けてください</string>
+  <string name="security_v2_navigationButtonsTitle">ナビゲーションボタン　</string>
+  <string name="security_v2_selectNavigationButton">選択</string>
+  <string name="security_v2_keypadTitle">キーパッド　</string>
+  <string name="security_v2_keypadSubtitle">4桁のコードと、実行したいアクションに対応する数字を入力してください</string>
+  <string name="security_v2_displayTextTitle">ディスプレイテキスト　　</string>
+</resources>

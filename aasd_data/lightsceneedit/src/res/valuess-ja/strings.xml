@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">照明シーンを編集する </string>
+  <string name="lightSceneEdit_scenesCategory">シーン</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">規定のシーンは削除されません。 </string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">規定のシーンは編集されません。　</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">OK</string>
+</resources>

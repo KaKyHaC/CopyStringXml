@@ -1,0 +1,4 @@
+<resources>
+  <string name="lightSceneVisibility_title">Visibilidade da cena</string>
+  <string name="lightSceneVisibility_subtitle">cena de %s</string>
+</resources>

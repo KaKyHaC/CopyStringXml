@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mobilediscoverhome_downloadSgMessage">请下载Smart Graphics应用以控制此房间</string>
+  <string name="mobilediscoverhome_cancel">取消</string>
+  <string name="mobilediscoverhome_downloadApp">下载应用</string>
+</resources>

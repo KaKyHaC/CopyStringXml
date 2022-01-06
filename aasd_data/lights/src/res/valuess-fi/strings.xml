@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">Profiilit</string>
+  <string name="lights_controlsTitle">CONTROLS</string>
+  <string name="lights_controlsMasterControl">ALL LIGHTS</string>
+  <string name="create_new_scene">Luo uusi profiili</string>
+  <string name="lights_noScenesInfo">This room doesn\'t appear to have any visible lighting scenes.</string>
+</resources>

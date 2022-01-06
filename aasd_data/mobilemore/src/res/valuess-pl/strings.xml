@@ -1,0 +1,7 @@
+<resources>
+  <string name="mobilemore_support">Wsparcie</string>
+  <string name="mobilemore_diagnostics">Prześlij dane diagnostyczne pomocy technicznej</string>
+  <string name="mobilemore_house_settings">Ustawienia domu</string>
+  <string name="mobilemore_settings">Edytuj dom</string>
+  <string name="mobilemore_advanced_settings">Ustawienia zaawansowane</string>
+</resources>

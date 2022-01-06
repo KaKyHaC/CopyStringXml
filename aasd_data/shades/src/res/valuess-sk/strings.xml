@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">Clony</string>
+  <string name="shades_scenesTitle">PRIESTORY</string>
+  <string name="shades_controlsTitle">REGULÁTORY</string>
+  <string name="shades_allShadesTitle">VŠETKY CLONY</string>
+  <string name="shades_allShades_MoreLightTitle">Viac svetla</string>
+  <string name="shades_allShades_LessLightTitle">Menej svetla</string>
+  <string name="shades_stopRampText">Zastaviť</string>
+</resources>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">La distanță</string>
+  <string name="roommedia_more">Mai multe</string>
+  <string name="roommedia_playing">Redare</string>
+  <string name="roommedia_browse">Răsfoire</string>
+  <string name="roommedia_multiRoom">Camere multiple</string>
+  <string name="roommedia_favorites">Favorite</string>
+  <string name="roommedia_keypad">Tastatură</string>
+  <string name="roommedia_media">Media</string>
+  <string name="roommedia_warmingUp">SE ÎNCĂLZEȘTE</string>
+  <string name="roommedia_coolingDown">SE RĂCEȘTE</string>
+  <string name="roommedia_roomVideo">%s video</string>
+  <string name="roommedia_limitedControl">CONTROL LIMITAT. SE CONECTEAZĂ...</string>
+  <string name="roommedia_someRoomsAreOff">ANUMITE CAMERE SUNT DEZACTIVATE</string>
+  <string name="roommedia_openInSonos">Deschideți în Sonos</string>
+  <string name="roommedia_account_status">Nu a fost înregistrat(ă)</string>
+  <string name="roommedia_noNowPlayingInformation">Nimic nu se redă</string>
+  <string name="roommedia_noAccountSelected">Selectați contul</string>
+  <string name="roommedia_pduPr_dialogHeader">Doriți să efectuați ciclul de alimentare al acestui dispozitiv?</string>
+  <string name="roommedia_pduPr_dialogMessage">Poate dura câteva minute pentru a porni din nou.</string>
+  <string name="roommedia_pduPr_digPowerCycle">Ciclul de alimentare</string>
+  <string name="roommedia_pduPr_digCancel">Revocare</string>
+  <string name="roommedia_pduPr_toastMessage">Nu există nicio acțiune rapidă la ciclul de alimentare</string>
+</resources>

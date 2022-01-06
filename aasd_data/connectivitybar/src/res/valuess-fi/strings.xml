@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">Yhdistetty</string>
+  <string name="connectivitybar_disconnectedStatus">Connecting to home…</string>
+</resources>

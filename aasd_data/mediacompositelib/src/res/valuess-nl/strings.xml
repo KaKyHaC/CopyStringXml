@@ -1,0 +1,35 @@
+<resources>
+  <string name="mediacompositelib_audioTitle">Audio</string>
+  <string name="mediacompositelib_videoTitle">VIDEO</string>
+  <string name="mediacompositelib_sourceOff">UIT</string>
+  <string name="mediacompositelib_sourceOn">%s AAN</string>
+  <string name="mediacompositelib_videSourcesNotAllowed">Deze kamer bevindt zich in een groep, er zijn geen videobronnen toegestaan.</string>
+  <string name="mediacompositelib_sourceStatus">%s is ingeschakeld.</string>
+  <string name="mediacompositelib_forwardRewindSpeed">%dx</string>
+  <string name="mediacompositelib_noNowPlayingInfo">Er is geen speelinformatie beschikbaar.</string>
+  <string name="mediacompositelib_sourceProblematic">UIT,\nGROEP AAN</string>
+  <string name="mediacompositelib_remotes_back">Terug</string>
+  <string name="mediacompositelib_remotes_popupMenu">POPUP MENU</string>
+  <string name="mediacompositelib_remotes_home">STARTPAGINA</string>
+  <string name="mediacompositelib_remotes_discMinus">SCHIJF -</string>
+  <string name="mediacompositelib_remotes_discPlus">SCHIJF +</string>
+  <string name="mediacompositelib_remotes_letterA">A</string>
+  <string name="mediacompositelib_remotes_letterB">B</string>
+  <string name="mediacompositelib_remotes_letterC">C</string>
+  <string name="mediacompositelib_remotes_letterD">D</string>
+  <string name="mediacompositelib_remotes_menu">MENU</string>
+  <string name="mediacompositelib_remotes_exit">EXIT</string>
+  <string name="mediacompositelib_remotes_pagePlus">PG+</string>
+  <string name="mediacompositelib_remotes_pageMinus">PG-</string>
+  <string name="mediacompositelib_remotes_channelPlus">CH+</string>
+  <string name="mediacompositelib_remotes_channelMinus">CH-</string>
+  <string name="mediacompositelib_remotes_live">LIVE</string>
+  <string name="mediacompositelib_remotes_favorite">FAV</string>
+  <string name="mediacompositelib_remotes_info">Informatie</string>
+  <string name="mediacompositelib_remotes_onDemand">OP AANVRAAG</string>
+  <string name="mediacompositelib_remotes_last">Laatste</string>
+  <string name="mediacompositelib_remotes_guide">Gids</string>
+  <string name="mediacompositelib_remotes_appleTv_home">TV</string>
+  <string name="mediacompositelib_remotes_empty" />
+  <string name="mediacompositelib_remotes_notAvailable">Afstandsbediening is niet beschikbaar.</string>
+</resources>

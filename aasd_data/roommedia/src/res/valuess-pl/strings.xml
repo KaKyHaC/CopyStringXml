@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">Zdalnie</string>
+  <string name="roommedia_more">Więcej</string>
+  <string name="roommedia_playing">Odtwarzanie</string>
+  <string name="roommedia_browse">Przeglądaj</string>
+  <string name="roommedia_multiRoom">Wielopokojowe</string>
+  <string name="roommedia_favorites">Ulubione</string>
+  <string name="roommedia_keypad">Klawiatura</string>
+  <string name="roommedia_media">Nośniki</string>
+  <string name="roommedia_warmingUp">ROZGRZEWANIE</string>
+  <string name="roommedia_coolingDown">OCHŁADZANIE</string>
+  <string name="roommedia_roomVideo">Wideo %s</string>
+  <string name="roommedia_limitedControl">OGRANICZONA KONTROLA. ŁĄCZENIE…</string>
+  <string name="roommedia_someRoomsAreOff">NIEKTÓRE POKOJE SĄ WYŁĄCZONE</string>
+  <string name="roommedia_openInSonos">Otwórz w Sonos</string>
+  <string name="roommedia_account_status">Niezarejestrowany</string>
+  <string name="roommedia_noNowPlayingInformation">Nic nie gra</string>
+  <string name="roommedia_noAccountSelected">Wybierz konto</string>
+  <string name="roommedia_pduPr_dialogHeader">Czy chcesz utworzyć cykl zasilania dla tego urządzenia?</string>
+  <string name="roommedia_pduPr_dialogMessage">Tworzenia kopii zapasowej może potrwać kilka minut.</string>
+  <string name="roommedia_pduPr_digPowerCycle">Cykl zasilania</string>
+  <string name="roommedia_pduPr_digCancel">Anuluj</string>
+  <string name="roommedia_pduPr_toastMessage">Brak szybkich akcji w celu włączenia zasilania</string>
+</resources>

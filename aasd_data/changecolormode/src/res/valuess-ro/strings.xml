@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changecolormode_title">Schimbați tema</string>
+  <string name="changecolormode_systemMode">Modul sistemului</string>
+  <string name="changecolormode_lightMode">Modul luminos</string>
+  <string name="changecolormode_darkMode">Modul întunecat</string>
+</resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">การดำเนินการย้อนกลับไปที่การเลือก Wifi</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">เพิ่มจุดเชื่อมต่อ</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">แตะเพื่อเพิ่มการตั้งค่า WAP</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">ใส่รหัสผ่านให้กับเครือข่ายนี้และแตะ "เชื่อมต่อ"</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">การตั้งค่าการเชื่อมต่อ WAP</string>
+  <string name="touchpanelWifiPasswordEntry_connect">เชื่อมต่อ</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">ชื่อ (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">รหัสผ่าน</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">ความปลอดภัย</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">กำลังเชื่อมต่อกับ WAP</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">เชื่อมต่อกับ WAP แล้ว</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">เชื่อมต่อกับสายเคเบิลอีเธอร์เน็ตแล้ว</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">การเชื่อมต่อ WAP ล้มเหลว</string><string name="touchpanelEncryptionSelection_title">การตั้งค่าเข้ารหัส WiFi</string></resources>

@@ -1,0 +1,6 @@
+<resources>
+  <string name="homeaccess_houseLabel">Husadgang</string>
+  <string name="homeaccess_lockTitle">LÅSE</string>
+  <string name="homeaccess_garageTitle">GARAGEPORTE</string>
+  <string name="homeaccess_gateTitle">PORTE</string>
+</resources>

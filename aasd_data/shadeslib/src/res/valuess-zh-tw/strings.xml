@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">百葉窗</string>
+  <string name="shadeslib_all_shades_closed">已關閉</string>
+  <string name="shadeslib_all_shades_opened">開啟</string>
+  <string name="shadeslib_shades_title">%s 陰影</string>
+  <string name="shadeslib_shade_state_with_tilt">有 %d%% 的傾斜</string>
+  <string name="shadeslib_shades_status_opened">陰影已開啟。</string>
+  <string name="shadeslib_shades_group_partially_offline">%s（部分離線）</string>
+  <string name="shadeslib_position_open">%d%% 開啟</string>
+  <string name="shadeslib_shades_closed">已關閉</string>
+  <string name="shadeslib_shades_open">開啟</string>
+  <string name="shadeslib_shades_opening">正在開啟...</string>
+  <string name="shadeslib_shades_closing">正在關閉...</string>
+</resources>

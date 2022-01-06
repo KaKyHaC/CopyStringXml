@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">Setați temporizatorul de oprire a alimentării cu energie electrocă pentru toate sistemele media active din această cameră.</string>
+  <string name="sleeptimer_disabledMsg">SETAȚI ORA</string>
+  <string name="sleeptimer_enabledMsg">%s SE VA OPRI ALIMENTAREA CU CURENT</string>
+  <string name="sleeptimer_controlTitle">Temporizator de oprire</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

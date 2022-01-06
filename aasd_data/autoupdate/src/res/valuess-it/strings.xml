@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="autoupdate_updateStarted">Aggiornamento iniziato.</string>
+  <string name="autoupdate_updateFailed">Aggiornamento non riuscito.</string>
+  <string name="autoupdate_updateServerUnreachable">Impossibile raggiungere il server di aggiornamento.</string>
+  <string name="autoupdate_updateSucceeded">Aggiornamento effettuato con successo.</string>
+</resources>

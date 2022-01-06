@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">Fjern</string>
+  <string name="roommedia_more">Mer</string>
+  <string name="roommedia_playing">Spiller av</string>
+  <string name="roommedia_browse">Bla gjennom</string>
+  <string name="roommedia_multiRoom">Flerrom</string>
+  <string name="roommedia_favorites">Favoritter</string>
+  <string name="roommedia_keypad">Tastatur</string>
+  <string name="roommedia_media">Media</string>
+  <string name="roommedia_warmingUp">VARMER OPP</string>
+  <string name="roommedia_coolingDown">KJØLER NED</string>
+  <string name="roommedia_roomVideo">%s video</string>
+  <string name="roommedia_limitedControl">BEGRENSET KONTROLL. KOBLER TIL…</string>
+  <string name="roommedia_someRoomsAreOff">NOEN ROM ER AV</string>
+  <string name="roommedia_openInSonos">Åpent i Sonos</string>
+  <string name="roommedia_account_status">Ikke pålogget</string>
+  <string name="roommedia_noNowPlayingInformation">Ingenting spiller</string>
+  <string name="roommedia_noAccountSelected">Velg konto</string>
+  <string name="roommedia_pduPr_dialogHeader">Vil du slå av/på denne enheten?</string>
+  <string name="roommedia_pduPr_dialogMessage">Det kan ta noen minutter å starte opp igjen.</string>
+  <string name="roommedia_pduPr_digPowerCycle">Strømsyklus</string>
+  <string name="roommedia_pduPr_digCancel">AVBRYT</string>
+  <string name="roommedia_pduPr_toastMessage">Ingen rask handling for å slå på</string>
+</resources>

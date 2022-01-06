@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianTransition_title">编辑%s</string>
+  <string name="circadianTransition_description">选择“%s”过渡点启动的时间，并为其设置期望的色温。这些设置影响所有房间。</string>
+  <string name="circadianTransition_categoryTitle_startTime">设置启动时间</string>
+  <string name="circadianTransition_categoryTitle_colorTemperature">设置色温</string>
+  <string name="circadianTransition_colorTemperature">色温 — %dK</string>
+  <string name="circadianTransition_morning">早晨</string>
+  <string name="circadianTransition_day">日</string>
+  <string name="circadianTransition_evening">傍晚</string>
+  <string name="circadianTransition_night">夜晚</string>
+  <string name="circadianTransition_timePicker_header">开始</string>
+  <string name="circadianTransition_timePicker_colon">:</string>
+  <string name="circadianTransition_timePicker_minuteFormat">%02d</string>
+</resources>

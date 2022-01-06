@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s climă</string>
+  <string name="climatelib_noActiveThermostats_upperCase">NICIUN TERMOSTAT NU ESTE ACTIV</string>
+  <string name="climatelib_noActiveThermostats">Nu sunt termostate pornite</string>
+  <string name="climatelib_status_multiple_running">mai multe termostate funcționează</string>
+  <string name="climatelib_status_heating_to_temperature">Încălzire la %s</string>
+  <string name="climatelib_status_cooling_to_temperature">Răcire la %s</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%dºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">SE RĂCEȘTE LA%1fº, H.C. ACTIVAT(56%%)</string>
+  <string name="climatelib_thermostat_status_increasing">SE ÎNCĂLZEȘTE LA%1fº, H.C. ACTIVAT(56%%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">H.C. ACTIVAT (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H. ACTIVAT (%s)</string>
+  <string name="climatelib_thermostat_state_offline">Neconectat</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">SE RĂCEȘTE</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">SE ÎNCĂLZEȘTE</string>
+  <string name="climatelib_thermostat_setpoint_single">PUNCT DE REFERINȚĂ</string>
+  <string name="climatelib_set_point">PUNCT DE SETARE</string>
+  <string name="climatelib_heat_set_point">ÎNCĂLZIRE LA</string>
+  <string name="climatelib_cool_set_point">RĂCIRE LA</string>
+  <string name="climatelib_single_set_point">AUTOMATIZARE UNICĂ</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">RĂCIRE LA %s</string>
+  <string name="climatelib_thermostat_heatTo">ÎNCĂLZIRE LA %s</string>
+  <string name="climatelib_thermostat_setTo">SETARE LA %s</string>
+  <string name="climatelib_state_off">Activare</string>
+  <string name="climatelib_state_on">Dezactivare</string>
+  <string name="climatelib_thermostatMode_heat">ÎNCĂLZIRE</string>
+  <string name="climatelib_thermostatMode_cool">RĂCIRE</string>
+  <string name="climatelib_thermostatMode_single_auto">Automatizare unică</string>
+  <string name="climatelib_thermostatMode_dual_auto">Automatizare dublă</string>
+  <string name="climatelib_thermostatMode_aux_heat">ÎNCĂLZIRE AUX</string>
+  <string name="climatelib_thermostatMode_autoMode">MOD AUTO</string>
+  <string name="climatelib_thermostatMode_dualMode">MOD DUAL</string>
+  <string name="climatelib_thermostatFan_auto">Auto</string>
+  <string name="climatelib_thermostatFan_low">Scăzut</string>
+  <string name="climatelib_thermostatFan_medium">Mediu</string>
+  <string name="climatelib_thermostatFan_high">Mare</string>
+  <string name="climatelib_thermostatFan_circulate">Circulă</string>
+  <string name="climatelib_thermostatFan_circulateLow">Circulă la nivel scăzut</string>
+  <string name="climatelib_thermostatFan_circulateMedium">Circulă la nivel mediu</string>
+  <string name="climatelib_thermostatFan_none">Niciunul</string>
+  <string name="climatelib_thermostatSchedule_noEvents">Fără evenimente</string>
+  <string name="climatelib_thermostatSchedule_hold">Aşteptați</string>
+  <string name="climatelib_thermostatSchedule_running">Funcționează</string>
+  <string name="climatelib_thermostatSchedule_run">Funcţionare</string>
+  <string name="climatelib_thermostatSchedule_override">Temporar</string>
+  <string name="climatelib_thermostatSchedule_next">URMĂTORUL/URMĂTOAREA%1$s -%2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">Ținând</string>
+  <string name="climatelib_labelMode">MOD</string>
+  <string name="climatelib_labelFan">VENTILATOR</string>
+  <string name="climatelib_labelSchedule">PROGRAMARE</string>
+  <string name="climatelib_noScheduleEvents">Nu sunt evenimente programate. Doriți să creați acum evenimente programate?</string>
+  <string name="climatelib_popupCancel">Revocare</string>
+  <string name="climatelib_popupCreate">Creați</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">PROGRAMAE CLIMĂ</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">Evenimente programate</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">Parolă incorectă</string>
+  <string name="climatelib_climateSchedules_weekdays">ZILELE SĂPTĂMÂNII</string>
+  <string name="climatelib_climateSchedules_weekend">SFÂRȘIT DE SĂPTĂMÂNĂ</string>
+  <string name="climatelib_climateSchedules_everyday">ÎN FIECARE ZI</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s,%2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">Nu sunt evenimente programate</string>
+  <string name="climatelib_climateSchedules_mon">LUNI</string>
+  <string name="climatelib_climateSchedules_tue">MARȚI</string>
+  <string name="climatelib_climateSchedules_wed">MIERCURI</string>
+  <string name="climatelib_climateSchedules_thu">JOI</string>
+  <string name="climatelib_climateSchedules_fri">VINERI</string>
+  <string name="climatelib_climateSchedules_sat">SÂMBĂTĂ</string>
+  <string name="climatelib_climateSchedules_sun">DUMINICĂ</string>
+  <string name="climatelib_climate">CLIMAT</string>
+</resources>

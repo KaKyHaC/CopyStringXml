@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">Csatlakoztatva</string>
+  <string name="connectivitybar_disconnectedStatus">Csatlakozás az otthonhoz...</string>
+</resources>

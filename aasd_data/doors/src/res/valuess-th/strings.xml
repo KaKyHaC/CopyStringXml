@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">การล็อกประตู</string>
+  <string name="doors_scenes">ฉาก</string>
+  <string name="doors_controls">ควบคุม</string>
+  <string name="doors_lock_all">ล็อกทั้งหมด</string>
+  <string name="doors_unlock_all">ปลดล็อกทั้งหมด</string>
+</resources>

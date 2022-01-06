@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tsw_auth_scan_code">Para añadir una cuenta, escanee el siguiente código con su dispositivo móvil.</string>
+  <string name="use_this_code">Utilizar este código</string>
+</resources>

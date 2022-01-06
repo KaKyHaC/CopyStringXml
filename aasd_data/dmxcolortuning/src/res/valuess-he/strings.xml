@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">כוונון צבע</string>
+  <string name="dmxroomselection_controlsTitle">פקדים</string>
+  <string name="dmxcolortuning_description">הגדר הגדרות בסיס עבור החדר הזה. עם הגדרות בסיס תגדיר את הצבע והטמפרטורה הרצויים עבור המתקנים הניתנים לשינוי.\n\nמחווני עוצמה ומתגים מסופקים כדי לסייע לך בהמחשת הצבע. הם לא נשמרים בהגדרות הבסיס.</string>
+</resources>

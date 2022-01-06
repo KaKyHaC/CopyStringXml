@@ -1,0 +1,4 @@
+<resources>
+  <string name="circadianLights_controlsTitle">控制</string>
+  <string name="circadianLights_saveButtonText">將當前設置保存為晝夜節律週期</string>
+</resources>

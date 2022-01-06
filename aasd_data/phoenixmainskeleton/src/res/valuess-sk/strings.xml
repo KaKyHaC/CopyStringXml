@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Phoenix</string>
+  <string name="app_home">Domov</string>
+  <string name="app_rooms">Miestnosti</string>
+  <string name="app_more">Viac</string>
+  <string name="app_home_is_busy">Vaša domácnosť je zaneprázdnená, vyčkajte, prosím</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+  <string name="mediacompositelib_audioTitle">Audio</string>
+  <string name="mediacompositelib_videoTitle">VIDEO</string>
+  <string name="mediacompositelib_sourceOff">SPENTO</string>
+  <string name="mediacompositelib_sourceOn">%s ACCESO</string>
+  <string name="mediacompositelib_videSourcesNotAllowed">Questa stanza si trova nel gruppo, non sono concesse fonti video.</string>
+  <string name="mediacompositelib_sourceStatus">%s è acceso.</string>
+  <string name="mediacompositelib_forwardRewindSpeed">%dx</string>
+  <string name="mediacompositelib_noNowPlayingInfo">Non sono disponibili informazioni sulla riproduzione attuale.</string>
+  <string name="mediacompositelib_sourceProblematic">SPENTO, \n GRUPPO ACCESO</string>
+  <string name="mediacompositelib_remotes_back">Indietro</string>
+  <string name="mediacompositelib_remotes_popupMenu">POPUP MENU</string>
+  <string name="mediacompositelib_remotes_home">ABITAZIONE</string>
+  <string name="mediacompositelib_remotes_discMinus">DISC -</string>
+  <string name="mediacompositelib_remotes_discPlus">DISC +</string>
+  <string name="mediacompositelib_remotes_letterA">A</string>
+  <string name="mediacompositelib_remotes_letterB">B</string>
+  <string name="mediacompositelib_remotes_letterC">C</string>
+  <string name="mediacompositelib_remotes_letterD">D</string>
+  <string name="mediacompositelib_remotes_menu">MENU</string>
+  <string name="mediacompositelib_remotes_exit">ESCI</string>
+  <string name="mediacompositelib_remotes_pagePlus">PG+</string>
+  <string name="mediacompositelib_remotes_pageMinus">PG-</string>
+  <string name="mediacompositelib_remotes_channelPlus">CH+</string>
+  <string name="mediacompositelib_remotes_channelMinus">CH-</string>
+  <string name="mediacompositelib_remotes_live">IN TEMPO REALE</string>
+  <string name="mediacompositelib_remotes_favorite">PREF</string>
+  <string name="mediacompositelib_remotes_info">Informazioni</string>
+  <string name="mediacompositelib_remotes_onDemand">SU RICHIESTA</string>
+  <string name="mediacompositelib_remotes_last">Più recente</string>
+  <string name="mediacompositelib_remotes_guide">Guida</string>
+  <string name="mediacompositelib_remotes_appleTv_home">TV</string>
+  <string name="mediacompositelib_remotes_empty">         ,</string>
+  <string name="mediacompositelib_remotes_notAvailable">Connessone remota non è disponibile.</string>
+</resources>

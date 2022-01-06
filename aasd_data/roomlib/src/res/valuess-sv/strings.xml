@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">Alla rum</string>
+  <string name="roomslib_favorite_rooms">Favoriter</string>
+  <string name="roomslib_other_rooms">Andra rum</string>
+  <string name="ok_text">OK</string>
+  <string name="renameroom_voice">Be din rösttjänst att återupptäcka dina enheter för att se till att den förstår det här nya rumsnamnet.</string>
+  <string name="duplicate_name">Dubblettnamn</string>
+  <string name="invalid_name">Ogiltigt namn</string>
+  <string name="unknown_error">Okänt fel</string>
+  <string name="read_only">Skrivskyddad</string>
+  <string name="renameRoom">Byt namn på rum</string>
+  <string name="roomslib_do_not_disturb_toast_on">Läget Stör ej är på.</string>
+  <string name="roomslib_do_not_disturb_toast_off">Läget Stör ej är av.</string>
+  <string name="roomslib_this_room">Detta rum</string>
+  <string name="roomslib_selectRoom_colorTuning">Färgjustering</string>
+  <string name="roomslib_selectRoom_circadianLighting">Dygnsrytmsljus</string>
+</resources>

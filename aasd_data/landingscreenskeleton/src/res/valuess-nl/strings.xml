@@ -1,0 +1,5 @@
+<resources>
+  <string name="landing_screen_discover_home">Ontdek Thuis</string>
+  <string name="landing_screen_add_manually">HANDMATIG TOEVOEGEN</string>
+  <string name="landing_screen_waps_selection_button_title">Verbinding maken met wifi-toegangspunt</string>
+</resources>

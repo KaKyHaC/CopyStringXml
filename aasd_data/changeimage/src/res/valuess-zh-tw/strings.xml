@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">移動和縮放</string>
+  <string name="changeimage_cellularWarning">如果不能通過 Wi-Fi 連接，照片上傳時間可能要長很多。</string>
+  <string name="changeimage_cancel">取消</string>
+  <string name="changeimage_choose">選擇</string>
+</resources>

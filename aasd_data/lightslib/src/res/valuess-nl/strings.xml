@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">Lichten</string>
+  <string name="lightslib_lights_title">%s Lichten</string>
+  <string name="lightslib_lights_status_on">Lichten zijn aan.</string>
+  <string name="lightslib_lights_turning_off">UITDOEN…</string>
+  <string name="lightslib_lights_turning_on">AANZETTEN…</string>
+  <string name="lightslib_add_lights_title">Lichten toevoegen aan \"%s\"</string>
+  <string name="lightslib_controlsTitle">Controles</string>
+  <string name="lightslib_sceneNameScene">%s scène</string>
+  <string name="lightslib_tunableLightNotFound">Er is iets fout gegaan. Deze lichte belasting is niet gevonden.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">Opslaan als globale basislijninstellingen?</string>
+  <string name="lightslib_whiteTuningProgressLost">Opslaan als basislijninstellingen voor deze lamp?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">Weet je zeker dat je deze instellingen wilt toepassen op deze ruimte?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">Hiermee worden alle andere eerder toegepaste instellingen overschreven.</string>
+  <string name="lightslib_saveTunableSettingsError">Er is een onverwachte fout opgetreden. De afstembare instellingen konden niet worden opgeslagen.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">De afstembare instellingen zijn succesvol opgeslagen.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">Er is een onverwachte fout opgetreden. De afstembare instellingen konden niet op alle lichten in de kamer worden ingesteld.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">De afstembare instellingen zijn ingesteld op alle lichten in de kamer.</string>
+  <string name="lightslib_saveAsGlobalSettings">Opslaan als algemene basislijninstellingen</string>
+  <string name="lightslib_save">Opslaan</string>
+  <string name="lightslib_circadianSettingsProgressLost">Huidige instellingen opslaan als circadiaanse cyclus?</string>
+  <string name="lightslib_saveCircadianSettingsError">Er is een onverwachte fout opgetreden. De circadiane instellingen kunnen niet worden opgeslagen.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">De circadiane instellingen zijn succesvol opgeslagen.</string>
+  <string name="lightslib_morningCircadianTitle">Ochtend: 7.00 uur, %dK</string>
+  <string name="lightslib_noonCircadianTitle">Middag, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">Avond: 19:00 uur, %dK</string>
+  <string name="lightslib_nightCircadianTitle">Nacht:10:45 uur, %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">Favoriete kleur verwijderd.</string>
+  <string name="lightslib_addFavorite_confirmation">Favoriete kleur toegevoegd.</string>
+</resources>

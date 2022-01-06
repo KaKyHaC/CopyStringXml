@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Nastavovanie farieb</string>
+  <string name="dmxroomselection_controlsTitle">REGULÁTORY</string>
+  <string name="dmxcolortuning_description">Definujte základné nastavenia pre túto miestnosť. Pomocou základných nastavení definujete požadovanú farbu a teplotu pre svoje nastaviteľné svietidlá.\n\n Pri zobrazovaní farby vám pomôžu posuvníky a prepínače intenzity. Nie sú uložené v základných nastaveniach.</string>
+</resources>

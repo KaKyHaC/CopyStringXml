@@ -1,0 +1,32 @@
+<resources>
+  <string name="lightslib_lights">Lampor</string>
+  <string name="lightslib_lights_title">%s lampor</string>
+  <string name="lightslib_lights_status_on">Lamporna är på.</string>
+  <string name="lightslib_lights_turning_off">STÄNGER AV...</string>
+  <string name="lightslib_lights_turning_on">SLÅR PÅ...</string>
+  <string name="lightslib_add_lights_title">Lägg till lampor till \"%s\"</string>
+  <string name="lightslib_controlsTitle">KONTROLLER</string>
+  <string name="lightslib_sceneNameScene">%s scen</string>
+  <string name="lightslib_tunableLightNotFound">Något gick fel. Lampan kunde inte hittas.</string>
+  <string name="lightslib_percentageUnit">%</string>
+  <string name="lightslib_degreeKelvinUnit">K</string>
+  <string name="lightslib_whiteTuningProgressLostGlobal">Spara som globala utgångsinställningar?</string>
+  <string name="lightslib_whiteTuningProgressLost">Spara som utgångsinställningar för den här lampan?</string>
+  <string name="lightslib_applySettingsToWholeRoomTitle">Är du säker på att du vill tillämpa dessa inställningar för det här rummet?</string>
+  <string name="lightslib_applySettingsToWholeRoomSubtitle">Det här kommer att överskrida tidigare tillämpade inställningar.</string>
+  <string name="lightslib_saveTunableSettingsError">Ett oväntat fel har uppstått. De justerbara inställningarna kunde inte sparas.</string>
+  <string name="lightslib_saveTunableSettingsSuccess">De justerbara inställningarna sparades.</string>
+  <string name="lightslib_applyTunableSettingsForRoomError">Ett oväntat fel har uppstått. De justerbara inställningarna kunde inte anslutas till alla lampor i rummet.</string>
+  <string name="lightslib_applyTunableSettingsForRoomSuccess">De justerbara inställningarna har anslutits till alla lampor i rummet.</string>
+  <string name="lightslib_saveAsGlobalSettings">Spara som global utgångsinställningar</string>
+  <string name="lightslib_save">Spara</string>
+  <string name="lightslib_circadianSettingsProgressLost">Spara aktuella inställningar som dygnsrytm?</string>
+  <string name="lightslib_saveCircadianSettingsError">Ett oväntat fel uppstod. Inställningarna för dygnsrytmen kunde inte sparas.</string>
+  <string name="lightslib_savesaveCircadianSettingsSuccess">Inställningarna för dygnsrytmen sparades.</string>
+  <string name="lightslib_morningCircadianTitle">Morgon: 07.00, %dK</string>
+  <string name="lightslib_noonCircadianTitle">Dag, %dK</string>
+  <string name="lightslib_eveningCircadianTitle">Kväll: 19.00, %dK</string>
+  <string name="lightslib_nightCircadianTitle">Natt: 22.45, %dK</string>
+  <string name="lightslib_deleteFavorite_confirmation">Favoritfärg borttagen.</string>
+  <string name="lightslib_addFavorite_confirmation">Favortfärg tillagd.</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">您</string>
+  <string name="cloud_relay_users_no_user">无可用的用户。</string>
+  <string name="cloud_relay_users_add_new_user">+ 添加新的用户</string>
+  <string name="cloud_relay_users_reclaim_home">认领此房屋</string>
+  <string name="cloud_relay_users_role_format">%s （邀请未决）</string>
+  <string name="cloud_relay_users_info_unavailable">“用户信息不可用，请稍后尝试”</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">Kameror</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">INGEN STRÖM MED LÅG NOG UPPLÖSNING\n(MAX ÄR 1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">FÖRHANDSVISNING OTILLGÄNGLIG</string>
+  <string name="camerasLib_noPreviewAvailable">INGEN FÖRHANDSVISNING TILLGÄNGLIG</string>
+  <string name="camerasLib_noStreamAvailable">INGEN STRÖM TILLGÄNGLIG</string>
+</resources>

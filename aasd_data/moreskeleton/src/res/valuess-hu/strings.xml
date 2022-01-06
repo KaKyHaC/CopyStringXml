@@ -1,0 +1,11 @@
+<resources>
+  <string name="more_crestron">Crestron</string>
+  <string name="more_help">Súgó</string>
+  <string name="more_help_webview">Súgó</string>
+  <string name="more_legal_terms">Jogi feltételek</string>
+  <string name="more_privacy_information">Adatvédelmi információk</string>
+  <string name="more_feedback">Visszajelzés</string>
+  <string name="more_version">Verzió – %s</string>
+  <string name="more_changeColorMode">Színmód módosítása</string>
+  <string name="more_developer_options">Fejlesztői beállítások</string>
+</resources>

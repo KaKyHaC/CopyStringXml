@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">เชื่อมต่อกับ %s</string>
+  <string name="managegroups_ungroupAll">ยกเลิกการจัดกลุ่มทั้งหมด</string>
+  <string name="managegroups_ungroupRoom">ยกเลิกการจัดกลุ่มของ %s</string>
+  <string name="managegroups_mergeSelected">เชื่อมต่อที่เลือกไว้เข้าเป็นกลุ่ม</string>
+</resources>

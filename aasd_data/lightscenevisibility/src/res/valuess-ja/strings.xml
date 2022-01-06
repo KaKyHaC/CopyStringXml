@@ -1,0 +1,4 @@
+<resources>
+  <string name="lightSceneVisibility_title">シーンの見やすさ</string>
+  <string name="lightSceneVisibility_subtitle">%s シーン　</string>
+</resources>

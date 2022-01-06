@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">所有房間</string>
+  <string name="roomslib_favorite_rooms">最愛</string>
+  <string name="roomslib_other_rooms">其他房間</string>
+  <string name="ok_text">確定</string>
+  <string name="renameroom_voice">為了讓您的語音服務理解這個新的房間名稱，請讓它重新發現您的設備。</string>
+  <string name="duplicate_name">重複名稱</string>
+  <string name="invalid_name">無效名稱</string>
+  <string name="unknown_error">未知錯誤</string>
+  <string name="read_only">只讀模式</string>
+  <string name="renameRoom">重新命名房間</string>
+  <string name="roomslib_do_not_disturb_toast_on">免打擾模式已啟動。</string>
+  <string name="roomslib_do_not_disturb_toast_off">免打擾模式已關閉。</string>
+  <string name="roomslib_this_room">此房間</string>
+  <string name="roomslib_selectRoom_colorTuning">色彩調諧</string>
+  <string name="roomslib_selectRoom_circadianLighting">晝夜節律照明</string>
+</resources>

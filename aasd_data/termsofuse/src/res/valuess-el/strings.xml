@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">Καλώς ήρθατε στο σπίτι σας</string>
+  <string name="termsofuse_subtitle_one">Στην εταιρεία Crestron, το ιδιωτικό σας απόρρητο είναι σημαντικό για εμάς. Ανατρέξτε στη Δήλωση Προστασίας Προσωπικών Δεδομένων της Crestron στον παρακάτω σύνδεσμο, για να δείτε τους τύπους πληροφοριών που ενδέχεται να συλλέξουμε. Εάν θέλετε να αλλάξετε τις ρυθμίσεις απορρήτου του συστήματός σας για να ενεργοποιήσετε ή να απενεργοποιήσετε τη συλλογή πληροφοριών, επικοινωνήστε με τον εξουσιοδοτημένο αντιπρόσωπο της Crestron ή τον πάροχο υπηρεσιών Crestron ή την Crestron Electronics, Inc. στο %s.</string>
+  <string name="termsofuse_subtitle_two">Για να συνεχίσετε να ανακαλύπτετε το σπίτι, παρακαλώ συμφωνήστε με τα ακόλουθα:</string>
+  <string name="termsofuse_agreeAndContinue">Συμφωνώ &amp; Συνεχίζω</string>
+  <string name="termsofuse_termsOfUse">Όροι χρήσης των εφαρμογών για φορητές συσκευές</string>
+  <string name="termsofuse_privacyStatement">Δήλωση προστασίας προσωπικών δεδομένων</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">Συμφωνώ με το %s και το %s της Crestron.</string>
+</resources>

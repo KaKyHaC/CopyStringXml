@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesDevices_title">События и звуки</string>
+  <string name="naxChimesDevices_volumeTitle">Громкость события</string>
+  <string name="naxChimesDevices_noEventsFound">События недоступны</string>
+</resources>

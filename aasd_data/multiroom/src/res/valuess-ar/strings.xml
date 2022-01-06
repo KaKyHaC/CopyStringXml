@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multiroom_singleRoomSelected">تم تحديد غرفة واحدة</string>
+  <string name="multiroom_singleRoomDescription">يمكنك الاستماع إلى نفس الموسيقى في أكثر من غرفة في منزلك.</string>
+  <string name="multiroom_playInMultipleRooms">تشغيل في عدة غُرف</string>
+  <string name="multiroom_manageRoomsAndGroups">إدارة الغرُف والمجموعات</string>
+  <string name="multiroom_sourceNotPlaying">لا يتم تشغيل المصدر</string>
+</resources>

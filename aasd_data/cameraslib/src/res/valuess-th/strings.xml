@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">กล้อง</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">ไม่มีการสตรีมด้วยคุณภาพที่ต่ำเพียงพอ (สูงสุด IS1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">ไม่สามารถดูตัวอย่างได้</string>
+  <string name="camerasLib_noPreviewAvailable">ไม่มีตัวอย่างที่สามารถดูได้</string>
+  <string name="camerasLib_noStreamAvailable">ไม่มีการสตรีมที่สามารถใช้งานได้</string>
+</resources>

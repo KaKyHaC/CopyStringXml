@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">Mine hjem</string>
+  <string name="homeswitcher_addHome">Legg til</string>
+  <string name="homeswitcher_online_status">Dette hjemmet er tilkoblet og klart.\nTrykk for å gå inn.</string>
+  <string name="homeswitcher_online_remote_status">Trykk for å gå inn.</string>
+  <string name="homeswitcher_offline_status">Dette hjemmet er OFFLINE.\nTrykk for å komme inn.</string>
+  <string name="homeswitcher_offline">OFFLINE.</string>
+</resources>

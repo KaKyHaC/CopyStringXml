@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">Tentar novamente</string>
+  <string name="discoverhome_discovering">Descobrindo</string>
+  <string name="discoverhome_notCompatibleMessage">PYNG NÃO É COMPATÍVEL COM CRESTRON HOME</string>
+  <string name="discoverhome_titleFound">Casas encontradas nesta rede</string>
+  <string name="discoverhome_titleNotFound">Nenhuma casa nova encontrada</string>
+  <string name="discoverhome_subtitleFound">Por favor, selecione a casa para iniciar o processo de adição.</string>
+  <string name="discoverhome_subtitleNotFound">Não há casas disponíveis nesta rede. Por favor, verifique sua conexão de rede e tente novamente.</string>
+</resources>

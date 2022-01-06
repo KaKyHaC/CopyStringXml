@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">assign user role</string>
+  <string name="cloudrelayadduser_user">Käyttäjä</string>
+  <string name="cloudrelayadduser_owner">Omistaja</string>
+  <string name="cloudrelayadduser_username">Käyttäjänimi</string>
+  <string name="cloudrelayadduser_email">Sähköposti</string>
+  <string name="cloudrelayadduser_yes">Käytössä</string>
+  <string name="cloudrelayadduser_no">Ei käytössä</string>
+  <string name="cloudrelayadduser_invite_warning">You have not finished sending invites. Continue editing?</string>
+  <string name="cloudrelayadduser_send_invite">Send invite</string>
+  <string name="cloudrelayadduser_invite_sent">Invite sent.</string>
+  <string name="cloudrelayadduser_add_new_user">Add new user</string>
+</resources>

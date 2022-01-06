@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">Snelle acties</string>
+  <string name="room_room_services">KAMERDIENSTEN</string>
+  <string name="renameroomgroup_popupCancelButton">ANNULEREN</string>
+  <string name="renameroomgroup_popupCreateButton">Hernoemen</string>
+  <string name="renameroomgroup_popupTitle">Naam kamer wijzigen</string>
+</resources>

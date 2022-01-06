@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Lag ny scene</string>
+  <string name="lightSceneCreate_add_lights">Legg til lys</string>
+  <string name="lightSceneCreate_add_more_lights">Legg til flere lys</string>
+  <string name="lightSceneCreate_save">Lagre</string>
+  <string name="lightSceneCreate_set_scene_options">STILL SCENEALTERNATIVER</string>
+  <string name="lightSceneCreate_fade_time">Fade tid</string>
+  <string name="lightSceneCreate_scene_visibility">Synlighet av scene</string>
+  <string name="lightSceneCreate_subtitle_template">%d AV %d SCENER</string>
+</resources>

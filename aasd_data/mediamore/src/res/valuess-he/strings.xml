@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">הגדרות רמקול</string>
+  <string name="mediamore_additionalFunctions">פונקציות נוספות</string>
+  <string name="mediamore_advancedSettings">הגדרות מתקדמות</string>
+  <string name="mediamore_noInfo">אין מידע זמין</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+  <string name="naxprovidercreation_enter_name">用户名</string>
+  <string name="naxprovidercreation_description">为新的%s用户输入名称。</string>
+  <string name="naxprovidercreation_title">添加%s用户</string>
+  <string name="naxprovidercreation_add_user">添加用户</string>
+  <string name="naxprovidercreation_creating_account">创建账户...</string>
+  <string name="naxprovidercreation_account_added">账户已添加。</string>
+  <string name="naxprovidercreation_create_failed">登录失败。%s</string>
+</resources>

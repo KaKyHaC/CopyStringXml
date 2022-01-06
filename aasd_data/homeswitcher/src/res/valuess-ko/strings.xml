@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">내 홈</string>
+  <string name="homeswitcher_addHome">추가</string>
+  <string name="homeswitcher_online_status">이 홈은 연결되어 있고 준비가 되어 있습니다.\n눌러서 입력하십시오.</string>
+  <string name="homeswitcher_online_remote_status">눌러서 입력하십시오.</string>
+  <string name="homeswitcher_offline_status">이 홈이 오프라인입니다.\n눌러서 입력하십시오.</string>
+  <string name="homeswitcher_offline">오프라인.</string>
+</resources>

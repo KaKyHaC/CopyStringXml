@@ -1,0 +1,9 @@
+<resources>
+  <string name="naxprovidercreation_enter_name">Käyttäjänimi</string>
+  <string name="naxprovidercreation_description">Enter a name for the new %s user.</string>
+  <string name="naxprovidercreation_title">Add %s User</string>
+  <string name="naxprovidercreation_add_user">Add User</string>
+  <string name="naxprovidercreation_creating_account">Create Account...</string>
+  <string name="naxprovidercreation_account_added">Account added.</string>
+  <string name="naxprovidercreation_create_failed">Login failed. %s</string>
+</resources>

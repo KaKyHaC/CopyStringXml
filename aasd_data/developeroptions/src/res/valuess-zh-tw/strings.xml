@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">啟用程式開發者選項</string>
+  <string name="reset_logging_after_24_hours">24 小時後重置日誌記錄</string>
+  <string name="developer_options">程式開發者選項</string>
+  <string name="logging_level">日誌記錄等級</string>
+  <string name="logging">日誌記錄</string>
+  <string name="network_logging">網路日誌記錄</string>
+  <string name="detailed_logging">詳細日誌記錄</string>
+</resources>

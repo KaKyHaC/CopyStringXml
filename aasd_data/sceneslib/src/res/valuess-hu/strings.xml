@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Új létrehozása</string>
+  <string name="sceneslib_edit">Szerkesztés</string>
+  <string name="sceneslib_reorder">Átrendezés</string>
+  <string name="sceneslib_max_scenes_reached">Elérte a helyiségben megengedett jelenetek maximális számát. Koppintson a „Szerkesztés” elemre a meglévő jelenetek módosításához vagy törléséhez.</string>
+  <string name="sceneslib_unsaved_scene_message">Nem mentett jelenettel rendelkezik. Elmenti?</string>
+  <string name="sceneslib_progress_lost_message">Biztos, hogy ki szeretne lépni erről a képernyőről és el szeretné veszíteni az eddigi előrehaladását?</string>
+  <string name="sceneslib_generic_scene_name">%d jelenetem</string>
+  <string name="sceneslib_unexpected_error_message">Váratlan hiba történt. A jelenetet nem sikerült elmenteni.</string>
+  <string name="sceneslib_success_message">A jelenet sikeresen létre lett hozva.</string>
+  <string name="sceneslib_update_success_message">A jelenet frissítése sikeresen végbement.</string>
+  <string name="sceneslib_error_invalid_name">A megadott jelenetnév érvénytelen. A jelenet nem menthető.</string>
+  <string name="sceneslib_error_duplicate_name">A megadott jelenetnév már használatban van. A jelenet nem menthető.</string>
+  <string name="sceneslib_error_name_too_long">A megadott jelenetnév túl hosszú. A jelenet nem menthető.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">A megadott jelenetnév érvénytelen karaktereket tartalmaz. A jelenet nem menthető.</string>
+  <string name="sceneslib_error_read_only">A megadott jelenet nem szerkeszthető. A jelenet nem menthető.</string>
+  <string name="sceneslib_error_cannot_delete">Váratlan hiba történt. A jelenet nem törölhető.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Ez egy rendszer által biztosított jelenet, amely nem törölhető.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Ezt a jelenetet a rendszer egy másik részén található programozás használja. A jelenet nem törölhető.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">Ez egy rendszer által biztosított jelenet. A jelenet nem törölhető, amíg a helyiség tartalmaz lámpákat.</string>
+  <string name="sceneslib_error_max_scene_count_reached">Elérte a helyiséghez elérhető jelenetek maximális számát. Az új jelenet nem menthető el.</string>
+  <string name="sceneslib_error_invalid_ramp_time">A kijelölt elhalványulási idő érvénytelen.</string>
+</resources>

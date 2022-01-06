@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">Nem található hálózat!</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">Kérjük, ellenőrizze az ethernet-kábeleket vagy csatlakozzon egy vezeték nélküli hálózathoz.</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">Csatlakozás Wi-Fi hozzáférési ponthoz</string>
+</resources>

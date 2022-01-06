@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">Összes média kikapcsolása</string>
+  <string name="activemedia_activeMedia">Aktív média (%d)</string>
+  <string name="activemedia_audio">HANG</string>
+  <string name="activemedia_video">VIDEÓ</string>
+  <string name="activemedia_multiple_displays">Több kijelző</string>
+  <string name="activemedia_left_display">Bal kijelző</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">Biztos, hogy a teljes házat ki szeretné kapcsolni?</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Vytvoriť nové</string>
+  <string name="sceneslib_edit">Upraviť</string>
+  <string name="sceneslib_reorder">Usporiadať</string>
+  <string name="sceneslib_max_scenes_reached">Maximálny počet prostredí tejto miestnosti už bol dosiahnutý. Ťuknutím na položku \„Upraviť\“ môžete zmeniť alebo odstrániť existujúce prostredia.</string>
+  <string name="sceneslib_unsaved_scene_message">Nemáte uložené prostredie. Uložiť toto prostredie?</string>
+  <string name="sceneslib_progress_lost_message">Ste si istí, že chcete ukončiť túto obrazovku a prísť o svoj doterajší postup?</string>
+  <string name="sceneslib_generic_scene_name">Moje prostredie %d</string>
+  <string name="sceneslib_unexpected_error_message">Vyskytla sa neočakávaná chyba. Prostredie nebolo možné uložiť.</string>
+  <string name="sceneslib_success_message">Prostredie bolo úspešne vytvorené.</string>
+  <string name="sceneslib_update_success_message">Prostredie bolo úspešne aktualizované.</string>
+  <string name="sceneslib_error_invalid_name">Zadaný názov prostredia nie je platný. Prostredie nemohlo byť uložené.</string>
+  <string name="sceneslib_error_duplicate_name">Zadaný názov prostredia sa už používa.  Prostredie nemohlo byť uložené.</string>
+  <string name="sceneslib_error_name_too_long">Zadaný názov prostredia je príliš dlhý.  Prostredie nemohlo byť uložené.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">Zadaný názov prostredia obsahuje neplatné znaky.  Prostredie nemohlo byť uložené.</string>
+  <string name="sceneslib_error_read_only">Zadané prostredie nie je možné upravovať.  Prostredie nemohlo byť uložené.</string>
+  <string name="sceneslib_error_cannot_delete">Vyskytla sa neočakávaná chyba. Prostredie nebolo možné vymazať.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">Toto prostredie poskytuje systém a nie je možné ho vymazať.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Toto prostredie sa využíva pri programovaní na iných miestach v systéme. Nie je možné ho vymazať.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">Ide o prostredie, ktoré je k dispozícii v systéme. Nemožno ho vymazať, kým miestnosť neobsahuje žiadne svetlá.</string>
+  <string name="sceneslib_error_max_scene_count_reached">Maximálny počet prostredí v tejto miestnosti už bol dosiahnutý. Nové prostredie sa nepodarilo uložiť.</string>
+  <string name="sceneslib_error_invalid_ramp_time">Vybraný čas slabnutia nie je platný. Prostredie nebolo možné uložiť.</string>
+</resources>

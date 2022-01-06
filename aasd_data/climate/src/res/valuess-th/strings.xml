@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">การควบคุมอุณหภูมิ</string>
+  <string name="climate_current_temperature">อุณหภูมิปัจจุบัน</string>
+  <string name="climate_mode">โหมด</string>
+  <string name="climate_schedule">กำหนดเวลา</string>
+  <string name="climate_fan">พัดลม</string>
+  <string name="climate_floor_heating">การอุ่นพื้น</string>
+  <string name="climate_humidity_controls">การควบคุมความชื้น</string>
+  <string name="climate_humidify">เพิ่มความชื้นเป็น</string>
+  <string name="climate_floor_control">การควบคุมพื้น</string>
+  <string name="climate_currentHumidity_title">ความชื้นปัจจุบัน</string>
+  <string name="climate_humidityControl_title">การควบคุมความชื้น</string>
+</resources>

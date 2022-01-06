@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">カラー調整</string>
+  <string name="dmxroomselection_controlsTitle">コントロール　</string>
+  <string name="dmxcolortuning_description">この部屋のベースラインの設定を定義します。べースラインの設定では、調整できる付属設備に対して、色や温度を定義します。\n\n輝度スライダーとスイッチは、色を視覚化するのを補助するために用意されています。それらはベースラインの設定には保存されません。</string>
+</resources>

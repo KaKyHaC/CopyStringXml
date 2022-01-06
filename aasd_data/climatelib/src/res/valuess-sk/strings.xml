@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s klimatizácia</string>
+  <string name="climatelib_noActiveThermostats_upperCase">ŽIADNE AKTÍVNE TERMOSTATY</string>
+  <string name="climatelib_noActiveThermostats">	
+Žiadne aktívne termostaty</string>
+  <string name="climatelib_status_multiple_running">	
+je spustených viacero termostatov</string>
+  <string name="climatelib_status_heating_to_temperature">Ohrev na %s</string>
+  <string name="climatelib_status_cooling_to_temperature">Ochladzovanie na %s</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1f ºC</string>
+  <string name="climatelib_temperature_fahrenheit">%d ºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">OCHLADZOVANIE NA %.1fº, H.C. ZAP. (56%%)</string>
+  <string name="climatelib_thermostat_status_increasing">OHREV NA %.1fº, H.C. ZAP. (56%%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">H.C. ZAP. (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H. ZAP. (%s)</string>
+  <string name="climatelib_thermostat_state_offline">Offline</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">NASTAVIŤ CHLADENIE</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">NASTAVIŤ OHREV</string>
+  <string name="climatelib_thermostat_setpoint_single">BOD NASTAVENIA</string>
+  <string name="climatelib_set_point">NASTAVENIE BODU</string>
+  <string name="climatelib_heat_set_point">OHREV NA</string>
+  <string name="climatelib_cool_set_point">OCHLADZOVANIE NA</string>
+  <string name="climatelib_single_set_point">SAMOSTATNÉ AUTOMATICKY</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">OCHLADZOVANIE NA %s</string>
+  <string name="climatelib_thermostat_heatTo">OHREV NA %s</string>
+  <string name="climatelib_thermostat_setTo">NASTAVIŤ NA %s</string>
+  <string name="climatelib_state_off">Vypnúť</string>
+  <string name="climatelib_state_on">Zapnuté</string>
+  <string name="climatelib_thermostatMode_heat">Ohriať</string>
+  <string name="climatelib_thermostatMode_cool">Ochladiť</string>
+  <string name="climatelib_thermostatMode_single_auto">Jednosmerná automatická</string>
+  <string name="climatelib_thermostatMode_dual_auto">Duálna automatická</string>
+  <string name="climatelib_thermostatMode_aux_heat">Pomocné vykurovanie</string>
+  <string name="climatelib_thermostatMode_autoMode">AUTOMATICKÝ REŽIM</string>
+  <string name="climatelib_thermostatMode_dualMode">DUÁLNY REŽIM</string>
+  <string name="climatelib_thermostatFan_auto">Automaticky</string>
+  <string name="climatelib_thermostatFan_low">Nízka</string>
+  <string name="climatelib_thermostatFan_medium">Stredná</string>
+  <string name="climatelib_thermostatFan_high">Vysoká</string>
+  <string name="climatelib_thermostatFan_circulate">Cirkulácia</string>
+  <string name="climatelib_thermostatFan_circulateLow">Nízka cirkulácia</string>
+  <string name="climatelib_thermostatFan_circulateMedium">Stredná cirkulácia</string>
+  <string name="climatelib_thermostatFan_none">Žiadne</string>
+  <string name="climatelib_thermostatSchedule_noEvents">Žiadne udalosti</string>
+  <string name="climatelib_thermostatSchedule_hold">Podržať</string>
+  <string name="climatelib_thermostatSchedule_running">Spustené</string>
+  <string name="climatelib_thermostatSchedule_run">Spustiť</string>
+  <string name="climatelib_thermostatSchedule_override">Dočasné</string>
+  <string name="climatelib_thermostatSchedule_next">ĎALEJ %1$s - %2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">Udržiavanie</string>
+  <string name="climatelib_labelMode">REŽIM</string>
+  <string name="climatelib_labelFan">VENTILÁTOR</string>
+  <string name="climatelib_labelSchedule">PLÁN</string>
+  <string name="climatelib_noScheduleEvents">Neexistujú žiadne plánovacie udalosti. Chcete teraz vytvoriť plánovacie udalosti?</string>
+  <string name="climatelib_popupCancel">Zrušiť</string>
+  <string name="climatelib_popupCreate">Vytvoriť</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">PLÁN KLIMATIZÁCIE</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">Plánované udalosti</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">Nesprávne heslo</string>
+  <string name="climatelib_climateSchedules_weekdays">DNI V TÝŽDNI</string>
+  <string name="climatelib_climateSchedules_weekend">VÍKEND</string>
+  <string name="climatelib_climateSchedules_everyday">KAŽDÝ DEŇ</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s, %2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">Žiadne naplánované udalosti</string>
+  <string name="climatelib_climateSchedules_mon">PO</string>
+  <string name="climatelib_climateSchedules_tue">UT</string>
+  <string name="climatelib_climateSchedules_wed">ST</string>
+  <string name="climatelib_climateSchedules_thu">ŠT</string>
+  <string name="climatelib_climateSchedules_fri">PI</string>
+  <string name="climatelib_climateSchedules_sat">SO</string>
+  <string name="climatelib_climateSchedules_sun">NE</string>
+  <string name="climatelib_climate">Klimatizácia</string>
+</resources>

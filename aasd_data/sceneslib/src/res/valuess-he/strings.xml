@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">צור חדש</string>
+  <string name="sceneslib_edit">עריכה</string>
+  <string name="sceneslib_reorder">שנה סדר</string>
+  <string name="sceneslib_max_scenes_reached">הגעת  למספר המרבי של סצינות בחדר הזה. הקש על \"ערוך\" כדי לשנות או למחוק סצנות קיימות.</string>
+  <string name="sceneslib_unsaved_scene_message">יש לך סצנה שלא נשמרה. לשמור את הסצנה הזו?</string>
+  <string name="sceneslib_progress_lost_message">האם אתה בטוח שברצונך לצאת ממסך זה ולאבד את ההתקדמות שלך?</string>
+  <string name="sceneslib_generic_scene_name">סצנה שלי %d</string>
+  <string name="sceneslib_unexpected_error_message">שגיאה בלתי צפויה התרחשה. לא ניתן היה לשמור את הסצנה.</string>
+  <string name="sceneslib_success_message">הסצנה נוצרה בהצלחה.</string>
+  <string name="sceneslib_update_success_message">הסצנה עודכנה בהצלחה.</string>
+  <string name="sceneslib_error_invalid_name">שם הסצנה שצוין אינו חוקי. לא ניתן היה לשמור את הסצנה.</string>
+  <string name="sceneslib_error_duplicate_name">שם הסצנה שצוין כבר בשימוש. לא ניתן היה לשמור את הסצנה.</string>
+  <string name="sceneslib_error_name_too_long">שם הסצנה שצוין ארוך מדי. לא ניתן היה לשמור את הסצנה.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">שם הסצנה שצוין מכיל תווים לא חוקיים. לא ניתן היה לשמור את הסצנה.</string>
+  <string name="sceneslib_error_read_only">שם הסצנה שצוין מכיל תווים לא חוקיים. לא ניתן היה לשמור את הסצנה.</string>
+  <string name="sceneslib_error_cannot_delete">שגיאה בלתי צפויה התרחשה. לא ניתן היה למחוק את הסצנה.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">זוהי סצנה המסופקת על ידי מערכת ולא ניתן למחוק אותה.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">סצנה זו נמצאת בשימוש על ידי תכנות במקומות אחרים במערכת. לא ניתן למחוק אותו.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">זוהי סצנה המסופקת על ידי מערכת. לא ניתן למחוק אותה כל עוד החדר מכיל אורות.</string>
+  <string name="sceneslib_error_max_scene_count_reached">הגעת למספר המרבי של סצינות בחדר הזה. לא ניתן היה לשמור את הסצנה החדשה.</string>
+  <string name="sceneslib_error_invalid_ramp_time">זמן הדעיכה שנבחר אינו חוקי. לא ניתן היה להציל את הסצנה.</string>
+</resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">Activați opțiunile dezvoltatorului</string>
+  <string name="reset_logging_after_24_hours">Resetați conectarea după24 ore</string>
+  <string name="developer_options">Opțiunile dezvoltatorului</string>
+  <string name="logging_level">Nivelul de conectare</string>
+  <string name="logging">Conectare</string>
+  <string name="network_logging">Conectarea rețelei</string>
+  <string name="detailed_logging">Conectare detaliată</string>
+</resources>

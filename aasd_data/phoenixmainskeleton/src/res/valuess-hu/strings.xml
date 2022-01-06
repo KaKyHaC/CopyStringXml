@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Phoenix</string>
+  <string name="app_home">Kezdőlap</string>
+  <string name="app_rooms">Helyiségek</string>
+  <string name="app_more">Több</string>
+  <string name="app_home_is_busy">Az otthona elfoglalt, kérjük, várjon</string>
+</resources>

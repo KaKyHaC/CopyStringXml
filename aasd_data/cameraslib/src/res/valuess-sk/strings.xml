@@ -1,0 +1,9 @@
+<resources>
+  <string name="cameraslib_cameras">Kamery</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">ŽIADNY PRENOS S MALÝM ROZLÍŠENÍM\n(MAXIMUM JE 1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">NÁHĽAD NIE JE K DISPOZÍCII</string>
+  <string name="camerasLib_noPreviewAvailable">	
+	
+NIE JE K DISPOZÍCII ŽIADNY NÁHĽAD</string>
+  <string name="camerasLib_noStreamAvailable">NIE JE K DISPOZÍCII ŽIADNY PRENOS</string>
+</resources>

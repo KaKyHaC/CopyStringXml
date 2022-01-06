@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">百葉窗</string>
+  <string name="shadegroup_batteryOk">電池正常</string>
+  <string name="shadegroup_batteryLow">電池電量低</string>
+</resources>

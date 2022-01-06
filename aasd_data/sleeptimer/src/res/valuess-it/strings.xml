@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">Imposta il timer di spegnimento per tutti i media attivi in questa stanza.</string>
+  <string name="sleeptimer_disabledMsg">IMPOSTA L'ORA</string>
+  <string name="sleeptimer_enabledMsg">%s si spegnerà</string>
+  <string name="sleeptimer_controlTitle">TIMER RIPOSO</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

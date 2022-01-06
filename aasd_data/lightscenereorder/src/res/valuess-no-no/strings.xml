@@ -1,0 +1,5 @@
+<resources>
+  <string name="lightSceneReorder_reorder_lightning_scenes">Omorganiser lynscener</string>
+  <string name="lightSceneReorder_default_order">Standard rekkefølge</string>
+  <string name="lightSceneReorder_scenes_subtitle">Scener</string>
+</resources>

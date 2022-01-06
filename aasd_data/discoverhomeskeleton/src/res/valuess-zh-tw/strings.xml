@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">再試一次</string>
+  <string name="discoverhome_discovering">正在發現</string>
+  <string name="discoverhome_notCompatibleMessage">PYNG 與快思聰首頁不兼容</string>
+  <string name="discoverhome_titleFound">在此網絡上找到的住宅</string>
+  <string name="discoverhome_titleNotFound">沒有發現新的住宅</string>
+  <string name="discoverhome_subtitleFound">請選擇住宅，並開始添加過程。</string>
+  <string name="discoverhome_subtitleNotFound">此網路上無可用住宅。請檢查網路連接，然後再試一次。</string>
+</resources>

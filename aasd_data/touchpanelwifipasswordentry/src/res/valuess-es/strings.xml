@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Acción de retroceso selección de Wifi</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">Añadir nuevo punto de acceso</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">Toque para añadir ajustes de WAP.</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">Escriba la contraseña de esta red y toque “Conectar”.</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">AJUSTES DE CONEXIÓN WAP</string>
+  <string name="touchpanelWifiPasswordEntry_connect">Conectar</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">NOMBRE (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">CONTRASEÑA</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">SEGURIDAD</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">Conectando WAP</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP conectado</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">Cable de Ethernet conectado</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">Falló la conexión WAP</string><string name="touchpanelEncryptionSelection_title">Ajustes de encriptación de WiFi</string></resources>

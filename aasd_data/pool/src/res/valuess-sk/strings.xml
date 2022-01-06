@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">Prostredia</string>
+  <string name="pool_setTo">NASTAVIŤ NA</string>
+  <string name="pool_controls">REGULÁTORY</string>
+  <string name="pool_off">VYP.</string>
+  <string name="pool_low">NÍZKA</string>
+  <string name="pool_med">STREDNÁ</string>
+  <string name="pool_high">VYSOKÁ</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">Nie sú k dispozícii žiadne ovládacie prvky</string>
+</resources>

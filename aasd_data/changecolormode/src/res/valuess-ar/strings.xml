@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changecolormode_title">تغيير النسق</string>
+  <string name="changecolormode_systemMode">وضع النظام</string>
+  <string name="changecolormode_lightMode">الوضع الفاتح</string>
+  <string name="changecolormode_darkMode">الوضع الداكن</string>
+</resources>

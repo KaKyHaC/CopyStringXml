@@ -1,0 +1,18 @@
+<resources>
+  <string name="cloud_relay_user_detail_update">Oppdater informasjonen din</string>
+  <string name="cloud_relay_user_detail_signout_from_all_device">Logg ut fra alle enheter</string>
+  <string name="cloud_relay_user_detail_sign_out">Logg ut</string>
+  <string name="cloud_relay_user_detail_delete_account">Slett konto</string>
+  <string name="cloud_relay_user_detail_edit_name">Rediger navn</string>
+  <string name="cloud_relay_user_detail_change_email">Endre e-post</string>
+  <string name="cloud_relay_user_detail_change_password">Endre passord</string>
+  <string name="cloud_relay_user_detail_change_phone_number">Endre telefonnummer</string>
+  <string name="cloud_relay_user_detail_suspend_account_message">Hvis du trykker på «Ja», logges du elegant ut fra alle enhetene du er logget på med denne kontoen. Alle økter logges ut av systemet innen 1–60 minutter.</string>
+  <string name="cloud_relay_user_detail_sign_out_user">Er du sikker på at du vil logge av?</string>
+  <string name="cloud_relay_user_detail_delete_user_account">Er du sikker på at du vil slette kontoen?</string>
+  <string name="cloud_relay_user_detail_account_deleted">Kontoen er slettet</string>
+  <string name="cloud_relay_user_detail_user_signed_out">Du er logget ut</string>
+  <string name="cloud_relay_user_detail_account_delete_delay_message">Sletting av konto vil ta rundt 15 sekunder. Prøv å registrere deg hvis du bruker samme konto etter 15 sekunder.</string>
+  <string name="cloud_relay_user_detail_no">Nei</string>
+  <string name="cloud_relay_user_detail_yes">Ja</string>
+</resources>

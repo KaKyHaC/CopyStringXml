@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">新しいホムを追加
+</string>
+  <string name="homelibskeleton_discoverHome">ホムを発見</string>
+  <string name="homelibskeleton_addManually">手動で追加</string>
+  <string name="homelibskeleton_editHome">編集</string>
+  <string name="homelibskeleton_deleteHome">削除
+</string>
+  <string name="homelibskeleton_deleteHomeWarning">
+％sを削除してもよろしいですか？</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">お客様が唯一のオーナーである場合、これを削除すると、他のすべてぼユーザーがこのホームへの遠隔アクセス権を失うことになります。</string>
+  <string name="homelibskeleton_cancel">キャンセル</string>
+  <string name="homelibskeleton_ok">OK</string>
+</resources>

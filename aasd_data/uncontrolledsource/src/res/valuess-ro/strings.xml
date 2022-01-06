@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="uncontrolledsource_title">Nu este disponibilă nicio comandă</string>
+  <string name="uncontrolledsource_hint">Vă rugăm să utilizați o aplicație sau un dispozitiv extern pentru control.</string>
+</resources>

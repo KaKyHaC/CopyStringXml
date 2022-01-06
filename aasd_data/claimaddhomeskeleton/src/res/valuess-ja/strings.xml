@@ -1,0 +1,20 @@
+<resources>
+  <string name="claimaddhome_friendlyNameOrLocation">わかりやすい名前／場所</string>
+  <string name="claimaddhome_ipAddressOrHostName">IPアドレス／ホスト名</string>
+  <string name="claimaddhome_password">ユーザーインターフェースのパスワード</string>
+  <string name="claimaddhome_connect">接続</string>
+  <string name="claimaddhome_addTitle">新しい家を追加する
+</string>
+  <string name="claimaddhome_addSubtitle">新しいCrestronホームの詳細を入力し、[接続]をタップして開始します。</string>
+  <string name="claimaddhome_editTitle">％sを編集</string>
+  <string name="claimaddhome_editSubtitle">Crestronの家に関する詳細を編集します。</string>
+  <string name="claimaddhome_errorNotEmpty">続行するには％sを入力してください。
+</string>
+  <string name="claimaddhome_errorGeneral">このホームに接続できません。</string>
+  <string name="claimaddhome_incorrectPassword">パスワードが無効です。</string>
+  <string name="claimaddhome_localConnectionSettings">ローカルネットワークに接続を設定する　</string>
+  <string name="claimaddhome_discover">発見
+</string>
+  <string name="claimaddhome_invalidPasswordPopUp">
+パスワードが変更されました。％sの新しいパスワードを再入力してください</string>
+</resources>

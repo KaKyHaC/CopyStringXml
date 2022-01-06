@@ -1,0 +1,7 @@
+<resources>
+  <string name="mobilemore_support">支持</string>
+  <string name="mobilemore_diagnostics">提交支持诊断数据</string>
+  <string name="mobilemore_house_settings">房屋设置</string>
+  <string name="mobilemore_settings">编辑房屋</string>
+  <string name="mobilemore_advanced_settings">高级设置</string>
+</resources>

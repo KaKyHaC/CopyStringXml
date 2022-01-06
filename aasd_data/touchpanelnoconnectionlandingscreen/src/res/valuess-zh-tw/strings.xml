@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">未發現網路！</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">請檢查您的以太網線纜或使用無線連接。</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">連接到Wi-Fi 接入點</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Utwórz nową</string>
+  <string name="sceneslib_edit">Edytuj</string>
+  <string name="sceneslib_reorder">Zmień kolejność</string>
+  <string name="sceneslib_max_scenes_reached">Osiągnięto maksymalną liczbę scenerii w tym pokoju. Dotknij \"Edytuj\”, aby zmienić lub usunąć istniejące scenerie.</string>
+  <string name="sceneslib_unsaved_scene_message">Masz niezapisaną scenerię. Chcesz ją zapisać?</string>
+  <string name="sceneslib_progress_lost_message">Czy na pewno chcesz wyjść z tego ekranu i utracić postępy?</string>
+  <string name="sceneslib_generic_scene_name">Moja sceneria %d</string>
+  <string name="sceneslib_unexpected_error_message">Wystąpił nieoczekiwany błąd. Nie udało się zapisać scenerii.</string>
+  <string name="sceneslib_success_message">Sceneria utworzona pomyślnie.</string>
+  <string name="sceneslib_update_success_message">Sceneria została zaktualizowana pomyślnie.</string>
+  <string name="sceneslib_error_invalid_name">Podana nazwa scenerii jest nieprawidłowa. Zapisywanie nie powiodło się.</string>
+  <string name="sceneslib_error_duplicate_name">Określona nazwa scenerii jest już używana. Zapisywanie nie powiodło się.</string>
+  <string name="sceneslib_error_name_too_long">Podana nazwa scenerii jest za długa. Zapisywanie nie powiodło się.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">Podana nazwa scenerii zawiera nieprawidłowe znaki. Zapisywanie nie powiodło się.</string>
+  <string name="sceneslib_error_read_only">Określonej scenerii nie można edytować. Zapisywanie nie powiodło się.</string>
+  <string name="sceneslib_error_cannot_delete">Wystąpił nieoczekiwany błąd. Nie udało się usunąć scenerii.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">To jest sceneria dostarczana przez system, nie można jej usunąć.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">Ta sceneria jest używana przez oprogramowanie w innym miejscu systemu. Nie można jej usunąć.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">To jest sceneria dostarczana przez system. Nie można jej usunąć, gdy w pokoju są jakieś światła.</string>
+  <string name="sceneslib_error_max_scene_count_reached">Osiągnięto maksymalną liczbę scenerii w tym pokoju. Nie udało się zapisać nowej.</string>
+  <string name="sceneslib_error_invalid_ramp_time">Wybrany czas zanikania jest nieprawidłowy. Nie udało się zapisać scenerii.</string>
+</resources>

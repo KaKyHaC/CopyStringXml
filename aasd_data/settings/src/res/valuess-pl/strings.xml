@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Limit czasu wirtualnego paska narzędzi</string>
+  <string name="settings_hardkey_wakes_lcd">Przycisk wybudza LCD</string>
+  <string name="settings_master_volume">Głośność ogólna</string>
+  <string name="settings_hardkey_behavior">ZACHOWANIE PRZYCISKU GÓRA/DÓŁ NA PANELU</string>
+  <string name="settings_hardkey_no_function">Brak przypisanej funkcji</string>
+  <string name="settings_hardkey_lights">Światła (jaśniej/ciemniej w pomieszczeniu)</string>
+  <string name="settings_hardkey_shades">Rolety (wyżej/niżej w pomieszczeniu)</string>
+  <string name="settings_hardkey_media">Dźwięk (głośniej/ciszej w pomieszczeniu)</string>
+  <string name="settings_advanced_settings_toolbar">Ustawienia zaawansowane</string>
+</resources>

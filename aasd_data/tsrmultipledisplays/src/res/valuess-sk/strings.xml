@@ -1,0 +1,7 @@
+<resources>
+  <string name="multiple_displays_no_controls">Nie sú k dispozícii žiadne ovládacie prvky</string>
+  <string name="multiple_displays_scenes">PRIESTORY</string>
+  <string name="multiple_displays_title">DISPLEJE</string>
+  <string name="multiple_displays_toolbartitle">Video</string>
+  <string name="multiple_displays_displaytitle">Displeje</string>
+</resources>

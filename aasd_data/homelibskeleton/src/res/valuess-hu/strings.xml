@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">ÚJ OTTHON HOZZÁADÁSA</string>
+  <string name="homelibskeleton_discoverHome">Otthon felfedezése</string>
+  <string name="homelibskeleton_addManually">Kézi hozzáadás</string>
+  <string name="homelibskeleton_editHome">Szerkesztés</string>
+  <string name="homelibskeleton_deleteHome">Törlés</string>
+  <string name="homelibskeleton_deleteHomeWarning">Biztos, hogy törli a következőt: %s?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">Ha Ön az egyetlen tulajdonos, az otthon törléséve az összes felhasználó elveszíti a távoli hozzáférési jogait az otthonhoz.</string>
+  <string name="homelibskeleton_cancel">Mégse</string>
+  <string name="homelibskeleton_ok">OK</string>
+</resources>

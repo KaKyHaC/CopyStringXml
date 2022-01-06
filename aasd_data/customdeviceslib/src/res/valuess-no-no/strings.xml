@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">Hovedoppsettet %s er fjernet.</string>
+  <string name="customdevice_controlNotAvailable">KONTROLL IKKE TILGJENGELIG</string>
+  <string name="customdevice_emptyAlertTitle">Informasjon er ikke tilgjengelig.</string>
+  <string name="customdevice_emptyLayoutError">Ingen layout med ID %s.</string>
+  <string name="customdevice_emptyMediaLayoutError">Ingen layout definert for kilde med eier-ID %d.</string>
+  <string name="customdevice_emptyAlertError">Ingen layout med ID %s.</string>
+  <string name="customdevice_alertError">Det oppsto en feil ved åpning av varsel med ID %s.</string>
+  <string name="customdevice_layoutError">Det oppsto en feil ved åpning av layout med ID %s.</string>
+  <string name="customdevice_emptySelectionList">Ingen elementer å vise for %s.</string>
+  <string name="customdevice_setValueGenericError">Noe gikk galt. Verdien kan ikke endres.</string>
+  <string name="customdevice_setValueError">Verdien kunne ikke endres. %s</string>
+  <string name="customdevice_runCommandGenericError">Noe gikk galt. Kommandoen kan ikke utføres.</string>
+  <string name="customdevice_runCommandError">Kommandoen kunne ikke utføres. %s</string>
+  <string name="customdevice_thermostat_setpoint">SATT TIL</string>
+  <string name="customdevice_thermostat_heatSetpoint">VARME TIL</string>
+  <string name="customdevice_thermostat_coolSetpoint">KJØLE TIL</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">Navigasjonsfeltet er feilkonfigurert.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">Bruk ekstern app eller enhet for å kontrollere.</string>
+  <string name="customdevice_mediaEmptyScreen_title">Ingen kontroll tilgjengelig.</string>
+</resources>

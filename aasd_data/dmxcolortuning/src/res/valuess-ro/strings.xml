@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Reglarea culorilor</string>
+  <string name="dmxroomselection_controlsTitle">COMENZI</string>
+  <string name="dmxcolortuning_description">Stabiliți setările de bază pentru această încăpere, iar cu acestea stabiliți culoarea și temperatura dorite pentru corpurile dvs. reglabile.\n\nSunt furnizate glisoare și comutatoare de intensitate pentru a vă ajuta să vizualizați culoarea. Ele nu sunt salvate în setările de bază.</string>
+</resources>

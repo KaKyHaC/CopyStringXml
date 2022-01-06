@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">ערוך צירקדי</string>
+  <string name="circadianEdit_description">ניתן להשתמש באורות חשמליות בדרכים שיתמוכו בבריאות האדם על ידי מזעור השפעותיהן על המקצב הצירקדי האנושי.</string>
+  <string name="circadianEdit_transitionsCategory">ערוך נקודות מעבר של אורות</string>
+  <string name="circadianEdit_previewTransitionButton_start">תצוגה מקדימה של מעבר צירקדיי</string>
+  <string name="circadianEdit_previewTransitionButton_end">סיום התצוגה המקדימה של המעבר הצירקדי</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">בוקר</string>
+  <string name="circadianEdit_dayTransition">יום</string>
+  <string name="circadianEdit_eveningTransition">ערב</string>
+  <string name="circadianEdit_nightTransition">לילה</string>
+  <string name="circadianEdit_minTime">12 AM</string>
+  <string name="circadianEdit_maxTime">11:59 PM</string>
+</resources>

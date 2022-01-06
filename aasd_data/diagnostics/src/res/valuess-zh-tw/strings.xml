@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">支持診斷</string>
+  <string name="diagnostics_loggingTitle">啟用診斷提交</string>
+  <string name="diagnostics_loggingDescription">除非得到快思聰技術支持指示，否則請不要 \ 啟用診斷提交</string>
+  <string name="diagnostics_submitDiagnostics">提交支持診斷</string>
+  <string name="diagnostics_submitMessage">快思聰建議僅在與您的快思聰經銷商合作或收到快思聰客戶支持要求時，才發送診斷信息。 \n\n 按提交按鈕，會讓您選擇共享文件方式。請按照您的快思聰經銷商或快思聰客戶支持提供的指示進行操作，將此文件發送到指定位置。</string>
+  <string name="diagnostics_submit">提交</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">כפתור חזרה להגדרות</string>
+  <string name="touchPanelsettings_toolbar">הגדרות</string>
+  <string name="touchPanelsettings_toolbar_default_room">חדר ברירת מחדל</string>
+  <string name="touchPanelsettings_room_list">רשימת חדרים</string>
+  <string name="touchPanelsettings_display">תצוגה</string>
+  <string name="touchPanelsettings_automode_brightness">בהירות מצב אוטומטי</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">זמן קצוב לתצוגה</string>
+  <string name="touchPanelsettings_screensaver">שומר מסך</string>
+  <string name="touchPanelsettings_media_volume">עוצמת קול של מדיה</string>
+  <string name="touchPanelsettings_home">בית</string>
+  <string name="touchPanelsettings_advanced_settings">הגדרות מתקדמות</string>
+  <string name="touchPanelsettings_edit_home">ערוך בית</string>
+  <string name="touchPanelsettings_info">מידע</string>
+  <string name="touchPanelsettings_firmware_version">גרסת קושחה</string>
+  <string name="touchPanelsettings_ui_version">גרסת UI</string>
+  <string name="touchPanelsettings_volume">עוצמת קול</string>
+  <string name="touchPanelsettings_edit_home_popup_message">שנה את ההגדרות האלה רק אם הורה לך על ידי סוחר Crestron שלך</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">המשך</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">בטל</string>
+  <string name="touchPanelsettings_timeout_text_never">לעולם לא</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s שניות</string>
+  <string name="touchPanelsettings_timeout_text_minute">1 דקה</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s דקות</string>
+  <string name="touchPanelsettings_timeout_text_hour">1 שעה</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s שעות</string>
+  <string name="touchPanelsettings_access_points">נקודת גישת WIFI</string>
+  <string name="touchPanelsettings_intercom">אינטרקום והפרעות</string>
+  <string name="touchPanelsettings_do_not_disturb">נא לא להפריע</string>
+  <string name="touchPanelsettings_play_test">הפעל בדיקה</string>
+  <string name="touchPanelsettings_speakervolume_label">עוצמת שמע של רמקול</string>
+</resources>

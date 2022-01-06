@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayconnecthome_edit_home">Editați casa</string>
+  <string name="couldrelayconnecthome_edit_details">Editați detalii despre Crestron Home.</string>
+  <string name="cloudrelayconnecthome_home_settings">SETĂRILE CASEI</string>
+  <string name="cloudrelayconnecthome_friendlyNameOrLocation">Nume / locaţie prietenoase</string>
+  <string name="cloudrelayconnecthome_password">Parola de interfață a utilizatorului</string>
+  <string name="cloudrelayconnecthome_localConnectionSettings">SETĂRI DE CONEXIUNE LOCALĂ</string>
+  <string name="cloudrelayconnecthome_ipAddressOrHostName">Adresă IP / Nume gazdă</string>
+  <string name="cloudrelayconnecthome_continue">Continuați</string>
+</resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">Welkom bij jou thuis</string>
+  <string name="termsofuse_subtitle_one">Bij Crestron is uw privacy belangrijk voor ons. Bekijk de privacyverklaring van Crestron via de onderstaande link om te zien welke soorten informatie we kunnen verzamelen. Als u de privacy-instellingen van uw systeem wilt wijzigen om het verzamelen van informatie in of uit te schakelen, neem dan contact op met uw geautoriseerde Crestron-dealer of Crestron-serviceprovider, of Crestron Electronics, Inc. op %s.</string>
+  <string name="termsofuse_subtitle_two">Ga akkoord met het volgende om het huis verder te ontdekken:</string>
+  <string name="termsofuse_agreeAndContinue">Akkoord &amp; doorgaan</string>
+  <string name="termsofuse_termsOfUse">Gebruiksvoorwaarden mobiele apps</string>
+  <string name="termsofuse_privacyStatement">Privacyverklaring</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">Ik ga akkoord met de %s en %s van Crestron.</string>
+</resources>

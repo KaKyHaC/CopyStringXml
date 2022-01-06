@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">QUICK ACTIONS</string>
+  <string name="room_room_services">ROOM SERVICES</string>
+  <string name="renameroomgroup_popupCancelButton">Cancel</string>
+  <string name="renameroomgroup_popupCreateButton">Rename</string>
+  <string name="renameroomgroup_popupTitle">Rename room</string>
+</resources>

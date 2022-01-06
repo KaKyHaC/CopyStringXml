@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">เปิดใช้ตัวเลือกของผู้พัฒนา</string>
+  <string name="reset_logging_after_24_hours">รีเซ็ตการบันทึกหลังจาก 24 ชั่วโมง</string>
+  <string name="developer_options">ตัวเลือกผู้พัฒนา</string>
+  <string name="logging_level">ระดับการบันทึก</string>
+  <string name="logging">การบันทึก</string>
+  <string name="network_logging">การบันทึกเครือข่าย</string>
+  <string name="detailed_logging">การบันทึกโดยละเอียด</string>
+</resources>

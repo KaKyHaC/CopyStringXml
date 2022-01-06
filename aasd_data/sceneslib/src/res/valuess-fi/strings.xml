@@ -1,0 +1,23 @@
+<resources>
+  <string name="sceneslib_create_new">Luo uusi</string>
+  <string name="sceneslib_edit">Muokkaa</string>
+  <string name="sceneslib_reorder">Järjestele uudelleen</string>
+  <string name="sceneslib_max_scenes_reached">Maximum number of scenes in this room has been reached. Tap \"Edit\" to change or delete existing scenes.</string>
+  <string name="sceneslib_unsaved_scene_message">You have unsaved scene. Save this scene?</string>
+  <string name="sceneslib_progress_lost_message">Haluatko varmasti poistua tästä ruudusta ja menettää edistyksesi?</string>
+  <string name="sceneslib_generic_scene_name">My Scene %d</string>
+  <string name="sceneslib_unexpected_error_message">An unexpected error has occurred. The scene could not be saved.</string>
+  <string name="sceneslib_success_message">The scene created successfully.</string>
+  <string name="sceneslib_update_success_message">The scene updated successfully.</string>
+  <string name="sceneslib_error_invalid_name">The specified scene name is invalid. The scene could not be saved.</string>
+  <string name="sceneslib_error_duplicate_name">The specified scene name is already in use. The scene could not be saved.</string>
+  <string name="sceneslib_error_name_too_long">The specified scene name is too long. The scene could not be saved.</string>
+  <string name="sceneslib_error_invalid_chars_in_name">The specified scene name contains invalid characters. The scene could not be saved.</string>
+  <string name="sceneslib_error_read_only">The specified scene is not editable. The scene could not be saved.</string>
+  <string name="sceneslib_error_cannot_delete">An unexpected error has occurred. The scene could not be deleted.</string>
+  <string name="sceneslib_error_cannot_delete_built_in">This is a system provided scene and it can not be deleted.</string>
+  <string name="sceneslib_error_cannot_delete_in_use">This scene is being used by programming elsewhere in the system. It can not be deleted.</string>
+  <string name="sceneslib_error_cannot_delete_loads_in_room">This is a system provided scene. It can not be deleted while the room contains any lights.</string>
+  <string name="sceneslib_error_max_scene_count_reached">The maximum number of scenes in this room has been reached. The new scene could not be saved.</string>
+  <string name="sceneslib_error_invalid_ramp_time">The selected fade time is invalid. The scene could not be saved.</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_labelUnavailable">טקסט אינו זמין</string>
+  <string name="min_validation_text">ערך אינו יכול להיות נמוך מ-  %s</string>
+  <string name="max_validate_text">ערך אינו יכול להיות גבוה מ-  %s</string>
+  <string name="stepsize_validate_text">יש להגדיר את הערך במרווחים של %s</string>
+</resources>

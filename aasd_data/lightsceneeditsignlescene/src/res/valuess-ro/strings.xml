@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">Editați scene de iluminare</string>
+  <string name="lightEditSingleScene_set_scene_options">SETAȚI OPȚIUNILE DE SCENĂ</string>
+  <string name="lightEditSingleScene_delete_scene">Ștergeți această scenă</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">Sunteţi sigur(ă) că doriţi să ştergeţi această scenă?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">ŞTERGERE</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">Revocare</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">Ne pare rău, această scenă nu poate fi ștearsă</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">OK</string>
+  <string name="lightEditSingleScene_dismiss">Respingeți</string>
+  <string name="lightEditSingleScene_cannot_edit">Ne pare rău, numele și pictograma acestei scene nu pot fi editate</string>
+</resources>

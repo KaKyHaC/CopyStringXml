@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">事件名稱，如：夏季氣候時間表</string>
+  <string name="climateschedule_scheduleNameTitleLabel">名稱</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">新的氣候預定事件</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">編輯已預定事件</string>
+  <string name="climateschedule_scheduleActiveDays">活躍天數</string>
+  <string name="climateschedule_activeDays_sunday">週日</string>
+  <string name="climateschedule_activeDays_monday">週一</string>
+  <string name="climateschedule_activeDays_tuesday">週二</string>
+  <string name="climateschedule_activeDays_wednesday">週三</string>
+  <string name="climateschedule_activeDays_thursday">週二</string>
+  <string name="climateschedule_activeDays_friday">華氏度</string>
+  <string name="climateschedule_activeDays_saturday">週日</string>
+  <string name="climateschedule_activeDays">活躍天數</string>
+  <string name="climateschedule_save">儲存</string>
+  <string name="climateschedule_deleteSchedule">刪除</string>
+  <string name="climateschedule_copyToAnotherThermostat">複製到另一個溫度調節器</string>
+  <string name="climateschedule_scheduleEventError">出錯了，請重試。</string>
+  <string name="climateschedule_editTitle">編輯</string>
+  <string name="climateschedule_deleteWarning">您確定要刪除 %s 事件嗎？</string>
+  <string name="climateschedule_invalidScheduleNameError">此計劃事件名稱無效</string>
+  <string name="climateschedule_duplicateScheduleNameError">此計劃事件名稱早已存在</string>
+  <string name="climateschedule_discardChangesWarning">您有未保存的更改。要放棄更改嗎？</string>
+  <string name="climateschedule_discard">放棄</string>
+  <string name="climateschedule_saveChangesWarning">您要保存更改嗎？</string>
+  <string name="climateschedule_setpointsTitle">設定點</string>
+  <string name="climateschedule_scheduleStatusTitle">行程狀態</string>
+  <string name="climateschedule_scheduleStatusItem">行程啟用</string>
+  <string name="climateschedule_timePicker_header">開始</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

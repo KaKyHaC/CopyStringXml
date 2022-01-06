@@ -1,0 +1,6 @@
+<resources>
+  <string name="cloudrelayrecoveraccount_update_info">frissítse az adatait</string>
+  <string name="cloudrelayrecoveraccount_change_mail">E-mail-cím módosítása</string>
+  <string name="cloudrelayrecoveraccount_reset_password">Jelszó visszaállítása</string>
+  <string name="cloudrelayrecoveraccount_reset_number">Telefonszám visszaállítása</string>
+</resources>

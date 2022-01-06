@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesSelection_helpText_text">Válasszon hangot az eseményhez. A hang minden olyan zónában alkalmazásra kerül, ahol az eseményt engedélyezték.</string>
+</resources>

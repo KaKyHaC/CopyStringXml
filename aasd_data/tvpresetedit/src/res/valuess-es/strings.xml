@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">FAVORITOS</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ Añadir canales favoritos</string>
+  <string name="tvpresetedit_favoritesTitle">%s favoritos</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">Favoritos</string>
+  <string name="tvpresetedit_moreItem_renameGroup">Volver a nombrar</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">Eliminar grupo</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">¿Confirma que desea eliminar este grupo?</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">Eliminar</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">Cancelar</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">Aceptar</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">Disculpe, el último grupo no puede ser eliminado</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">Este grupo ya ha sido eliminado.</string>
+</resources>

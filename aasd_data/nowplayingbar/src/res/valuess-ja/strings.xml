@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s in %s</string>
+  <string name="nowplayingbar_multiple_media">
+複数のメディア
+</string>
+  <string name="nowplayingbar_rooms">
+％d部屋</string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">ボリュームコントロールは利用できません
+</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">このメディアルームをオンにする</string>
+</resources>

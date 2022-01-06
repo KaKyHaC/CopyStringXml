@@ -1,0 +1,7 @@
+<resources>
+  <string name="mobilemore_support">Támogatás</string>
+  <string name="mobilemore_diagnostics">Támogatási diagnosztika beküldése</string>
+  <string name="mobilemore_house_settings">Házbeállítások</string>
+  <string name="mobilemore_settings">Otthon szerkesztése</string>
+  <string name="mobilemore_advanced_settings">Haladó beállítások</string>
+</resources>

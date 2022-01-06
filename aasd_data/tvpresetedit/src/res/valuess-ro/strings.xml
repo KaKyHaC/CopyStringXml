@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">FAVORITE</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ Adăugați canale preferate</string>
+  <string name="tvpresetedit_favoritesTitle">%s favorite</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">Favorite</string>
+  <string name="tvpresetedit_moreItem_renameGroup">Redenumiți</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">Ștergeți grupul</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">Sunteți sigur(ă) că doriți să ștergeți acest grup?</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">ŞTERGERE</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">Revocare</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">OK</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">Ne pare rău, ultimul grup nu poate fi șters</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">Acest grup a fost șters deja.</string>
+</resources>

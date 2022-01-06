@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">对分组进行重命名</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">取消</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">重命名</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">重复名称</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">无效名称</string>
+  <string name="tvpresetsrenamegroup_unknownError">操作失败</string>
+</resources>

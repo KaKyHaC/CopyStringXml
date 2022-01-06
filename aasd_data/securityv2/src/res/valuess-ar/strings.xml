@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_v2_actions_header_text">الإجراءات</string>
+  <string name="security_v2_toolbarTitle">الأمان</string>
+  <string name="security_v2_panicActionsTitle">الإجراءات</string>
+  <string name="security_v2_panicActionsSubtitle">اضغط مع الاستمرار لمدة 1 ثانية لتشغيل كل إجراء</string>
+  <string name="security_v2_navigationButtonsTitle">أزرار التنقل</string>
+  <string name="security_v2_selectNavigationButton">تحديد</string>
+  <string name="security_v2_keypadTitle">لوحة المفاتيح</string>
+  <string name="security_v2_keypadSubtitle">أدخل الرمز المكون من 4 أرقام والرقم المقابل للإجراء الذي ترغب في تنفيذه</string>
+  <string name="security_v2_displayTextTitle">عرض النص</string>
+</resources>

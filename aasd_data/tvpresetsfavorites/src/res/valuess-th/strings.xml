@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">ภาพรายการช่อง</string>
+  <string name="tvpresetsfavorite_favoritesChannels">รายการโปรด</string>
+  <string name="tvpresetsfavorite_favoritesList">รายการสื่อที่ชอบ</string>
+  <string name="tvpresetsfavorite_favoritesMore">สื่อที่ชอบอื่นๆ</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">แก้ไขกลุ่ม</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">แก้ไขกลุ่มที่ชอบ</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">สร้างกลุ่มใหม่</string>
+  <string name="tvpresetsfavorite_nowPlaying">กำลังเล่น</string>
+  <string name="tvpresetsfavorite_upNext">ถัดไป</string>
+  <string name="tvpresetsfavorite_noInformation">ไม่มีข้อมูล</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">แตะที่ \"⋯\" เพื่อเพิ่มช่องที่ชอบ</string>
+  <string name="tvpresetsfavorite_noProvider">ไม่มีช่องที่ชอบเนื่องจากผู้ให้บริการไม่ได้ถูกเลือก</string>
+</resources>

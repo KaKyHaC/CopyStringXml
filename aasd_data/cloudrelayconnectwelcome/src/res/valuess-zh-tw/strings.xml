@@ -1,0 +1,14 @@
+<resources>
+  <string name="cloudrelayconenctwelcome_welcome">歡迎</string>
+  <string name="cloudrelayconenctwelcome_claim_my_home">認領我的住宅</string>
+  <string name="cloudrelayconenctwelcome_claim_enabled_disclaimer">接下來繼續認領您的 Crestron Home（快思聰智家），並開始使用我們最安全的遠程連接體驗。</string>
+  <string name="cloudrelayconenctwelcome_claim_disabled_disclaimer">要認領您的 Crestron Home （快思聰智家）系統，您需要與您的 Crestron Home 系統位於同一本地網絡上。</string>
+  <string name="cloudrelayconenctwelcome_not_now">不是現在</string>
+  <string name="cloudrelayconenctwelcome_warning_ok">確定</string>
+  <string name="cloudrelayconenctwelcome_warning_subtitle">運行此功能需要更新版本的 Crestron Home（快思聰智家）固件。\n\n 請聯繫您的快思聰經銷商，讓他們將此新固件安裝到您的 Crestron Home（快思聰智家）處理器上。</string>
+  <string name="cloudrelayconenctwelcome_warning_title">需要更新 Crestron Home OS（快思聰智家操作系統）</string>
+  <string name="cloudrelayconenctwelcome_sign_out_user">您確定要登出嗎？</string>
+  <string name="cloudrelayconenctwelcome_user_signed_out">您已退出</string>
+  <string name="cloudrelayconenctwelcome_no">否</string>
+  <string name="cloudrelayconenctwelcome_yes">是</string>
+</resources>

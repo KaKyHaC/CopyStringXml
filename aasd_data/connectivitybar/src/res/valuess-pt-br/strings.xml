@@ -1,0 +1,4 @@
+<resources>
+  <string name="connectivitybar_connectedStatus">Conectado</string>
+  <string name="connectivitybar_disconnectedStatus">Conectando-se à casa…</string>
+</resources>

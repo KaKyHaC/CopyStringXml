@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">显示控件</string>
+  <string name="advancedSettings_roomVisibilityControl_label">显示房间</string>
+  <string name="advancedSettings_settings_home_access_label">房屋进入</string>
+  <string name="advancedSettings_settings_cameras_label">摄像机</string>
+  <string name="advancedSettings_settings_security_label">安全</string>
+  <string name="advancedSettings_back_description">设置返回按钮</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">音频中断与调和</string>
+  <string name="advancedSettings_settings_events_sound_label">事件和声音</string>
+  <string name="advancedSettings_settings_change_theme_label">显示器</string>
+  <string name="advancedSettings_settings_change_theme_title">更改主题</string>
+  <string name="advancedSettings_toolbar">高级设置</string>
+  <string name="advancedSettings_showDoNotSiasturb">显示“不要打扰”</string>
+  <string name="advancedSettings_colorTuning_label">颜色微调</string>
+  <string name="advancedSettings_tunableLighting_label">可微调的照明</string>
+  <string name="advancedSettings_circadianSettings_label">昼夜设置</string>
+</resources>

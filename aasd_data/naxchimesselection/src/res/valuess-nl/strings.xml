@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesSelection_helpText_text">Kies geluid voor dit evenement. Dit geluid is van toepassing op alle zones waar deze gebeurtenis is ingeschakeld.</string>
+</resources>

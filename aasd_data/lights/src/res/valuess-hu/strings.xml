@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">JELENETEK</string>
+  <string name="lights_controlsTitle">VEZÉRLŐK</string>
+  <string name="lights_controlsMasterControl">ÖSSZES LÁMPA</string>
+  <string name="create_new_scene">Új téma létrehozása</string>
+  <string name="lights_noScenesInfo">Ez a helyiség látszólag nem rendelkezik látható világítási jelenettel.</string>
+</resources>

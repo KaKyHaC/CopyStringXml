@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">Zámky dverí</string>
+  <string name="doors_scenes">PRIESTORY</string>
+  <string name="doors_controls">REGULÁTORY</string>
+  <string name="doors_lock_all">Zamknúť všetky</string>
+  <string name="doors_unlock_all">Odomknúť všetky</string>
+</resources>

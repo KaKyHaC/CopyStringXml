@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">Povoliť možnosti pre vývojárov</string>
+  <string name="reset_logging_after_24_hours">Obnoviť zaznamenávanie po 24 hodinách</string>
+  <string name="developer_options">Možnosti pre vývojárov</string>
+  <string name="logging_level">Úroveň zaznamenávania</string>
+  <string name="logging">Zaznamenávanie</string>
+  <string name="network_logging">Zaznamenávanie v sieti</string>
+  <string name="detailed_logging">Podrobné zaznamenávanie</string>
+</resources>

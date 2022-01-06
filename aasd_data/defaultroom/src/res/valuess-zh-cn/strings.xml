@@ -1,0 +1,7 @@
+<resources>
+  <string name="defaultRoom_chooseDefaultRoom">选择默认房间</string>
+  <string name="defaultRoom_category">选择默认房间</string>
+  <string name="defaultRoom_emptyList">没有配置房间。列表中无房间。</string>
+  <string name="defaultRoom_save">保存</string>
+  <string name="defaultroom_homeConfiguration">房屋配置</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">Kamerat</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">NO STREAM WITH LOW ENOUGH RESOLUTION\n(MAXIMUM IS 1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">ESIKATSELU EI OLE SAATAVILLA</string>
+  <string name="camerasLib_noPreviewAvailable">ESIKATSELU EI OLE SAATAVILLA</string>
+  <string name="camerasLib_noStreamAvailable">SUORATOISTO EI OLE SAATAVILLA</string>
+</resources>

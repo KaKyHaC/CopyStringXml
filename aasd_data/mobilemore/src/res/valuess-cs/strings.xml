@@ -1,0 +1,7 @@
+<resources>
+  <string name="mobilemore_support">Podpora</string>
+  <string name="mobilemore_diagnostics">Odeslat diagnostiku podpory</string>
+  <string name="mobilemore_house_settings">Nastavení domu</string>
+  <string name="mobilemore_settings">Upravit domov</string>
+  <string name="mobilemore_advanced_settings">Pokročilé nastavení</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+  <string name="discoverhome_tryAgain">PROVA ANCORA</string>
+  <string name="discoverhome_discovering">Scoprendo</string>
+  <string name="discoverhome_notCompatibleMessage">PING NON È COMPATIBILE CON LA HOME DI CRESTRON </string>
+  <string name="discoverhome_titleFound">Home trovati su questa rete.</string>
+  <string name="discoverhome_titleNotFound">No sono trovati nuovi Home</string>
+  <string name="discoverhome_subtitleFound">Si prega di selezionare il Home per iniziare </string>
+  <string name="discoverhome_subtitleNotFound">Non ci sono Home disponibili in questa rete. Si prega di controllare la tua connessione di rete e prova nuovamente.</string>
+</resources>

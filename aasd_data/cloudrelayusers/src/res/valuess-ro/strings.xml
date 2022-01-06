@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">Dvs.</string>
+  <string name="cloud_relay_users_no_user">Nu sunt utilizatori disponibili.</string>
+  <string name="cloud_relay_users_add_new_user">+ Adăugați un utilizator nou</string>
+  <string name="cloud_relay_users_reclaim_home">Recuperați această casă</string>
+  <string name="cloud_relay_users_role_format">%s (invitație în așteptare)</string>
+  <string name="cloud_relay_users_info_unavailable">„Nu sunt informații despre acest utilizator, vă rugăm să încercați mai târziu”</string>
+</resources>

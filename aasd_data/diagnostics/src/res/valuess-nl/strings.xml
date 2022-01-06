@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">Ondersteuning Diagnostiek:</string>
+  <string name="diagnostics_loggingTitle">Indiening van diagnose inschakelen</string>
+  <string name="diagnostics_loggingDescription">No habilite el envío de diagnósticos a menos que lo indique el soporte técnico de Crestron.</string>
+  <string name="diagnostics_submitDiagnostics">Dien ondersteuningsdiagnose in</string>
+  <string name="diagnostics_submitMessage">Crestron raadt aan om alleen diagnosegegevens op te sturen wanneer u met uw Crestron-dealer samenwerkt of op verzoek van de Crestron-klantenondersteuning. \n\nAls je op verzenden drukt, kun je kiezen hoe je het bestand wilt delen. Volg de instructies van uw Crestron-dealer of de klantenondersteuning van Crestron met betrekking tot waar u dit bestand naartoe moet sturen.</string>
+  <string name="diagnostics_submit">Verzenden</string>
+</resources>

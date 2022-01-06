@@ -1,0 +1,16 @@
+<resources>
+  <string name="claimaddhome_friendlyNameOrLocation">ชื่อที่เรียกง่าย / ตำแหน่ง</string>
+  <string name="claimaddhome_ipAddressOrHostName">ที่อยู่ไอพี / ชื่อโฮสต์</string>
+  <string name="claimaddhome_password">รหัสผ่านอินเทอร์เฟซผู้ใช้</string>
+  <string name="claimaddhome_connect">เชื่อมต่อ</string>
+  <string name="claimaddhome_addTitle">เพิ่มบ้านใหม่</string>
+  <string name="claimaddhome_addSubtitle">ใส่รายละเอียดเกี่ยวกับ Crestron Home ใหม่ของคุณและแตะเชื่อมต่อเพื่อเริ่มใช้งาน</string>
+  <string name="claimaddhome_editTitle">แก้ไข %s</string>
+  <string name="claimaddhome_editSubtitle">แก้ไขรายละเอียด Crestron Home ของคุณ</string>
+  <string name="claimaddhome_errorNotEmpty">โปรดใส่ %s เพื่อดำเนินการต่อ</string>
+  <string name="claimaddhome_errorGeneral">ไม่สามารถเชื่อมต่อกับบ้านนี้ได้</string>
+  <string name="claimaddhome_incorrectPassword">รหัสผ่านไม่ถูกต้อง</string>
+  <string name="claimaddhome_localConnectionSettings">การตั้งค่าการเชื่อมต่อในพื้นที่</string>
+  <string name="claimaddhome_discover">ค้นหาเพิ่มเติม</string>
+  <string name="claimaddhome_invalidPasswordPopUp">รหัสผ่านถูกเปลี่ยน โปรดใส่รหัสผ่านของ %s ใหม่</string>
+</resources>

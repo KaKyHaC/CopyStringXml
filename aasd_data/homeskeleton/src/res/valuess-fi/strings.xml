@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">PIKATOIMINNOT</string>
+  <string name="home_home_controls">HOME CONTROLS</string>
+  <string name="home_lock_all">Lock all</string>
+  <string name="home_unlock_all">Unlock all</string>
+  <string name="home_security_system">Turvajärjestelmä</string>
+  <string name="home_climate">Sisäilmasto</string>
+  <string name="home_locks">Ovien lukot</string>
+  <string name="home_cameras">Kamerat</string>
+  <string name="home_access">House access</string>
+</resources>

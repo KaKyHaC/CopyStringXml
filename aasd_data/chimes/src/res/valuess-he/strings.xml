@@ -1,0 +1,6 @@
+<resources>
+  <string name="chime_name">פעמון</string>
+  <string name="chime_toolbar">פעמון דלת חניה</string>
+  <string name="chime_back_description">כפתור החזרה לאירועים</string>
+  <string name="chime_assign_sounds">הקצאת צליל</string>
+</resources>

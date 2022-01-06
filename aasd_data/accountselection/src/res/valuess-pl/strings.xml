@@ -1,0 +1,5 @@
+<resources>
+  <string name="account_selection_account_select">Wybierz konto</string>
+  <string name="account_selection_add_account">Czy chcesz dodać kolejne konto?</string>
+  <string name="account_selection_go_provider_account">Przejdź do strony konfiguracji konta dostawcy</string>
+</resources>

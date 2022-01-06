@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">ยินดีต้อนรับสู่บ้านของคุณ</string>
+  <string name="termsofuse_subtitle_one">ที่ Crestron ความเป็นส่วนตัวของคุณสำคัฐสำหรับเรา โปรดดูคำชี้แจงเกี่ยวกับความเป็นส่วนตัวของ Crestron ทางลิงก์ที่ให้ด้านล่างเพื่อดูประเภทของข้อมูลที่เราเก็บรวบรวม หากคุณต้องการเปลี่ยนแปลงการตั้งค่าความเป็นส่วนตัวหรือเปิดหรือปิดการเก็บรวบรวมข้อมูล โปรดติดต่อดีลเลอร์ Crestron ผู้ให้บริการของ Crestron หรือ Crestron Electronics, Inc. at %s</string>
+  <string name="termsofuse_subtitle_two">หากต้องการดำเนินการค้นหาบ้านต่อ โปรดยอมรับข้อกำหนดต่อไปนี้</string>
+  <string name="termsofuse_agreeAndContinue">ยอมรับและดำเนินการต่อ</string>
+  <string name="termsofuse_termsOfUse">ข้อกำหนดการใช้งานสำหรับแอปอุปกรณ์เคลื่อนที่</string>
+  <string name="termsofuse_privacyStatement">คำชี้แจงเกี่ยวกับความเป็นส่วนตัว</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">ฉันยอมรับ %s และ %s ของ Crestron</string>
+</resources>

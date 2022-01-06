@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">安全</string>
+  <string name="securitylib_securitySystem">安全系统</string>
+  <string name="securitylib_securitySystemWithName">安全系统%s</string>
+  <string name="securitylib_alarm_alarm">警报</string>
+  <string name="securitylib_alarm_fire">火灾</string>
+  <string name="securitylib_alarm_burglary">入室盗窃</string>
+  <string name="securitylib_alarm_medical">医疗</string>
+  <string name="securitylib_alarm_tamper">干预</string>
+  <string name="securitylib_arming_armedStay">已布防停留</string>
+  <string name="securitylib_arming_exitDelayActive">退出延迟已激活</string>
+  <string name="securitylib_arming_disarmed">撤防</string>
+  <string name="securitylib_arming_ready">准备就绪</string>
+  <string name="securitylib_arming_armedAway">已解除布防</string>
+  <string name="securitylib_arming_notReady">未准备好</string>
+  <string name="securitylib_arming_entryDelayActive">进入延迟已激活</string>
+  <string name="securitylib_arming_armedStayInstant">已布防瞬时</string>
+  <string name="securitylib_arming_armedAwayInstant">已撤防瞬时</string>
+  <string name="securitylib_arming_armedBypass">已布防旁路</string>
+  <string name="securitylib_arming_armedBypassInstant">已布防旁路瞬时</string>
+</resources>

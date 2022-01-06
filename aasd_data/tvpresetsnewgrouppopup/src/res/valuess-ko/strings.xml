@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsnewgroup_popupTitle">새 그룹 이름</string>
+  <string name="tvpresetsnewgroup_popupCancelButton">취소</string>
+  <string name="tvpresetsnewgroup_popupCreateButton">생성</string>
+  <string name="tvpresetsnewgroup_duplicateNameError">중복 이름</string>
+  <string name="tvpresetsnewgroup_invalidNameError">잘못된 이름</string>
+  <string name="tvpresetsnewgroup_unknownError">조작 실패</string>
+</resources>

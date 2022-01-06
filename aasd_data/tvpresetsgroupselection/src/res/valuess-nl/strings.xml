@@ -1,0 +1,6 @@
+<resources>
+  <string name="tvpresetsgroupselection_pageTitle">Favoriete groep wijzigen</string>
+  <string name="tvpresetsgroupselection_changeButton">Wijzigen</string>
+  <string name="tvpresetsgroupselection_newPresetGroup">+ Nieuwe groep maken</string>
+  <string name="tvpresetsgroupselection_defaultDeviceName">Kabel-tv</string>
+</resources>

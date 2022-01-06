@@ -1,0 +1,9 @@
+<resources>
+  <string name="naxprovidercreation_enter_name">Användarnamn</string>
+  <string name="naxprovidercreation_description">Mata in ett namn för den nya %s användaren.</string>
+  <string name="naxprovidercreation_title">Lägg till %s användare</string>
+  <string name="naxprovidercreation_add_user">Lägg till användare</string>
+  <string name="naxprovidercreation_creating_account">Skapa konto...</string>
+  <string name="naxprovidercreation_account_added">Konto tillagt.</string>
+  <string name="naxprovidercreation_create_failed">Inloggning misslyckades. %s</string>
+</resources>

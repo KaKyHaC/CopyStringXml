@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">Вспомогательная диагностика</string>
+  <string name="diagnostics_loggingTitle">Разрешить передачу диагностических данных</string>
+  <string name="diagnostics_loggingDescription">Не включайте отправку диагностических данных без указания службы технической поддержки Crestron.</string>
+  <string name="diagnostics_submitDiagnostics">Оформить вспомогательную диагностику</string>
+  <string name="diagnostics_submitMessage">Crestron рекомендует отправлять диагностику только при работе с вашим дилером Crestron или по запросу службы поддержки Crestron. \n\nНажав кнопку "Отправить", вы сможете выбрать способ передачи файла. Следуйте инструкциям вашего дилера Crestron или службы поддержки клиентов Crestron относительно того, куда отправить этот файл.</string>
+  <string name="diagnostics_submit">Отправить</string>
+</resources>

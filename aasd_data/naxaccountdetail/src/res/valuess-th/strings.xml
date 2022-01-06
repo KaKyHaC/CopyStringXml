@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">บัญชี</string>
+  <string name="naxaccountdetail_edit_name">แก้ไขชื่อ</string>
+  <string name="naxaccountdetail_signIn">ลงชื่อเข้าใช้</string>
+  <string name="naxaccountdetail_remove">เอาออก</string>
+  <string name="naxaccountdetail_remove_yes">ใช่ นำออก</string>
+  <string name="naxaccountdetail_removeAccount_warning">บัญชี  %s จะไม่สามารถเข้าถึงได้ผ่าน Crestron Home อีกต่อไป\n\n ต้องการดำเนินการต่อหรือไม่</string>
+</resources>

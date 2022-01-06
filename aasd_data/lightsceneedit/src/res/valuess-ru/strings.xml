@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">Редактировать места освещения</string>
+  <string name="lightSceneEdit_scenesCategory">Зоны</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">Не удалось удалить указанное место.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">Не удалось отредактировать указанное место.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">ОК</string>
+</resources>

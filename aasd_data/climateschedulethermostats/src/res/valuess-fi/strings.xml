@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">Apply to selected</string>
+  <string name="climateschedulethermostats_title">Thermostat list</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">All thermostats</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">Event has been successfully applied to selected thermostats.</string>
+  <string name="climateschedulethermostats_eventsCopyError">Some settings could not be copied to one, or more, thermostats.</string>
+</resources>

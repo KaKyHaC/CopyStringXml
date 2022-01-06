@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Sikkerhet</string>
+  <string name="securitylib_securitySystem">Sikkerhetssystem</string>
+  <string name="securitylib_securitySystemWithName">Sikkerhetssystem %s</string>
+  <string name="securitylib_alarm_alarm">Alarm</string>
+  <string name="securitylib_alarm_fire">Brann</string>
+  <string name="securitylib_alarm_burglary">Innbrudd</string>
+  <string name="securitylib_alarm_medical">Medisinsk</string>
+  <string name="securitylib_alarm_tamper">Tamper</string>
+  <string name="securitylib_arming_armedStay">Bevæpnet opphold</string>
+  <string name="securitylib_arming_exitDelayActive">Utgangsforsinkelse aktiv</string>
+  <string name="securitylib_arming_disarmed">Avvæpnet</string>
+  <string name="securitylib_arming_ready">Klar</string>
+  <string name="securitylib_arming_armedAway">Bevæpnet bort</string>
+  <string name="securitylib_arming_notReady">Ikke klar</string>
+  <string name="securitylib_arming_entryDelayActive">Inngangsforsinkelse aktiv</string>
+  <string name="securitylib_arming_armedStayInstant">Bevæpnet Hold deg øyeblikkelig</string>
+  <string name="securitylib_arming_armedAwayInstant">Bevæpnet bort øyeblikkelig</string>
+  <string name="securitylib_arming_armedBypass">Bevæpnet omkjøringsvei</string>
+  <string name="securitylib_arming_armedBypassInstant">Bevæpnet omkjøringsvei umiddelbar</string>
+</resources>

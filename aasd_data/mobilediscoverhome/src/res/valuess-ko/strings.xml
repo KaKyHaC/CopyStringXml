@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mobilediscoverhome_downloadSgMessage">스마트 그래픽 앱을 다운로드하여 홈을 제어하십시오.</string>
+  <string name="mobilediscoverhome_cancel">취소</string>
+  <string name="mobilediscoverhome_downloadApp">앱 다운로드</string>
+</resources>

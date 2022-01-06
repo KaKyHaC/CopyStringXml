@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Создать новую зону</string>
+  <string name="lightSceneCreate_add_lights">Добавить освещение</string>
+  <string name="lightSceneCreate_add_more_lights">Добавьте больше освещения</string>
+  <string name="lightSceneCreate_save">Сохранить</string>
+  <string name="lightSceneCreate_set_scene_options">УСТАНОВИТЬ ПАРАМЕТРЫ МЕСТА </string>
+  <string name="lightSceneCreate_fade_time">Время затемнения</string>
+  <string name="lightSceneCreate_scene_visibility">Видимость зоны</string>
+  <string name="lightSceneCreate_subtitle_template">%d ИЗ %d МЕСТ</string>
+</resources>

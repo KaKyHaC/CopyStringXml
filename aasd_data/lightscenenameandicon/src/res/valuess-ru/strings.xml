@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sceneNameAndIcon_title">Название и значок зоны</string>
+  <string name="sceneNameAndIcon_subtitle">Введите название новой зоны и выберите значок.</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="lightSceneVisibility_title">場景可視性</string>
+  <string name="lightSceneVisibility_subtitle">%s 場景</string>
+</resources>

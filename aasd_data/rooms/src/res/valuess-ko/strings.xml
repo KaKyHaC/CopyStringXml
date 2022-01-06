@@ -1,0 +1,6 @@
+<resources>
+  <string name="rooms_title">룸</string>
+  <string name="room_groups_choose_room_filter">룸 필터 선택</string>
+  <string name="rooms">룸</string>
+  <string name="rooms_no_rooms_visible">하우스에 룸이 없습니다.</string>
+</resources>

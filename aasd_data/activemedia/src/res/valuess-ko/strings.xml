@@ -1,0 +1,10 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">
+모든 미디어 끄기</string>
+  <string name="activemedia_activeMedia">능동적 매체 (%d)</string>
+  <string name="activemedia_audio">오디오</string>
+  <string name="activemedia_video">동영상</string>
+  <string name="activemedia_multiple_displays">다중 디스플레이</string>
+  <string name="activemedia_left_display">좌측 디스플레이</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">정말 홈 전체의 전원을 끄시겠습니까?</string>
+</resources>

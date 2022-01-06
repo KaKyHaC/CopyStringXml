@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">Você</string>
+  <string name="cloud_relay_users_no_user">Não há usuários disponíveis.</string>
+  <string name="cloud_relay_users_add_new_user">+ Adicionar um novo usuário</string>
+  <string name="cloud_relay_users_reclaim_home">Recuperar esta casa</string>
+  <string name="cloud_relay_users_role_format">%s (Convite pendente)</string>
+  <string name="cloud_relay_users_info_unavailable">"Informações do usuário indisponíveis. Por favor, tente mais tarde."</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">Mata in säkerhetskod</string>
+  <string name="securitypasscodeentry_saveMessage">Spara koden för den här enheten. Du kommer inte att behöva mata in koden igen.</string>
+  <string name="securitypasscodeentry_invalidPasscode">Fel kod. Försök igen.</string>
+  <string name="securitypasscodeentry_passcodeRequired">Koden är tom. Mata in korrekt kod.</string>
+</resources>

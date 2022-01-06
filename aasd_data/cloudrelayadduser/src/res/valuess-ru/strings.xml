@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">назначить роль пользователя</string>
+  <string name="cloudrelayadduser_user">Пользователь</string>
+  <string name="cloudrelayadduser_owner">Владелец</string>
+  <string name="cloudrelayadduser_username">Имя пользователя</string>
+  <string name="cloudrelayadduser_email">Эл. почта</string>
+  <string name="cloudrelayadduser_yes">Да</string>
+  <string name="cloudrelayadduser_no">Нет</string>
+  <string name="cloudrelayadduser_invite_warning">Вы не закончили отправку приглашений. Продолжить редактирование?</string>
+  <string name="cloudrelayadduser_send_invite">Отправить приглашение</string>
+  <string name="cloudrelayadduser_invite_sent">Приглашение отправлено.</string>
+  <string name="cloudrelayadduser_add_new_user">Добавить нового пользователя</string>
+</resources>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">בקרות מזג אוויר</string>
+  <string name="climate_current_temperature">טמפרטורה נוכחית</string>
+  <string name="climate_mode">מצב</string>
+  <string name="climate_schedule">תזמון</string>
+  <string name="climate_fan">מאוורר</string>
+  <string name="climate_floor_heating">חימום רצפה</string>
+  <string name="climate_humidity_controls">בקרות לחות</string>
+  <string name="climate_humidify">לחות ל-</string>
+  <string name="climate_floor_control">בקרת רצפה</string>
+  <string name="climate_currentHumidity_title">לחות נוכחית</string>
+  <string name="climate_humidityControl_title">בקרת לחות</string>
+</resources>

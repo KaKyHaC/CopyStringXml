@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Beveiliging</string>
+  <string name="securitylib_securitySystem">Beveiligingssysteem</string>
+  <string name="securitylib_securitySystemWithName">Beveiligingssystemen %s</string>
+  <string name="securitylib_alarm_alarm">Alarm</string>
+  <string name="securitylib_alarm_fire">Vuur</string>
+  <string name="securitylib_alarm_burglary">Inbraak</string>
+  <string name="securitylib_alarm_medical">Medisch</string>
+  <string name="securitylib_alarm_tamper">Zegel</string>
+  <string name="securitylib_arming_armedStay">gewapend verblijf</string>
+  <string name="securitylib_arming_exitDelayActive">Uitgangsvertraging actief</string>
+  <string name="securitylib_arming_disarmed">Uitgeschakeld</string>
+  <string name="securitylib_arming_ready">Klaar</string>
+  <string name="securitylib_arming_armedAway">Gewapend weg</string>
+  <string name="securitylib_arming_notReady">Niet klaar</string>
+  <string name="securitylib_arming_entryDelayActive">Inloopvertraging actief</string>
+  <string name="securitylib_arming_armedStayInstant">Onmiddellijk gewapend blijven</string>
+  <string name="securitylib_arming_armedAwayInstant">Onmiddellijk gewapend</string>
+  <string name="securitylib_arming_armedBypass">Gewapende bypass</string>
+  <string name="securitylib_arming_armedBypassInstant">Onmiddellijk ingeschakelde bypass</string>
+</resources>

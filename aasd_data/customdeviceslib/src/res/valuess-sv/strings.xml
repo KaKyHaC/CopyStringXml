@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">Huvud layout %s har tagits bort.</string>
+  <string name="customdevice_controlNotAvailable">KONTROLL EJ TILLGÄNGLIG</string>
+  <string name="customdevice_emptyAlertTitle">Information ej tillgänglig.</string>
+  <string name="customdevice_emptyLayoutError">Ingen layout med id %s.</string>
+  <string name="customdevice_emptyMediaLayoutError">Ingen layout definierad för källa med ägar-id %d.</string>
+  <string name="customdevice_emptyAlertError">Ingen layout med id %s.</string>
+  <string name="customdevice_alertError">Ett fel uppstod vid öppningsvarning med id %s.</string>
+  <string name="customdevice_layoutError">Ett fel uppstod vid öppningslayout med id %s.</string>
+  <string name="customdevice_emptySelectionList">Inga objekt att visa för %s.</string>
+  <string name="customdevice_setValueGenericError">Något gick fel. Värdet kan inte ändras.</string>
+  <string name="customdevice_setValueError">Värdet kunde inte ändras. %s</string>
+  <string name="customdevice_runCommandGenericError">Något gick fel. Kommandot kunde inte utföras.</string>
+  <string name="customdevice_runCommandError">Kommandot kunde inte utföras. %s</string>
+  <string name="customdevice_thermostat_setpoint">INSTÄLLD TILL</string>
+  <string name="customdevice_thermostat_heatSetpoint">VÄRME TILL</string>
+  <string name="customdevice_thermostat_coolSetpoint">KYLA TILL</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">Navigeringsfältet är felkonfigurerat.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">Använd en extern app eller enhet för kontroll.</string>
+  <string name="customdevice_mediaEmptyScreen_title">Ingen kontroll tillgänglig.</string>
+</resources>

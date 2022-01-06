@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">הגישה תוסר מכל המשתמשים הקיימים עבור הבית הזה. תוכל לבחור בהחזרת גישה לאותם משתמשים לאחר השלמת הטיעון.</string>
+  <string name="cloudrelayclaim_title">המשך בטיעון</string>
+  <string name="cloudrelayclaim_continue">המשך</string>
+  <string name="cloudrelayclaim_success">הקש על הלחצן "משתמשים" למעלה כדי להתחיל לתת גישה למשפחה ולחברים שלך.</string>
+  <string name="cloudrelayclaim_warning_ok">אישור</string>
+  <string name="cloudrelayclaim_warning_subtitle">אנא צור קשר עם משוק Crestron שלך לקבלת סיוע.</string>
+  <string name="cloudrelayclaim_warning_title">לא ניתן לבקש את הבית שלך בשלב זה</string>
+</resources>

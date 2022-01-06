@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sceneNameAndIcon_title">场景名称&amp;图标</string>
+  <string name="sceneNameAndIcon_subtitle">输入您的新场景的名称并选择图标。</string>
+</resources>

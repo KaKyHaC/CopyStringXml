@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">PIKATOIMINNOT</string>
+  <string name="room_room_services">ROOM SERVICES</string>
+  <string name="renameroomgroup_popupCancelButton">Peruuta</string>
+  <string name="renameroomgroup_popupCreateButton">Nimeä uudelleen</string>
+  <string name="renameroomgroup_popupTitle">Rename room</string>
+</resources>

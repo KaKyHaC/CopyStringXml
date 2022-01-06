@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">assign user role</string>
+  <string name="cloudrelaymemberdetail_user">משתמש</string>
+  <string name="cloudrelaymemberdetail_owner">בעלים</string>
+  <string name="cloudrelaymemberdetail_remove_user">הסר משתמש</string>
+  <string name="cloudrelaymemberdetail_house_access">גישה לבית</string>
+  <string name="cloudrelaymemberdetail_enable_access">Enable access</string>
+  <string name="cloudrelaymemberdetail_remove">הסר</string>
+  <string name="cloudrelaymemberdetail_cancel">בטל</string>
+  <string name="cloudrelaymemberdetail_remove_warning">Are you sure you want to remove this user?</string>
+</resources>

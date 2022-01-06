@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">Editar nome</string>
+  <string name="cloudrelayeditusername_subtitle">Conexão de nuvem remota</string>
+  <string name="cloudrelayeditusername_accountLabel">Conta</string>
+  <string name="cloudrelayeditusername_editNameLabel">nome</string>
+  <string name="cloudrelayeditusername_done">Concluído</string>
+</resources>

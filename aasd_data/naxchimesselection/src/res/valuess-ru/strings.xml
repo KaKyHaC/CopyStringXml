@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesSelection_helpText_text">Выберите звук для этого действия. Этот звук будет применяться ко всем зонам, в которых включено это действие.</string>
+</resources>

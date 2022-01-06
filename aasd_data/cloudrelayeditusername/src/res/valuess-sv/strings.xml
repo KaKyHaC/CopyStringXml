@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">Redigera namn</string>
+  <string name="cloudrelayeditusername_subtitle">Fjärrstyrd molnanslutning</string>
+  <string name="cloudrelayeditusername_accountLabel">Konto</string>
+  <string name="cloudrelayeditusername_editNameLabel">namn</string>
+  <string name="cloudrelayeditusername_done">Klart</string>
+</resources>

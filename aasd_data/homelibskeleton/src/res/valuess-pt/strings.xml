@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">ADICONAR CASA</string>
+  <string name="homelibskeleton_discoverHome">DescubrIR a casa</string>
+  <string name="homelibskeleton_addManually">Adicionar manualmente</string>
+  <string name="homelibskeleton_editHome">Editar</string>
+  <string name="homelibskeleton_deleteHome">Eliminar</string>
+  <string name="homelibskeleton_deleteHomeWarning">Tem certeza que deseja excluir %s?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">Se for o único proprietário, a exclusão fará com que todos os outros utilizadores percam o acesso remoto a esta casa.</string>
+  <string name="homelibskeleton_cancel">Cancelar</string>
+  <string name="homelibskeleton_ok">OK</string>
+</resources>

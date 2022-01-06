@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">Attiva le opzione dello sviluppatore</string>
+  <string name="reset_logging_after_24_hours">Ripristina la registrazione dopo le 24 ore</string>
+  <string name="developer_options">Opzioni per lo sviluppatore</string>
+  <string name="logging_level">Livello di registrazione</string>
+  <string name="logging">Registrazione</string>
+  <string name="network_logging">Registrazione in rete</string>
+  <string name="detailed_logging">Registrazione dettagliata</string>
+</resources>

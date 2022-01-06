@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">
+セキュリティコードを入力してください</string>
+  <string name="securitypasscodeentry_saveMessage">このデバイスのコードを保存します。
+このコードを再度入力するように求められることはありません。</string>
+  <string name="securitypasscodeentry_invalidPasscode">誤ったコードです。もう一度お試しください。</string>
+  <string name="securitypasscodeentry_passcodeRequired">コードが空です。正しいコードを入力してください。</string>
+</resources>

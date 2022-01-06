@@ -1,0 +1,9 @@
+<resources>
+  <string name="naxprovidercreation_enter_name">שם משתמש</string>
+  <string name="naxprovidercreation_description">הזן שם ל- %s משתמש חדש</string>
+  <string name="naxprovidercreation_title">הוסף %s משתמש</string>
+  <string name="naxprovidercreation_add_user">הוסף משתמש</string>
+  <string name="naxprovidercreation_creating_account">צור חשבון...</string>
+  <string name="naxprovidercreation_account_added">חשבון הוסף.</string>
+  <string name="naxprovidercreation_create_failed">ההתחברות נכשלה. %s</string>
+</resources>

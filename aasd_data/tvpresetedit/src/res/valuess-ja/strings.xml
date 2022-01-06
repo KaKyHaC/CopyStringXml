@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">お気に入り </string>
+  <string name="tvpresetedit_addFavoriteChannel">＋お気に入りのチャンネルを追加する　</string>
+  <string name="tvpresetedit_favoritesTitle">%s のお気に入り　</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">お気に入り</string>
+  <string name="tvpresetedit_moreItem_renameGroup">名前の変更</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">グループの削除　</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">このグループを削除しますか?　</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">削除
+</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">キャンセル</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">OK</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">すみません。最終のグループは削除できません　</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">このグループはすでに削除されています。　</string>
+</resources>

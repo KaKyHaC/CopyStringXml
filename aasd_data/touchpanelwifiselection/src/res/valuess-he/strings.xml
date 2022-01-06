@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Wifi Selection Back Action</string>
+  <string name="touchpanelWifiSelection_title">בחירת WIFI</string>
+  <string name="touchpanelWifiSelection_Discovering">גילוי</string>
+  <string name="touchpanelWifiSelection_tryAgain">נסה שוב</string>
+  <string name="touchpanelWifiSelection_titleFound">התחבר לנקודת גישה ל-WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleFound">נא לבחור נקודת גישה WIFI</string>
+  <string name="touchpanelWifiSelection_titleNotFound">לא נמצאה נקודת גישה ל-WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">לא נמצאו נקודות גישה ל-WiFi. אנא בדוק את חיבור הרשת שלך ונסה שוב.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">מחפש נקודות גישה ל-WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">אנא המתן עד לסיום הסריקה</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+  <string name="mercuryminisettings_brightness">Ljusstyrka</string>
+  <string name="mercuryminisettings_touchToWake_title">Vakna endast vid beröring</string>
+  <string name="mercuryminisettings_ipAddress_title">IP-adress</string>
+  <string name="mercuryminisettings_interrupt_label">Störningar</string>
+</resources>

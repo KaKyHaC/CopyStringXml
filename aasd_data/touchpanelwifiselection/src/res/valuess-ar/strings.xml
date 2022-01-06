@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">زر الرجوع لتحديد الوايفاي</string>
+  <string name="touchpanelWifiSelection_title">تحديد الوايفاي</string>
+  <string name="touchpanelWifiSelection_Discovering">استكشاف</string>
+  <string name="touchpanelWifiSelection_tryAgain">إعادة المحاولة</string>
+  <string name="touchpanelWifiSelection_titleFound">الاتصال بنقطة وصول وايفاي</string>
+  <string name="touchpanelWifiSelection_subtitleFound">يُرجى تحديد نقطة وصول.</string>
+  <string name="touchpanelWifiSelection_titleNotFound">لم يتم العثور على أي نقطة وصول وايفاي</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">لم يتم العثور على نقاط وصول وايفاي. يرجى التحقق من اتصال الشبكة لديك وحاول مرة أخرى.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">البحث عن نقاط وصول الوايفاي</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">يُرجى الانتظار حتى يكتمل الفحص</string>
+</resources>

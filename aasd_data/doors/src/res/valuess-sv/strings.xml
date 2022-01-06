@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">Dörrlås</string>
+  <string name="doors_scenes">SCENER</string>
+  <string name="doors_controls">KONTROLLER</string>
+  <string name="doors_lock_all">Lås alla</string>
+  <string name="doors_unlock_all">Lås upp alla</string>
+</resources>

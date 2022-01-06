@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Wi-Fi kijelölés vissza művelet</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">Új hozzáférési pont hozzáadása</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">Érintse meg a WAP-beállítások hozzáadásához.</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">Adja meg a hálózathoz tartozó jelszót, majd koppintson a „Csatlakozás” lehetőségre.</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">WAP CSATLAKOZÁSI BEÁLLÍTÁSOK</string>
+  <string name="touchpanelWifiPasswordEntry_connect">Csatlakozás</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">NÉV (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">JELSZÓ</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">BIZTONSÁG</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">WAP csatlakozás</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP csatlakoztatva</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">Ethernet kábel csatlakoztatva</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">Sikertelen WAP csatlakozás</string><string name="touchpanelEncryptionSelection_title">Wi-Fi titkosítási beállítások</string></resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">与%s合并</string>
+  <string name="managegroups_ungroupAll">对所有撤消分组</string>
+  <string name="managegroups_ungroupRoom">对%s撤消分组</string>
+  <string name="managegroups_mergeSelected">将选择的项目整合到分组中</string>
+</resources>

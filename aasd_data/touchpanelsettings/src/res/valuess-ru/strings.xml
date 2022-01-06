@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">настройки кнопка "Назад"</string>
+  <string name="touchPanelsettings_toolbar">Настройки</string>
+  <string name="touchPanelsettings_toolbar_default_room">Комната по умолчанию</string>
+  <string name="touchPanelsettings_room_list">СПИСОК КОМНАТ</string>
+  <string name="touchPanelsettings_display">ДИСПЛЕЙ</string>
+  <string name="touchPanelsettings_automode_brightness">Автоматический режим яркости</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">Время ожидания дисплея</string>
+  <string name="touchPanelsettings_screensaver">Экранная заставка</string>
+  <string name="touchPanelsettings_media_volume">Громкость мультимедиа</string>
+  <string name="touchPanelsettings_home">ГЛАВНАЯ</string>
+  <string name="touchPanelsettings_advanced_settings">Дополнительные настройки</string>
+  <string name="touchPanelsettings_edit_home">Редактировать дом</string>
+  <string name="touchPanelsettings_info">Информация</string>
+  <string name="touchPanelsettings_firmware_version">Версия встроенного ПО</string>
+  <string name="touchPanelsettings_ui_version">Версия пользовательского интерфейса</string>
+  <string name="touchPanelsettings_volume">Громкость</string>
+  <string name="touchPanelsettings_edit_home_popup_message">Меняйте эти настройки только по указанию дилера Crestron.</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">Продолжить</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">Отмена</string>
+  <string name="touchPanelsettings_timeout_text_never">Никогда</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s секунд</string>
+  <string name="touchPanelsettings_timeout_text_minute">1 минута</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s минут</string>
+  <string name="touchPanelsettings_timeout_text_hour">1 час</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s часов</string>
+  <string name="touchPanelsettings_access_points">Точка доступа WiFi</string>
+  <string name="touchPanelsettings_intercom">СИСТЕМА ВНУТРЕННЕЙ СВЯЗИ И ПРЕРЫВАНИЯ СВЯЗИ</string>
+  <string name="touchPanelsettings_do_not_disturb">Не беспокоить</string>
+  <string name="touchPanelsettings_play_test">Проверка воспроизведения</string>
+  <string name="touchPanelsettings_speakervolume_label">Громкость динамика</string>
+</resources>

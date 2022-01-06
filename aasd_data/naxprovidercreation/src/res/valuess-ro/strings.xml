@@ -1,0 +1,9 @@
+<resources>
+  <string name="naxprovidercreation_enter_name">Nume de utilizator</string>
+  <string name="naxprovidercreation_description">Introduceți un nume pentru noul utilizator %s.</string>
+  <string name="naxprovidercreation_title">Adăugați % utilizator</string>
+  <string name="naxprovidercreation_add_user">Adăugați utilizator</string>
+  <string name="naxprovidercreation_creating_account">Creați un cont...</string>
+  <string name="naxprovidercreation_account_added">Contul a fost adăugat.</string>
+  <string name="naxprovidercreation_create_failed">Autentificare eșuată. %s.</string>
+</resources>

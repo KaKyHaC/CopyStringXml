@@ -1,0 +1,11 @@
+<resources>
+  <string name="cloudrelaymemberdetail_assign_user">사용자 역할 할당</string>
+  <string name="cloudrelaymemberdetail_user">사용자</string>
+  <string name="cloudrelaymemberdetail_owner">소유자</string>
+  <string name="cloudrelaymemberdetail_remove_user">사용자 삭제</string>
+  <string name="cloudrelaymemberdetail_house_access">홈 액세스</string>
+  <string name="cloudrelaymemberdetail_enable_access">액세스 가능</string>
+  <string name="cloudrelaymemberdetail_remove">삭제</string>
+  <string name="cloudrelaymemberdetail_cancel">취소</string>
+  <string name="cloudrelaymemberdetail_remove_warning">정말 이 사용자를 삭제하시겠습니까?</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">설정 돌리기 버튼</string>
+  <string name="touchPanelsettings_toolbar">설정</string>
+  <string name="touchPanelsettings_toolbar_default_room">기본 룸</string>
+  <string name="touchPanelsettings_room_list">룸 목록</string>
+  <string name="touchPanelsettings_display">디스플레이</string>
+  <string name="touchPanelsettings_automode_brightness">자동 모드 밝기</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">디스플레이 시간 초과</string>
+  <string name="touchPanelsettings_screensaver">화면 보호기</string>
+  <string name="touchPanelsettings_media_volume">미디어 볼륨</string>
+  <string name="touchPanelsettings_home">홈</string>
+  <string name="touchPanelsettings_advanced_settings">고급 설정</string>
+  <string name="touchPanelsettings_edit_home">홈 편집</string>
+  <string name="touchPanelsettings_info">정보</string>
+  <string name="touchPanelsettings_firmware_version">펌웨어 버전</string>
+  <string name="touchPanelsettings_ui_version">UI 버전</string>
+  <string name="touchPanelsettings_volume">볼륨</string>
+  <string name="touchPanelsettings_edit_home_popup_message">이 설정은 Crestron 딜러점에서 지시한 경우에만 변경하십시오.</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">계속</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">취소</string>
+  <string name="touchPanelsettings_timeout_text_never">안 함</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s 초</string>
+  <string name="touchPanelsettings_timeout_text_minute">1 분</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s 분</string>
+  <string name="touchPanelsettings_timeout_text_hour">1 시간</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s 시간</string>
+  <string name="touchPanelsettings_access_points">WiFi 접속점</string>
+  <string name="touchPanelsettings_intercom">인터콤 및 중단</string>
+  <string name="touchPanelsettings_do_not_disturb">방해 금지</string>
+  <string name="touchPanelsettings_play_test">재생 테스트</string>
+  <string name="touchPanelsettings_speakervolume_label">스피커 볼륨</string>
+</resources>

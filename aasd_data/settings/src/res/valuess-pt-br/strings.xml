@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Tempo limite da barra de ferramentas virtual</string>
+  <string name="settings_hardkey_wakes_lcd">Hardkey Wakes LCD</string>
+  <string name="settings_master_volume">Volume principal</string>
+  <string name="settings_hardkey_behavior">COMPORTAMENTO DOS BOTÕES DO PAINEL ACIMA/ABAIXO</string>
+  <string name="settings_hardkey_no_function">Sem função</string>
+  <string name="settings_hardkey_lights">Luzes (do quarto "Aumentar"/"Diminuir")</string>
+  <string name="settings_hardkey_shades">Tonalidades (do quarto "Aumentar"/"Diminuir")</string>
+  <string name="settings_hardkey_media">Mídia (do quarto "Volume+"/"Volume-")</string>
+  <string name="settings_advanced_settings_toolbar">Configurações avançadas</string>
+</resources>

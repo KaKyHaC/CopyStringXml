@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">密码不正确</string>
+  <string name="advancedpassword_passwordHint">输入密码以编辑计划事件。</string>
+  <string name="advancedpassword_settingsPasswordHint">此为保护字段，请首先输入密码。</string>
+  <string name="advancedpassword_editScenesPasswordHint">此为保护字段，请首先输入密码。</string>
+  <string name="advancedpassword_title">输入密码</string>
+  <string name="advancedpassword_advancedUserPassword">高级用户密码</string>
+  <string name="advancedpassword_advancedUserPasswordHint">联系您的Crestron授权经销商以获得您的高级用户密码。</string>
+  <string name="advancedpassword_warning_ok">确定</string>
+  <string name="advancedpassword_warning_subtitle">如果您多次输入不正确的密码，您的账户会暂时被锁定。请稍后重试或联系您的Crestron授权经销商。</string>
+  <string name="advancedpassword_warning_title">您已经输入错误的密码。</string>
+  <string name="advancedpassword_cloud_claim_hint">要继续认领您的房间，输入高级用户密码。联系您的授权Crestron经销商获取您的高级用户密码。</string>
+  <string name="advancedpassword_cloud_claim_skip">您可以%s，并能在此时不适用高级用户密码进入您的房屋。</string>
+  <string name="advancedpassword_skip_this_step">跳过此步骤</string>
+</resources>

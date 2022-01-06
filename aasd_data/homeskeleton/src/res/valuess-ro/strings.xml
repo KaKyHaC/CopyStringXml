@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">ACȚIUNI RAPIDE</string>
+  <string name="home_home_controls">COMENZI ÎN HOME</string>
+  <string name="home_lock_all">Blocați totul</string>
+  <string name="home_unlock_all">Deblocați totul</string>
+  <string name="home_security_system">Sistem de securitate</string>
+  <string name="home_climate">CLIMAT</string>
+  <string name="home_locks">Încuietori uşi</string>
+  <string name="home_cameras">APARATE FOTO</string>
+  <string name="home_access">Acces la casă</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">Lichtscènes bewerken</string>
+  <string name="lightEditSingleScene_set_scene_options">SCNE-OPTIES INSTELLEN</string>
+  <string name="lightEditSingleScene_delete_scene">Deze scène verwijderen</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">Weet u zeker dat u deze scène wilt verwijderen?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">VERWIJDEREN</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">ANNULEREN</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">Sorry, deze scène kan niet worden verwijderd</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">OK</string>
+  <string name="lightEditSingleScene_dismiss">WEIGEREN</string>
+  <string name="lightEditSingleScene_cannot_edit">Sorry, de naam en het pictogram van deze scène kunnen niet worden bewerkt</string>
+</resources>

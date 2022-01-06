@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Selezione Wi-Fi con Azione Apposita</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">Aggiungi nuovo punto di accesso</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">Tocca per aggiungere le impostazioni WAP.</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">Inserisci la password per questa rete e clicca su "Connetti".</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">IMPOSTAZIONI DI CONNESSIONE WAP</string>
+  <string name="touchpanelWifiPasswordEntry_connect">COLLEGA</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">NOME (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">Password</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">Sicurezza</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">Connessione a WAP</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP connesso</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">Cavetto ethernet connesso</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">Connessione WAP fallito</string><string name="touchpanelEncryptionSelection_title">Impostazioni di crittografia WiFi</string></resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetedit_favoriteTag">KEDVENCEK</string>
+  <string name="tvpresetedit_addFavoriteChannel">+ Kedvenc csatornák hozzáadása</string>
+  <string name="tvpresetedit_favoritesTitle">%s kedvenc</string>
+  <string name="tvpresetedit_moreItem_favoriteCategory">Kedvencek</string>
+  <string name="tvpresetedit_moreItem_renameGroup">Átnevezés</string>
+  <string name="tvpresetedit_moreItem_deleteGroup">Csoport törlése</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationMessage">Biztos, hogy törölni szeretné ezt a csoportot?</string>
+  <string name="tvpresetedit_deleteConfirmPopup_confirmationButton">Törlés</string>
+  <string name="tvpresetedit_deleteConfirmPopup_cancelButton">Mégse</string>
+  <string name="tvpresetedit_deleteErrorPopups_dismissButton">OK</string>
+  <string name="tvpresetedit_deleteErrorPopups_lastGroupMessage">Sajnáljuk, az utolsó csoport nem törölhető</string>
+  <string name="tvpresetedit_deleteErrorPopups_deleteFailedMessage">Ezt a csoportot már korábban törölték.</string>
+</resources>

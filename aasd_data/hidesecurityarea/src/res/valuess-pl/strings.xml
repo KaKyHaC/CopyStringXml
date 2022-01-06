@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">POKAŻ STREFY</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">ukryj przycisk powrotu do stref bezpieczeństwa</string>
+</resources>

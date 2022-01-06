@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sleeptimer_hint">为此房间中的所有已激活媒体设置断电睡眠时间。</string>
+  <string name="sleeptimer_disabledMsg">设置时间</string>
+  <string name="sleeptimer_enabledMsg">%s将断电</string>
+  <string name="sleeptimer_controlTitle">睡眠定时器</string>
+  <string name="sleeptimer_timeFormat">%02d:%02d</string>
+</resources>

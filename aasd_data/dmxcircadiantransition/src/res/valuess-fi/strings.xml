@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianTransition_title">Edit %s</string>
+  <string name="circadianTransition_description">Choose when the “%s” transition point starts and set desired color temperature for it. These settings affect all rooms.</string>
+  <string name="circadianTransition_categoryTitle_startTime">Set start time</string>
+  <string name="circadianTransition_categoryTitle_colorTemperature">Set color temperature</string>
+  <string name="circadianTransition_colorTemperature">Värilämpötila — %dK</string>
+  <string name="circadianTransition_morning">Aamu</string>
+  <string name="circadianTransition_day">Päivä</string>
+  <string name="circadianTransition_evening">Ilta</string>
+  <string name="circadianTransition_night">Yö</string>
+  <string name="circadianTransition_timePicker_header">Aloita</string>
+  <string name="circadianTransition_timePicker_colon">:</string>
+  <string name="circadianTransition_timePicker_minuteFormat">%02d</string>
+</resources>

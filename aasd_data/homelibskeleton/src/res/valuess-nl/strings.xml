@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="homelibskeleton_addNewHome">NIEUW HUIS TOEVOEGEN</string>
+  <string name="homelibskeleton_discoverHome">Ontdek thuis</string>
+  <string name="homelibskeleton_addManually">HANDMATIG TOEVOEGEN</string>
+  <string name="homelibskeleton_editHome">Bewerken</string>
+  <string name="homelibskeleton_deleteHome">VERWIJDEREN</string>
+  <string name="homelibskeleton_deleteHomeWarning">Weet je zeker dat je %s wilt verwijderen?</string>
+  <string name="homelibskeleton_deleteHomeWarning_subtitle">Als u de enige eigenaar bent die verwijdert, zullen alle andere gebruikers de externe toegang tot dit huis verliezen.</string>
+  <string name="homelibskeleton_cancel">ANNULEREN</string>
+  <string name="homelibskeleton_ok">OK</string>
+</resources>

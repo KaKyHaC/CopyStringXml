@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">เลย์เฮาต์หลัก %s ถูกลบไปแล้ว</string>
+  <string name="customdevice_controlNotAvailable">ไม่สามารถควบคุมได้</string>
+  <string name="customdevice_emptyAlertTitle">ไม่มีข้อมูลพร้อมใช้</string>
+  <string name="customdevice_emptyLayoutError">ไม่มีเลย์เอาต์ที่ใช้ id %s</string>
+  <string name="customdevice_emptyMediaLayoutError">ไม่ได้กำหนดเลย์เอาต์สำหรับแหล่งข้อมูลของผู้ใช้ id %d</string>
+  <string name="customdevice_emptyAlertError">ไม่มีเลย์เอาต์ที่ใช้ id %s</string>
+  <string name="customdevice_alertError">เกิดข้อผิดพลาดในการเปิดการแจ้งเตือนกับ id %s</string>
+  <string name="customdevice_layoutError">เกิดข้อผิดพลาดในการเปิดเลย์เอาต์กับ id %s</string>
+  <string name="customdevice_emptySelectionList">ไม่มีรายการที่แสดงสำหรับ %s</string>
+  <string name="customdevice_setValueGenericError">มีข้อผิดพลาดบางประการ ไม่สามารถเปลี่ยนแปลงค่าได้</string>
+  <string name="customdevice_setValueError">ไม่สามารถเปลี่ยนค่าได้ %s</string>
+  <string name="customdevice_runCommandGenericError">มีข้อผิดพลาดเกิดขึ้น ไม่สามารถทำตามคำสั่งได้</string>
+  <string name="customdevice_runCommandError">ไม่สามารถทำตามคำสั่งได้ %s</string>
+  <string name="customdevice_thermostat_setpoint">ตั้งค่าไปที่</string>
+  <string name="customdevice_thermostat_heatSetpoint">ให้ความร้อนไปที่</string>
+  <string name="customdevice_thermostat_coolSetpoint">ให้ความเย็นไปที่</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">พื้นที่นำทางถูกกำหนดค่าผิดพลาด</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">โปรดใช้แอปหรืออุปกรณ์ภายนอกในการควบคุม</string>
+  <string name="customdevice_mediaEmptyScreen_title">ไม่มีการควบคุมที่ใช้ได้</string>
+</resources>

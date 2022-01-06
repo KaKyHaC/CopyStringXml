@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Caducidad de la barra de herramientas virtual</string>
+  <string name="settings_hardkey_wakes_lcd">Despertador Hardkey Wakes LCD </string>
+  <string name="settings_master_volume">Volumen principal</string>
+  <string name="settings_hardkey_behavior">COMPORTAMIENTO DEL BOTÓN ARRIBA/ABAJO DEL PANEL</string>
+  <string name="settings_hardkey_no_function">Sin función</string>
+  <string name="settings_hardkey_lights">Luces (subir/bajar en habitación)</string>
+  <string name="settings_hardkey_shades">Elementos de oscurecimiento (subir/bajar en habitación)</string>
+  <string name="settings_hardkey_media">Medios (volumen+/volumen- en habitación)</string>
+  <string name="settings_advanced_settings_toolbar">Ajustes avanzados</string>
+</resources>

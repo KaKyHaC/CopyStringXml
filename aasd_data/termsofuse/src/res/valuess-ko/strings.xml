@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">홈에 오신 것을 환영합니다.</string>
+  <string name="termsofuse_subtitle_one">Crestron은 여러분의 개인정보 보호를 중요하게 생각합니다. 당사에서 수집할 수 있는 정보의 유형을 보려면 아래 링크에서 Crestron의 개인정보 보호정책을 검토하십시오. 시스템의 개인정보 보호 설정을 정보 수집 활성화 또는 비활성화로 변경하려면 공인 Crestron 딜러, Crestron 서비스 공급자 또는 %s를 통해 Crestron Electronics, Inc.에 문의하십시오.</string>
+  <string name="termsofuse_subtitle_two">홈 찾기를 계속하려면 다음 내용에 동의하십시오.</string>
+  <string name="termsofuse_agreeAndContinue">동의 및 계속</string>
+  <string name="termsofuse_termsOfUse">모바일 앱 이용 약관</string>
+  <string name="termsofuse_privacyStatement">개인정보 보호정책</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">본인은 Crestron의 %s 와 %s에 동의합니다.</string>
+</resources>

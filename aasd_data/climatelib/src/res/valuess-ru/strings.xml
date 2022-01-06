@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s климат</string>
+  <string name="climatelib_noActiveThermostats_upperCase">НЕТ ДЕЙСТВУЮЩИХ ТЕРМОСТАТОВ</string>
+  <string name="climatelib_noActiveThermostats">Нет активных термостатов</string>
+  <string name="climatelib_status_multiple_running">Работает несколько термостатов</string>
+  <string name="climatelib_status_heating_to_temperature">Нагревание до %s</string>
+  <string name="climatelib_status_cooling_to_temperature">Охлаждение до %s</string>
+  <string name="climatelib_temperature_degree">%dº</string>
+  <string name="climatelib_temperature_degree_decimal">%.1fº</string>
+  <string name="climatelib_temperature_celsius">%.1fºC</string>
+  <string name="climatelib_temperature_fahrenheit">%dºF</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1fº</string>
+  <string name="climatelib_thermostat_status_decreasing">ОХЛАЖДЕНИЕ ДО%.1fº, H.C. ВКЛ(56%%)</string>
+  <string name="climatelib_thermostat_status_increasing">НАГРЕВАНИЕ ДО%.1Fº, H.C. ВКЛ(56%%)</string>
+  <string name="climatelib_thermostat_status_with_humidity">H.C. ВКЛ (%d%%)</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H. ВКЛ (%s)</string>
+  <string name="climatelib_thermostat_state_offline">Не в сети</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">УСТАНОВИТЬ ОХЛАЖДЕНИЕ</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">УСТАНОВИТЬ НАГРЕВАНИЕ</string>
+  <string name="climatelib_thermostat_setpoint_single">ЗАДАННЫЙ РЕЖИМ</string>
+  <string name="climatelib_set_point">ЗАДАТЬ РЕЖИМ</string>
+  <string name="climatelib_heat_set_point">НАГРЕТЬ ДО</string>
+  <string name="climatelib_cool_set_point">ОХЛАДИТЬ ДО</string>
+  <string name="climatelib_single_set_point">ОДИН АВТОМАТИЧЕСКИЙ</string>
+  <string name="climatelib_temperature_empty">-</string>
+  <string name="climatelib_thermostat_coolTo">ОХЛАДИТЬ ДО %S</string>
+  <string name="climatelib_thermostat_heatTo">НАГРЕТЬ ДО %S</string>
+  <string name="climatelib_thermostat_setTo">УСТАНОВИТЬ НА %S</string>
+  <string name="climatelib_state_off">ВЫКЛ.</string>
+  <string name="climatelib_state_on">ВКЛ.</string>
+  <string name="climatelib_thermostatMode_heat">ТЕПЛО</string>
+  <string name="climatelib_thermostatMode_cool">ХОЛОД</string>
+  <string name="climatelib_thermostatMode_single_auto">Один автоматический</string>
+  <string name="climatelib_thermostatMode_dual_auto">Двойной автоматический</string>
+  <string name="climatelib_thermostatMode_aux_heat">ДОП. ОБОГРЕВ</string>
+  <string name="climatelib_thermostatMode_autoMode">АВТО РЕЖИМ</string>
+  <string name="climatelib_thermostatMode_dualMode">ДВОЙНОЙ РЕЖИМ</string>
+  <string name="climatelib_thermostatFan_auto">Авто</string>
+  <string name="climatelib_thermostatFan_low">Низкий</string>
+  <string name="climatelib_thermostatFan_medium">Средний</string>
+  <string name="climatelib_thermostatFan_high">Высокий</string>
+  <string name="climatelib_thermostatFan_circulate">Распространить</string>
+  <string name="climatelib_thermostatFan_circulateLow">Распространить низкий</string>
+  <string name="climatelib_thermostatFan_circulateMedium">Распространить средний</string>
+  <string name="climatelib_thermostatFan_none">Нет</string>
+  <string name="climatelib_thermostatSchedule_noEvents">Нет событий</string>
+  <string name="climatelib_thermostatSchedule_hold">Останов</string>
+  <string name="climatelib_thermostatSchedule_running">Выполнение</string>
+  <string name="climatelib_thermostatSchedule_run">Запуск</string>
+  <string name="climatelib_thermostatSchedule_override">Временно</string>
+  <string name="climatelib_thermostatSchedule_next">ДАЛЕЕ%1$s -%2$s</string>
+  <string name="climatelib_thermostatSchedule_holding">ВЫКЛЮЧЕНО</string>
+  <string name="climatelib_labelMode">РЕЖИМ</string>
+  <string name="climatelib_labelFan">ВЕНТИЛЯТОР</string>
+  <string name="climatelib_labelSchedule">РАСПИСАНИЕ</string>
+  <string name="climatelib_noScheduleEvents">Плановых событий не существует. Хотите ли вы создать плановые событий сейчас?</string>
+  <string name="climatelib_popupCancel">Отмена</string>
+  <string name="climatelib_popupCreate">Создать</string>
+  <string name="climatelib_scheduleMenu_climateSchedule">КЛИМАТИЧЕСКИЙ ГРАФИК</string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">Назначенные события</string>
+  <string name="climatelib_advancedPassword_incorrectPassword">Неверный пароль</string>
+  <string name="climatelib_climateSchedules_weekdays">БУДНИЕ ДНИ</string>
+  <string name="climatelib_climateSchedules_weekend">ВЫХОДНОЙ</string>
+  <string name="climatelib_climateSchedules_everyday">КАЖДЫЙ ДЕНЬ</string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s,%2$s</string>
+  <string name="climatelib_climateSchedules_time">%s</string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">Нет запланированных событий</string>
+  <string name="climatelib_climateSchedules_mon">Пн</string>
+  <string name="climatelib_climateSchedules_tue">Вт</string>
+  <string name="climatelib_climateSchedules_wed">Ср</string>
+  <string name="climatelib_climateSchedules_thu">Чт</string>
+  <string name="climatelib_climateSchedules_fri">Пт</string>
+  <string name="climatelib_climateSchedules_sat">Сб</string>
+  <string name="climatelib_climateSchedules_sun">Вс</string>
+  <string name="climatelib_climate">Климат</string>
+</resources>

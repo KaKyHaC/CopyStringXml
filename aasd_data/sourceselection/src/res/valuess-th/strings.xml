@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">เลือกต้นทาง</string>
+  <string name="source_selection_problem_source">ไม่สามารถใช้ได้กับทุกห้องในกลุ่ม</string>
+</resources>

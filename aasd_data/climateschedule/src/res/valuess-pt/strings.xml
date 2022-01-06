@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Nome do evento, por exemplo Cronograma do clima de verão</string>
+  <string name="climateschedule_scheduleNameTitleLabel">Nome</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">Novo evento de clima agendado</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">Editar evento agendado</string>
+  <string name="climateschedule_scheduleActiveDays">DIAS ATIVOS</string>
+  <string name="climateschedule_activeDays_sunday">D</string>
+  <string name="climateschedule_activeDays_monday">S</string>
+  <string name="climateschedule_activeDays_tuesday">T</string>
+  <string name="climateschedule_activeDays_wednesday">Q</string>
+  <string name="climateschedule_activeDays_thursday">T</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">D</string>
+  <string name="climateschedule_activeDays">DIAS ATIVOS</string>
+  <string name="climateschedule_save">Guardar</string>
+  <string name="climateschedule_deleteSchedule">Eliminar</string>
+  <string name="climateschedule_copyToAnotherThermostat">Copiar para outro termostato</string>
+  <string name="climateschedule_scheduleEventError">Something went wrong, please try again.</string>
+  <string name="climateschedule_editTitle">Editar</string>
+  <string name="climateschedule_deleteWarning">Ocorreu um erro. Por favor tente outra vez.</string>
+  <string name="climateschedule_invalidScheduleNameError">Este nome de evento de programação não é válido</string>
+  <string name="climateschedule_duplicateScheduleNameError">Este nome de evento de programação já existe</string>
+  <string name="climateschedule_discardChangesWarning">Tem alterações não salvas. Descartar mudanças?</string>
+  <string name="climateschedule_discard">Descartar</string>
+  <string name="climateschedule_saveChangesWarning">Quer salvar as alterações?</string>
+  <string name="climateschedule_setpointsTitle">DEFINIR PONTOS</string>
+  <string name="climateschedule_scheduleStatusTitle">ESTADO DO PROGRAMA</string>
+  <string name="climateschedule_scheduleStatusItem">Agendamento ativado</string>
+  <string name="climateschedule_timePicker_header">INICIAR</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

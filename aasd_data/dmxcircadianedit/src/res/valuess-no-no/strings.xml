@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianEdit_title">Rediger Circadian</string>
+  <string name="circadianEdit_description">Elektriske lys kan brukes på måter å støtte menneskers helse ved å minimere effektene deres på den menneskelige døgnrytmen.</string>
+  <string name="circadianEdit_transitionsCategory">rediger lysovergangspunkter</string>
+  <string name="circadianEdit_previewTransitionButton_start">Forhåndsvis Circadian overgang</string>
+  <string name="circadianEdit_previewTransitionButton_end">Avslutt forhåndsvisning av cirkadisk overgang</string>
+  <string name="circadianEdit_transitionPointDetails">%s, %sK</string>
+  <string name="circadianEdit_morningTransition">Morgen</string>
+  <string name="circadianEdit_dayTransition">Dag</string>
+  <string name="circadianEdit_eveningTransition">Kveld</string>
+  <string name="circadianEdit_nightTransition">Natt</string>
+  <string name="circadianEdit_minTime">KLOKKEN 12</string>
+  <string name="circadianEdit_maxTime">23:59</string>
+</resources>

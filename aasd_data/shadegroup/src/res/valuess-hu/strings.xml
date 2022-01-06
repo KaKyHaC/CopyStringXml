@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">ÁRNYÉKOLÓK</string>
+  <string name="shadegroup_batteryOk">Akkumulátorszint ok</string>
+  <string name="shadegroup_batteryLow">Akkumulátorszint alacsony</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">Slå sammen med %s</string>
+  <string name="managegroups_ungroupAll">Fjern grupperingen av alle</string>
+  <string name="managegroups_ungroupRoom">Fjern grupperingen av %s</string>
+  <string name="managegroups_mergeSelected">Slå sammen valgte til en gruppe</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">NASTAVENIA REPRODUKTORA</string>
+  <string name="mediamore_additionalFunctions">DOPLNKOVÉ FUNKCIE</string>
+  <string name="mediamore_advancedSettings">Rozšírené nastavenia</string>
+  <string name="mediamore_noInfo">Nie sú k dispozícii žiadne informácie.</string>
+</resources>

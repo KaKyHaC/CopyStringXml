@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">assign user role</string>
+  <string name="cloudrelayadduser_user">User</string>
+  <string name="cloudrelayadduser_owner">Owner</string>
+  <string name="cloudrelayadduser_username">User Name</string>
+  <string name="cloudrelayadduser_email">E-mail</string>
+  <string name="cloudrelayadduser_yes">Yes</string>
+  <string name="cloudrelayadduser_no">No</string>
+  <string name="cloudrelayadduser_invite_warning">You have not finished sending invites. Continue editing?</string>
+  <string name="cloudrelayadduser_send_invite">Send invite</string>
+  <string name="cloudrelayadduser_invite_sent">Invite sent.</string>
+  <string name="cloudrelayadduser_add_new_user">Add new user</string>
+</resources>

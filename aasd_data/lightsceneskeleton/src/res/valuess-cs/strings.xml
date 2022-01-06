@@ -1,0 +1,10 @@
+<resources>
+  <string name="lightSceneCreate_create_new_scene">Vytvořit nový náhled</string>
+  <string name="lightSceneCreate_add_lights">Přidat světla</string>
+  <string name="lightSceneCreate_add_more_lights">Přidat více světel</string>
+  <string name="lightSceneCreate_save">Uložit</string>
+  <string name="lightSceneCreate_set_scene_options">MOŽNOSTI NASTAVENÍ SEKVENCE</string>
+  <string name="lightSceneCreate_fade_time">Čas zhasínání</string>
+  <string name="lightSceneCreate_scene_visibility">Viditelnost náhledu</string>
+  <string name="lightSceneCreate_subtitle_template">%d ZE %d SEKVENCÍ</string>
+</resources>

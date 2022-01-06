@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="termsofuse_title">Tervetuloa kotiisi</string>
+  <string name="termsofuse_subtitle_one">At Crestron, your privacy is important to us. Please review Crestron\'s Privacy Statement at the link provided below
+    to see the types of information we may collect. If you would like to change the privacy settings of your system to enable or disable collecting information,
+    please contact your authorized Crestron Dealer or Crestron Service Provider, or Crestron Electronics, Inc. at %s.</string>
+  <string name="termsofuse_subtitle_two">Hyväksy seuraavat asiat jatkaaksesi kodin etsimistä:</string>
+  <string name="termsofuse_agreeAndContinue">Hyväksy ja jatka</string>
+  <string name="termsofuse_termsOfUse">Mobiilisovellusten käyttöehdot</string>
+  <string name="termsofuse_privacyStatement">Tietosuojalauseke</string>
+  <string name="termsofuse_supportEmail">support@crestron.com</string>
+  <string name="termsofuse_agreementStatement">I agree to the Crestron\'s %s and %s.</string>
+</resources>

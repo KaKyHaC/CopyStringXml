@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">Evenementen en geluiden</string>
+  <string name="interrupts_back_description">evenementen terug knop</string>
+  <string name="interrupts_not_available">Er zijn geen evenementen beschikbaar.</string>
+</resources>

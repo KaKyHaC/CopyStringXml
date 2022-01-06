@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">지원 진단</string>
+  <string name="diagnostics_loggingTitle">진단 제출 활성화</string>
+  <string name="diagnostics_loggingDescription">Crestron 기술 지원팀의 지시가 없으면 진단 결과 제출을 활성화하지 마십시오.</string>
+  <string name="diagnostics_submitDiagnostics">지원 진단 제출</string>
+  <string name="diagnostics_submitMessage">Crestron은 Crestron 딜러점과 협력하거나 Crestron 고객 지원팀에서 요청할 때만 진단 자료를 보낼 것을 권장합니다. \n\n제출을 누르면 파일을 공유하는 방법을 선택할 수 있습니다. Crestron 대리점 또는 Crestron 고객 지원팀에서 이 파일을 보낼 위치에 대한 지침을 따르십시오.</string>
+  <string name="diagnostics_submit">전송</string>
+</resources>

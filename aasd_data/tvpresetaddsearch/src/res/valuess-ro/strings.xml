@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetaddsearch_cancel">Revocare</string>
+  <string name="tvpresetaddsearch_addChannel_zero">Adăugați canale la grup</string>
+  <plurals name="tvpresetaddsearch_addChannel">
+    <item quantity="one">Add 1 channel to the group</item>
+    <item quantity="other">Add %1$d channels to the group</item>
+  </plurals>
+  <string name="tvpresetaddsearch_search">Căutare</string>
+</resources>

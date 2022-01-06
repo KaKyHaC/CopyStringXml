@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">遠端</string>
+  <string name="roommedia_more">其他</string>
+  <string name="roommedia_playing">正在播放</string>
+  <string name="roommedia_browse">瀏覽</string>
+  <string name="roommedia_multiRoom">多個房間</string>
+  <string name="roommedia_favorites">最愛</string>
+  <string name="roommedia_keypad">按鍵面板</string>
+  <string name="roommedia_media">媒體</string>
+  <string name="roommedia_warmingUp">正在升溫</string>
+  <string name="roommedia_coolingDown">正在降溫</string>
+  <string name="roommedia_roomVideo">%s 的視訊</string>
+  <string name="roommedia_limitedControl">有限的控制。正在連接…</string>
+  <string name="roommedia_someRoomsAreOff">一些房間已關閉</string>
+  <string name="roommedia_openInSonos">打開 Sonos（搜諾斯）</string>
+  <string name="roommedia_account_status">未登入</string>
+  <string name="roommedia_noNowPlayingInformation">無正在播放項目</string>
+  <string name="roommedia_noAccountSelected">選擇賬戶</string>
+  <string name="roommedia_pduPr_dialogHeader">您要重啟此設備嗎？</string>
+  <string name="roommedia_pduPr_dialogMessage">要啟動備份可能需要幾分鐘時間。</string>
+  <string name="roommedia_pduPr_digPowerCycle">啟動電源</string>
+  <string name="roommedia_pduPr_digCancel">取消</string>
+  <string name="roommedia_pduPr_toastMessage">沒有快速啟動電源的操作</string>
+</resources>

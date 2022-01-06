@@ -1,0 +1,9 @@
+<resources>
+  <string name="naxprovidercreation_enter_name">Brugernavn</string>
+  <string name="naxprovidercreation_description">Indtast et navn for den nye %s bruger.</string>
+  <string name="naxprovidercreation_title">Tilføj %s bruger</string>
+  <string name="naxprovidercreation_add_user">Tilføj bruger</string>
+  <string name="naxprovidercreation_creating_account">Opret konto...</string>
+  <string name="naxprovidercreation_account_added">Konto tilføjet.</string>
+  <string name="naxprovidercreation_create_failed">Login mislykkedes. %s</string>
+</resources>

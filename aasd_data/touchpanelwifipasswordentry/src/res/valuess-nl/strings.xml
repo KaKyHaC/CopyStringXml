@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Wifi Selectie Terug Actie</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">Nieuw toegangspunt toevoegen</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">Raak aan om WAP-instellingen toe te voegen.</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">Voer het wachtwoord voor dit netwerk in en tik op "Verbinden".</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">INSTELLINGEN WAP-VERBINDING</string>
+  <string name="touchpanelWifiPasswordEntry_connect">Verbinden</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">NAAM (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">Wachtwoord</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">Beveiliging</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">WAP-verbinding</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP verbonden</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">Ethernet-kabel aangesloten</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">WAP-verbinding mislukt</string><string name="touchpanelEncryptionSelection_title">Instellingen voor wifi-codering</string></resources>

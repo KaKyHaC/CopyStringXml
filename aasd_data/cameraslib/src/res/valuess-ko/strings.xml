@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">카메라</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">해상도가 충분히 낮은 스트림 없음\n(최대 해상도 1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">미리보기 사용 불가</string>
+  <string name="camerasLib_noPreviewAvailable">사용 가능한 미리보기 없음</string>
+  <string name="camerasLib_noStreamAvailable">사용 가능한 스트림 없음</string>
+</resources>

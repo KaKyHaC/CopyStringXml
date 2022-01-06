@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tsw_auth_scan_code">כדי להוסיף חשבון סרוק את הקוד מטה באמצעות המכשיר הנייד שלך.</string>
+  <string name="use_this_code">השתמש בקוד זה</string>
+</resources>

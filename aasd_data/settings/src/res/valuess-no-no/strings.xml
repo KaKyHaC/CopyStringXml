@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Virtuell verktøylinje tidsavbrudd</string>
+  <string name="settings_hardkey_wakes_lcd">Hardkey Wakes LCD</string>
+  <string name="settings_master_volume">Hovedvolum</string>
+  <string name="settings_hardkey_behavior">OPP/NED PANEL KNAPPEDEFØRELSE</string>
+  <string name="settings_hardkey_no_function">Ingen funksjon</string>
+  <string name="settings_hardkey_lights">Lys (rom heve/senke)</string>
+  <string name="settings_hardkey_shades">Skygger (rom heve/senke)</string>
+  <string name="settings_hardkey_media">Media (romvolum+/volum-)</string>
+  <string name="settings_advanced_settings_toolbar">Avanserte innstillinger</string>
+</resources>

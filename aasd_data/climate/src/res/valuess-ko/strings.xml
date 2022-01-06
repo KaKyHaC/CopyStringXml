@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">기후 제어</string>
+  <string name="climate_current_temperature">현재 온도</string>
+  <string name="climate_mode">모드</string>
+  <string name="climate_schedule">예약</string>
+  <string name="climate_fan">팬</string>
+  <string name="climate_floor_heating">바닥 난방</string>
+  <string name="climate_humidity_controls">습도 제어</string>
+  <string name="climate_humidify">가습 수준</string>
+  <string name="climate_floor_control">바닥 제어</string>
+  <string name="climate_currentHumidity_title">현재 습도</string>
+  <string name="climate_humidityControl_title">습도 제어</string>
+</resources>

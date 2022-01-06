@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">הצג בקרות</string>
+  <string name="advancedSettings_roomVisibilityControl_label">הצג חדרים</string>
+  <string name="advancedSettings_settings_home_access_label">גישה לבית</string>
+  <string name="advancedSettings_settings_cameras_label">מצלמות</string>
+  <string name="advancedSettings_settings_security_label">אבטחה</string>
+  <string name="advancedSettings_back_description">כפתור חזרה להגדרות</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">הפסקת שמע וצלצולים</string>
+  <string name="advancedSettings_settings_events_sound_label">אירועים וקול</string>
+  <string name="advancedSettings_settings_change_theme_label">תצוגה</string>
+  <string name="advancedSettings_settings_change_theme_title">החלף נושא</string>
+  <string name="advancedSettings_toolbar">הגדרות מתקדמות</string>
+  <string name="advancedSettings_showDoNotSiasturb">הצג 'נא לא להפריע'</string>
+  <string name="advancedSettings_colorTuning_label">כוונון צבע</string>
+  <string name="advancedSettings_tunableLighting_label">תאורה מתכווננת</string>
+  <string name="advancedSettings_circadianSettings_label">הגדרות מקצבים צירקדיים</string>
+</resources>

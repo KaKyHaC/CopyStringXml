@@ -1,0 +1,7 @@
+<resources>
+  <string name="cloudrelayeditusername_editTitle">Редактировать название</string>
+  <string name="cloudrelayeditusername_subtitle">Удаленное подключение к облаку</string>
+  <string name="cloudrelayeditusername_accountLabel">Учетная запись</string>
+  <string name="cloudrelayeditusername_editNameLabel">НАЗВАНИЕ</string>
+  <string name="cloudrelayeditusername_done">Готово</string>
+</resources>

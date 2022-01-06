@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">U</string>
+  <string name="cloud_relay_users_no_user">Er zijn geen gebruikers beschikbaar.</string>
+  <string name="cloud_relay_users_add_new_user">+ Nieuwe gebruiker toevoegen</string>
+  <string name="cloud_relay_users_reclaim_home">Claim dit huis</string>
+  <string name="cloud_relay_users_role_format">%s (uitnodiging in behandeling)</string>
+  <string name="cloud_relay_users_info_unavailable">"Gebruikersinformatie niet beschikbaar, probeer het later opnieuw"</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="sceneFadeTime_title">Čas zoslabenia</string>
+  <string name="sceneFadeTime_header">nastavenie času slabnutia osvetlenia</string>
+</resources>

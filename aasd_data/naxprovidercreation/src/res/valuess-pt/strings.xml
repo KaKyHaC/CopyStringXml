@@ -1,0 +1,9 @@
+<resources>
+  <string name="naxprovidercreation_enter_name">Nome de utilizador</string>
+  <string name="naxprovidercreation_description">Fonte não reproduzida</string>
+  <string name="naxprovidercreation_title">Adicionar %s Utilizador</string>
+  <string name="naxprovidercreation_add_user">Adicionar Utilizador</string>
+  <string name="naxprovidercreation_creating_account">Criar conta...</string>
+  <string name="naxprovidercreation_account_added">Conta adicionada.</string>
+  <string name="naxprovidercreation_create_failed">Login falhou. %s</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="account_selection_account_select">賬戶選擇</string>
+  <string name="account_selection_add_account">您想要新增新帳戶嗎？</string>
+  <string name="account_selection_go_provider_account">轉到提供商的帳戶設置頁面</string>
+</resources>

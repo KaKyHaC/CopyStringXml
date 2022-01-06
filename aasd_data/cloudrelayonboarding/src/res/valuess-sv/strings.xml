@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelay_onboarding_sign_up">Skapa konto</string>
+  <string name="cloudrelay_onboarding_not_now">Inte nu</string>
+  <string name="cloudrelay_onboarding_trouble_sign_in">Har du problem med att logga in?</string>
+  <string name="cloudrelay_onboarding_yes_let_begin">Ja, nu kan vi börja</string>
+  <string name="cloudrelay_connect_user_roles">Användarroller och -åtkomst</string>
+  <string name="cloudrelay_onboarding_cancel">Avbryt</string>
+  <string name="cloudrelay_onboarding_continue">Fortsätt</string>
+  <string name="cloudrelay_onboarding_waring">Vi förstår att du inte är redo att skapa ett konto nu. Du kan göra detta senare.</string>
+  <string name="cloudrelay_connect_user_roles_description">Som en hemägare kan du utan problem bevilja åtkomst till personer du litar på samt skapa användarroller. Du kan även återkalla dessa rättigheter när som helst...</string>
+  <string name="cloudrelay_connect_anywhere_securely">Anslut dig säkert var som helst</string>
+  <string name="cloudrelay_connect_anywhere_securely_description">Vi har utvecklad vår mest säkra fjärranslutna upplevelse någon för ditt Crestron-hem. Anslut och kontrollera ditt hem säkert var du än är.</string>
+</resources>

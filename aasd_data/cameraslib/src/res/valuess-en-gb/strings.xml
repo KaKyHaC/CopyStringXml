@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">Cameras</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">NO STREAM WITH LOW ENOUGH RESOLUTION\n(MAXIMUM IS 1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">PREVIEW UNAVAILABLE</string>
+  <string name="camerasLib_noPreviewAvailable">NO PREVIEW AVAILABLE</string>
+  <string name="camerasLib_noStreamAvailable">NO STREAM AVAILABLE</string>
+</resources>

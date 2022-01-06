@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Evenementnaam, bijv. Zomer klimaat schema</string>
+  <string name="climateschedule_scheduleNameTitleLabel">Naam</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">Nieuw klimaat gepland evenement</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">Geplande afspraak bewerken</string>
+  <string name="climateschedule_scheduleActiveDays">ACTIEVE DAGEN</string>
+  <string name="climateschedule_activeDays_sunday">S</string>
+  <string name="climateschedule_activeDays_monday">M</string>
+  <string name="climateschedule_activeDays_tuesday">T</string>
+  <string name="climateschedule_activeDays_wednesday">W</string>
+  <string name="climateschedule_activeDays_thursday">T</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">S</string>
+  <string name="climateschedule_activeDays">ACTIEVE DAGEN</string>
+  <string name="climateschedule_save">Opslaan</string>
+  <string name="climateschedule_deleteSchedule">VERWIJDEREN</string>
+  <string name="climateschedule_copyToAnotherThermostat">Kopiëren naar een andere thermostaat</string>
+  <string name="climateschedule_scheduleEventError">Er is iets mis gegaan, probeer het alstublieft nogmaals.</string>
+  <string name="climateschedule_editTitle">Bewerken</string>
+  <string name="climateschedule_deleteWarning">Weet je zeker dat je %s evenement wilt verwijderen?</string>
+  <string name="climateschedule_invalidScheduleNameError">De naam van deze geplande gebeurtenis is niet geldig</string>
+  <string name="climateschedule_duplicateScheduleNameError">De naam van deze geplande afspraak bestaat al</string>
+  <string name="climateschedule_discardChangesWarning">U heeft niet-opgeslagen wijzigingen. Veranderingen ongedaan maken?</string>
+  <string name="climateschedule_discard">Weggooien</string>
+  <string name="climateschedule_saveChangesWarning">Wilt u uw aanpassingen opslaan?</string>
+  <string name="climateschedule_setpointsTitle">PUNTEN INSTELLEN</string>
+  <string name="climateschedule_scheduleStatusTitle">SCHEMA STATUS</string>
+  <string name="climateschedule_scheduleStatusItem">Schema ingeschakeld</string>
+  <string name="climateschedule_timePicker_header">Start</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

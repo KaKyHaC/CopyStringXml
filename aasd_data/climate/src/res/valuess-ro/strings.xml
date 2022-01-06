@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">COMENZI CLIMATICE</string>
+  <string name="climate_current_temperature">TEMP. ACTUALĂ</string>
+  <string name="climate_mode">MOD</string>
+  <string name="climate_schedule">PROGRAMARE</string>
+  <string name="climate_fan">VENTILATOR</string>
+  <string name="climate_floor_heating">Încălzire prin pardoseală</string>
+  <string name="climate_humidity_controls">COMENZI UMIDITATE</string>
+  <string name="climate_humidify">UMIDIFICAȚI LA</string>
+  <string name="climate_floor_control">Control prin pardoseală</string>
+  <string name="climate_currentHumidity_title">Nivel actual de umiditate</string>
+  <string name="climate_humidityControl_title">Comandă umiditate</string>
+</resources>

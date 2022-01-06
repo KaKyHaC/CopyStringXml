@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changecolormode_title">Изменить тему</string>
+  <string name="changecolormode_systemMode">Системный режим</string>
+  <string name="changecolormode_lightMode">Светлый режим</string>
+  <string name="changecolormode_darkMode">Темный режим</string>
+</resources>

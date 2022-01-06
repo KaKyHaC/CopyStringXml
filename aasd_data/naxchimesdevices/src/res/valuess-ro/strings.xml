@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesDevices_title">Evenimente și sunete</string>
+  <string name="naxChimesDevices_volumeTitle">Volumul evenimentului</string>
+  <string name="naxChimesDevices_noEventsFound">Nu sunt evenimente disponibile</string>
+</resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">Clony</string>
+  <string name="shadeslib_all_shades_closed">ZATVORENÉ</string>
+  <string name="shadeslib_all_shades_opened">OTVORIŤ</string>
+  <string name="shadeslib_shades_title">%s Clony</string>
+  <string name="shadeslib_shade_state_with_tilt">S %d%% NÁKLONOM</string>
+  <string name="shadeslib_shades_status_opened">Clony sú otvorené.</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (ČIASTOČNE V REŽIME OFFLINE)</string>
+  <string name="shadeslib_position_open">%d%% OTVORIŤ</string>
+  <string name="shadeslib_shades_closed">ZATVORENÉ</string>
+  <string name="shadeslib_shades_open">OTVORIŤ</string>
+  <string name="shadeslib_shades_opening">OTVÁRANIE...</string>
+  <string name="shadeslib_shades_closing">ZATVÁRANIE...</string>
+</resources>

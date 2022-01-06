@@ -1,0 +1,4 @@
+<resources>
+  <string name="addMoreLights_title">Добавьте больше освещения</string>
+  <string name="addMoreLights_subtitle">%s место</string>
+</resources>

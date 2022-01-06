@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">ปุ่มตั้งค่าด้านหลัง</string>
+  <string name="touchPanelsettings_toolbar">การตั้งค่า</string>
+  <string name="touchPanelsettings_toolbar_default_room">ห้องเริ่มต้น</string>
+  <string name="touchPanelsettings_room_list">รายชื่อห้อง</string>
+  <string name="touchPanelsettings_display">การแสดงผล</string>
+  <string name="touchPanelsettings_automode_brightness">โหมดความสว่างอัตโนมัติ</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">หมดเวลาแสดง</string>
+  <string name="touchPanelsettings_screensaver">โปรแกรมพักหน้าจอ</string>
+  <string name="touchPanelsettings_media_volume">ระดับเสียงสื่อ</string>
+  <string name="touchPanelsettings_home">บ้าน</string>
+  <string name="touchPanelsettings_advanced_settings">การตั้งค่าขั้นสูง</string>
+  <string name="touchPanelsettings_edit_home">แก้ไขหน้าหลัก</string>
+  <string name="touchPanelsettings_info">ข้อมูล</string>
+  <string name="touchPanelsettings_firmware_version">เวอร์ชันเฟิร์มแวร์</string>
+  <string name="touchPanelsettings_ui_version">เวอร์ชั่น UI</string>
+  <string name="touchPanelsettings_volume">ระดับเสียง</string>
+  <string name="touchPanelsettings_edit_home_popup_message">เปลี่ยนแปลงการตั้งค่านี้เฉพาะเมื่อได้รับคำแนะนำจากดีลเลอร์ Crestron</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">ดำเนินการต่อ</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">ยกเลิก</string>
+  <string name="touchPanelsettings_timeout_text_never">ไม่เลย</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s วินาที</string>
+  <string name="touchPanelsettings_timeout_text_minute">1 นาที</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s นาที</string>
+  <string name="touchPanelsettings_timeout_text_hour">1 ชั่วโมง</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s ชั่วโมง</string>
+  <string name="touchPanelsettings_access_points">จุดเชื่อมต่อ WiFi</string>
+  <string name="touchPanelsettings_intercom">อินเตอร์คอม &amp; การรบกวน</string>
+  <string name="touchPanelsettings_do_not_disturb">ห้ามรบกวน</string>
+  <string name="touchPanelsettings_play_test">ทดสอบการเล่น</string>
+  <string name="touchPanelsettings_speakervolume_label">ระดับเสียงลำโพง</string>
+</resources>

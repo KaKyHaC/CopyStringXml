@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">รหัสผ่านไม่ถูกต้อง</string>
+  <string name="advancedpassword_passwordHint">ใส่รหัสผ่านเพื่อแก้ไขกิจกรรมที่กำหนดเวลาไว้</string>
+  <string name="advancedpassword_settingsPasswordHint">นี่คือส่วนที่มีการรักษาความปลอดภัย โปรดใส่รหัสผ่านก่อน</string>
+  <string name="advancedpassword_editScenesPasswordHint">นี่คือส่วนที่มีการรักษาความปลอดภัย โปรดใส่รหัสผ่านก่อน</string>
+  <string name="advancedpassword_title">ใส่รหัสผ่าน</string>
+  <string name="advancedpassword_advancedUserPassword">รหัสผู้ใช้ขั้นสูง</string>
+  <string name="advancedpassword_advancedUserPasswordHint">ติดต่อดีลเลอร์ Crestron ของคุณเพื่อขอทราบรหัสผ่านผู้ใช้งานขั้นสูง</string>
+  <string name="advancedpassword_warning_ok">ตกลง</string>
+  <string name="advancedpassword_warning_subtitle">หากคุณใส่รหัสผ่านที่ไม่ถูกต้องหลายครั้ง บัญชีของคุณจะถูกลงชื่อออกชั่วคราว โปรดลองอีกครั้งในภายหลังหรือติดต่อดีลเลอร์ Crestron ของคุณ</string>
+  <string name="advancedpassword_warning_title">คุณใส่รหัสผ่านที่ไม่ถูกต้อง</string>
+  <string name="advancedpassword_cloud_claim_hint">หากต้องการดำเนินการเคลมบ้านของคุณต่อ โปรดป้อนรหัสผ่านผู้ใช้ขั้นสูง ติดต่อตัวแทนจำหน่าย Crestron ที่ได้รับอนุญาตของคุณสำหรับรหัสผ่านผู้ใช้ขั้นสูง</string>
+  <string name="advancedpassword_cloud_claim_skip">คุณสามารถ %s และเข้าถึงบ้านได้โดยไม่ต้องใช้รหัสผ่านผู้ใช้งานขั้นสูงในครั้งนี้</string>
+  <string name="advancedpassword_skip_this_step">ข้ามขั้นตอนนี้</string>
+</resources>

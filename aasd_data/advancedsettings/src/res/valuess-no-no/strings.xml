@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">VIS KONTROLLER</string>
+  <string name="advancedSettings_roomVisibilityControl_label">VIS ROM</string>
+  <string name="advancedSettings_settings_home_access_label">Hustilgang</string>
+  <string name="advancedSettings_settings_cameras_label">Kameraer</string>
+  <string name="advancedSettings_settings_security_label">Sikkerhet</string>
+  <string name="advancedSettings_back_description">innstillinger tilbake-knapp</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">LYDAVBRYDELSER OG KLOKKER</string>
+  <string name="advancedSettings_settings_events_sound_label">Hendelser og lyder</string>
+  <string name="advancedSettings_settings_change_theme_label">VISE</string>
+  <string name="advancedSettings_settings_change_theme_title">Endre tema</string>
+  <string name="advancedSettings_toolbar">Avanserte innstillinger</string>
+  <string name="advancedSettings_showDoNotSiasturb">Vis Ikke forstyrr</string>
+  <string name="advancedSettings_colorTuning_label">Fargejustering</string>
+  <string name="advancedSettings_tunableLighting_label">Justerbar belysning</string>
+  <string name="advancedSettings_circadianSettings_label">Døgntidsinnstillinger</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="lightSceneVisibility_title">Téma láthatósága</string>
+  <string name="lightSceneVisibility_subtitle">%s jelenet</string>
+</resources>

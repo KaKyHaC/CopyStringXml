@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">百葉窗</string>
+  <string name="shades_scenesTitle">場景</string>
+  <string name="shades_controlsTitle">控制</string>
+  <string name="shades_allShadesTitle">全部陰影</string>
+  <string name="shades_allShades_MoreLightTitle">更多燈光</string>
+  <string name="shades_allShades_LessLightTitle">少些燈光</string>
+  <string name="shades_stopRampText">停止</string>
+</resources>

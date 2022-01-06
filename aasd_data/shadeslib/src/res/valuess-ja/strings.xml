@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">シェード</string>
+  <string name="shadeslib_all_shades_closed">閉じる </string>
+  <string name="shadeslib_all_shades_opened">開く　 </string>
+  <string name="shadeslib_shades_title">％sシェード</string>
+  <string name="shadeslib_shade_state_with_tilt">WITH %d%% 傾斜</string>
+  <string name="shadeslib_shades_status_opened">シェードは開いています。
+</string>
+  <string name="shadeslib_shades_group_partially_offline">
+％s（部分的にオフライン）</string>
+  <string name="shadeslib_position_open">％d %% 開いた
+</string>
+  <string name="shadeslib_shades_closed">閉じる </string>
+  <string name="shadeslib_shades_open">開く　 </string>
+  <string name="shadeslib_shades_opening">を開始 </string>
+  <string name="shadeslib_shades_closing">を終了 </string>
+</resources>

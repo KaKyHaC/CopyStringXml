@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">帘幕</string>
+  <string name="shades_scenesTitle">场景</string>
+  <string name="shades_controlsTitle">控件</string>
+  <string name="shades_allShadesTitle">所有遮阳棚</string>
+  <string name="shades_allShades_MoreLightTitle">更多灯光</string>
+  <string name="shades_allShades_LessLightTitle">更少灯光</string>
+  <string name="shades_stopRampText">停止</string>
+</resources>

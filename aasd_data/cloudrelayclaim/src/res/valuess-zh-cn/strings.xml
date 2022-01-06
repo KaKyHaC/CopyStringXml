@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayclaim_subtitle">针对此房屋，将移除所有现有用户的访问权限。一旦认领结束，您可以选择将访问权限返回给这些用户。</string>
+  <string name="cloudrelayclaim_title">继续认领</string>
+  <string name="cloudrelayclaim_continue">继续</string>
+  <string name="cloudrelayclaim_success">点击“用户”按钮，以开始为您的家人和朋友授予访问权限。</string>
+  <string name="cloudrelayclaim_warning_ok">确定</string>
+  <string name="cloudrelayclaim_warning_subtitle">请联系您的Crestron经销商获取帮助。</string>
+  <string name="cloudrelayclaim_warning_title">无法在此时认领您的房间</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+  <string name="defaultRoom_chooseDefaultRoom">ALAPÉRTELMEZETT HELYISÉG KIVÁLASZTÁSA</string>
+  <string name="defaultRoom_category">ALAPÉRTELMEZETT HELYISÉG KIVÁLASZTÁSA</string>
+  <string name="defaultRoom_emptyList">Nincs konfigurált helyiség. A lista nem tartalmaz helyiségeket.</string>
+  <string name="defaultRoom_save">Mentés</string>
+  <string name="defaultroom_homeConfiguration">Otthon konfiguráció</string>
+</resources>

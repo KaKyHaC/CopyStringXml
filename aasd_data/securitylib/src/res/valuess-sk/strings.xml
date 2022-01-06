@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">Bezpečnosť</string>
+  <string name="securitylib_securitySystem">Bezpečnostný systém</string>
+  <string name="securitylib_securitySystemWithName">Bezpečnostný systém %s</string>
+  <string name="securitylib_alarm_alarm">Poplach</string>
+  <string name="securitylib_alarm_fire">Požiar</string>
+  <string name="securitylib_alarm_burglary">Vlámanie</string>
+  <string name="securitylib_alarm_medical">Medicínske</string>
+  <string name="securitylib_alarm_tamper">Narušenie</string>
+  <string name="securitylib_arming_armedStay">Funkcia „Armed Stay“  (aktivovaný/armovaný bezpečnostný systém okrem zapnutia snímačov pohybu)</string>
+  <string name="securitylib_arming_exitDelayActive">Oneskorenie spustenia alarmu pri odchode</string>
+  <string name="securitylib_arming_disarmed">Deaktivovaný (nezaarmovaný)</string>
+  <string name="securitylib_arming_ready">Pripravené</string>
+  <string name="securitylib_arming_armedAway">Funkcia Armed Away (aktivovaný/armovaný bezpečnostný systém vrátane zapnutia snímačov pohybu)</string>
+  <string name="securitylib_arming_notReady">Nepripravený</string>
+  <string name="securitylib_arming_entryDelayActive">Oneskorenie spustenia alarmu pri vstupe</string>
+  <string name="securitylib_arming_armedStayInstant">Funkcia „Armed Stay Instant“ (aktivované okamžité spustenie bezpečnostného systému okrem zapnutia snímačov pohybu)</string>
+  <string name="securitylib_arming_armedAwayInstant">Funkcia „Armed Away Instant“ (aktivované okamžité spustenie bezpečnostného systému vrátane zapnutia snímačov pohybu)</string>
+  <string name="securitylib_arming_armedBypass">Funkcia „Armed Bypass“ (aktivovaný bezpečnostný systém okrem vynechania určitého snímača/-ov)</string>
+  <string name="securitylib_arming_armedBypassInstant">Funkcia „Armed Bypass“ (aktivované okamžité spustenie bezpečnostného systému okrem vynechania určitého snímača/-ov)</string>
+</resources>

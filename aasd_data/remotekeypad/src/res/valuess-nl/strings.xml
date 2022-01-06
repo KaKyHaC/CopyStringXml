@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="remotekeypad_hyphen">-</string>
+  <string name="remotekeypad_guide">Gids</string>
+  <string name="remotekeypad_clear">Wissen</string>
+  <string name="remotekeypad_enter">Invoeren</string>
+  <string name="remotekeypad_notAvailable">Toetsenbord is niet beschikbaar.</string>
+</resources>

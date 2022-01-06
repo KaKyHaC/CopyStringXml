@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">Modifica le scene di luce</string>
+  <string name="lightSceneEdit_scenesCategory">Scena</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">La scena specifica non è cancellata.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">La scena specifica non è modificabile.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">OK</string>
+</resources>

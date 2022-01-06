@@ -1,0 +1,4 @@
+<resources>
+  <string name="dmxroomselection_room_select">Selectați încăperea</string>
+  <string name="source_selection_room_not_available">Camera nu este disponibilă.</string>
+</resources>

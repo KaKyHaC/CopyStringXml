@@ -1,0 +1,6 @@
+<resources>
+  <string name="chime_name">dzwonek</string>
+  <string name="chime_toolbar">Dzwonek do drzwi garażowych</string>
+  <string name="chime_back_description">przycisk cofania wydarzeń</string>
+  <string name="chime_assign_sounds">PRZYPISZ DŹWIĘK</string>
+</resources>

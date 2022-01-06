@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">אבחון תמיכה</string>
+  <string name="diagnostics_loggingTitle">אפשר שליחת אבחון</string>
+  <string name="diagnostics_loggingDescription">נא לא/ לאפשר שליחת אבחון אלא אם ישנן הנחיות התמיכה הטכנית של Crestron</string>
+  <string name="diagnostics_submitDiagnostics">שלח אבחון תמיכה</string>
+  <string name="diagnostics_submitMessage">Crestron ממליצה לשלוח אבחון רק כאשר עובדים עם משווק Crestron שלך או התבקשת על ידי תמיכת הלקוחות של Crestron \n\n. לחיצה על שלח תאפשר לך לבחור איך לשתף את הקובץ. עקוב אחר ההוראות של משווק Crestron שלך, או תמיכת הלקוחות של Crestron, לגבי לאן לשלוח קובץ זה.</string>
+  <string name="diagnostics_submit">שלח</string>
+</resources>

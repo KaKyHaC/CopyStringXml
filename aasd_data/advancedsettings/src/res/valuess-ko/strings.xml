@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">컨트롤 보기</string>
+  <string name="advancedSettings_roomVisibilityControl_label">룸 보기</string>
+  <string name="advancedSettings_settings_home_access_label">홈 액세스</string>
+  <string name="advancedSettings_settings_cameras_label">카메라</string>
+  <string name="advancedSettings_settings_security_label">보안</string>
+  <string name="advancedSettings_back_description">설정 돌리기 버튼</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">오디오 중단 및 차임벨</string>
+  <string name="advancedSettings_settings_events_sound_label">이벤트 및 사운드</string>
+  <string name="advancedSettings_settings_change_theme_label">디스플레이</string>
+  <string name="advancedSettings_settings_change_theme_title">테마 변경</string>
+  <string name="advancedSettings_toolbar">고급 설정</string>
+  <string name="advancedSettings_showDoNotSiasturb">방해 금지 표시</string>
+  <string name="advancedSettings_colorTuning_label">색 조정</string>
+  <string name="advancedSettings_tunableLighting_label">조정가능한 조명</string>
+  <string name="advancedSettings_circadianSettings_label">생체 설정</string>
+</resources>

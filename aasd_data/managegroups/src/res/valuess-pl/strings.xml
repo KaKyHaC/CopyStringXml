@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">Połącz z %s</string>
+  <string name="managegroups_ungroupAll">Usuń całe grupowanie</string>
+  <string name="managegroups_ungroupRoom">Rozgrupuj %s</string>
+  <string name="managegroups_mergeSelected">Scal wybrane w grupę</string>
+</resources>

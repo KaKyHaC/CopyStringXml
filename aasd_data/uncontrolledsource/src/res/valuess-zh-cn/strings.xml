@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="uncontrolledsource_title">无可用的控制</string>
+  <string name="uncontrolledsource_hint">请使用外部应用或设备进行控制。</string>
+</resources>

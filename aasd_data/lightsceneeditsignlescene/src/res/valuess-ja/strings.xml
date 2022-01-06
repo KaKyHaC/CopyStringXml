@@ -1,0 +1,15 @@
+<resources>
+  <string name="lightEditSingleScene_title">照明シーンを編集する </string>
+  <string name="lightEditSingleScene_set_scene_options">シーンのオプションを設定する　</string>
+  <string name="lightEditSingleScene_delete_scene">このシーンを削除する
+</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">このシーンを削除してもよろしいですか？</string>
+  <string name="lightEditSingleScene_deletePopup_delete">削除
+</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">キャンセル</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">
+申し訳ありませんが、このシーンは削除できません</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">OK</string>
+  <string name="lightEditSingleScene_dismiss">閉じる　</string>
+  <string name="lightEditSingleScene_cannot_edit">申し訳ありませんが、このシーンの名前とアイコンは編集できません</string>
+</resources>

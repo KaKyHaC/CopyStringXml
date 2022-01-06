@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">조명 장면 편집</string>
+  <string name="lightSceneEdit_scenesCategory">환경 설정</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">지정한 장면이 삭제되지 않았습니다.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">지정한 장면을 수정할 수 없습니다.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">확인</string>
+</resources>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s in %s</string>
+  <string name="nowplayingbar_multiple_media">Multiple media</string>
+  <string name="nowplayingbar_rooms">%d rooms</string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">Volume Controls Not Available</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">Turn On This Media Room</string>
+</resources>

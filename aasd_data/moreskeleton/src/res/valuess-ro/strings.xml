@@ -1,0 +1,11 @@
+<resources>
+  <string name="more_crestron">Crestron</string>
+  <string name="more_help">Ajutor</string>
+  <string name="more_help_webview">Ajutor</string>
+  <string name="more_legal_terms">Termeni legali</string>
+  <string name="more_privacy_information">Informații privind confidențialitatea</string>
+  <string name="more_feedback">Feedback</string>
+  <string name="more_version">Versiunea - % s</string>
+  <string name="more_changeColorMode">Schimbați modul de culoare</string>
+  <string name="more_developer_options">Opțiunile dezvoltatorului</string>
+</resources>

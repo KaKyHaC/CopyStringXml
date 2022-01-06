@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">Modifica le scene di luce</string>
+  <string name="lightEditSingleScene_set_scene_options">IMPOSTA LE OPZIONI DI SCENA</string>
+  <string name="lightEditSingleScene_delete_scene">Cancella questa scena</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">Eliminare la scena?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">ELIMINA</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">Annulla</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">Siamo spiacenti, questa scena non si può cancellare</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">OK</string>
+  <string name="lightEditSingleScene_dismiss">RIFIUTA</string>
+  <string name="lightEditSingleScene_cannot_edit">Siamo spiacenti, ma questo nome e l'icona della scena non si possono modificare</string>
+</resources>

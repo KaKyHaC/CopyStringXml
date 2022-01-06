@@ -1,0 +1,16 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Mot de passe incorrect</string>
+  <string name="advancedpassword_passwordHint">Saisissez le mot de passe pour modifier les événements programmés.</string>
+  <string name="advancedpassword_settingsPasswordHint">Cette section est protégée, veuillez d'abord entrer le mot de passe.</string>
+  <string name="advancedpassword_editScenesPasswordHint">Cette section est protégée, veuillez d'abord entrer le mot de passe.</string>
+  <string name="advancedpassword_title">Saisissez le mot de passe</string>
+  <string name="advancedpassword_advancedUserPassword">Mot de passe d'utilisateur avancé</string>
+  <string name="advancedpassword_advancedUserPasswordHint">Contactez votre fournisseur Crestron agréé pour obtenir votre mot de passe d'utilisateur avancé.</string>
+  <string name="advancedpassword_warning_ok">OK</string>
+  <string name="advancedpassword_warning_subtitle">
+Si vous entrez plusieurs fois un mot de passe incorrect, votre compte sera temporairement bloqué. Réessayez un peu plus tard ou contactez votre fournisseur Crestron agréé.</string>
+  <string name="advancedpassword_warning_title">Vous avez saisi un mot de passe incorrect.</string>
+  <string name="advancedpassword_cloud_claim_hint">Pour continuer à réclamer votre domicile, entrez un mot de passe d'utilisateur avancé. Contactez votre fournisseur Crestron agréé pour obtenir votre mot de passe d'utilisateur avancé.</string>
+  <string name="advancedpassword_cloud_claim_skip">Vous pouvez %s et vous rendre à votre domicile sans utiliser de mot de passe d'utilisateur avancé pour le moment.</string>
+  <string name="advancedpassword_skip_this_step">Sauter cette étape</string>
+</resources>

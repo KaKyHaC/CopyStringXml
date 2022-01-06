@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">Dostęp do domu</string>
+  <string name="hide_subsystem_lights">Światła</string>
+  <string name="hide_subsystem_media">Nośniki</string>
+  <string name="hide_subsystem_pools">Baseny i spa</string>
+  <string name="hide_subsystem_climate">KLIMAT</string>
+  <string name="hide_subsystem_shades">Rolety</string>
+  <string name="hide_subsystem_security">Zabezpieczenia</string>
+  <string name="hide_subsystem_cameras">KAMERY</string>
+  <string name="hide_subsystem_customdevices">Urządzenia niestandardowe</string>
+</resources>

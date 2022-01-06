@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">Затенения</string>
+  <string name="shadeslib_all_shades_closed">ЗАКРЫТО</string>
+  <string name="shadeslib_all_shades_opened">РАЗОМКНУТЬ</string>
+  <string name="shadeslib_shades_title">%s Оттенки</string>
+  <string name="shadeslib_shade_state_with_tilt">С %d%%% наклоном</string>
+  <string name="shadeslib_shades_status_opened">Оттенки открыты.</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (ЧАСТИЧНО ОФЛАЙН)</string>
+  <string name="shadeslib_position_open">%d%% ОТКРЫТО</string>
+  <string name="shadeslib_shades_closed">ЗАКРЫТО</string>
+  <string name="shadeslib_shades_open">РАЗОМКНУТЬ</string>
+  <string name="shadeslib_shades_opening">ОТКРЫТИЕ...</string>
+  <string name="shadeslib_shades_closing">ЗАКРЫТИЕ...</string>
+</resources>

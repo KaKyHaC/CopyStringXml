@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_v2_actions_header_text">Műveletek</string>
+  <string name="security_v2_toolbarTitle">Biztonság</string>
+  <string name="security_v2_panicActionsTitle">MŰVELETEK</string>
+  <string name="security_v2_panicActionsSubtitle">Nyomja meg és tartsa lenyomva 1 másodpercig az egyes műveletek aktiválásához</string>
+  <string name="security_v2_navigationButtonsTitle">NAVIGÁCIÓS GOMBOK</string>
+  <string name="security_v2_selectNavigationButton">Kiválasztás</string>
+  <string name="security_v2_keypadTitle">BILLENTYŰZET</string>
+  <string name="security_v2_keypadSubtitle">Adja meg a négy jegyű kódot, és az elvégezni kívánt műveletnek megfelelő kódot</string>
+  <string name="security_v2_displayTextTitle">KIJELZETT SZÖVEG</string>
+</resources>

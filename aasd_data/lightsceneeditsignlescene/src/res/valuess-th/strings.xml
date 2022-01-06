@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">แก้ไขฉากของแสง</string>
+  <string name="lightEditSingleScene_set_scene_options">ตัวเลือกการเลือกฉาก</string>
+  <string name="lightEditSingleScene_delete_scene">ลบฉากนี้</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">แน่ใจหรือไม่ว่าคุณต้องการลบฉากนี้</string>
+  <string name="lightEditSingleScene_deletePopup_delete">ลบ</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">ยกเลิก</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">ขออภัย ไม่สามารถลบฉากนี้ได้</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">ตกลง</string>
+  <string name="lightEditSingleScene_dismiss">วางสาย</string>
+  <string name="lightEditSingleScene_cannot_edit">ขออภัย ชื่อและไอคอนของฉากไม่สามารถแก้ไขได้</string>
+</resources>

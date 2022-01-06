@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Enter your user name</string>
+  <string name="providersignin_enter_password">Enter your password</string>
+  <string name="providersignin_description">请登录您的%s账户以添加此订阅。</string>
+  <string name="providersignin_user_name">用户名</string>
+  <string name="providersignin_password">密码</string>
+  <string name="providersignin_title">登录</string>
+  <string name="providersignin_save_user">正在保存用户...</string>
+  <string name="providersignin_account_added">账户已添加。</string>
+  <string name="providersignin_login_failed">登录失败。</string>
+</resources>

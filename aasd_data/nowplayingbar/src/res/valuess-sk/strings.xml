@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nowplayingbar_info">%s v %s</string>
+  <string name="nowplayingbar_multiple_media">Viaceré médiá</string>
+  <string name="nowplayingbar_rooms">%d miestností</string>
+  <string name="nowplayingbar_volumeControlsNotAvailable">Ovládacie prvky hlasitosti nie sú k dispozícii</string>
+  <string name="nowplayingbar_mediaRoomTurnOn">Zapnúť túto miestnosť s médiami</string>
+</resources>

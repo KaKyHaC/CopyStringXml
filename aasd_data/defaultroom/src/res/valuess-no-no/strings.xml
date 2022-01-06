@@ -1,0 +1,7 @@
+<resources>
+  <string name="defaultRoom_chooseDefaultRoom">VELG STANDARDROM</string>
+  <string name="defaultRoom_category">VELG STANDARDROM</string>
+  <string name="defaultRoom_emptyList">Ingen rom er konfigurert. Det er ingen rom på listen.</string>
+  <string name="defaultRoom_save">Lagre</string>
+  <string name="defaultroom_homeConfiguration">Hjemmekonfigurasjon</string>
+</resources>

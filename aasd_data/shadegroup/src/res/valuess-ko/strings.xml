@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">빛 가리개</string>
+  <string name="shadegroup_batteryOk">배터리 정상</string>
+  <string name="shadegroup_batteryLow">배터리 낮음</string>
+</resources>

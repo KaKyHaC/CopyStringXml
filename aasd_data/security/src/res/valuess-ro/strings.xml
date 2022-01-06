@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">Securitate</string>
+  <string name="security_panicActionsTitle">ACȚIUNI</string>
+  <string name="security_panicActionsSubtitle">Apăsați și țineți apăsat timp de1 secundă pentru a declanșa fiecare acțiune</string>
+  <string name="security_navigationButtonsTitle">BUTOANE DE NAVIGARE</string>
+  <string name="security_selectNavigationButton">Selectare</string>
+  <string name="security_keypadTitle">TASTATURĂ</string>
+  <string name="security_keypadSubtitle">Introduceți codul din 4 cifre și o cifră corespunzătoare acțiunii pe care doriți să o efectuați</string>
+  <string name="security_displayTextTitle">AFIȘEAZĂ TEXTUL</string>
+</resources>

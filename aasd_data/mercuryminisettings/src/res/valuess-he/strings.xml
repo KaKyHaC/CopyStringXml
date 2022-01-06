@@ -1,0 +1,6 @@
+<resources>
+  <string name="mercuryminisettings_brightness">בהירות</string>
+  <string name="mercuryminisettings_touchToWake_title">להדלקה יש לגעת</string>
+  <string name="mercuryminisettings_ipAddress_title">כתובת IP</string>
+  <string name="mercuryminisettings_interrupt_label">הפרעות</string>
+</resources>

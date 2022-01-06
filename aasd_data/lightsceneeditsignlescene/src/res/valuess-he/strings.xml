@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">ערוך סצנות תאורה</string>
+  <string name="lightEditSingleScene_set_scene_options">הגדר אפשוריות סצנה</string>
+  <string name="lightEditSingleScene_delete_scene">מחק סצנה זו</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">האם אתה בטוח שברצונך למחוק סצנה זו?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">מחק</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">בטל</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">מצטערים, לא ניתן למחוק את הסצנה הזו</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">אישור</string>
+  <string name="lightEditSingleScene_dismiss">בטל</string>
+  <string name="lightEditSingleScene_cannot_edit">מצטערים, לא ניתן לערוך את השם והסמל של הסצנה הזו</string>
+</resources>

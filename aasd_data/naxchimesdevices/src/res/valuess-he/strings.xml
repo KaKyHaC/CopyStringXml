@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesDevices_title">אירועים וקול</string>
+  <string name="naxChimesDevices_volumeTitle">עוצמת שמע של אירוע</string>
+  <string name="naxChimesDevices_noEventsFound">אין אירועים זמינים</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">Suojaus</string>
+  <string name="security_panicActionsTitle">Toiminnot</string>
+  <string name="security_panicActionsSubtitle">Paina ja pidä pohjassa 1 sekunnin ajan laukaistaksesi kunkin toiminnon</string>
+  <string name="security_navigationButtonsTitle">NAVIGATION BUTTONS</string>
+  <string name="security_selectNavigationButton">Valitse</string>
+  <string name="security_keypadTitle">Näppäimistö</string>
+  <string name="security_keypadSubtitle">Syötä 4-numeroinen koodi ja numero, joka vastaa toimintoa, jonka haluat suorittaa</string>
+  <string name="security_displayTextTitle">DISPLAY TEXT</string>
+</resources>

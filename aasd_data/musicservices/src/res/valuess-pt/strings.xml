@@ -1,0 +1,9 @@
+<resources>
+  <string name="music_service_name">Serviços de Música</string>
+  <string name="music_service_add_more">ADICIONAR MAIS</string>
+  <plurals name="music_service_status_account">
+    <item quantity="one">%d account</item>
+    <item quantity="other">%d accounts</item>
+  </plurals>
+  <string name="music_service_no_music">Nenhum serviço de música está disponível.</string>
+</resources>

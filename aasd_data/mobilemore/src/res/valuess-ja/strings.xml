@@ -1,0 +1,7 @@
+<resources>
+  <string name="mobilemore_support">サポート</string>
+  <string name="mobilemore_diagnostics">サポート診断を送信します</string>
+  <string name="mobilemore_house_settings">家の設定</string>
+  <string name="mobilemore_settings">家を編集</string>
+  <string name="mobilemore_advanced_settings">詳細設定</string>
+</resources>

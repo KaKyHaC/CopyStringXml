@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">MOSTRA LE AREE</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">nascondi le aree di sicurezza del pulsante apposito</string>
+</resources>

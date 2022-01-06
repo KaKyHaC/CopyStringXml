@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="uncontrolledsource_title">
+Nie je k dispozícii žiadne ovládanie</string>
+  <string name="uncontrolledsource_hint">Na ovládanie použite externú aplikáciu alebo zariadenie.</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+  <string name="cloudrelayconenctwelcome_welcome">Velkommen</string>
+  <string name="cloudrelayconenctwelcome_claim_my_home">Gjør krav på hjemmet mitt</string>
+  <string name="cloudrelayconenctwelcome_claim_enabled_disclaimer">Fortsett å gjøre krav på Crestron Home neste gang og begynn å bruke vår mest sikre eksterne tilkoblede opplevelse.</string>
+  <string name="cloudrelayconenctwelcome_claim_disabled_disclaimer">For å gjøre krav på ditt Crestron Home-system må du være på samme lokale nettverk som ditt Crestron Home-system.</string>
+  <string name="cloudrelayconenctwelcome_not_now">Ikke nå</string>
+  <string name="cloudrelayconenctwelcome_warning_ok">OK</string>
+  <string name="cloudrelayconenctwelcome_warning_subtitle">En nyere versjon av Crestron Home-fastvare kreves for at denne funksjonen skal fungere.\n\n Ta kontakt med Crestron-forhandleren for å få dem til å installere denne nye fastvaren på Crestron Home-prosessoren.</string>
+  <string name="cloudrelayconenctwelcome_warning_title">Crestron Home OS-oppdatering er nødvendig</string>
+  <string name="cloudrelayconenctwelcome_sign_out_user">Er du sikker på at du vil logge av?</string>
+  <string name="cloudrelayconenctwelcome_user_signed_out">Du er logget ut</string>
+  <string name="cloudrelayconenctwelcome_no">Nei</string>
+  <string name="cloudrelayconenctwelcome_yes">Ja</string>
+</resources>

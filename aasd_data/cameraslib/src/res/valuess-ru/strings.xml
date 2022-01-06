@@ -1,0 +1,7 @@
+<resources>
+  <string name="cameraslib_cameras">Камеры</string>
+  <string name="camerasLib_noStreamWithLowEnoughResolution">НЕТ КАНАЛА С НИЗКИМ РАЗРЕШЕНИЕМ\n(MAXIMUM IS1920x1080)</string>
+  <string name="camerasLib_previewUnavailable">ПРЕДВАРИТЕЛЬНЫЙ ПРОСМОТР НЕДОСТУПЕН</string>
+  <string name="camerasLib_noPreviewAvailable">ПРЕДВАРИТЕЛЬНЫЙ ПРОСМОТР НЕДОСТУПЕН</string>
+  <string name="camerasLib_noStreamAvailable">ТРАНСЛЯЦИЯ НЕДОСТУПНА</string>
+</resources>

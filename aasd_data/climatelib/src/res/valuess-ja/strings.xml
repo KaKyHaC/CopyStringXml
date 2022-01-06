@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="climatelib_status_active">
+    <item quantity="one">%d thermostat active</item>
+    <item quantity="other">%d thermostats active</item>
+  </plurals>
+  <plurals name="climatelib_status_active_with_full_stop">
+    <item quantity="zero">""</item>
+    <item quantity="one">%d thermostat active.</item>
+    <item quantity="other">%d thermostats active.</item>
+  </plurals>
+  <plurals name="climatelib_status_uppercase_active">
+    <item quantity="one">%d THERMOSTAT ACTIVE</item>
+    <item quantity="other">%d THERMOSTATS ACTIVE</item>
+  </plurals>
+  <plurals name="climatelib_status_offline">
+    <item quantity="one">%d thermostat is offline</item>
+    <item quantity="other">%d thermostats are offline</item>
+  </plurals>
+  <plurals name="climatelib_status_low_battery">
+    <item quantity="one">%d thermostat has low battery</item>
+    <item quantity="other">%d thermostats have low battery</item>
+  </plurals>
+  <string name="climatelib_climate_title">%s 気候　</string>
+  <string name="climatelib_noActiveThermostats_upperCase">稼働していないサーモスタット　</string>
+  <string name="climatelib_noActiveThermostats">有効なサーモスタットがありません</string>
+  <string name="climatelib_status_multiple_running">複数のサーモスタットが実行中です</string>
+  <string name="climatelib_status_heating_to_temperature">%sまで温める　</string>
+  <string name="climatelib_status_cooling_to_temperature"> %sまで冷やす　</string>
+  <string name="climatelib_temperature_degree">%d度　</string>
+  <string name="climatelib_temperature_degree_decimal">%.1華氏度　</string>
+  <string name="climatelib_temperature_celsius">%.1fº摂氏　</string>
+  <string name="climatelib_temperature_fahrenheit">%dº華氏　</string>
+  <string name="climatelib_number_percentage">%d%%</string>
+  <string name="climatelib_temperature_celsius_float">%.1華氏度　</string>
+  <string name="climatelib_thermostat_status_decreasing">％.1fº、H.C。への冷却オン（56 %%）　</string>
+  <string name="climatelib_thermostat_status_increasing">％.1fº、H.C。への加熱オン（56 %%）　</string>
+  <string name="climatelib_thermostat_status_with_humidity">H.C.オン（％d %%）　</string>
+  <string name="climatelib_thermostat_status_with_floor_heating">F.H.オン（％s）　</string>
+  <string name="climatelib_thermostat_state_offline">オフライン</string>
+  <string name="climatelib_thermostat_setpoint_set_cool">冷やす　</string>
+  <string name="climatelib_thermostat_setpoint_set_heat">あたたかくする　</string>
+  <string name="climatelib_thermostat_setpoint_single">セットポイント　</string>
+  <string name="climatelib_set_point">セットポイント　</string>
+  <string name="climatelib_heat_set_point">まで温める　</string>
+  <string name="climatelib_cool_set_point">まで冷やす　</string>
+  <string name="climatelib_single_set_point">シングルオート　</string>
+  <string name="climatelib_temperature_empty">-　</string>
+  <string name="climatelib_thermostat_coolTo"> %sまで冷やす　</string>
+  <string name="climatelib_thermostat_heatTo">%sまで温める　</string>
+  <string name="climatelib_thermostat_setTo"> %sに設定する　</string>
+  <string name="climatelib_state_off">オフ</string>
+  <string name="climatelib_state_on">オン</string>
+  <string name="climatelib_thermostatMode_heat">暑い</string>
+  <string name="climatelib_thermostatMode_cool">涼しい</string>
+  <string name="climatelib_thermostatMode_single_auto">シングルオート</string>
+  <string name="climatelib_thermostatMode_dual_auto">デュアルオート</string>
+  <string name="climatelib_thermostatMode_aux_heat">AUX熱</string>
+  <string name="climatelib_thermostatMode_autoMode">自動モード　</string>
+  <string name="climatelib_thermostatMode_dualMode">複合モード　</string>
+  <string name="climatelib_thermostatFan_auto">自動　　</string>
+  <string name="climatelib_thermostatFan_low">低　</string>
+  <string name="climatelib_thermostatFan_medium">中　</string>
+  <string name="climatelib_thermostatFan_high">高　</string>
+  <string name="climatelib_thermostatFan_circulate">循環する　</string>
+  <string name="climatelib_thermostatFan_circulateLow">緩やかに循環する　</string>
+  <string name="climatelib_thermostatFan_circulateMedium">中程度に循環する　</string>
+  <string name="climatelib_thermostatFan_none">なし　</string>
+  <string name="climatelib_thermostatSchedule_noEvents">イベントがありません </string>
+  <string name="climatelib_thermostatSchedule_hold">持つ　</string>
+  <string name="climatelib_thermostatSchedule_running">実行中 </string>
+  <string name="climatelib_thermostatSchedule_run">実行　　</string>
+  <string name="climatelib_thermostatSchedule_override">一時的 </string>
+  <string name="climatelib_thermostatSchedule_next">次に %1$s - %2$s </string>
+  <string name="climatelib_thermostatSchedule_holding">保持中</string>
+  <string name="climatelib_labelMode">モード </string>
+  <string name="climatelib_labelFan">ファン </string>
+  <string name="climatelib_labelSchedule">スケジュール </string>
+  <string name="climatelib_noScheduleEvents">予定されたイベントはありません。イベントを設定しますか。 </string>
+  <string name="climatelib_popupCancel">キャンセル</string>
+  <string name="climatelib_popupCreate">作成 </string>
+  <string name="climatelib_scheduleMenu_climateSchedule">予定された気候 </string>
+  <string name="climatelib_scheduleMenu_scheduledEvents">予定されたイベント </string>
+  <string name="climatelib_advancedPassword_incorrectPassword">パスワードが正しくありません </string>
+  <string name="climatelib_climateSchedules_weekdays">平日 </string>
+  <string name="climatelib_climateSchedules_weekend">週末 </string>
+  <string name="climatelib_climateSchedules_everyday">毎日 </string>
+  <string name="climatelib_climateSchedules_timeAndDays">%1$s、%2$s </string>
+  <string name="climatelib_climateSchedules_time">%s  </string>
+  <plurals name="climatelib_climateSchedules_scheduledEventsCount">
+    <item quantity="one">%d scheduled event</item>
+    <item quantity="other">%d scheduled events</item>
+  </plurals>
+  <string name="climatelib_climateSchedules_noScheduledEvents">予定されたイベントはありません </string>
+  <string name="climatelib_climateSchedules_mon">月曜 </string>
+  <string name="climatelib_climateSchedules_tue">火曜 </string>
+  <string name="climatelib_climateSchedules_wed">水曜 </string>
+  <string name="climatelib_climateSchedules_thu">木曜 </string>
+  <string name="climatelib_climateSchedules_fri">金曜 </string>
+  <string name="climatelib_climateSchedules_sat">土曜 </string>
+  <string name="climatelib_climateSchedules_sun">日曜 </string>
+  <string name="climatelib_climate">気候</string>
+</resources>

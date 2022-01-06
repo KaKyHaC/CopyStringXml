@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">ערוך סצנות תאורה</string>
+  <string name="lightSceneEdit_scenesCategory">סצנות</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">הסצנה שצוינה  אינה ניתנת למחיקה.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">הסצנה שצוינה אינה ניתנת לעריכה.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">אישור</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+  <string name="cloud_relay_users_you">사용자</string>
+  <string name="cloud_relay_users_no_user">사용할 수 있는 사용자가 없습니다.</string>
+  <string name="cloud_relay_users_add_new_user">+ 새 사용자 추가</string>
+  <string name="cloud_relay_users_reclaim_home">이 홈 재청구</string>
+  <string name="cloud_relay_users_role_format">%s (초대 보류 중)</string>
+  <string name="cloud_relay_users_info_unavailable">"사용자 정보를 사용할 수 없습니다. 나중에 다시 시도하십시오"</string>
+</resources>

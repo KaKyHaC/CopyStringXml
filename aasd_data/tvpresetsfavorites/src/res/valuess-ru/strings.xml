@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">Channel item image</string>
+  <string name="tvpresetsfavorite_favoritesChannels">Избранные места</string>
+  <string name="tvpresetsfavorite_favoritesList">Список избранных медиафайлов</string>
+  <string name="tvpresetsfavorite_favoritesMore">Избранные медиафайлы ещё</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">Редактировать группу</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">Изменить избранную группу</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">Создать новую группу</string>
+  <string name="tvpresetsfavorite_nowPlaying">СЕЙЧАС ВОСПРОИЗВОДИТСЯ</string>
+  <string name="tvpresetsfavorite_upNext">СЛЕДУЮЩИЙ</string>
+  <string name="tvpresetsfavorite_noInformation">Нет информации</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">Нажмите \"⋯\", чтобы добавить избранные каналы.</string>
+  <string name="tvpresetsfavorite_noProvider">Нет избранных каналов, потому что оператор не\ выбран.</string>
+</resources>

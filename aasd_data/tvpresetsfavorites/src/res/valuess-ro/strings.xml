@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="tvpresetsfavorite_channelItemImage">Imaginea articolului canalului</string>
+  <string name="tvpresetsfavorite_favoritesChannels">FAVORITE</string>
+  <string name="tvpresetsfavorite_favoritesList">Lista de favorite media</string>
+  <string name="tvpresetsfavorite_favoritesMore">Mai multe favorite media</string>
+  <string name="tvpresetsfavorite_editGroupMenuItem">Editați grupul</string>
+  <string name="tvpresetsfavorite_changeGroupMenuItem">Schimbați grupul preferat</string>
+  <string name="tvpresetsfavorite_newGroupMenuItem">Creați un grup nou</string>
+  <string name="tvpresetsfavorite_nowPlaying">SE REDĂ ACUM</string>
+  <string name="tvpresetsfavorite_upNext">ÎN CONTINUARE</string>
+  <string name="tvpresetsfavorite_noInformation">Nicio informație</string>
+  <string name="tvpresetsfavorite_emptyStartEndTime">-</string>
+  <string name="tvpresetsfavorite_emptyPreset">Apăsați \"⋯\" pentru a adăuga canalele preferate</string>
+  <string name="tvpresetsfavorite_noProvider">Nu sunt canale preferate deoarece furnizorul nu\ este selectat</string>
+</resources>

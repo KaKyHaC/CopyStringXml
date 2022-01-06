@@ -1,0 +1,17 @@
+<resources>
+  <string name="advancedSettings_subsystemVisibilityControl_label">إظهار عناصر التحكم</string>
+  <string name="advancedSettings_roomVisibilityControl_label">إظهار الغُرف</string>
+  <string name="advancedSettings_settings_home_access_label">الدخول إلى المنزل</string>
+  <string name="advancedSettings_settings_cameras_label">الكاميرات</string>
+  <string name="advancedSettings_settings_security_label">الأمان</string>
+  <string name="advancedSettings_back_description">زر الرجوع</string>
+  <string name="advancedSettings_settings_audio_interrupts_chimes_label">مقاطعات الصوت والأجراس</string>
+  <string name="advancedSettings_settings_events_sound_label">الأحداث والأصوات</string>
+  <string name="advancedSettings_settings_change_theme_label">عرض</string>
+  <string name="advancedSettings_settings_change_theme_title">تغيير النسق</string>
+  <string name="advancedSettings_toolbar">الإعدادات المتقدمة</string>
+  <string name="advancedSettings_showDoNotSiasturb">إظهار عدم الإزعاج</string>
+  <string name="advancedSettings_colorTuning_label">توليف اللون</string>
+  <string name="advancedSettings_tunableLighting_label">الإضاءة القابلة للتوليف</string>
+  <string name="advancedSettings_circadianSettings_label">الإعدادات اليومية</string>
+</resources>

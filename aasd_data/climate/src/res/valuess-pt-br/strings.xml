@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climate_climate_controls">CONTROLES DE CLIMA</string>
+  <string name="climate_current_temperature">TEMPERATURA ATUAL</string>
+  <string name="climate_mode">Modo</string>
+  <string name="climate_schedule">CRONOGRAMA</string>
+  <string name="climate_fan">VENTILADOR</string>
+  <string name="climate_floor_heating">Aquecimento de piso</string>
+  <string name="climate_humidity_controls">CONTROLES DE UMIDADE</string>
+  <string name="climate_humidify">UMIDIFICAR PARA</string>
+  <string name="climate_floor_control">Controle de piso</string>
+  <string name="climate_currentHumidity_title">Umidade atual</string>
+  <string name="climate_humidityControl_title">Controle de umidade</string>
+</resources>

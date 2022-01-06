@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">הפריסה הראשית %s הוסרה.</string>
+  <string name="customdevice_controlNotAvailable">בקרה אינה זמינה</string>
+  <string name="customdevice_emptyAlertTitle">מידע אינו זמין</string>
+  <string name="customdevice_emptyLayoutError">אין פריסה עם מזהה %s.</string>
+  <string name="customdevice_emptyMediaLayoutError">לא הוגדרה פריסה למקור עם מזהה בעלים %d.</string>
+  <string name="customdevice_emptyAlertError">אין פריסה עם מזהה %s.</string>
+  <string name="customdevice_alertError">אירעה שגיאה בפתיחת התראה עם המזהה %s.</string>
+  <string name="customdevice_layoutError">אירעה שגיאה בפתיחת פריסה עם המזהה %s.</string>
+  <string name="customdevice_emptySelectionList">אין פריטים להצגה עבור %s.</string>
+  <string name="customdevice_setValueGenericError">משהו השתבש.  לא ניתן לשנות את הערך.</string>
+  <string name="customdevice_setValueError">לא ניתן היה לשנות את הערך.  %s</string>
+  <string name="customdevice_runCommandGenericError">משהו השתבש.  לא ניתן לבצע את הפקודה.</string>
+  <string name="customdevice_runCommandError">לא ניתן היה לבצע את הפקודה.  %s</string>
+  <string name="customdevice_thermostat_setpoint">מוגדר ל-</string>
+  <string name="customdevice_thermostat_heatSetpoint">חימום ל-</string>
+  <string name="customdevice_thermostat_coolSetpoint">קירור ל-</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">שדה הניווט אינו מוגדר כהלכה.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">אנא השתמש באפליקציה או בהתקן חיצוני לבקרה.</string>
+  <string name="customdevice_mediaEmptyScreen_title">אין בקרה זמינה.</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+  <string name="doors_locks">Ajtózárak</string>
+  <string name="doors_scenes">JELENETEK</string>
+  <string name="doors_controls">VEZÉRLŐK</string>
+  <string name="doors_lock_all">Összes zárása</string>
+  <string name="doors_unlock_all">Összes nyitása</string>
+</resources>

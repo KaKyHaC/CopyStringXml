@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Настройка цвета</string>
+  <string name="dmxroomselection_controlsTitle">СРЕДСТВА УПРАВЛЕНИЯ</string>
+  <string name="dmxcolortuning_description">Определите базовые настройки для этой комнаты. С помощью базовых настроек вы определяете желаемый цвет и температуру для регулируемых светильников.\n\n\nДля визуализации цвета предусмотрены ползунки и переключатели интенсивности. Они не сохраняются в базовых настройках.</string>
+</resources>

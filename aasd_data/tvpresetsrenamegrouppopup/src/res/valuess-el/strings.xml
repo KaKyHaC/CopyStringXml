@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">Μετονομάστε την ομάδα</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">Άκυρο</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">Μετονομασία</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">Αναπαραγωγή Ονόματος</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">Μη έγκυρο όνομα</string>
+  <string name="tvpresetsrenamegroup_unknownError">Η λειτουργία απέτυχε</string>
+</resources>

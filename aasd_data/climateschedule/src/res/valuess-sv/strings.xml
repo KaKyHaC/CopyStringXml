@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">Händelsenamn, dvs. Sommarklimatschema</string>
+  <string name="climateschedule_scheduleNameTitleLabel">Namn</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">Ny schemalagd klimathändelse</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">Redigera schemalagd händelse</string>
+  <string name="climateschedule_scheduleActiveDays">AKTIVA DAGAR</string>
+  <string name="climateschedule_activeDays_sunday">S</string>
+  <string name="climateschedule_activeDays_monday">M</string>
+  <string name="climateschedule_activeDays_tuesday">T</string>
+  <string name="climateschedule_activeDays_wednesday">O</string>
+  <string name="climateschedule_activeDays_thursday">T</string>
+  <string name="climateschedule_activeDays_friday">F</string>
+  <string name="climateschedule_activeDays_saturday">S</string>
+  <string name="climateschedule_activeDays">AKTIVA DAGAR</string>
+  <string name="climateschedule_save">Spara</string>
+  <string name="climateschedule_deleteSchedule">Ta bort</string>
+  <string name="climateschedule_copyToAnotherThermostat">Kopiera till en annan termostat</string>
+  <string name="climateschedule_scheduleEventError">Något gick fel, försök igen.</string>
+  <string name="climateschedule_editTitle">REDIGERA</string>
+  <string name="climateschedule_deleteWarning">Är du säker på att du vill ta bort %s händelse?</string>
+  <string name="climateschedule_invalidScheduleNameError">Det här schemalagda händelsenamnet är inte giltigt</string>
+  <string name="climateschedule_duplicateScheduleNameError">Det här schemalagda händelsenamnet finns redan</string>
+  <string name="climateschedule_discardChangesWarning">Du har ändringar som inte har sparats. Vill du glömma dessa ändringar?</string>
+  <string name="climateschedule_discard">Glöm</string>
+  <string name="climateschedule_saveChangesWarning">Vill du spara ändringar?</string>
+  <string name="climateschedule_setpointsTitle">BÖRVÄRDEN</string>
+  <string name="climateschedule_scheduleStatusTitle">STATUS PÅ SCHEMA</string>
+  <string name="climateschedule_scheduleStatusItem">Schema aktiverat</string>
+  <string name="climateschedule_timePicker_header">START</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

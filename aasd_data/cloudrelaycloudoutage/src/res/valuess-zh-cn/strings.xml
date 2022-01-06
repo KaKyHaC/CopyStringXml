@@ -1,0 +1,5 @@
+<resources>
+  <string name="cloudrelaycloudoutage_connection_down_title">云链接故障...</string>
+  <string name="cloudrelaycloudoutage_connection_down_description">此时无法加载房屋控件。即使云连接暂时故障，只要您在您的本地WAP中，您就仍然可以进行本地连接。</string>
+  <string name="cloudrelaycloudoutage_connection_locally">尝试本地连接</string>
+</resources>

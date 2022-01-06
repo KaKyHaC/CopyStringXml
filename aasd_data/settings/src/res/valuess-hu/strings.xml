@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">Virtuális eszközsáv időtúllépés</string>
+  <string name="settings_hardkey_wakes_lcd">A képernyő billentyű felébreszti az LCD-t</string>
+  <string name="settings_master_volume">Fő hangerő</string>
+  <string name="settings_hardkey_behavior">FEL/LE PANELGOMB VISELKEDÉS</string>
+  <string name="settings_hardkey_no_function">Nincs funkció</string>
+  <string name="settings_hardkey_lights">Fények (helyiség növelés/csökkentés)</string>
+  <string name="settings_hardkey_shades">Árnyékolók (helyiség növelés/csökkentés)</string>
+  <string name="settings_hardkey_media">Média (helyiség hangerő +/-)</string>
+  <string name="settings_advanced_settings_toolbar">Haladó beállítások</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Presun a prispôsobenie rozsahu</string>
+  <string name="changeimage_cellularWarning">Ak nie ste pripojení prostredníctvom siete Wi-Fi, nahrávanie fotografií môže trvať podstatne dlhšie.</string>
+  <string name="changeimage_cancel">Zrušiť</string>
+  <string name="changeimage_choose">Vybrať</string>
+</resources>

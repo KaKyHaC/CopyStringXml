@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelayadduser_assign_user">priradenie roly používateľa</string>
+  <string name="cloudrelayadduser_user">Používateľ</string>
+  <string name="cloudrelayadduser_owner">Vlastník</string>
+  <string name="cloudrelayadduser_username">Meno používateľa</string>
+  <string name="cloudrelayadduser_email">e-mail</string>
+  <string name="cloudrelayadduser_yes">Áno</string>
+  <string name="cloudrelayadduser_no">Nie</string>
+  <string name="cloudrelayadduser_invite_warning">Ešte ste neukončili odosielanie pozvánok. Pokračovať v úpravách?</string>
+  <string name="cloudrelayadduser_send_invite">Odoslať pozvánku</string>
+  <string name="cloudrelayadduser_invite_sent">Pozvánka odoslaná.</string>
+  <string name="cloudrelayadduser_add_new_user">Pridať nového používateľa</string>
+</resources>

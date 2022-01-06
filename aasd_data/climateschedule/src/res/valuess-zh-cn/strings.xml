@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedule_scheduleNameHint">事件名称，如夏季气候时间表</string>
+  <string name="climateschedule_scheduleNameTitleLabel">名称</string>
+  <string name="climateschedule_newSchedule_toolbarTitle">新气候计划事件</string>
+  <string name="climateschedule_editSchedule_toolbarTitle">编辑计划事件</string>
+  <string name="climateschedule_scheduleActiveDays">有效天数</string>
+  <string name="climateschedule_activeDays_sunday">S</string>
+  <string name="climateschedule_activeDays_monday">M</string>
+  <string name="climateschedule_activeDays_tuesday">T</string>
+  <string name="climateschedule_activeDays_wednesday">W</string>
+  <string name="climateschedule_activeDays_thursday">T</string>
+  <string name="climateschedule_activeDays_friday">华氏度</string>
+  <string name="climateschedule_activeDays_saturday">S</string>
+  <string name="climateschedule_activeDays">有效天数</string>
+  <string name="climateschedule_save">保存</string>
+  <string name="climateschedule_deleteSchedule">删除</string>
+  <string name="climateschedule_copyToAnotherThermostat">复制到另一恒温控制器</string>
+  <string name="climateschedule_scheduleEventError">出错，请重试。</string>
+  <string name="climateschedule_editTitle">编辑</string>
+  <string name="climateschedule_deleteWarning">您是否想删除%s事件？</string>
+  <string name="climateschedule_invalidScheduleNameError">此计划事件名称无效</string>
+  <string name="climateschedule_duplicateScheduleNameError">此计划事件名称已存在</string>
+  <string name="climateschedule_discardChangesWarning">您已经执行了未保存的更改。放弃更改？</string>
+  <string name="climateschedule_discard">放弃</string>
+  <string name="climateschedule_saveChangesWarning">你是否想保存更改？</string>
+  <string name="climateschedule_setpointsTitle">设置值</string>
+  <string name="climateschedule_scheduleStatusTitle">计划状态</string>
+  <string name="climateschedule_scheduleStatusItem">计划已启用</string>
+  <string name="climateschedule_timePicker_header">开始</string>
+  <string name="climateschedule_timePicker_colon">:</string>
+  <string name="climateschedule_timePicker_minuteFormat">%02d</string>
+</resources>

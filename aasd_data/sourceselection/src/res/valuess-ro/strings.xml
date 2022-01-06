@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">Selectați sursa</string>
+  <string name="source_selection_problem_source">Nu este disponibil(ă) în toate încăperile din grup</string>
+</resources>

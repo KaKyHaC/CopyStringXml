@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">Opties voor ontwikkelaars inschakelen</string>
+  <string name="reset_logging_after_24_hours">Logboekregistratie resetten na 24 uur</string>
+  <string name="developer_options">Ontwikkelaarsopties</string>
+  <string name="logging_level">Logboekniveau</string>
+  <string name="logging">Loggen</string>
+  <string name="network_logging">Netwerkregistratie</string>
+  <string name="detailed_logging">Gedetailleerde logboekregistratie</string>
+</resources>

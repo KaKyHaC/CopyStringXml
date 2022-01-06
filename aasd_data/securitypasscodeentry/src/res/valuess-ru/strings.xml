@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">Введите код безопасности</string>
+  <string name="securitypasscodeentry_saveMessage">Сохраните код для этого устройства. Больше вам не потребуется вводить этот код.</string>
+  <string name="securitypasscodeentry_invalidPasscode">Неверный код. Попытайтесь еще раз.</string>
+  <string name="securitypasscodeentry_passcodeRequired">Код не введен. Пожалуйста, введите правильный код.</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="mobileclaimhome_homeSettings">INSTÄLLNINGAR FÖR HEM</string>
+  <string name="mobileclaimhome_remoteAccessSettings">INSTÄLLNINGAR FÖR FJÄRRÅTKOMST</string>
+  <string name="mobileclaimhome_port">Port</string>
+</resources>

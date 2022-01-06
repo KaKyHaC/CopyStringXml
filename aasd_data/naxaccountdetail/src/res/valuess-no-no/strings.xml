@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">REGNSKAP</string>
+  <string name="naxaccountdetail_edit_name">Rediger navn</string>
+  <string name="naxaccountdetail_signIn">Logg inn</string>
+  <string name="naxaccountdetail_remove">Fjerne</string>
+  <string name="naxaccountdetail_remove_yes">Ja, fjern</string>
+  <string name="naxaccountdetail_removeAccount_warning">Denne %s-kontoen vil ikke lenger være tilgjengelig for Crestron Home.\n\n Vil du fortsette?</string>
+</resources>

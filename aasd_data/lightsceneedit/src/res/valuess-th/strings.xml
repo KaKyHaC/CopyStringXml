@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">แก้ไขฉากของแสง</string>
+  <string name="lightSceneEdit_scenesCategory">ฉาก</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">ฉากนี้ไม่ได้ถูกลบ</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">ฉากนี้ไม่สามารถแก้ไขได้</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">ตกลง</string>
+</resources>

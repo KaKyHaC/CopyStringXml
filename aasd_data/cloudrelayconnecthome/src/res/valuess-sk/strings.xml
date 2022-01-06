@@ -1,0 +1,10 @@
+<resources>
+  <string name="cloudrelayconnecthome_edit_home">Upraviť domácnosť</string>
+  <string name="couldrelayconnecthome_edit_details">Upravte podrobnosti o svojom systéme Crestron Home.</string>
+  <string name="cloudrelayconnecthome_home_settings">NASTAVENIA DOMÁCNOSTI</string>
+  <string name="cloudrelayconnecthome_friendlyNameOrLocation">Popisný názov/umiestnenie</string>
+  <string name="cloudrelayconnecthome_password">Heslo používateľského rozhrania</string>
+  <string name="cloudrelayconnecthome_localConnectionSettings">NASTAVENIA MIESTNEHO PRIPOJENIA</string>
+  <string name="cloudrelayconnecthome_ipAddressOrHostName">IP adresa/meno hostiteľa</string>
+  <string name="cloudrelayconnecthome_continue">Pokračovať</string>
+</resources>

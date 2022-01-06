@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadeslib_shades">Jaluzele</string>
+  <string name="shadeslib_all_shades_closed">ÎNCHIS(Ă)</string>
+  <string name="shadeslib_all_shades_opened">DESCHIDE</string>
+  <string name="shadeslib_shades_title">Jaluzele %s </string>
+  <string name="shadeslib_shade_state_with_tilt">CU ÎNCLINARE %d%% </string>
+  <string name="shadeslib_shades_status_opened">Jaluzelele sunt deschise.</string>
+  <string name="shadeslib_shades_group_partially_offline">%s (PARȚIAL ÎNCHISE)</string>
+  <string name="shadeslib_position_open">%d%% DESCHISE</string>
+  <string name="shadeslib_shades_closed">ÎNCHIS(Ă)</string>
+  <string name="shadeslib_shades_open">DESCHIDE</string>
+  <string name="shadeslib_shades_opening">SE DESCHIDE...</string>
+  <string name="shadeslib_shades_closing">SE ÎNCHIDE…</string>
+</resources>

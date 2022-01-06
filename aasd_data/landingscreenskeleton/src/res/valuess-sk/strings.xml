@@ -1,0 +1,5 @@
+<resources>
+  <string name="landing_screen_discover_home">Rozpoznať domácnosť</string>
+  <string name="landing_screen_add_manually">Pridať manuálne</string>
+  <string name="landing_screen_waps_selection_button_title">Pripojenie k prístupovému bodu siete Wi-Fi</string>
+</resources>

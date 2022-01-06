@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelNoConnectionLandingScreen_noNetworksFound">
+ネットワークが見つかりません！</string>
+  <string name="touchpanelNoConnectionLandingScreen_instructions">
+イーサネットケーブルを確認するか、ワイヤレスで接続してください。</string>
+  <string name="touchpanelNoConnectionLandingScreen_buttonText">
+Wi-Fiアクセスポイントに接続します</string>
+</resources>

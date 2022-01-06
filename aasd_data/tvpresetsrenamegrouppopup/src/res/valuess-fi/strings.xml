@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">Rename the group</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">Peruuta</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">Nimeä uudelleen</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">Nimen kaksoiskappale</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">Virheellinen nimi</string>
+  <string name="tvpresetsrenamegroup_unknownError">Operation Failed</string>
+</resources>

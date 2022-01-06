@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">MOSTRAR ÁREAS</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">ocultar o botão "Voltar" das áreas de segurança</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">แสดงพื้นที่</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">ซ่อมปุ่มด้านหลังสำหรับพื้นที่รักษาความปลอดภัย</string>
+</resources>

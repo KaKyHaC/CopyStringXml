@@ -1,0 +1,8 @@
+<resources>
+  <string name="tvpresetsrenamegroup_popupTitle">Renombrar el grupo</string>
+  <string name="tvpresetsrenamegroup_popupCancelButton">Cancelar</string>
+  <string name="tvpresetsrenamegroup_popupCreateButton">Volver a nombrar</string>
+  <string name="tvpresetsrenamegroup_duplicateNameError">Nombre duplicado</string>
+  <string name="tvpresetsrenamegroup_invalidNameError">Nombre no válido</string>
+  <string name="tvpresetsrenamegroup_unknownError">Falla de funcionamiento</string>
+</resources>

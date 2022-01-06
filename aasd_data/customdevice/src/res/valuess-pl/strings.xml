@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="button_labelUnavailable">Tekst niedostępny</string>
+  <string name="min_validation_text">Wartość nie może być mniejsza niż %s</string>
+  <string name="max_validate_text">Wartość nie może przekraczać %s</string>
+  <string name="stepsize_validate_text">Wartość należy ustawiać w przyrostach co %s</string>
+</resources>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">Основной макет %s был удален.</string>
+  <string name="customdevice_controlNotAvailable">УПРАВЛЕНИЕ НЕДОСТУПНО</string>
+  <string name="customdevice_emptyAlertTitle">Информация недоступна.</string>
+  <string name="customdevice_emptyLayoutError">Нет макета с идентификатором %s.</string>
+  <string name="customdevice_emptyMediaLayoutError">Для источника с идентификатором владельца %d не определен макет.</string>
+  <string name="customdevice_emptyAlertError">Нет макета с идентификатором %s.</string>
+  <string name="customdevice_alertError">Произошла ошибка при открытии оповещения с идентификатором %s.</string>
+  <string name="customdevice_layoutError">Произошла ошибка при открытии макета с идентификатором %s.</string>
+  <string name="customdevice_emptySelectionList">Нет элементов для отображения для %s.</string>
+  <string name="customdevice_setValueGenericError">Что-то пошло не так. Невозможно изменить значение.</string>
+  <string name="customdevice_setValueError">Невозможно изменить значение. %s</string>
+  <string name="customdevice_runCommandGenericError">Что-то пошло не так. Невозможно выполнить задачу.</string>
+  <string name="customdevice_runCommandError">Невозможно выполнить задачу. %s</string>
+  <string name="customdevice_thermostat_setpoint">УСТАНОВИТЬ НА</string>
+  <string name="customdevice_thermostat_heatSetpoint">НАГРЕТЬ ДО</string>
+  <string name="customdevice_thermostat_coolSetpoint">ОХЛАДИТЬ ДО</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">Навигационное поле неправильно настроено.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">Для управления используйте внешнее приложение или устройство.</string>
+  <string name="customdevice_mediaEmptyScreen_title">Управление отсутствует.</string>
+</resources>

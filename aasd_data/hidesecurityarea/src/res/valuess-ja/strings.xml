@@ -1,0 +1,5 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">エリアを表示</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">
+セキュリティエリアを隠す戻るボタン</string>
+</resources>

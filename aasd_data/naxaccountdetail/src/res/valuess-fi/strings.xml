@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">Tili</string>
+  <string name="naxaccountdetail_edit_name">Edit name</string>
+  <string name="naxaccountdetail_signIn">Kirjaudu sisään</string>
+  <string name="naxaccountdetail_remove">Poista</string>
+  <string name="naxaccountdetail_remove_yes">Yes, remove</string>
+  <string name="naxaccountdetail_removeAccount_warning">This %s account will no longer be accessible by Crestron Home.\n\n Do you want to continue?</string>
+</resources>

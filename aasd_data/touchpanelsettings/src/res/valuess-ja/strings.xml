@@ -1,0 +1,32 @@
+<resources>
+  <string name="touchPanelsettings_back_description">設定戻るボタン　</string>
+  <string name="touchPanelsettings_toolbar">設定</string>
+  <string name="touchPanelsettings_toolbar_default_room">初期設定の部屋　</string>
+  <string name="touchPanelsettings_room_list">ルームリスト　</string>
+  <string name="touchPanelsettings_display">ディスプレイ　</string>
+  <string name="touchPanelsettings_automode_brightness">自動輝度調整　</string>
+  <string name="touchPanelsettings_toolbar_timeout_label">ディスプレイタイムアウト　</string>
+  <string name="touchPanelsettings_screensaver">スリーンセーバー　</string>
+  <string name="touchPanelsettings_media_volume">メディアの量　</string>
+  <string name="touchPanelsettings_home">ホーム　</string>
+  <string name="touchPanelsettings_advanced_settings">詳細設定</string>
+  <string name="touchPanelsettings_edit_home">ホームを編集する　</string>
+  <string name="touchPanelsettings_info">情報　</string>
+  <string name="touchPanelsettings_firmware_version">ファームウェア バージョン　</string>
+  <string name="touchPanelsettings_ui_version">UIバージョン　</string>
+  <string name="touchPanelsettings_volume">ボリューム　</string>
+  <string name="touchPanelsettings_edit_home_popup_message">クレストロン社のディーラーから指示した場合のみ、これらの設定を変更してください。　</string>
+  <string name="touchPanelsettings_edit_home_popup_confirmation_button">続行</string>
+  <string name="touchPanelsettings_edit_home_popup_cancel_button">キャンセル</string>
+  <string name="touchPanelsettings_timeout_text_never">しない　</string>
+  <string name="touchPanelsettings_timeout_text_seconds">%s 秒　　</string>
+  <string name="touchPanelsettings_timeout_text_minute">1分　</string>
+  <string name="touchPanelsettings_timeout_text_minutes">%s 分　</string>
+  <string name="touchPanelsettings_timeout_text_hour">1時間　</string>
+  <string name="touchPanelsettings_timeout_text_hours">%s 時間　</string>
+  <string name="touchPanelsettings_access_points">WiFi アクセスポイント　</string>
+  <string name="touchPanelsettings_intercom">インターコムと中断　</string>
+  <string name="touchPanelsettings_do_not_disturb">応答不可　</string>
+  <string name="touchPanelsettings_play_test">プレイテスト　</string>
+  <string name="touchPanelsettings_speakervolume_label">スピーカーのボリューム　</string>
+</resources>

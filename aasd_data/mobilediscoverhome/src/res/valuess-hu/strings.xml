@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mobilediscoverhome_downloadSgMessage">Kérjük, töltse le a Smart Graphics alkalmazást ez az otthon vezérléséhez</string>
+  <string name="mobilediscoverhome_cancel">Mégse</string>
+  <string name="mobilediscoverhome_downloadApp">Alkalmazás letöltése</string>
+</resources>

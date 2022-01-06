@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="remotekeypad_hyphen">-</string>
+  <string name="remotekeypad_guide">Przewodnik</string>
+  <string name="remotekeypad_clear">Wyczyść</string>
+  <string name="remotekeypad_enter">Wprowadź</string>
+  <string name="remotekeypad_notAvailable">Klawiatura jest niedostępna.</string>
+</resources>

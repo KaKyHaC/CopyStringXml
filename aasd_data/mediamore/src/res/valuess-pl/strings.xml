@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">USTAWIENIA GŁOŚNIKA</string>
+  <string name="mediamore_additionalFunctions">FUNKCJE DODATKOWE</string>
+  <string name="mediamore_advancedSettings">Ustawienia zaawansowane</string>
+  <string name="mediamore_noInfo">Brak dostępnych informacji.</string>
+</resources>

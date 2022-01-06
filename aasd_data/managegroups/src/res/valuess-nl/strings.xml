@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="managegroups_title">Samenvoegen met %s</string>
+  <string name="managegroups_ungroupAll">Alles degroeperen</string>
+  <string name="managegroups_ungroupRoom">Groepering opheffen %s</string>
+  <string name="managegroups_mergeSelected">Geselecteerde samenvoegen tot een groep</string>
+</resources>

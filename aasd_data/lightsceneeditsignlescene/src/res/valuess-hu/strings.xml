@@ -1,0 +1,12 @@
+<resources>
+  <string name="lightEditSingleScene_title">Világítási jelenetek szerkesztése</string>
+  <string name="lightEditSingleScene_set_scene_options">JELENETBEÁLLÍTÁSOK MEGADÁSA</string>
+  <string name="lightEditSingleScene_delete_scene">Jelenet törlése</string>
+  <string name="lightEditSingleScene_deletePopup_confirmation">Biztos, hogy törli ezt a jelenetet?</string>
+  <string name="lightEditSingleScene_deletePopup_delete">Törlés</string>
+  <string name="lightEditSingleScene_deletePopup_cancel">Mégse</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_cannotBeDeleted">Sajnáljuk, ez a jelenet nem törölhető</string>
+  <string name="lightEditSingleScene_deleteErrorPopups_ok">OK</string>
+  <string name="lightEditSingleScene_dismiss">Bezárás</string>
+  <string name="lightEditSingleScene_cannot_edit">Sajnáljuk, ennek a jelenetnek a neve és az ikonja nem szerkeszthető</string>
+</resources>

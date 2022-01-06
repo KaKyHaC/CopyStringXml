@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Phoenix</string>
+  <string name="app_home">บ้าน</string>
+  <string name="app_rooms">ห้อง</string>
+  <string name="app_more">เพิ่มเติม</string>
+  <string name="app_home_is_busy">บ้านของคุณไม่ว่าง โปรดสแตนด์บาย</string>
+</resources>

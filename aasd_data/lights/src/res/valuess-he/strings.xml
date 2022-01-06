@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">סצנות</string>
+  <string name="lights_controlsTitle">פקדים</string>
+  <string name="lights_controlsMasterControl">כל האורות</string>
+  <string name="create_new_scene">צור סצנה חדשה</string>
+  <string name="lights_noScenesInfo">נראה כי בחדר הזה אין/ יש סצנות תאורה גלויות.</string>
+</resources>

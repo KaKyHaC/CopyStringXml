@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">การดำเนินการย้อนกลับไปที่การเลือก Wifi</string>
+  <string name="touchpanelWifiSelection_title">ตัวเลือก Wifi</string>
+  <string name="touchpanelWifiSelection_Discovering">การค้นพบ</string>
+  <string name="touchpanelWifiSelection_tryAgain">ลองอีกครั้ง</string>
+  <string name="touchpanelWifiSelection_titleFound">เชื่อมต่อกับจุดเชื่อมต่อ WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleFound">โปรดเลือกจุดเชื่อมต่อ</string>
+  <string name="touchpanelWifiSelection_titleNotFound">ไม่พบจุดเชื่อมต่อ WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">ไม่พบจุดเชื่อมต่อ WiFi โปรดตรวจสอบการเชื่อมต่อเครือข่ายและลองอีกครั้ง</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">กำลังค้นหาจุดเชื่อมต่อ WiFi</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">โปรดรอให้การสแกนเสร็จสิ้น</string>
+</resources>

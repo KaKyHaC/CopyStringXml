@@ -1,0 +1,11 @@
+<resources>
+  <string name="hide_subsystem_houseaccess">Husåtkomst</string>
+  <string name="hide_subsystem_lights">Lampor</string>
+  <string name="hide_subsystem_media">MEDIA</string>
+  <string name="hide_subsystem_pools">Pooler och bubbelpooler</string>
+  <string name="hide_subsystem_climate">Klimat</string>
+  <string name="hide_subsystem_shades">Rullgardiner</string>
+  <string name="hide_subsystem_security">Säkerhet</string>
+  <string name="hide_subsystem_cameras">Kameror</string>
+  <string name="hide_subsystem_customdevices">Anpassa enheter</string>
+</resources>

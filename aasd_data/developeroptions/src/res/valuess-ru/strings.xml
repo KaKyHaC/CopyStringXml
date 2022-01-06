@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_developer_options">Включить параметры разработчика</string>
+  <string name="reset_logging_after_24_hours">Сброс входа в систему через 24 часа</string>
+  <string name="developer_options">Опции разработчика</string>
+  <string name="logging_level">Уровень входа в систему</string>
+  <string name="logging">Вход в систему</string>
+  <string name="network_logging">Сетевой вход в систему</string>
+  <string name="detailed_logging">Детальный вход в систему</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+  <string name="claimhome_friendlyNameOrLocation">Nome amigável / Localização</string>
+  <string name="claimhome_ipAddressOrHostName">Endereço IP / Nome do host</string>
+  <string name="claimhome_password">Senha da interface do usuário</string>
+  <string name="claimhome_port">Porta</string>
+  <string name="claimhome_connect">Conectar</string>
+  <string name="claimhome_localPort">Porta local</string>
+  <string name="claimhome_resetToDefault">Redefinir para o padrão</string>
+  <string name="claimhome_addTitle">Adicionar nova casa</string>
+  <string name="claimhome_addSubtitle">Insira detalhes sobre sua nova casa Crestron e toque em "Conectar" para começar.</string>
+  <string name="claimhome_editTitle">Editar %s</string>
+  <string name="claimhome_editSubtitle">Edite detalhes sobre sua casa Crestron.</string>
+  <string name="claimhome_errorEmpty">Por favor, digite %s para continuar.</string>
+  <string name="claimhome_errorGeneral">Não foi possível conectar a esta casa.</string>
+  <string name="claimhome_incorrectPassword">Senha incorreta.</string>
+  <string name="claimhome_localConnectionSettings">CONFIGURAÇÕES DE CONEXÃO LOCAL</string>
+  <string name="claimhome_discover">Descobrir</string>
+  <string name="claimhome_invalidPasswordPopUp">A senha foi alterada, digite novamente a nova senha para %s.</string>
+  <string name="claimhome_sameHomeWarning">Já existe uma casa com o mesmo endereço IP / nome de host. Tem certeza de que deseja adicionar esta casa?</string>
+  <string name="claimhome_localPortExplanation">Altere somente quando orientado por seu revendedor autorizado da Crestron.</string>
+</resources>

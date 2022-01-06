@@ -1,0 +1,11 @@
+<resources>
+  <string name="home_quick_actions">SNABBA ÅTGÄRDER</string>
+  <string name="home_home_controls">HEMKONTROLLER</string>
+  <string name="home_lock_all">Lås alla</string>
+  <string name="home_unlock_all">Lås upp alla</string>
+  <string name="home_security_system">Säkerhetssystem</string>
+  <string name="home_climate">Klimat</string>
+  <string name="home_locks">Dörrlås</string>
+  <string name="home_cameras">Kameror</string>
+  <string name="home_access">Husåtkomst</string>
+</resources>

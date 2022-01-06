@@ -1,0 +1,9 @@
+<resources>
+  <string name="activemedia_turnOffAllMedia">Stäng av all media</string>
+  <string name="activemedia_activeMedia">Aktiv media (%d)</string>
+  <string name="activemedia_audio">LJUD</string>
+  <string name="activemedia_video">VIDEO</string>
+  <string name="activemedia_multiple_displays">Flera skärmar</string>
+  <string name="activemedia_left_display">Vänster skärm</string>
+  <string name="activemedia_turnOffAllMedia_confirmationMessage">Är du säker på att du vill stänga av hela huset?</string>
+</resources>

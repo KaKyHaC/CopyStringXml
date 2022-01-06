@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mediamore_speakerSettings">스피커 설정</string>
+  <string name="mediamore_additionalFunctions">추가 기능</string>
+  <string name="mediamore_advancedSettings">고급 설정</string>
+  <string name="mediamore_noInfo">사용할 수 있는 정보가 없습니다.</string>
+</resources>

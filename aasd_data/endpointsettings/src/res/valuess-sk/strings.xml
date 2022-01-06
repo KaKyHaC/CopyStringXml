@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="endpointsettings_stereo">Stereo</string>
+  <string name="endpointsettings_mono">Mono</string>
+  <string name="endpointsettings_default">Predvolený</string>
+  <string name="endpointsettings_center">Stred</string>
+  <string name="endpointsettings_valueOneDecimal">%.1f%s</string>
+  <string name="endpointsettings_valueNoDecimals">%.0f%s</string>
+  <string name="endpointsettings_noConfigurableSettings">Tento výstup nemá konfigurovateľné nastavenia zvuku.</string>
+  <string name="endpointsettings_l">Ľavý (L)</string>
+  <string name="endpointsettings_r">Pravý (R)</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">אבטחה</string>
+  <string name="security_panicActionsTitle">פעולות</string>
+  <string name="security_panicActionsSubtitle">לחץ והחזק למשך שנייה אחת כדי להפעיל כל פעולה</string>
+  <string name="security_navigationButtonsTitle">מקשי ניווט</string>
+  <string name="security_selectNavigationButton">בחר</string>
+  <string name="security_keypadTitle">לוח מקשים</string>
+  <string name="security_keypadSubtitle">הזן את הקוד בן 4 הספרות והספרה התואמת לפעולה שברצונך לבצע</string>
+  <string name="security_displayTextTitle">טקסט על הצג</string>
+</resources>

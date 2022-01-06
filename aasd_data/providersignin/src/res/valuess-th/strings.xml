@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">ใส่ชื่อผู้ใช้ของคุณ</string>
+  <string name="providersignin_enter_password">ใส่รหัสผ่านของคุณ</string>
+  <string name="providersignin_description">โปรดลงชื่อเข้าใช้บัญชี %s ของคุณเพื่อเพิ่มการสมัครใช้งานนี้</string>
+  <string name="providersignin_user_name">ชื่อผู้ใช้</string>
+  <string name="providersignin_password">รหัสผ่าน</string>
+  <string name="providersignin_title">ลงชื่อเข้าใช้</string>
+  <string name="providersignin_save_user">กำลังบันทึกผู้ใช้...</string>
+  <string name="providersignin_account_added">เพิ่มบัญชีแล้ว</string>
+  <string name="providersignin_login_failed">การลงชื่อเข้าใช้ล้มเหลว</string>
+</resources>

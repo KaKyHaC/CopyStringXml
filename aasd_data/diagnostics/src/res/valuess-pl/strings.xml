@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">Wsparcie diagnostyczne</string>
+  <string name="diagnostics_loggingTitle">Włącz przesyłanie danych diagnostycznych</string>
+  <string name="diagnostics_loggingDescription">Prosimy nie włączać przesyłania danych diagnostycznych, chyba że zaleci to pomoc techniczna Crestron</string>
+  <string name="diagnostics_submitDiagnostics">Prześlij dane diagnostyczne pomocy technicznej</string>
+  <string name="diagnostics_submitMessage">Crestron zaleca wysyłanie danych diagnostycznych tylko podczas współpracy ze sprzedawcą produktów Crestron lub na żądanie obsługi klienta Crestron.\n\nNaciśnięcie Prześlij pozwoli Ci wybrać, w jaki sposób chcesz udostępnić plik. Postępuj zgodnie z instrukcjami sprzedawcy Crestron lub obsługi klienta Crestron, dotyczącymi miejsca wysłania tego pliku.</string>
+  <string name="diagnostics_submit">Prześlij</string>
+</resources>

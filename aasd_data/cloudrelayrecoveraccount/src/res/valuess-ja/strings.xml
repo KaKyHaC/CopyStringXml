@@ -1,0 +1,9 @@
+<resources>
+  <string name="cloudrelayrecoveraccount_update_info">
+情報を更新する</string>
+  <string name="cloudrelayrecoveraccount_change_mail">
+メールアドレスを変更</string>
+  <string name="cloudrelayrecoveraccount_reset_password">パスワードを再設定する</string>
+  <string name="cloudrelayrecoveraccount_reset_number">電話番号をリセット
+</string>
+</resources>

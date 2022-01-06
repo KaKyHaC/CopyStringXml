@@ -1,0 +1,11 @@
+<resources>
+  <string name="settings_virtual_toolbar_timeout_label">仮想ツールバー中断 </string>
+  <string name="settings_hardkey_wakes_lcd">ハードキーでLCDを起動 </string>
+  <string name="settings_master_volume">マスターボリューム </string>
+  <string name="settings_hardkey_behavior">パネル上下動作ボタン </string>
+  <string name="settings_hardkey_no_function">機能がありません　 </string>
+  <string name="settings_hardkey_lights">照明（部屋の上方/下方） </string>
+  <string name="settings_hardkey_shades">シェード（部屋の上方/下方） </string>
+  <string name="settings_hardkey_media">メディア（部屋で　ボリューム上げる・下げる） </string>
+  <string name="settings_advanced_settings_toolbar">詳細設定</string>
+</resources>

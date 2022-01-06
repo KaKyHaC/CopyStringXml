@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="autoupdate_updateStarted">更新已開始。</string>
+  <string name="autoupdate_updateFailed">更新失敗。</string>
+  <string name="autoupdate_updateServerUnreachable">無法連線至更新伺服器。</string>
+  <string name="autoupdate_updateSucceeded">已成功更新。</string>
+</resources>

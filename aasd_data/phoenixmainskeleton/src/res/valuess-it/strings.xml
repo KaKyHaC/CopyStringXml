@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Fenice</string>
+  <string name="app_home">Home</string>
+  <string name="app_rooms">Stanze</string>
+  <string name="app_more">Altro</string>
+  <string name="app_home_is_busy">Il tuo Home è occupato, si prega di restare in attesa</string>
+</resources>

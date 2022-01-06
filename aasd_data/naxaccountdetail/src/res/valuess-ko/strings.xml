@@ -1,0 +1,8 @@
+<resources>
+  <string name="naxaccountdetail_accountTitle">계정</string>
+  <string name="naxaccountdetail_edit_name">이름 편집</string>
+  <string name="naxaccountdetail_signIn">로그인</string>
+  <string name="naxaccountdetail_remove">삭제</string>
+  <string name="naxaccountdetail_remove_yes">네, 제거하겠습니다</string>
+  <string name="naxaccountdetail_removeAccount_warning">Crestron 홈에서 이 %s 계정에 더 이상 액세스할 수 없습니다. \n\n 계속하시겠습니까?</string>
+</resources>

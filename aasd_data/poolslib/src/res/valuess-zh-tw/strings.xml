@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="poolslib_poolTile_title">泳池</string>
+  <string name="poolslib_spaTile_title">水療</string>
+  <string name="poolslib_unknownTile_title">未知</string>
+  <string name="poolslib_poolCurrentTemperature">%s 是 %sº</string>
+  <string name="poolslib_status_heatingToTemperature">升溫至 %s%s</string>
+  <string name="poolslib_setToTemperature">設定至 %s%s</string>
+  <string name="poolslib_outdoorTemperature">戶外溫度</string>
+  <string name="poolslib_celsiusUnit">攝氏度</string>
+  <string name="poolslib_fahrenheitUnit">華氏度</string>
+  <string name="poolslib_currentTemperatureText">%sº</string>
+  <string name="poolslib_percentageUnit">%</string>
+  <string name="poolslib_milliVoltsUnit">毫伏</string>
+  <string name="poolslib_partsPerMillionUnit">百萬分之一</string>
+  <string name="poolslib_gramsPerLiterUnit">克 / 公升</string>
+  <string name="poolslib_millisecondsUnit">毫秒</string>
+  <string name="poolslib_pHUnit">pH 值</string>
+  <string name="poolslib_unCategorizedTabTitle">其他</string>
+  <plurals name="poolslib_hoursUnit">
+    <item quantity="one">hour</item>
+    <item quantity="other">hours</item>
+  </plurals>
+  <plurals name="poolslib_minutesUnit">
+    <item quantity="one">minute</item>
+    <item quantity="other">minutes</item>
+  </plurals>
+  <plurals name="poolslib_secondsUnit">
+    <item quantity="one">second</item>
+    <item quantity="other">seconds</item>
+  </plurals>
+  <plurals name="poolslib_yearsUnit">
+    <item quantity="one">year</item>
+    <item quantity="other">years</item>
+  </plurals>
+  <plurals name="poolslib_monthsUnit">
+    <item quantity="one">month</item>
+    <item quantity="other">months</item>
+  </plurals>
+  <plurals name="poolslib_daysUnit">
+    <item quantity="one">day</item>
+    <item quantity="other">days</item>
+  </plurals>
+  <string name="poolslib_formatWithUnit">%s %s</string>
+  <string name="poolslib_formatWithUnitWithoutSpace">%s%s</string>
+  <string name="poolslib_valueNoInfo">-</string>
+</resources>

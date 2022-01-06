@@ -1,0 +1,10 @@
+<resources>
+  <string name="security_toolbarTitle">الأمان</string>
+  <string name="security_panicActionsTitle">الإجراءات</string>
+  <string name="security_panicActionsSubtitle">اضغط مع الاستمرار لمدة 1 ثانية لتشغيل كل إجراء</string>
+  <string name="security_navigationButtonsTitle">أزرار التنقل</string>
+  <string name="security_selectNavigationButton">تحديد</string>
+  <string name="security_keypadTitle">لوحة المفاتيح</string>
+  <string name="security_keypadSubtitle">أدخل الرمز المكون من 4 أرقام والرقم المقابل للإجراء الذي ترغب في تنفيذه</string>
+  <string name="security_displayTextTitle">عرض النص</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+  <string name="interrupts_toolbar">Händelser och ljud</string>
+  <string name="interrupts_back_description">händelser bakknapp</string>
+  <string name="interrupts_not_available">Inga händelser finns tillgängliga.</string>
+</resources>

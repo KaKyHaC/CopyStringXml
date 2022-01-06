@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">移動とスケール</string>
+  <string name="changeimage_cellularWarning">Wi-Fi経由の接続でないので、画像のアップロードにかなり時間がかかります。　</string>
+  <string name="changeimage_cancel">キャンセル</string>
+  <string name="changeimage_choose">選択</string>
+</resources>

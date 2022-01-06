@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">ฉาก</string>
+  <string name="lights_controlsTitle">ควบคุม</string>
+  <string name="lights_controlsMasterControl">แสงทั้งหมด</string>
+  <string name="create_new_scene">สร้างฉากใหม่</string>
+  <string name="lights_noScenesInfo">ห้องนี้ไม่มีฉากการจัดแสงที่มองเห็นได้</string>
+</resources>

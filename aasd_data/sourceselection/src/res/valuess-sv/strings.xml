@@ -1,0 +1,4 @@
+<resources>
+  <string name="source_selection_select_source">Välj källa</string>
+  <string name="source_selection_problem_source">Inte tillgänglig i alla rummen i gruppen</string>
+</resources>

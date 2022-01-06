@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Неверный пароль</string>
+  <string name="advancedpassword_passwordHint">Введите пароль для редактирования запланированных событий.</string>
+  <string name="advancedpassword_settingsPasswordHint">Это защищенный раздел, введите пароль.</string>
+  <string name="advancedpassword_editScenesPasswordHint">Это защищенный раздел, введите пароль.</string>
+  <string name="advancedpassword_title">Введите пароль</string>
+  <string name="advancedpassword_advancedUserPassword">Пароль расширенного пользователя</string>
+  <string name="advancedpassword_advancedUserPasswordHint">Обратитесь к своему авторизованному дилеру Crestron для получения пароля расширенного пользователя.</string>
+  <string name="advancedpassword_warning_ok">ОК</string>
+  <string name="advancedpassword_warning_subtitle">Если вы несколько раз введете неправильный пароль, ваша учетная запись будет временно заблокирована. Повторите попытку через некоторое время или обратитесь к авторизованному дилеру Crestron.</string>
+  <string name="advancedpassword_warning_title">Вы ввели неправильный пароль.</string>
+  <string name="advancedpassword_cloud_claim_hint">Для продолжения утверждения вашего дома введите пароль расширенного пользователя. Для получения пароля расширенного пользователя обратитесь к авторизованному дилеру Crestron.</string>
+  <string name="advancedpassword_cloud_claim_skip">Вы можете %s и перейти к своему дому без использования пароля расширенного пользователя в данный момент.</string>
+  <string name="advancedpassword_skip_this_step">Пропустить этот шаг</string>
+</resources>

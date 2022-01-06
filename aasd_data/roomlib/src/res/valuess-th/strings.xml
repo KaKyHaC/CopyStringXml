@@ -1,0 +1,17 @@
+<resources>
+  <string name="roomslib_all_rooms">ทุกห้อง</string>
+  <string name="roomslib_favorite_rooms">รายการโปรด</string>
+  <string name="roomslib_other_rooms">ห้องอื่น</string>
+  <string name="ok_text">ตกลง</string>
+  <string name="renameroom_voice">เพื่อให้บริการเสียงของคุณทำความรู้จักชื่อห้องใหม่นี้ โปรดขอให้บริการค้นหาอุปกรณ์ของคุณอีกครั้ง</string>
+  <string name="duplicate_name">ชื่อซ้ำ</string>
+  <string name="invalid_name">ชื่อไม่ถูกต้อง</string>
+  <string name="unknown_error">ข้อผิดพลาดที่ไม่รู้จัก</string>
+  <string name="read_only">อ่านเท่านั้น</string>
+  <string name="renameRoom">เปลี่ยนชื่อห้อง</string>
+  <string name="roomslib_do_not_disturb_toast_on">เปิดโหมดห้ามรบกวน</string>
+  <string name="roomslib_do_not_disturb_toast_off">ปิดโหมดห้ามรบกวน</string>
+  <string name="roomslib_this_room">ห้องนี้</string>
+  <string name="roomslib_selectRoom_colorTuning">การปรับสี</string>
+  <string name="roomslib_selectRoom_circadianLighting">ระบบไฟที่ปรับตามนาฬิกาชีวภาพ</string>
+</resources>

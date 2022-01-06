@@ -1,0 +1,7 @@
+<resources>
+  <string name="lights_scenesTitle">Plannen</string>
+  <string name="lights_controlsTitle">Controles</string>
+  <string name="lights_controlsMasterControl">ALLE LAMPEN</string>
+  <string name="create_new_scene">Nieuwe scène maken</string>
+  <string name="lights_noScenesInfo">Deze kamer lijkt geen zichtbare lichtscènes te hebben.</string>
+</resources>

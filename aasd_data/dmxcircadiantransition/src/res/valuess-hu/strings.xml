@@ -1,0 +1,14 @@
+<resources>
+  <string name="circadianTransition_title">%s szerkesztése</string>
+  <string name="circadianTransition_description">Kiválaszthatja, mikor kezdődik el a(z) „%d” átmeneti pont és beállíthatja a hozzá kapcsolódó, kívánt színhőmérsékletet. Ezek a beállítások valamennyi helyiségre hatással vannak.</string>
+  <string name="circadianTransition_categoryTitle_startTime">Indítási idő beállítása</string>
+  <string name="circadianTransition_categoryTitle_colorTemperature">Színhőmérséklet beállítása</string>
+  <string name="circadianTransition_colorTemperature">Színhőmérséklet – %dK</string>
+  <string name="circadianTransition_morning">Reggel</string>
+  <string name="circadianTransition_day">Nappal</string>
+  <string name="circadianTransition_evening">Este</string>
+  <string name="circadianTransition_night">Éjszaka</string>
+  <string name="circadianTransition_timePicker_header">INDÍTÁS</string>
+  <string name="circadianTransition_timePicker_colon">:</string>
+  <string name="circadianTransition_timePicker_minuteFormat">%02d</string>
+</resources>

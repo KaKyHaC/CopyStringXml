@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="climateschedulethermostats_applyToSelected">ใช้กับที่เลือก</string>
+  <string name="climateschedulethermostats_title">รายการเทอร์โมสตัท</string>
+  <string name="climateschedulethermostats_subtitle_allThermostats">เทอร์โมสตัททั้งหมด</string>
+  <string name="climateschedulethermostats_eventsCopiedSuccessfully">กำหนดกิจกรรมให้กับเทอร์โมสตัทที่เลือกทั้งหมดแล้ว</string>
+  <string name="climateschedulethermostats_eventsCopyError">ไม่สามารถคัดลอกการตั้งค่าบางรายการให้กับเทอร์โมสตัทหนึ่งหน่วยหรือมากกว่าได้</string>
+</resources>

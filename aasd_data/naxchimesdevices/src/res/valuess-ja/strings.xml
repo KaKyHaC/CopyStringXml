@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="naxChimesDevices_title">イベントとサウンド </string>
+  <string name="naxChimesDevices_volumeTitle">イベントの豊富さ </string>
+  <string name="naxChimesDevices_noEventsFound">可能なイベントはありません  </string>
+</resources>

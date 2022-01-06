@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">Zonneschermen</string>
+  <string name="shadegroup_batteryOk">Batterij ok</string>
+  <string name="shadegroup_batteryLow">Batterij bijna leeg</string>
+</resources>

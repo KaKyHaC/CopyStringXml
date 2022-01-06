@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">O layout principal %s foi removido.</string>
+  <string name="customdevice_controlNotAvailable">CONTROLO NÃO DISPONÍVEL</string>
+  <string name="customdevice_emptyAlertTitle">Informação não disponível.</string>
+  <string name="customdevice_emptyLayoutError">Nenhum layout com id %s.</string>
+  <string name="customdevice_emptyMediaLayoutError">Nenhum layout definido para a fonte com id de proprietário %d.</string>
+  <string name="customdevice_emptyAlertError">Nenhum layout com id %s.</string>
+  <string name="customdevice_alertError">Ocorreu um erro ao abrir o alerta com id %s.</string>
+  <string name="customdevice_layoutError">Ocorreu um erro ao abrir o layout com id %s.</string>
+  <string name="customdevice_emptySelectionList">Nenhum item para mostrar para %s.</string>
+  <string name="customdevice_setValueGenericError">Ocorreu um erro. O valor não pode ser alterado.</string>
+  <string name="customdevice_setValueError">O valor não pode ser alterado. %s</string>
+  <string name="customdevice_runCommandGenericError">Ocorreu um erro. O comando não pode ser executado.</string>
+  <string name="customdevice_runCommandError">O comando não pôde ser executado. %s</string>
+  <string name="customdevice_thermostat_setpoint">DEFINIDO PARA</string>
+  <string name="customdevice_thermostat_heatSetpoint">AQUECER ATÉ</string>
+  <string name="customdevice_thermostat_coolSetpoint">ARREFECE ATÉ</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">O campo de navegação está configurado incorretamente.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">Use uma aplicação ou dispositivo externo para controlar.</string>
+  <string name="customdevice_mediaEmptyScreen_title">Nenhum controlo disponível.</string>
+</resources>

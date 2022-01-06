@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="autoupdate_updateStarted">Spustila sa aktualizácia.</string>
+  <string name="autoupdate_updateFailed">Aktualizácia zlyhala.</string>
+  <string name="autoupdate_updateServerUnreachable">Nebolo možné spojiť sa so serverom aktualizácie.</string>
+  <string name="autoupdate_updateSucceeded">Aktualizácia bola úspešná.</string>
+</resources>

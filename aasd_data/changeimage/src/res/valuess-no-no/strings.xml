@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Flytt og skaler</string>
+  <string name="changeimage_cellularWarning">Når du ikke er tilkoblet via Wi-Fi, kan bildeopplastinger ta betydelig lengre tid.</string>
+  <string name="changeimage_cancel">AVBRYT</string>
+  <string name="changeimage_choose">Velge</string>
+</resources>

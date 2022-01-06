@@ -1,0 +1,4 @@
+<resources>
+  <string name="hideSecurityArea_AreaControlSection_Label">הצג אזורים</string>
+  <string name="hideSecuirtyArea_backButtonContentDiscription">הסתר כפתור חזרה של אזורי אבטחה </string>
+</resources>

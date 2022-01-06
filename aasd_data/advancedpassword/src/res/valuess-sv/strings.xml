@@ -1,0 +1,15 @@
+<resources>
+  <string name="advancedpassword_errorIncorrectPassword">Felaktigt lösenord</string>
+  <string name="advancedpassword_passwordHint">Mata in lösenordet för att redigera schemalagda händelser.</string>
+  <string name="advancedpassword_settingsPasswordHint">Det här är ett skyddad avsnitt, mata in lösenordet först.</string>
+  <string name="advancedpassword_editScenesPasswordHint">Det här är ett skyddad avsnitt, mata in lösenordet först.</string>
+  <string name="advancedpassword_title">Mata in lösenordet</string>
+  <string name="advancedpassword_advancedUserPassword">Lösenord till avancerad användare</string>
+  <string name="advancedpassword_advancedUserPasswordHint">Kontakta din auktoriserade Crestron-leverantör för lösenordet till det avancerade användarkontot.</string>
+  <string name="advancedpassword_warning_ok">ok</string>
+  <string name="advancedpassword_warning_subtitle">Om du matar in fel lösenord flera gånger, kommer ditt konto att låsas tillfälligt. Försök igen om ett tag eller kontakta din auktoriserade Crestron-leverantör.</string>
+  <string name="advancedpassword_warning_title">Du har mata in ett ogiltigt lösenord.</string>
+  <string name="advancedpassword_cloud_claim_hint">För att fortsätta välja ditt hem behöver du mata in ett lösenord till avancerad användare. Kontakta din auktoriserade Crestron-leverantör för att få detta lösenord.</string>
+  <string name="advancedpassword_cloud_claim_skip">Du kan %s och fortsätta till ditt hem utan att använda lösenordet till det avancerade användarkontot just nu.</string>
+  <string name="advancedpassword_skip_this_step">hoppa över det här steget</string>
+</resources>

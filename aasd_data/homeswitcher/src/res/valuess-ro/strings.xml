@@ -1,0 +1,8 @@
+<resources>
+  <string name="homeswitcher_title">Casele mele</string>
+  <string name="homeswitcher_addHome">Adăugați</string>
+  <string name="homeswitcher_online_status">Această casă este conectată și pregătită.\nApăsați pentru a intra.</string>
+  <string name="homeswitcher_online_remote_status">Apăsați/Atingeți pentru a intra.</string>
+  <string name="homeswitcher_offline_status">Această casă este DECONECTATĂ.\nApăsați pentru a intra.</string>
+  <string name="homeswitcher_offline">DECONECTAT(Ă).</string>
+</resources>

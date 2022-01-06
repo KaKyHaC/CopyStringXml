@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiPasswordEntry_backAction">Wi-Fi Val bakåtgärd</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallyTitle">Lägg till ny åtkomstpunkt</string>
+  <string name="touchpanelWifiPasswordEntry_addManuallySubtitle">Tryck för att lägga till WAP-inställningar.</string>
+  <string name="touchpanelWifiPasswordEntry_discoveredSubtitle">Mata in lösenordet för det här nätverket och tryck på "Anslut".</string>
+  <string name="touchpanelWifiPasswordEntry_wapConnectionSettings">INSTÄLLNINGAR FÖR WAP-ANSLUTNING</string>
+  <string name="touchpanelWifiPasswordEntry_connect">Anslut</string>\
+    <string name="touchpanelWifiPasswordEntry_ssidCustomHint">NAMN (SSID)</string><string name="touchpanelWifiPasswordEntry_passwordCustomHint">LÖSENORD</string><string name="touchpanelWifiPasswordEntry_encryptionCustomHint">SÄKERHET</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnecting">WAP Ansluter</string><string name="touchpanelWifiPasswordEntry_connectionStatus_wapConnected">WAP Ansluten</string><string name="touchpanelWifiPasswordEntry_connectionStatus_ethernetConnected">Ethernet-kabel ansluten</string><string name="touchpanelWifiPasswordEntry_connectionStatus_connectionError">WAP-anslutning misslyckades</string><string name="touchpanelEncryptionSelection_title">Inställningar för Wi-Fi-kryptering</string></resources>

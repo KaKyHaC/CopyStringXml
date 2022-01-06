@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitylib_security">보안</string>
+  <string name="securitylib_securitySystem">보안 시스템</string>
+  <string name="securitylib_securitySystemWithName">보안 시스템 %s</string>
+  <string name="securitylib_alarm_alarm">경보</string>
+  <string name="securitylib_alarm_fire">경보</string>
+  <string name="securitylib_alarm_burglary">절도</string>
+  <string name="securitylib_alarm_medical">의료</string>
+  <string name="securitylib_alarm_tamper">탬퍼</string>
+  <string name="securitylib_arming_armedStay">암드 스테이</string>
+  <string name="securitylib_arming_exitDelayActive">지연 활성 종료</string>
+  <string name="securitylib_arming_disarmed">디스암드</string>
+  <string name="securitylib_arming_ready">준비</string>
+  <string name="securitylib_arming_armedAway">암드 어웨이</string>
+  <string name="securitylib_arming_notReady">준비되지 않음</string>
+  <string name="securitylib_arming_entryDelayActive">지연 활성 입력</string>
+  <string name="securitylib_arming_armedStayInstant">즉시 암드 스테이 </string>
+  <string name="securitylib_arming_armedAwayInstant">즉시 암드 어웨이</string>
+  <string name="securitylib_arming_armedBypass">암드 바이패스</string>
+  <string name="securitylib_arming_armedBypassInstant">즉시 암드 바이패스</string>
+</resources>

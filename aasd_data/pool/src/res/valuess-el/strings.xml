@@ -1,0 +1,11 @@
+<resources>
+  <string name="pool_scenes">Σκηνικά</string>
+  <string name="pool_setTo">ΡΥΘΜΙΣΗ ΕΩΣ</string>
+  <string name="pool_controls">ΣΥΣΚΕΥΕΣ ΡΥΘΜΙΣΗΣ</string>
+  <string name="pool_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+  <string name="pool_low">ΧΑΜΗΛΗ</string>
+  <string name="pool_med">ΜΕΤΡΙΑ</string>
+  <string name="pool_high">ΥΨΗΛΗ</string>
+  <string name="pool_empty_temperature">--</string>
+  <string name="pool_no_controls">Δεν υπάρχουν διαθέσιμες συσκευές ρύθμισης.</string>
+</resources>

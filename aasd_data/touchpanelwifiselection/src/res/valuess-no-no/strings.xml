@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="touchpanelWifiSelection_backAction">Wifi Valg Tilbake Handling</string>
+  <string name="touchpanelWifiSelection_title">Wifi-utvalg</string>
+  <string name="touchpanelWifiSelection_Discovering">Oppdager</string>
+  <string name="touchpanelWifiSelection_tryAgain">PRØV IGJEN</string>
+  <string name="touchpanelWifiSelection_titleFound">Koble til WiFi-tilgangspunktet</string>
+  <string name="touchpanelWifiSelection_subtitleFound">Velg tilgangspunkt.</string>
+  <string name="touchpanelWifiSelection_titleNotFound">Finner ikke noe WiFi-tilgangspunkt</string>
+  <string name="touchpanelWifiSelection_subtitleNotFound">Det er ingen WiFi-tilgangspunkter funnet. Kontroller nettverkstilkoblingen og prøv igjen.</string>
+  <string name="touchpanelWifiSelection_titleDiscovery">Søker etter WiFi-tilgangspunkter</string>
+  <string name="touchpanelWifiSelection_subtitleDiscovery">Vent til skanningen er fullført</string>
+</resources>

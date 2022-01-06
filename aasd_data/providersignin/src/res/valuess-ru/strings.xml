@@ -1,0 +1,11 @@
+<resources>
+  <string name="providersignin_enter_name">Введите имя пользователя</string>
+  <string name="providersignin_enter_password">Введите пароль</string>
+  <string name="providersignin_description">Войдите в свою учетную запись %s, чтобы добавить эту подписку.</string>
+  <string name="providersignin_user_name">Имя пользователя</string>
+  <string name="providersignin_password">ПАРОЛЬ</string>
+  <string name="providersignin_title">Войти</string>
+  <string name="providersignin_save_user">Сохранение пользователя...</string>
+  <string name="providersignin_account_added">Аккаунт добавлен.</string>
+  <string name="providersignin_login_failed">Ошибка входа.</string>
+</resources>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="roommedia_remote">Extern</string>
+  <string name="roommedia_more">MEER</string>
+  <string name="roommedia_playing">Afspelen</string>
+  <string name="roommedia_browse">Bladeren</string>
+  <string name="roommedia_multiRoom">Meerdere kamers</string>
+  <string name="roommedia_favorites">Favorieten</string>
+  <string name="roommedia_keypad">TOETSENBLOK</string>
+  <string name="roommedia_media">Media</string>
+  <string name="roommedia_warmingUp">OPWARMEN</string>
+  <string name="roommedia_coolingDown">AFKOELEN</string>
+  <string name="roommedia_roomVideo">%s video</string>
+  <string name="roommedia_limitedControl">BEPERKTE CONTROLE. VERBINDEN…</string>
+  <string name="roommedia_someRoomsAreOff">SOMMIGE KAMERS ZIJN UIT</string>
+  <string name="roommedia_openInSonos">Open in Sonos</string>
+  <string name="roommedia_account_status">Niet ingeschreven</string>
+  <string name="roommedia_noNowPlayingInformation">Niets speelt</string>
+  <string name="roommedia_noAccountSelected">Selecteer account</string>
+  <string name="roommedia_pduPr_dialogHeader">Wilt u dit apparaat uit en weer inschakelen?</string>
+  <string name="roommedia_pduPr_dialogMessage">Het kan een paar minuten duren om opnieuw op te starten.</string>
+  <string name="roommedia_pduPr_digPowerCycle">Vermogenscyclus</string>
+  <string name="roommedia_pduPr_digCancel">ANNULEREN</string>
+  <string name="roommedia_pduPr_toastMessage">Geen snelle actie om uit te schakelen</string>
+</resources>

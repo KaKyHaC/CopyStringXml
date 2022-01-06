@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="customdevice_layoutRemovedMessage">%s fő elrendezés eltávolításra került.</string>
+  <string name="customdevice_controlNotAvailable">A VEZÉRLŐ NEM ELÉRHETŐ</string>
+  <string name="customdevice_emptyAlertTitle">Nincs elérhető információ.</string>
+  <string name="customdevice_emptyLayoutError">Nincs %s azonosítóval rendelkező elrendezés.</string>
+  <string name="customdevice_emptyMediaLayoutError">Nincs definiált elrendezés a(z) %d tulajdonosi azonosítóval rendelkező forráshoz.</string>
+  <string name="customdevice_emptyAlertError">Nincs %s azonosítóval rendelkező elrendezés.</string>
+  <string name="customdevice_alertError">Hiba történt a(z) %s azonosítóval rendelkező riasztás megnyitásakor.</string>
+  <string name="customdevice_layoutError">Hiba történt a(z) %s azonosítóval rendelkező elrendezés megnyitásakor.</string>
+  <string name="customdevice_emptySelectionList">Nincs megjeleníthető elem a következőhöz: %s.</string>
+  <string name="customdevice_setValueGenericError">Hiba történt. Az érték nem módosítható.</string>
+  <string name="customdevice_setValueError">Az érték nem módosítható. %s</string>
+  <string name="customdevice_runCommandGenericError">Hiba történt. A parancs nem hajtható végre.</string>
+  <string name="customdevice_runCommandError">A parancs nem hajtható végre. %s</string>
+  <string name="customdevice_thermostat_setpoint">BEÁLLÍTÁS ERRE:</string>
+  <string name="customdevice_thermostat_heatSetpoint">FŰTÉS ERRE:</string>
+  <string name="customdevice_thermostat_coolSetpoint">HŰTÉS ERRE:</string>
+  <string name="customdevice_thermostat_celsius_degrees">°C</string>
+  <string name="customdevice_thermostat_fahrenheit_degrees">°F</string>
+  <string name="customdevice_tileError">A navigációs mező rosszul van konfigurálva.</string>
+  <string name="customdevice_emptyValuePlaceholder">-</string>
+  <string name="customdevice_mediaEmptyScreen_hint">Kérjük, használjon egy külső alkalmazást vagy eszközt a vezérléshez.</string>
+  <string name="customdevice_mediaEmptyScreen_title">Nincs elérhető vezérlő.</string>
+</resources>

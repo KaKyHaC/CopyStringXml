@@ -1,0 +1,7 @@
+<resources>
+  <string name="lightSceneEdit_title">Editați scene de iluminare</string>
+  <string name="lightSceneEdit_scenesCategory">Scene</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeDeleted">Scena specificată nu este ștearsă.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_cannotBeEdited">Scena specificată nu este editabilă.</string>
+  <string name="lightSceneEdit_deleteErrorPopups_ok">OK</string>
+</resources>

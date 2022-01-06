@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">Voer beveiligingscode in</string>
+  <string name="securitypasscodeentry_saveMessage">Bewaar code voor dit apparaat. U wordt niet opnieuw gevraagd om deze code in te voeren.</string>
+  <string name="securitypasscodeentry_invalidPasscode">Verkeerde code. Probeer het opnieuw.</string>
+  <string name="securitypasscodeentry_passcodeRequired">Code is leeg. Voer de juiste code in.</string>
+</resources>

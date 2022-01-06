@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">תריסים</string>
+  <string name="shadegroup_batteryOk">סוללה בסדר</string>
+  <string name="shadegroup_batteryLow">סוללה חלשה</string>
+</resources>

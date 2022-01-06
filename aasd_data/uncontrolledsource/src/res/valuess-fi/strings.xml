@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="uncontrolledsource_title">No control available</string>
+  <string name="uncontrolledsource_hint">Please use an external app or device for controlling.</string>
+</resources>

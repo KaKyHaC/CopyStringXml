@@ -1,0 +1,4 @@
+<resources>
+  <string name="lights_scenesTitle">환경 설정</string>
+  <string name="lights_controlsMasterControl">모든 조명</string>
+</resources>

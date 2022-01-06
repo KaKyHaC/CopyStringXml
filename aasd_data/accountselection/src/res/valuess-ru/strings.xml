@@ -1,0 +1,5 @@
+<resources>
+  <string name="account_selection_account_select">Выбор аккаунта</string>
+  <string name="account_selection_add_account">Вы хотите добавить еще один аккаунт?</string>
+  <string name="account_selection_go_provider_account">Перейдите на страницу настройки аккаунта провайдера</string>
+</resources>

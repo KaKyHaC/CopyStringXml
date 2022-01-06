@@ -1,0 +1,7 @@
+<resources>
+  <string name="mobilemore_support">Asistență</string>
+  <string name="mobilemore_diagnostics">Trimiteți diagnostice de asistență</string>
+  <string name="mobilemore_house_settings">Setările casei</string>
+  <string name="mobilemore_settings">Editare casă </string>
+  <string name="mobilemore_advanced_settings">Setare complexă</string>
+</resources>

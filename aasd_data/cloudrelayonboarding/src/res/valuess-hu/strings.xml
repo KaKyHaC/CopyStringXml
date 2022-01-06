@@ -1,0 +1,13 @@
+<resources>
+  <string name="cloudrelay_onboarding_sign_up">Regisztráció</string>
+  <string name="cloudrelay_onboarding_not_now">Most nem</string>
+  <string name="cloudrelay_onboarding_trouble_sign_in">Problémája van a bejelentkezéssel?</string>
+  <string name="cloudrelay_onboarding_yes_let_begin">Igen, vágjunk bele</string>
+  <string name="cloudrelay_connect_user_roles">Felhasználói szerepkörök és hozzáférés</string>
+  <string name="cloudrelay_onboarding_cancel">Mégse</string>
+  <string name="cloudrelay_onboarding_continue">Folytatás</string>
+  <string name="cloudrelay_onboarding_waring">Megértjük, hogy még nem áll készen a regisztrációhoz. Ezt később is elvégezheti.</string>
+  <string name="cloudrelay_connect_user_roles_description">Lakástulajdonosként könnyedén hozzáférést biztosíthat az Ön által megbízott személyek számára, és beállíthat felhasználói szerepköröket is. A jogosultságokat bármikor visszavonhatja...</string>
+  <string name="cloudrelay_connect_anywhere_securely">Csatlakozás bárhonnan, biztonságosan</string>
+  <string name="cloudrelay_connect_anywhere_securely_description">Az eddigi legbiztonságosabb távoli elérés élményét fejlesztettük ki az Ön Crestron otthona számára. Csatlakozzon és irányítsa biztonságosan az otthonát, bárhol is legyen a világban.</string>
+</resources>

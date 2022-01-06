@@ -1,0 +1,7 @@
+<resources>
+  <string name="room_quick_actions">פעולות מהירות</string>
+  <string name="room_room_services">ROOM SERVICES</string>
+  <string name="renameroomgroup_popupCancelButton">בטל</string>
+  <string name="renameroomgroup_popupCreateButton">הגדר שם מחדש</string>
+  <string name="renameroomgroup_popupTitle">Rename room</string>
+</resources>

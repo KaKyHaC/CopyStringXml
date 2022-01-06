@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="diagnostics_title">支持诊断数据</string>
+  <string name="diagnostics_loggingTitle">启用诊断数据提交</string>
+  <string name="diagnostics_loggingDescription">除非Crestron技术支持人员有指示，请不要启用诊断数据提交</string>
+  <string name="diagnostics_submitDiagnostics">提交支持诊断数据</string>
+  <string name="diagnostics_submitMessage">Crestron建议只有在与您的Crestron经销商合作时或Crestron客户支持人员有请求时才可发送诊断数据。\n\n按下“提交”将让您选择以何种方式共享文件。关于在何处发送此文件，请按照您的Crestron经销商或Crestron客户支持人员的指示操作。</string>
+  <string name="diagnostics_submit">提交</string>
+</resources>

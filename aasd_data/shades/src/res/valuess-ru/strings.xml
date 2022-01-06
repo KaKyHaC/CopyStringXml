@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">Затенения</string>
+  <string name="shades_scenesTitle">МЕСТА</string>
+  <string name="shades_controlsTitle">СРЕДСТВА УПРАВЛЕНИЯ</string>
+  <string name="shades_allShadesTitle">ВСЕ ОТТЕНКИ</string>
+  <string name="shades_allShades_MoreLightTitle">Больше света</string>
+  <string name="shades_allShades_LessLightTitle">Меньше света</string>
+  <string name="shades_stopRampText">Остановить</string>
+</resources>

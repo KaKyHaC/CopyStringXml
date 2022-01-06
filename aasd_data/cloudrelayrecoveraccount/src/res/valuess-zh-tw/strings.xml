@@ -1,0 +1,6 @@
+<resources>
+  <string name="cloudrelayrecoveraccount_update_info">更新您的資訊</string>
+  <string name="cloudrelayrecoveraccount_change_mail">更改電郵郵箱</string>
+  <string name="cloudrelayrecoveraccount_reset_password">重置密碼</string>
+  <string name="cloudrelayrecoveraccount_reset_number">重置電話號碼</string>
+</resources>

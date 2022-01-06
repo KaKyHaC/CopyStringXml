@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="uncontrolledsource_title">Ingen kontroll tilgjengelig</string>
+  <string name="uncontrolledsource_hint">Bruk en ekstern app eller enhet for å kontrollere.</string>
+</resources>

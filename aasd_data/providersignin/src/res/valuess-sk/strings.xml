@@ -1,0 +1,12 @@
+<resources>
+  <string name="providersignin_enter_name">Zadajte svoje používateľské meno</string>
+  <string name="providersignin_enter_password">
+Zadajte svoje heslo</string>
+  <string name="providersignin_description">Ak chcete pridať tento odber, prihláste sa do svojho konta %s.</string>
+  <string name="providersignin_user_name">MENO POUŽÍVATEĽA</string>
+  <string name="providersignin_password">HESLO</string>
+  <string name="providersignin_title">Prihlásiť sa</string>
+  <string name="providersignin_save_user">Ukladanie používateľa...</string>
+  <string name="providersignin_account_added">Účet bol pridaný.</string>
+  <string name="providersignin_login_failed">Prihlásenie zlyhalo.</string>
+</resources>

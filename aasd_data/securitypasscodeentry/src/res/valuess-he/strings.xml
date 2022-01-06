@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="securitypasscodeentry_title">הזן קוד אבטחה</string>
+  <string name="securitypasscodeentry_saveMessage">שמור קוד עבור התקן זה. לא/ תתבקש להזין את הקוד הזה שוב.</string>
+  <string name="securitypasscodeentry_invalidPasscode">קוד שגוי. אנא נסה שוב.</string>
+  <string name="securitypasscodeentry_passcodeRequired">קוד ריק. נא להזין קוד הנכון.</string>
+</resources>

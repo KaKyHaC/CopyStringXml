@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shadegroup_sectionTitle">CLONY</string>
+  <string name="shadegroup_batteryOk">Batéria je v poriadku</string>
+  <string name="shadegroup_batteryLow">Nízka úroveň nabitia batérie</string>
+</resources>

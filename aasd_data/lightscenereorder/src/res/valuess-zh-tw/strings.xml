@@ -1,0 +1,5 @@
+<resources>
+  <string name="lightSceneReorder_reorder_lightning_scenes">重新排列照明場景</string>
+  <string name="lightSceneReorder_default_order">默認順序</string>
+  <string name="lightSceneReorder_scenes_subtitle">場景</string>
+</resources>

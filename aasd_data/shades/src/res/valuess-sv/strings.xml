@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="shades_toolbarTitle">Rullgardiner</string>
+  <string name="shades_scenesTitle">SCENER</string>
+  <string name="shades_controlsTitle">KONTROLLER</string>
+  <string name="shades_allShadesTitle">ALLA RULLGARDINER</string>
+  <string name="shades_allShades_MoreLightTitle">Mer ljus</string>
+  <string name="shades_allShades_LessLightTitle">Mindre ljus</string>
+  <string name="shades_stopRampText">Stoppa</string>
+</resources>

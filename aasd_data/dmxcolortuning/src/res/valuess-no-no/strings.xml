@@ -1,0 +1,5 @@
+<resources>
+  <string name="dmxcolortuning_color_tuning">Fargejustering</string>
+  <string name="dmxroomselection_controlsTitle">KONTROLLER</string>
+  <string name="dmxcolortuning_description">Definer grunnlinjeinnstillinger for dette rommet. Med grunnlinjeinnstillinger definerer du ønsket farge og temperatur for de justerbare armaturene dine.\n\nIntensitetsglidere og brytere følger med for å hjelpe deg med å visualisere fargen. De lagres ikke i grunnlinjeinnstillingene.</string>
+</resources>

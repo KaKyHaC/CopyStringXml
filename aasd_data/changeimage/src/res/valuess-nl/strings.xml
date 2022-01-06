@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="changeimage_moveAndScale">Verplaatsen en in grootte veranderen</string>
+  <string name="changeimage_cellularWarning">Als er geen verbinding is via Wi-Fi, kan het uploaden van foto's aanzienlijk langer duren.</string>
+  <string name="changeimage_cancel">ANNULEREN</string>
+  <string name="changeimage_choose">Kiezen</string>
+</resources>

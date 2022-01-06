@@ -1,0 +1,9 @@
+<resources>
+  <string name="lights_scenesTitle">シーン </string>
+  <string name="lights_controlsTitle">コントロール　</string>
+  <string name="lights_controlsMasterControl">すべての照明 </string>
+  <string name="create_new_scene">新しいシーンの作成</string>
+  <string name="lights_noScenesInfo">
+この部屋には、目に見える照明シーンがないようです。
+</string>
+</resources>
