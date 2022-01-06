@@ -7,7 +7,7 @@ fun main(args: Array<String>) {
     when (AppMode.find(readLine()?.toIntOrNull())) {
         AppMode.Gather -> modeGather()
         AppMode.BroadcastStringsLocalizations -> modeBroadcastStringsLocalizations()
-        AppMode.FixStringXmlApostrophe -> TODO()
+        AppMode.FixStringXmlApostrophe -> encapsulateApostrophe()
         else -> Unit
     }
 }
@@ -66,6 +66,23 @@ fun modeGather() {
         val map = Algorithms.groupByParent(results, parentLvl)
         println("map = $map")
         map.forEach { t, u -> u.forEach { FileUtils.copy(it, File(copyTo, t.name)) } }
+        println("done")
+    } catch (e: Exception) {
+        println("error = $e")
+    }
+}
+
+fun encapsulateApostrophe() {
+    try {
+        println("searchIn")
+        val searchIn = File(readLine())
+        val name = "strings.xml"
+        println("name = $name")
+
+        val results = mutableListOf<File>()
+        Algorithms.searchFiles(searchIn, name, results)
+        println("results = $results")
+        results.forEach { StringFileUtils.encapsulateApostrophe(it) }
         println("done")
     } catch (e: Exception) {
         println("error = $e")
