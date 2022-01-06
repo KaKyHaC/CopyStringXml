@@ -1,0 +1,5 @@
+<resources>
+  <string name="account_selection_account_select">Selezione dell'account</string>
+  <string name="account_selection_add_account">Vuoi aggiungere un'altra account?</string>
+  <string name="account_selection_go_provider_account">Vai sulla pagina della configurazione dell'account del provider</string>
+</resources>
