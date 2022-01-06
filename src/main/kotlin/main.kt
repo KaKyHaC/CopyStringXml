@@ -3,11 +3,24 @@ import java.io.File
 
 fun main(args: Array<String>) {
     println("args = ${args.toList()}")
-    println("gather - 1,  broadcastStringsLocalizations - 2")
-    when (readLine()?.toIntOrNull()) {
-        1 -> modeGather()
-        2 -> modeBroadcastStringsLocalizations()
+    println(AppMode.allToString())
+    when (AppMode.find(readLine()?.toIntOrNull())) {
+        AppMode.Gather -> modeGather()
+        AppMode.BroadcastStringsLocalizations -> modeBroadcastStringsLocalizations()
+        AppMode.FixStringXmlApostrophe -> TODO()
         else -> Unit
+    }
+}
+
+enum class AppMode(val code: Int) {
+    Gather(1),
+    BroadcastStringsLocalizations(2),
+    FixStringXmlApostrophe(3);
+
+    companion object {
+        fun allToString() = values().map { "${it.name} - ${it.code}" }.reduce { acc, s -> acc + ", " + s }
+
+        fun find(code: Int?) = values().find { it.code == code }
     }
 }
 
