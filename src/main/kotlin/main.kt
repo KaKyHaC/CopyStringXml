@@ -87,4 +87,5 @@ fun encapsulateApostrophe() {
     } catch (e: Exception) {
         println("error = $e")
     }
+    val tmp = "deEawD6kNi6p6Wf"
 }
